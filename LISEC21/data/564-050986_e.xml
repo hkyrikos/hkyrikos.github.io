@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="USR-35/25">
+  <stk id="1" name="USR-35/25" materialnr="141573" pos="1" description="&amp;nbsp;">
+    <map x="250" y="86" w="26" h="25">
+      <ref>1.1</ref>
+    </map>
+    <map x="466" y="92" w="26" h="25">
+      <ref>1.2</ref>
+    </map>
+    <map x="171" y="254" w="98" h="57">
+      <ref pos="3">1.3</ref>
+    </map>
+    <map x="92" y="352" w="26" h="25">
+      <ref>1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="ARM" materialnr="121128" pos="1" description="&amp;nbsp;">
+    <map x="527" y="138" w="27" h="25">
+      <ref>1.1.1</ref>
+      <ref>1.1.2</ref>
+    </map>
+    <map x="491" y="51" w="27" h="25">
+      <ref>1.1.3</ref>
+      <ref>1.1.6</ref>
+    </map>
+    <map x="269" y="56" w="27" h="25">
+      <ref>1.1.4</ref>
+      <ref>1.1.5</ref>
+    </map>
+    <map x="536" y="101" w="27" h="25">
+      <ref>1.1.7</ref>
+    </map>
+    <map x="439" y="237" w="27" h="25">
+      <ref>1.1.8</ref>
+    </map>
+    <map x="467" y="251" w="27" h="25">
+      <ref>1.1.9</ref>
+    </map>
+    <map x="92" y="357" w="27" h="25">
+      <ref>1.1.11</ref>
+    </map>
+    <map x="330" y="237" w="27" h="25">
+      <ref>1.1.12</ref>
+    </map>
+    <map x="299" y="363" w="27" h="25">
+      <ref>1.1.13</ref>
+    </map>
+    <map x="487" y="278" w="27" h="25">
+      <ref>1.1.14</ref>
+    </map>
+    <map x="158" y="139" w="27" h="25">
+      <ref>1.1.15</ref>
+    </map>
+    <map x="539" y="300" w="27" h="25">
+      <ref>1.1.17</ref>
+    </map>
+    <map x="513" y="315" w="27" h="25">
+      <ref>1.1.18</ref>
+    </map>
+    <map x="14" y="291" w="27" h="25">
+      <ref>1.1.19</ref>
+    </map>
+    <map x="31" y="156" w="27" h="25">
+      <ref>1.1.20</ref>
+    </map>
+    <map x="324" y="344" w="27" h="25">
+      <ref>1.1.21</ref>
+    </map>
+    <map x="367" y="54" w="27" h="25">
+      <ref>1.1.23</ref>
+    </map>
+    <map x="169" y="70" w="70" h="47">
+      <ref>1.1.10</ref>
+      <ref>1.1.24</ref>
+    </map>
+    <map x="338" y="195" w="27" h="25">
+      <ref>1.1.25</ref>
+    </map>
+    <map x="84" y="178" w="27" h="25">
+      <ref>1.1.16</ref>
+    </map>
+    <map x="229" y="296" w="27" h="25">
+      <ref>1.1.22</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="CAT TRACK CABLE/M 0475/97x39/PIT47.5" materialnr="026864" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="CONNECTION ELBOW SET F/CHAIN M 0475" materialnr="026866" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_3" name="ARTICULATED HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_4" name="ARTICULATED HEAD M16X1.5-FEM-LEFT D=16MM" materialnr="003052" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_5" name="HEX NUT M16X1.5 CCL/THREADED" materialnr="004895" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_6" name="HEX NUT M16X1.5 (GALVANIZED)" materialnr="004896" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_7" name="Servomotor LENZE 0.8kW+GST04 i=9.9 nB" materialnr="304921" pos="15" description="&amp;nbsp;" />
+  <stk id="1_1_8" name="FREE FROM PLAY-TORSION.ELASTIC COUPLING" materialnr="025023" pos="16" description="&amp;nbsp;" />
+  <stk id="1_1_9" name="CLAMPING ELEMENT/ANNULAR SPRING 20X25MM" materialnr="016198" pos="17" description="&amp;nbsp;" />
+  <stk id="1_1_10" name="CONNECTION ELEMENT SET F.CHAIN 342150" materialnr="342153" pos="20" description="&amp;nbsp;" />
+  <stk id="1_1_11" name="BUMPER D=50 H=61MM  M8" materialnr="007794" pos="22" description="&amp;nbsp;" />
+  <stk id="1_1_12" name="GRIPPER/TRAILING EDGE" materialnr="121091" pos="24" description="&amp;nbsp;">
+    <map x="457" y="227" w="27" h="25">
+      <ref pos="1">1.1.12.1</ref>
+    </map>
+    <map x="182" y="86" w="27" h="25">
+      <ref pos="2">1.1.12.2</ref>
+    </map>
+    <map x="232" y="307" w="27" h="25">
+      <ref pos="3">1.1.12.3</ref>
+    </map>
+    <map x="125" y="96" w="27" h="25">
+      <ref pos="7">1.1.12.4</ref>
+    </map>
+    <map x="198" y="307" w="27" h="25">
+      <ref pos="11">1.1.12.5</ref>
+    </map>
+    <map x="154" y="337" w="27" h="25">
+      <ref pos="13">1.1.12.7</ref>
+    </map>
+    <map x="59" y="363" w="27" h="25">
+      <ref pos="14">1.1.12.8</ref>
+    </map>
+    <map x="23" y="116" w="27" h="25">
+      <ref pos="15">1.1.12.9</ref>
+    </map>
+    <map x="59" y="116" w="27" h="25">
+      <ref pos="16">1.1.12.10</ref>
+    </map>
+    <map x="332" y="272" w="27" h="25">
+      <ref pos="17">1.1.12.11</ref>
+    </map>
+    <map x="94" y="118" w="27" h="25">
+      <ref pos="18">1.1.12.12</ref>
+    </map>
+    <map x="528" y="230" w="26" h="25">
+      <ref pos="12">1.1.12.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_12_1" name="DA-PNEU CYLINDER D25 STR50 ISO+SIGNAL" materialnr="025239" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_12_2" name="BEARING FOR GRIPPER/MAT:ST37-2" materialnr="015006" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_12_3" name="FORK HEAD WITH BOLT" materialnr="011825" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_12_4" name="BUSHING ID=6 OD=8 L=6 GLY.PG 060806F" materialnr="005799" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_12_5" name="SPACER" materialnr="345428" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_12_6" name="CYLINDER BEARING/AS DRAWN" materialnr="103519" pos="12" description="&amp;nbsp;" />
+  <stk id="1_1_12_7" name="GRIPPER JAW 1 F. 6,7MM/7MM-PROF.-H" materialnr="103498" pos="13" description="&amp;nbsp;" />
+  <stk id="1_1_12_8" name="CLAMPING PLATE FOR GRIPPER" materialnr="103499" pos="14" description="&amp;nbsp;" />
+  <stk id="1_1_12_9" name="GRIPPER JAW" materialnr="120945" pos="15" description="&amp;nbsp;" />
+  <stk id="1_1_12_10" name="GRIPPER PAD  35x20MM" materialnr="024425" pos="16" description="&amp;nbsp;" />
+  <stk id="1_1_12_11" name="BEARING FOR GRIPPER" materialnr="107297" pos="17" description="&amp;nbsp;" />
+  <stk id="1_1_12_12" name="CLAMP. PLATE FOR GRIPPER WITH BORE HOLE" materialnr="228295" pos="18" description="&amp;nbsp;" />
+  <stk id="1_1_13" name="GRIPPER/LEADING  EDGE" materialnr="121090" pos="25" description="&amp;nbsp;">
+    <map x="297" y="239" w="26" h="25">
+      <ref pos="1">1.1.13.1</ref>
+    </map>
+    <map x="192" y="303" w="26" h="25">
+      <ref pos="2">1.1.13.2</ref>
+    </map>
+    <map x="117" y="186" w="26" h="25">
+      <ref pos="3">1.1.13.3</ref>
+    </map>
+    <map x="60" y="216" w="26" h="25">
+      <ref pos="7">1.1.13.4</ref>
+    </map>
+    <map x="148" y="334" w="26" h="25">
+      <ref pos="11">1.1.13.5</ref>
+    </map>
+    <map x="117" y="348" w="26" h="25">
+      <ref pos="13">1.1.13.6</ref>
+    </map>
+    <map x="86" y="365" w="26" h="25">
+      <ref pos="14">1.1.13.7</ref>
+    </map>
+    <map x="8" y="221" w="26" h="25">
+      <ref pos="15">1.1.13.8</ref>
+    </map>
+    <map x="7" y="269" w="26" h="25">
+      <ref pos="16">1.1.13.9</ref>
+    </map>
+    <map x="81" y="163" w="26" h="25">
+      <ref pos="17">1.1.13.10</ref>
+    </map>
+  </stk>
+  <stk id="1_1_13_1" name="DA-PNEU CYLINDER D25 STR50 ISO+SIGNAL" materialnr="025239" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_13_2" name="BEARING FOR GRIPPER/MAT:ST37-2" materialnr="015006" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_13_3" name="FORK HEAD WITH BOLT" materialnr="011825" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_13_4" name="BUSHING ID=6 OD=8 L=6 GLY.PG 060806F" materialnr="005799" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_13_5" name="SPACER" materialnr="345428" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_13_6" name="GRIPPER JAW 1 F. 6,7MM/7MM-PROF.-H" materialnr="103498" pos="13" description="&amp;nbsp;" />
+  <stk id="1_1_13_7" name="CLAMPING PLATE FOR GRIPPER" materialnr="103499" pos="14" description="&amp;nbsp;" />
+  <stk id="1_1_13_8" name="GRIPPER JAW" materialnr="120945" pos="15" description="&amp;nbsp;" />
+  <stk id="1_1_13_9" name="GRIPPER PAD  35x20MM" materialnr="024425" pos="16" description="&amp;nbsp;" />
+  <stk id="1_1_13_10" name="BEARING FOR GRIPPER" materialnr="107297" pos="17" description="&amp;nbsp;" />
+  <stk id="1_1_14" name="THRUST PIECE FOR ANNULAR SPRING ELEMENT" materialnr="103503" pos="29" description="&amp;nbsp;" />
+  <stk id="1_1_15" name="SHOCK ABSORBER STROKE=25MM MAX.2000N" materialnr="322133" pos="44" description="&amp;nbsp;" />
+  <stk id="1_1_16" name="CLAMP ATTACHMENT FOR BAFFLE PLATE LEVER" materialnr="107235" pos="45" description="&amp;nbsp;" />
+  <stk id="1_1_17" name="LOCKING BOLT" materialnr="104121" pos="49" description="&amp;nbsp;" />
+  <stk id="1_1_18" name="DA-PNEU CYLINDER D=50 STROKE=25 W SIGNAL" materialnr="189786" pos="51" description="&amp;nbsp;" />
+  <stk id="1_1_19" name="STOP ROLLER" materialnr="107217" pos="53" description="&amp;nbsp;" />
+  <stk id="1_1_20" name="SUPPORTING UNIT F CYL.D=32; STROKE=50MM" materialnr="003023" pos="58" description="&amp;nbsp;" />
+  <stk id="1_1_21" name="DA-PNEU CYLINDER D16 STR50 ISO/SIGNAL" materialnr="030629" pos="62" description="&amp;nbsp;" />
+  <stk id="1_1_22" name="RUBBER BUFFER OD20 H10 BORE=4.5 BLACK" materialnr="007624" pos="63" description="&amp;nbsp;" />
+  <stk id="1_1_23" name="CONNECTING ROD" materialnr="188873" pos="70" description="&amp;nbsp;" />
+  <stk id="1_1_24" name="CAT TRACK CABLE" materialnr="342150" pos="72" description="&amp;nbsp;" />
+  <stk id="1_1_25" name="LINEAR TOOTHED BELT DRIVE AZ2006-16T10" materialnr="033279" pos="75" description="&amp;nbsp;" />
+  <stk id="1_2" name="SWIVEL UNIT" materialnr="121148" pos="2" description="&amp;nbsp;">
+    <map x="519" y="27" w="26" h="25">
+      <ref>1.2.1</ref>
+    </map>
+    <map x="491" y="53" w="26" h="25">
+      <ref>1.2.2</ref>
+    </map>
+    <map x="380" y="42" w="26" h="25">
+      <ref>1.2.3</ref>
+    </map>
+    <map x="362" y="6" w="26" h="25">
+      <ref>1.2.4</ref>
+    </map>
+    <map x="490" y="83" w="26" h="25">
+      <ref>1.2.5</ref>
+    </map>
+    <map x="466" y="115" w="26" h="25">
+      <ref>1.2.6</ref>
+    </map>
+    <map x="386" y="82" w="26" h="25">
+      <ref>1.2.7</ref>
+    </map>
+    <map x="265" y="322" w="26" h="25">
+      <ref>1.2.8</ref>
+    </map>
+    <map x="57" y="90" w="26" h="25">
+      <ref>1.2.9</ref>
+    </map>
+    <map x="345" y="361" w="26" h="25">
+      <ref>1.2.10</ref>
+    </map>
+    <map x="314" y="123" w="26" h="25">
+      <ref pos="16">1.2.11</ref>
+    </map>
+    <map x="491" y="270" w="26" h="25">
+      <ref>1.2.13</ref>
+    </map>
+    <map x="170" y="339" w="26" h="25">
+      <ref>1.2.14</ref>
+    </map>
+    <map x="312" y="295" w="26" h="25">
+      <ref>1.2.15</ref>
+    </map>
+    <map x="350" y="148" w="26" h="25">
+      <ref>1.2.16</ref>
+    </map>
+    <map x="27" y="105" w="26" h="25">
+      <ref>1.2.17</ref>
+    </map>
+    <map x="210" y="341" w="27" h="25">
+      <ref>1.2.3</ref>
+    </map>
+    <map x="55" y="138" w="27" h="25">
+      <ref>1.2.5</ref>
+    </map>
+    <map x="54" y="29" w="27" h="25">
+      <ref pos="17">1.2.12</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1" name="SPURGEAR SM LENZE 2,3KW+GST06 i28,3MB" materialnr="387429" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_2" name="CURVED TEETH COUPLING BOWEX M48" materialnr="227431" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_3" name="PLUMMER BLOCK BEARING;CAST HOUS.ID30" materialnr="005764" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_4" name="PLUMMER BLOCK BEARING; CAST HOUS.ID 40" materialnr="005766" pos="4" description="&amp;nbsp;" />
+  <stk id="1_2_5" name="BUMPER D=50 H=61MM  M8" materialnr="007794" pos="5" description="&amp;nbsp;" />
+  <stk id="1_2_6" name="TAPERLOCK BUSHING;ID30,AD55,L42,MAX510NM" materialnr="030028" pos="6" description="&amp;nbsp;" />
+  <stk id="1_2_7" name="TOOTHED BELT PULLEY/TOP/F VERTICAL DRIVE" materialnr="103230" pos="9" description="&amp;nbsp;" />
+  <stk id="1_2_8" name="TOOTHED BELT PULLEY/BOTTOM/F.VERT,DRIVE" materialnr="103231" pos="10" description="&amp;nbsp;" />
+  <stk id="1_2_9" name="LL-HTD-TOOTHED BELT L30000 W=40MM PIT=14" materialnr="016189" pos="14" description="&amp;nbsp;" />
+  <stk id="1_2_10" name="SELF ALIGNING BALL BEARING W/SEALING" materialnr="016181" pos="15" description="&amp;nbsp;" />
+  <stk id="1_2_11" name="SHT-TAPERLOCK BUSHING,ID40,=D67,L57," materialnr="015699" pos="16" description="&amp;nbsp;" />
+  <stk id="1_2_12" name="GUIDE RAIL THK SIZE 45 L=3400MM" materialnr="326355" pos="17" description="&amp;nbsp;" />
+  <stk id="1_2_13" name="SPUR GEAR MOTOR;0.55kw; RATIO=1:139." materialnr="225548" pos="19" description="&amp;nbsp;" />
+  <stk id="1_2_14" name="ARTICUL.HEAD M24X2-FEM-RIGHT; D=25MM" materialnr="003079" pos="26" description="&amp;nbsp;" />
+  <stk id="1_2_15" name="ARTICULATED HEAD/M24x2/FEMALE-L/ND 25MM" materialnr="015344" pos="27" description="&amp;nbsp;" />
+  <stk id="1_2_16" name="CRANK FOR SWIVEL ANGLE 25&amp;deg;" materialnr="111772" pos="36" description="&amp;nbsp;" />
+  <stk id="1_2_17" name="LINEAR GUIDING CAR THK-HSR-HA SIZE 45" materialnr="325326" pos="47" description="&amp;nbsp;" />
+  <stk id="1_3" name="PNEUMATIC PARTS" materialnr="103454" pos="3" description="&amp;nbsp;">
+    <map x="64" y="134" w="390" h="154">
+      <ref pos="1">1.3.1</ref>
+      <ref pos="2">1.3.2</ref>
+      <ref pos="3">1.3.3</ref>
+      <ref pos="4">1.3.4</ref>
+      <ref pos="5">1.3.5</ref>
+      <ref pos="7">1.3.6</ref>
+      <ref pos="8">1.3.7</ref>
+      <ref pos="9">1.3.8</ref>
+      <ref pos="10">1.3.9</ref>
+      <ref pos="11">1.3.10</ref>
+      <ref pos="12">1.3.11</ref>
+      <ref pos="13">1.3.12</ref>
+      <ref pos="14">1.3.13</ref>
+      <ref pos="15">1.3.14</ref>
+      <ref pos="16">1.3.15</ref>
+      <ref pos="17">1.3.16</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1" name="5/2 WAY SOLENOID VALVE, 24VDC," materialnr="003229" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_2" name="BASE PLATE CONN=1/8-1/4 L=41 W=107" materialnr="003319" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_3" name="END-PLATE CONN=3/8 L=23.5 W=107" materialnr="003320" pos="3" description="&amp;nbsp;" />
+  <stk id="1_3_4" name="EXHAUST THROTTLE THREAD1/8&amp;quot; D6/PLUG-CON." materialnr="315403" pos="4" description="&amp;nbsp;" />
+  <stk id="1_3_5" name="SINGLE SUBPLATE FOR SOLENOID VALVE" materialnr="003317" pos="5" description="&amp;nbsp;" />
+  <stk id="1_3_6" name="MAINTENANCE UNIT 3/8&amp;quot; 0,5-8,5BAR SMC" materialnr="372235" pos="7" description="&amp;nbsp;">
+    <map x="389" y="240" w="28" h="25">
+      <ref pos="1">1.3.6.1</ref>
+      <ref pos="2">1.3.6.2</ref>
+    </map>
+  </stk>
+  <stk id="1_3_6_1" name="FILTER UNIT FOR MAINTENANCE UNIT 372235" materialnr="377104" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_6_2" name="FILTER CONTROLLER BOX C3SF FOR 372235" materialnr="414305" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_7" name="MALE HOSE QUICK DISCONNECT W/MALE" materialnr="003505" pos="8" description="&amp;nbsp;" />
+  <stk id="1_3_8" name="EXHAUST SILENCER R3/8&amp;quot; SINTERED METAL" materialnr="003352" pos="9" description="&amp;nbsp;" />
+  <stk id="1_3_9" name="EXHAUST  SILENCER 1/4 &amp;quot; SINTERED METAL" materialnr="003351" pos="10" description="&amp;nbsp;" />
+  <stk id="1_3_10" name="MANOMETER 0-4 BAR" materialnr="003356" pos="11" description="&amp;nbsp;" />
+  <stk id="1_3_11" name="PRESSURE CONTROLLER 0.2-3.5BAR R1/4&amp;quot;" materialnr="003368" pos="12" description="&amp;nbsp;" />
+  <stk id="1_3_12" name="MALE - FEMALE ADAPTER /" materialnr="003635" pos="13" description="&amp;nbsp;" />
+  <stk id="1_3_13" name="PRESSURE CONTROLLER MOUNT" materialnr="003378" pos="14" description="&amp;nbsp;" />
+  <stk id="1_3_14" name="EXHAUST THROTTLE THR.1/4&amp;quot; D8 W PLUG CON." materialnr="316703" pos="15" description="&amp;nbsp;" />
+  <stk id="1_3_15" name="5/2 WAY DBL SOLENOID VALVE, 24VDC," materialnr="003230" pos="16" description="&amp;nbsp;" />
+  <stk id="1_3_16" name="EXHAUST THROTTLE M5 D=6/PLUG CONNECTION" materialnr="316739" pos="17" description="&amp;nbsp;" />
+  <stk id="1_4" name="CORNER ROLLER" materialnr="122687" pos="4" description="&amp;nbsp;">
+    <map x="508" y="53" w="28" h="20">
+      <ref pos="2">1.4.1</ref>
+    </map>
+    <map x="312" y="155" w="28" h="20">
+      <ref pos="8">1.4.4</ref>
+      <ref pos="22">1.4.12</ref>
+    </map>
+    <map x="313" y="227" w="28" h="20">
+      <ref pos="14">1.4.6</ref>
+    </map>
+    <map x="312" y="203" w="28" h="20">
+      <ref pos="15">1.4.7</ref>
+    </map>
+    <map x="312" y="179" w="28" h="20">
+      <ref pos="16">1.4.8</ref>
+    </map>
+    <map x="98" y="237" w="28" h="20">
+      <ref pos="17">1.4.9</ref>
+      <ref pos="18">1.4.10</ref>
+    </map>
+    <map x="98" y="203" w="28" h="20">
+      <ref pos="19">1.4.11</ref>
+    </map>
+    <map x="511" y="171" w="28" h="20">
+      <ref pos="24">1.4.13</ref>
+      <ref pos="25">1.4.14</ref>
+    </map>
+    <map x="510" y="147" w="28" h="20">
+      <ref pos="26">1.4.15</ref>
+    </map>
+    <map x="508" y="99" w="28" h="20">
+      <ref pos="5">1.4.2</ref>
+      <ref pos="27">1.4.16</ref>
+    </map>
+    <map x="509" y="75" w="28" h="20">
+      <ref pos="7">1.4.3</ref>
+      <ref pos="28">1.4.17</ref>
+    </map>
+    <map x="508" y="28" w="28" h="20">
+      <ref pos="31">1.4.18</ref>
+    </map>
+    <map x="311" y="108" w="28" h="20">
+      <ref pos="34">1.4.19</ref>
+    </map>
+    <map x="311" y="131" w="28" h="20">
+      <ref pos="42">1.4.20</ref>
+    </map>
+    <map x="99" y="176" w="28" h="20">
+      <ref pos="47">1.4.22</ref>
+    </map>
+    <map x="471" y="229" w="60" h="53">
+      <ref pos="46">1.4.21</ref>
+      <ref pos="63">1.4.23</ref>
+    </map>
+    <map x="503" y="3" w="28" h="20">
+      <ref pos="10">1.4.5</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1" name="TOOTHED ROD" materialnr="103554" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_2" name="SPROCKET WHEEL/T=19 3/8x7/32&amp;quot; AT SPUR G." materialnr="181065" pos="5" description="&amp;nbsp;" />
+  <stk id="1_4_3" name="SPUR GEAR FOR GRIPPER FEED" materialnr="103559" pos="7" description="&amp;nbsp;" />
+  <stk id="1_4_4" name="BUTYL PRESSURE ROLLER/ALU D=60X42MM" materialnr="015667" pos="8" description="&amp;nbsp;" />
+  <stk id="1_4_5" name="GUIDE BRACKET/AS DRAWN" materialnr="103567" pos="10" description="&amp;nbsp;" />
+  <stk id="1_4_6" name="COUNTER BEARING-FORK CYLINDER D=20/25" materialnr="003127" pos="14" description="&amp;nbsp;" />
+  <stk id="1_4_7" name="DA-PNEU CYLINDER D25 STR25 ISO/W SIGNAL" materialnr="344435" pos="15" description="&amp;nbsp;" />
+  <stk id="1_4_8" name="ARTICULATED HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="16" description="&amp;nbsp;" />
+  <stk id="1_4_9" name="SWIVEL MOUNT FORK CYL. D=32MM" materialnr="003034" pos="17" description="&amp;nbsp;" />
+  <stk id="1_4_10" name="CYLINDER COUNTER SUPPORT (LUG/TYPE)" materialnr="003084" pos="18" description="&amp;nbsp;" />
+  <stk id="1_4_11" name="DA-PNEU CYLINDER D=32 STROKE50 ISO+SIGNA" materialnr="016170" pos="19" description="&amp;nbsp;" />
+  <stk id="1_4_12" name="GROOVED BALL BEARING ID12 OD28 W8 SEAL" materialnr="005677" pos="22" description="&amp;nbsp;" />
+  <stk id="1_4_13" name="ROLLER CHAIN 3/8X7/32&amp;quot;,(5 METER(16.4 FT)" materialnr="006530" pos="24" description="&amp;nbsp;" />
+  <stk id="1_4_14" name="MASTER LINK 3/8 X 7/32 (STRAIGHT)" materialnr="006589" pos="25" description="&amp;nbsp;" />
+  <stk id="1_4_15" name="CHAIN TENSIONER D=50MM W=35MM" materialnr="013587" pos="26" description="&amp;nbsp;" />
+  <stk id="1_4_16" name="GROOVED BALL BEARING ID20 0D42 W12;2SEAL" materialnr="005697" pos="27" description="&amp;nbsp;" />
+  <stk id="1_4_17" name="GROOVED BALL BEARING ID20 OD47 W14 SEAL" materialnr="005699" pos="28" description="&amp;nbsp;" />
+  <stk id="1_4_18" name="LINEAR GUIDE THK HSR 35 TA  1 SS+440L" materialnr="016183" pos="31" description="&amp;nbsp;" />
+  <stk id="1_4_19" name="GRIPPER FOR INFEED" materialnr="121114" pos="34" description="&amp;nbsp;">
+    <map x="78" y="19" w="27" h="25">
+      <ref>1.4.19.1</ref>
+    </map>
+    <map x="70" y="194" w="27" h="25">
+      <ref>1.4.19.2</ref>
+    </map>
+    <map x="211" y="311" w="27" h="25">
+      <ref>1.4.19.3</ref>
+    </map>
+    <map x="395" y="370" w="27" h="25">
+      <ref>1.4.19.4</ref>
+    </map>
+    <map x="452" y="353" w="27" h="25">
+      <ref>1.4.19.5</ref>
+    </map>
+    <map x="424" y="364" w="27" h="25">
+      <ref>1.4.19.6</ref>
+    </map>
+    <map x="199" y="271" w="27" h="25">
+      <ref pos="7">1.4.19.7</ref>
+    </map>
+    <map x="448" y="230" w="27" h="25">
+      <ref pos="8">1.4.19.8</ref>
+    </map>
+  </stk>
+  <stk id="1_4_19_1" name="COUNTER BEARING-FORK CYLINDER D=20/25" materialnr="003127" pos="1" description="&amp;nbsp;" />
+  <stk id="1_4_19_2" name="DA-PNEU CYLINDER D25 STR25 ISO/W SIGNAL" materialnr="344435" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_19_3" name="FORK HEAD (HEAVY DESIGN)" materialnr="021203" pos="3" description="&amp;nbsp;">
+    <map x="95" y="169" w="27" h="25">
+      <ref>1.4.19.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_4_19_3_1" name="FORK HEAD - HEAVY DUTY DESIGN" materialnr="111653" pos="1" description="&amp;nbsp;" />
+  <stk id="1_4_19_4" name="CLAMPING JAW/OUTSIDE/BEARING BUSH NA" materialnr="024404" pos="4" description="&amp;nbsp;">
+    <map x="89" y="49" w="27" h="25">
+      <ref>1.4.19.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_4_19_4_1" name="BUSHING ID=6 OD=8 L=6 GLY.PG 060806F" materialnr="005799" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_19_5" name="CLAMPING JAW/OUTSIDE,BEARING BUSH WIDE" materialnr="024405" pos="5" description="&amp;nbsp;">
+    <map x="55" y="163" w="27" h="25">
+      <ref>1.4.19.5.1</ref>
+    </map>
+    <map x="430" y="347" w="27" h="25">
+      <ref>1.4.19.5.2</ref>
+    </map>
+  </stk>
+  <stk id="1_4_19_5_1" name="BUSHING ID=6 OD=8 L=6 GLY.PG 060806F" materialnr="005799" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_19_5_2" name="GRIPPER PAD 26x20MM" materialnr="024406" pos="3" description="&amp;nbsp;" />
+  <stk id="1_4_19_6" name="GRIPPER PAD 26x20MM" materialnr="024406" pos="6" description="&amp;nbsp;" />
+  <stk id="1_4_19_7" name="TEMPERED STRAIGHT PIN DIN6325-6X45MM" materialnr="005214" pos="7" description="&amp;nbsp;" />
+  <stk id="1_4_19_8" name="SET SREW M4X5 ALLEN HEAD+POINT;ZI-COATED" materialnr="005128" pos="8" description="&amp;nbsp;" />
+  <stk id="1_4_20" name="SUPPORT ROLLER" materialnr="107352" pos="42" description="&amp;nbsp;" />
+  <stk id="1_4_21" name="BUSHING ID=10MM OD=12MM L=10MM" materialnr="005801" pos="46" description="&amp;nbsp;" />
+  <stk id="1_4_22" name="DA-SH.STR.CYL.D20;H25;NO SI.BUZ,TOR.LOCK" materialnr="302465" pos="47" description="&amp;nbsp;" />
+  <stk id="1_4_23" name="SOLENOID SWITCH FASTENING NORGREN D=25MM" materialnr="344430" pos="63" description="&amp;nbsp;" />
+</catalog>

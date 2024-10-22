@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="RKT-25/20KLA">
+  <stk id="1" name="RKT-25/20KLA" materialnr="307638" pos="1" description="&amp;nbsp;">
+    <map x="395" y="298" w="28" h="21">
+      <ref pos="1">1.1</ref>
+    </map>
+    <map x="314" y="298" w="28" h="21">
+      <ref pos="2">1.2</ref>
+    </map>
+    <map x="108" y="115" w="28" h="21">
+      <ref pos="7">1.6</ref>
+    </map>
+    <map x="108" y="168" w="28" h="21">
+      <ref pos="4">1.4</ref>
+    </map>
+    <map x="426" y="298" w="28" h="21">
+      <ref pos="5">1.5</ref>
+    </map>
+    <map x="110" y="18" w="29" h="21">
+      <ref pos="3">1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="FRAME" materialnr="307898" pos="1" description="&amp;nbsp;">
+    <map x="415" y="339" w="27" h="25">
+      <ref>1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="SPHERIC.BEARING,ID=40MM,OD=62MM,W=28MM" materialnr="026792" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2" name="CRANK MECHANISM" materialnr="308037" pos="2" description="&amp;nbsp;">
+    <map x="446" y="128" w="26" h="24">
+      <ref>1.2.1</ref>
+    </map>
+    <map x="209" y="113" w="26" h="24">
+      <ref>1.2.2</ref>
+    </map>
+    <map x="94" y="265" w="26" h="24">
+      <ref>1.2.3</ref>
+    </map>
+    <map x="152" y="109" w="26" h="24">
+      <ref>1.2.4</ref>
+    </map>
+    <map x="143" y="47" w="26" h="24">
+      <ref>1.2.5</ref>
+    </map>
+    <map x="77" y="163" w="26" h="24">
+      <ref>1.2.6</ref>
+    </map>
+    <map x="67" y="127" w="26" h="24">
+      <ref>1.2.7</ref>
+    </map>
+    <map x="50" y="76" w="26" h="24">
+      <ref>1.2.8</ref>
+    </map>
+    <map x="34" y="20" w="26" h="24">
+      <ref>1.2.9</ref>
+    </map>
+    <map x="200" y="167" w="44" h="30">
+      <ref pos="101">1.2.10</ref>
+      <ref pos="102">1.2.11</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1" name="THREEPHASE SPUR GEAR MOTOR 3000W 50/60HZ" materialnr="314832" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_2" name="CRANK" materialnr="251280" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_3" name="ADJUSTING PLATE" materialnr="304707" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_4" name="NORD LOCK WASHER/THREAD 30MM OD=58,5MM" materialnr="202749" pos="4" description="&amp;nbsp;" />
+  <stk id="1_2_5" name="HEX.CAP SCREW M30x2,DIN934,METR,GALV" materialnr="004903" pos="5" description="&amp;nbsp;" />
+  <stk id="1_2_6" name="ARTICULATED HEAD M30X2-FEMALE-L D30MM" materialnr="251488" pos="6" description="&amp;nbsp;" />
+  <stk id="1_2_7" name="HEXAGON NUTM30X2MM LEFT DIN439 ZINC-COAT" materialnr="102844" pos="7" description="&amp;nbsp;" />
+  <stk id="1_2_8" name="CONNECTING ROD" materialnr="308036" pos="8" description="&amp;nbsp;" />
+  <stk id="1_2_9" name="ARTICULATED HEAD M30X2-FEMALE-R D=30MM" materialnr="251486" pos="9" description="&amp;nbsp;" />
+  <stk id="1_2_10" name="HEAVY DUTY DOWEL PIN DIN 1481-4X20 BLANK" materialnr="005163" pos="101" description="&amp;nbsp;" />
+  <stk id="1_2_11" name="HOSE CLIP, 87-112MM ZINC-COATED" materialnr="003664" pos="102" description="&amp;nbsp;" />
+  <stk id="1_3" name="TABLE BOARD RKT-25/20 H920/520" materialnr="355602" pos="3" description="&amp;nbsp;">
+    <map x="107" y="290" w="27" h="25">
+      <ref>1.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1" name="BOLT" materialnr="251261" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4" name="HORIZONTAL TRANSPORT RKT-25/20KLA" materialnr="355637" pos="4" description="&amp;nbsp;">
+    <map x="31" y="95" w="27" h="25">
+      <ref>1.4.1</ref>
+    </map>
+    <map x="415" y="365" w="27" h="25">
+      <ref>1.4.2</ref>
+    </map>
+    <map x="343" y="366" w="27" h="25">
+      <ref>1.4.3</ref>
+    </map>
+    <map x="249" y="367" w="27" h="25">
+      <ref pos="4">1.4.4</ref>
+    </map>
+    <map x="27" y="219" w="27" h="25">
+      <ref>1.4.5</ref>
+    </map>
+    <map x="278" y="167" w="27" h="25">
+      <ref>1.4.6</ref>
+    </map>
+    <map x="305" y="171" w="27" h="25">
+      <ref>1.4.7</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1" name="TRANSPORT SHAFT LONG RKT-25/20KLA" materialnr="355632" pos="1" description="&amp;nbsp;">
+    <map x="147" y="43" w="27" h="25">
+      <ref pos="1">1.4.1.1</ref>
+    </map>
+    <map x="147" y="235" w="27" h="25">
+      <ref pos="3">1.4.1.2</ref>
+    </map>
+    <map x="147" y="112" w="27" h="25">
+      <ref pos="4">1.4.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_1" name="PLUMMER BLOCK BEARING;SH.MET.HOUS ID20" materialnr="005757" pos="1" description="&amp;nbsp;" />
+  <stk id="1_4_1_2" name="DBL SPROCKET 3/8X7/32 T=14 B=20H7" materialnr="014373" pos="3" description="&amp;nbsp;" />
+  <stk id="1_4_1_3" name="ROLLER D=80 W=20MM BORE HOLE=18MM SMOOTH" materialnr="032298" pos="4" description="&amp;nbsp;" />
+  <stk id="1_4_2" name="TRANSPORT SHAFT SHORT RKT25/20KLA" materialnr="355631" pos="2" description="&amp;nbsp;">
+    <map x="167" y="306" w="27" h="25">
+      <ref pos="2">1.4.2.1</ref>
+    </map>
+    <map x="172" y="51" w="27" h="25">
+      <ref pos="3">1.4.2.2</ref>
+    </map>
+    <map x="171" y="159" w="27" h="25">
+      <ref pos="4">1.4.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_4_2_1" name="PLUMMER BLOCK BEARING;SH.MET.HOUS ID20" materialnr="005757" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_2_2" name="DBL SPROCKET 3/8X7/32 T=14 B=20H7" materialnr="014373" pos="3" description="&amp;nbsp;" />
+  <stk id="1_4_2_3" name="ROLLER D=80 W=20MM BORE HOLE=18MM SMOOTH" materialnr="032298" pos="4" description="&amp;nbsp;" />
+  <stk id="1_4_3" name="TRANSPORT SHAFT/DRIVE RKT25/20KLA" materialnr="355633" pos="3" description="&amp;nbsp;">
+    <map x="157" y="269" w="27" h="25">
+      <ref>1.4.3.1</ref>
+    </map>
+    <map x="146" y="50" w="27" h="25">
+      <ref>1.4.3.2</ref>
+    </map>
+    <map x="352" y="331" w="27" h="25">
+      <ref>1.4.3.3</ref>
+    </map>
+    <map x="370" y="66" w="27" h="25">
+      <ref>1.4.3.4</ref>
+    </map>
+  </stk>
+  <stk id="1_4_3_1" name="TRIPLE SPROCKET W.3/8&amp;quot; TEETH=14 20H7" materialnr="014754" pos="1" description="&amp;nbsp;" />
+  <stk id="1_4_3_2" name="PLUMMER BLOCK BEARING;SH.MET.HOUS ID20" materialnr="005757" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_3_3" name="BEVEL WHEEL/TEETH=16" materialnr="022413" pos="4" description="&amp;nbsp;" />
+  <stk id="1_4_3_4" name="ROLLER D=80 W=20MM BORE HOLE=18MM SMOOTH" materialnr="032298" pos="6" description="&amp;nbsp;" />
+  <stk id="1_4_4" name="TH.PH-SPUR GE.M;550W;219R/M;220-415;50HZ" materialnr="231836" pos="4" description="&amp;nbsp;" />
+  <stk id="1_4_5" name="ROLLER CHAIN 3/8X7/32&amp;quot;,47LINKS+COUPL" materialnr="006533" pos="6" description="&amp;nbsp;" />
+  <stk id="1_4_6" name="SPROCKET W/KWY,3/8&amp;quot;,T=17,20H7,2XM6" materialnr="014317" pos="7" description="&amp;nbsp;" />
+  <stk id="1_4_7" name="CHAIN 3/8x7/32&amp;quot; 67LINKS+MASTER LINK" materialnr="022686" pos="8" description="&amp;nbsp;" />
+  <stk id="1_5" name="VERTICAL TRANSPORT" materialnr="308015" pos="5" description="&amp;nbsp;">
+    <map x="107" y="226" w="27" h="25">
+      <ref>1.5.1</ref>
+    </map>
+    <map x="309" y="101" w="27" h="25">
+      <ref>1.5.2</ref>
+    </map>
+    <map x="461" y="186" w="27" h="25">
+      <ref>1.5.3</ref>
+    </map>
+    <map x="73" y="66" w="27" h="25">
+      <ref>1.5.4</ref>
+    </map>
+    <map x="248" y="87" w="27" h="25">
+      <ref>1.5.5</ref>
+    </map>
+    <map x="196" y="76" w="27" h="25">
+      <ref>1.5.6</ref>
+    </map>
+    <map x="226" y="47" w="27" h="25">
+      <ref>1.5.7</ref>
+    </map>
+    <map x="404" y="173" w="27" h="25">
+      <ref pos="102">1.5.8</ref>
+    </map>
+    <map x="181" y="234" w="27" h="25">
+      <ref pos="103">1.5.9</ref>
+    </map>
+    <map x="156" y="50" w="27" h="25">
+      <ref pos="104">1.5.10</ref>
+    </map>
+  </stk>
+  <stk id="1_5_1" name="CHAIN TENSIONER D=50X20MM PA66" materialnr="011449" pos="1" description="&amp;nbsp;" />
+  <stk id="1_5_2" name="CHAIN 3/8x7/32&amp;quot; 67LINKS+MASTER LINK" materialnr="022686" pos="2" description="&amp;nbsp;" />
+  <stk id="1_5_3" name="TRANSPORT ROLLER UNIT UKL-LA" materialnr="185647" pos="4" description="&amp;nbsp;">
+    <map x="409" y="39" w="27" h="25">
+      <ref pos="1">1.5.3.1</ref>
+    </map>
+    <map x="228" y="71" w="27" h="25">
+      <ref pos="2">1.5.3.2</ref>
+    </map>
+    <map x="6" y="119" w="27" h="25">
+      <ref pos="3">1.5.3.3</ref>
+    </map>
+    <map x="60" y="120" w="27" h="25">
+      <ref pos="4">1.5.3.4</ref>
+    </map>
+    <map x="32" y="326" w="27" h="25">
+      <ref pos="6">1.5.3.5</ref>
+    </map>
+  </stk>
+  <stk id="1_5_3_1" name="PLUMMER BLOCK BEAR:CAST HOUS.ID 20MM" materialnr="005759" pos="1" description="&amp;nbsp;" />
+  <stk id="1_5_3_2" name="TRANS.ROLLER SHAFT W/SPROCKET; UKL-LA" materialnr="029641" pos="2" description="&amp;nbsp;">
+    <map x="361" y="71" w="27" h="25">
+      <ref pos="3">1.5.3.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_5_3_2_1" name="DBL SPROCKET 3/8X7/32 T=14 B=20K7" materialnr="024301" pos="3" description="&amp;nbsp;" />
+  <stk id="1_5_3_3" name="TRANSPORT ROLLER BODY/OD50/ID20/L=83MM" materialnr="014617" pos="3" description="&amp;nbsp;" />
+  <stk id="1_5_3_4" name="TRANSPORT ROLLER COVERING 57/47X80MM" materialnr="230341" pos="4" description="&amp;nbsp;" />
+  <stk id="1_5_3_5" name="SHIM ID=20,1MM" materialnr="013217" pos="6" description="&amp;nbsp;" />
+  <stk id="1_5_4" name="ROLLER CHAIN 3/8X7/32&amp;quot;,47LINKS+COUPL" materialnr="006533" pos="5" description="&amp;nbsp;" />
+  <stk id="1_5_5" name="BEVEL WHEEL/TEETH=16" materialnr="022413" pos="7" description="&amp;nbsp;" />
+  <stk id="1_5_6" name="SPROCKET 3/8X7/32 T=19 B=20K7" materialnr="014326" pos="9" description="&amp;nbsp;" />
+  <stk id="1_5_7" name="PLUMMER BLOCK BEARING;SH.MET.HOUS ID20" materialnr="005757" pos="101" description="&amp;nbsp;" />
+  <stk id="1_5_8" name="RETAINING RING DIN 471-20X1.2MM" materialnr="005350" pos="102" description="&amp;nbsp;" />
+  <stk id="1_5_9" name="KEY 6x6x25MM DIN 6885; ST50-1K" materialnr="005314" pos="103" description="&amp;nbsp;" />
+  <stk id="1_5_10" name="HEAVY DUTY DOWEL PIN DIN 1481-5X30 BLANK" materialnr="005170" pos="104" description="&amp;nbsp;" />
+  <stk id="1_6" name="ANTI-FALL GUARD RKT-25KLA" materialnr="390752" pos="7" description="&amp;nbsp;">
+    <map x="260" y="129" w="28" h="21">
+      <ref pos="6">1.6.1</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1" name="SUPPORT ROLLER D=50MM WITH THREAD M6X15" materialnr="306434" pos="6" description="&amp;nbsp;">
+    <map x="218" y="44" w="245" h="310">
+      <ref pos="3">1.6.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1_1" name="ROLLER WITH TRANSPORT ROLLER FACING" materialnr="306456" pos="3" description="&amp;nbsp;">
+    <map x="49" y="137" w="27" h="24">
+      <ref pos="2">1.6.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1_1_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+</catalog>

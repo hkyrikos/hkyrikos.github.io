@@ -1,0 +1,52 @@
+<html>
+<head>
+   <link rel="stylesheet" type="text/css" href="../mainstyle.css">
+   <script type="text/javascript" src="../functions.js"></script>
+<script type="text/javascript">
+function getDescription(){
+  if(showArticleDescription(Number(parent.getIndex()))!=""){
+     document.write('<tr><td width="3px"><td class="txtNormal"><span class="UeberschriftGrauOR txtNormal">Description:</span><br>' + showArticleDescription(Number(parent.getIndex())) + '</td></tr>');
+
+  }
+}
+function getDocuments(){
+  if(ArtikelDokumente[Number(parent.getIndex())]!="" || Artikelzeichnung[Number(parent.getIndex())]!=""){
+     document.write('<tr><td width="3px"><td class="txtNormal">Documents: ');
+     if(Artikelzeichnung[Number(parent.getIndex())]!=""){      
+	document.write('<a href="../img/zng/' +  Artikelzeichnung[Number(parent.getIndex())] + '" target="_blank" class="farbig txtNormal">Drawing</a>');
+     }
+
+     if(ArtikelDokumente[Number(parent.getIndex())]!=""){	
+	tmp=ArtikelDokumente[Number(parent.getIndex())].split("|");
+     	for(i=0;i<tmp.length;i++){
+	   if(i>0 || Artikelzeichnung[Number(parent.getIndex())]!=""){ document.write(', ');}
+	   document.write('<a href="../img/docs/' + tmp[i] + '" target="_blank" class="farbig txtNormal">' + tmp[i].substr(tmp[i].indexOf("_")+1) + '</a>');
+        }
+     }
+     document.write('</td></tr>');
+  }
+}
+</script>
+</head>
+<body margin="0" onload="javascript:getWatchlistInfo();">
+<table cellspacing="0" cellpadding="0" width="98%" align="right">
+<tr> 
+   <td rowspan="3" width="3px">
+   <td height="80"> </td>
+</tr>
+<tr>
+  <td height="19"><a href="javascript:AddArticleToWatchlist();"><img src="../img/add.gif" border="0" align="top" class="farbig" /></a>
+</td>
+</tr>
+   <tr>
+      <td height="20" valign="bottom"><a href="javascript:openWatchlistFromArticleInfo();" class="farbig txtNormal" ID="WatchlistInfo"></a></td>
+   </tr>
+<script type="text/javascript">
+   getDescription();
+   getDocuments();
+</script>
+</table>
+</body>
+</html>
+
+

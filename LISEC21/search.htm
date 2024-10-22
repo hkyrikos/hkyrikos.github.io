@@ -1,0 +1,17 @@
+<html>
+<head>
+  <title>Search</title>
+   <script type="text/javascript" src="functions.js"></script>
+   <link rel="stylesheet" type="text/css" href="mainstyle.css">
+</head>
+<body>
+<form  method="POST" name="form1" action="search.htm">
+<table width="100%" cellspacing="0" cellpadding="0"><tr><td height="25" background="img/balken3.gif">
+<span class="UeberschriftGrau">Sparepart Catalog Search</span></td></tr><tr><td bgcolor="#EAF2FA"><span class="txtKleineSchrift"><br>&nbsp;<br></span>&nbsp;
+<input type="text" name="text_name" onKeyPress="tastenTest(cmdSuchen);" class="txtTextBox">
+<input type="submit" value="Search" name="cmdSuchen" onclick="return gotoSearch();" class="txtTextBox"><br>
+<label name="Nachricht" ID="Nachricht" class="txtNormal"></label></td></tr></table>
+</form>
+<iframe name="Suchergebnisse" height="205" width="100%" scrolling="auto" frameborder="0"></iframe>
+</body>
+</html>

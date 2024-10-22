@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="ATL-60/30BF">
+  <stk id="1" name="ATL-60/30BF" materialnr="141409" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="">
+    <map x="109" y="15" w="436" h="284">
+      <ref pos="1">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="ATL-60/33 W.RPS FOR SBL MOBILE AMERIKA" materialnr="462846" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="220" y="16" w="289" h="153">
+      <ref pos="4">1.1.1</ref>
+      <ref pos="5">1.1.2</ref>
+      <ref pos="6">1.1.3</ref>
+      <ref pos="7">1.1.4</ref>
+      <ref pos="8">1.1.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="TRAVEL DRIVE ATL UNIVERSAL AMERICA" materialnr="462845" pos="4" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="334" y="167" w="28" h="20">
+      <ref pos="17">1.1.1.6</ref>
+    </map>
+    <map x="12" y="290" w="28" h="20">
+      <ref pos="16">1.1.1.5</ref>
+    </map>
+    <map x="15" y="152" w="28" h="20">
+      <ref pos="5">1.1.1.1</ref>
+    </map>
+    <map x="503" y="169" w="28" h="20">
+      <ref pos="8">1.1.1.2</ref>
+    </map>
+    <map x="279" y="65" w="100" h="66">
+      <ref pos="12">1.1.1.3</ref>
+      <ref pos="13">1.1.1.4</ref>
+      <ref pos="20">1.1.1.8</ref>
+    </map>
+    <map x="278" y="167" w="28" h="20">
+      <ref pos="18">1.1.1.7</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="CLAMPING SET 35X60 TLK 132" materialnr="425057" pos="5" description="&amp;nbsp;" ET="7" Quantity="4" Unit="" />
+  <stk id="1_1_1_2" name="FLANGE BEARING ID35 + QUADRATE HOUSING" materialnr="435235" pos="8" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_1_3" name="HEX.CAP SCREW/M12x40mm/DIN 933/8.8" materialnr="004523" pos="12" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_1_4" name="RETAINING WASHER 35X45X1MM DIN 988" materialnr="219552" pos="13" description="&amp;nbsp;" ET="8" Quantity="16" Unit="" />
+  <stk id="1_1_1_5" name="GUIDE ROLLER RETAINER COMPL. OD=62 V.2" materialnr="417028" pos="16" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="458" y="207" w="29" h="20">
+      <ref pos="2">1.1.1.5.1</ref>
+    </map>
+    <map x="220" y="122" w="28" h="20" />
+    <map x="245" y="47" w="60" h="55">
+      <ref pos="5">1.1.1.5.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_5_1" name="CAM ROLLER OD=62MM M24X1,5" materialnr="026764" pos="2" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_1_5_2" name="TAPER LUBRIC.NIPPLE STRAIGHT M6X1/5,5MM" materialnr="416713" pos="5" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_1_6" name="FLANGE BEARING ID35 OVAL HOUSING SKF" materialnr="393167" pos="17" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_1_7" name="FLAT GEAR MOTOR GFL05 1,5KW RATIO=24.850" materialnr="419468" pos="18" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_1_8" name="RETAINING WASHER 35X45X0.5MM DIN 988" materialnr="005295" pos="20" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_2" name="BOTTOM FRAME MOBIL - AMERICA" materialnr="462844" pos="5" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="455" y="240" w="28" h="20">
+      <ref pos="10">1.1.2.3</ref>
+    </map>
+    <map x="377" y="30" w="28" h="20">
+      <ref pos="13">1.1.2.4</ref>
+    </map>
+    <map x="147" y="93" w="163" h="81">
+      <ref pos="2">1.1.2.1</ref>
+    </map>
+    <map x="306" y="242" w="40" h="20">
+      <ref pos="17">1.1.2.5</ref>
+      <ref pos="18">1.1.2.6</ref>
+    </map>
+    <map x="517" y="201" w="28" h="20">
+      <ref pos="5">1.1.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="PART LIST ATL-60/30 HYDRAULIC VAR.2" materialnr="433043" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="299" y="109" w="119" h="94">
+      <ref pos="2">1.1.2.1.1</ref>
+    </map>
+    <map x="191" y="95" w="83" h="116">
+      <ref pos="5">1.1.2.1.2</ref>
+      <ref pos="6">1.1.2.1.3</ref>
+      <ref pos="10">1.1.2.1.4</ref>
+    </map>
+    <map x="255" y="8" w="28" h="20" />
+  </stk>
+  <stk id="1_1_2_1_1" name="HD-POWER UNIT 13,9L/MIN 3KW COMPACT" materialnr="342457" pos="2" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="149" y="92" w="110" h="161">
+      <ref pos="10">1.1.2.1.1.1</ref>
+      <ref pos="20">1.1.2.1.1.2</ref>
+      <ref pos="30">1.1.2.1.1.3</ref>
+      <ref pos="50">1.1.2.1.1.5</ref>
+    </map>
+    <map x="310" y="90" w="218" h="196">
+      <ref pos="40">1.1.2.1.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_1_1" name="LOWERING BRAKE VALVE WB-CC-DE-L6 DBL" materialnr="325938" pos="10" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_2_1_1_2" name="COUPLING 24/30 B/Bx60 Steel,Rotex" materialnr="353246" pos="20" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_2_1_1_3" name="4/6-SOL-VALVE ARON-AD3E01" materialnr="333911" pos="30" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_2_1_1_4" name="HYDRAULIC OIL TANK 25L" materialnr="380643" pos="40" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_2_1_1_5" name="TP-MOTOR 3KW 50HZ 1440RPM 400V IP55" materialnr="471461" pos="50" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_2_1_2" name="HYD-HOSE D=10MM;L=2500MM; DKS/DKS ST2" materialnr="030947" pos="5" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_3" name="HD-HOSE D=10MM L=2000MM DKS/DKS" materialnr="031285" pos="6" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_4" name="STRAIGHT STUD FITTING/PIPE 12/THR 3/8&amp;quot;-C" materialnr="027880" pos="10" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_2" name="HEX.SCREW M20X70 DIN933/8.8 ZINC-COATED" materialnr="413280" pos="5" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_2_3" name="FLANGE BEARING;ID=40; OVAL CAST HOUSING" materialnr="005792" pos="10" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_2_4" name="VULCOLLAN PLATE 100X60 TH=10;FAST.D10MM" materialnr="311740" pos="13" description="&amp;nbsp;" ET="8" Quantity="12" Unit="" />
+  <stk id="1_1_2_5" name="E- chain PITCH 46 CURVATURE-100" materialnr="342137" pos="17" description="&amp;nbsp;" ET="6" Quantity="21" Unit="" />
+  <stk id="1_1_2_6" name="CONNECTION ELEMENT SET F.CHAIN 342137" materialnr="342138" pos="18" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3" name="PARTS FOR MOBILE DESIGN VAR.01" materialnr="436532" pos="6" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="46" y="146" w="45" h="23">
+      <ref pos="11">1.1.3.1</ref>
+    </map>
+    <map x="241" y="51" w="28" h="20" />
+  </stk>
+  <stk id="1_1_3_1" name="ENERGY PIPE 58.100.150.9/ 100 LINKS" materialnr="307217" pos="11" description="&amp;nbsp;" ET="8" Quantity="2" Unit="">
+    <map x="164" y="83" w="209" h="128">
+      <ref pos="10">1.1.3.1.1</ref>
+      <ref pos="20">1.1.3.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_1" name="ENERGY PIPE 58.100.150.9  Single-Link" materialnr="345916" pos="10" description="&amp;nbsp;" ET="0" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_2" name="CONNECTING LINK F.ENERGY PIPE 58.100.150" materialnr="387075" pos="20" description="&amp;nbsp;" ET="0" Quantity="2" Unit="" />
+  <stk id="1_1_4" name="ATL TABLE BOARD COMPLETE FOR SBL-AMERIKA" materialnr="463256" pos="7" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="489" y="254" w="28" h="20" />
+    <map x="519" y="254" w="28" h="20">
+      <ref pos="3">1.1.4.1</ref>
+    </map>
+    <map x="303" y="241" w="93" h="47">
+      <ref pos="13">1.1.4.2</ref>
+      <ref pos="14">1.1.4.3</ref>
+      <ref pos="15">1.1.4.4</ref>
+      <ref pos="18">1.1.4.6</ref>
+    </map>
+    <map x="525" y="27" w="28" h="20">
+      <ref pos="17">1.1.4.5</ref>
+    </map>
+    <map x="255" y="237" w="28" h="20">
+      <ref pos="19">1.1.4.7</ref>
+    </map>
+    <map x="556" y="27" w="28" h="20">
+      <ref pos="25">1.1.4.8</ref>
+    </map>
+    <map x="555" y="211" w="28" h="20">
+      <ref pos="27">1.1.4.10</ref>
+    </map>
+    <map x="38" y="0" w="28" h="20">
+      <ref pos="26">1.1.4.9</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="DUPLEX-CHAIN 1/2X5/16&amp;quot; 73 LINKS" materialnr="023382" pos="3" description="&amp;nbsp;" ET="6" Quantity="1" Unit="">
+    <map x="112" y="79" w="271" h="147">
+      <ref pos="1">1.1.4.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_1" name="DUPLEX CHAIN 1/2 X 5/16&amp;quot; L=5M D85" materialnr="006556" pos="1" description="&amp;nbsp;" ET="9" Quantity="927,1" Unit="">
+    <map x="1" y="184" w="113" h="98">
+      <ref pos="1">1.1.4.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_1_1" name="LOCKING LINK FOR DUPLEX CHAIN, 1/2X5/16&amp;quot;" materialnr="006597" pos="1" description="&amp;nbsp;" ET="8" Quantity="927,1" Unit="" />
+  <stk id="1_1_4_2" name="CHAIN 1/2x3/16&amp;quot;,57 LINKS+LOCKING LINK" materialnr="021902" pos="13" description="&amp;nbsp;" ET="6" Quantity="2" Unit="">
+    <map x="38" y="37" w="83" h="69" />
+  </stk>
+  <stk id="1_1_4_3" name="CHAIN 1/2X3/16&amp;quot; 63-LINKS+LOCKING LINK" materialnr="413633" pos="14" description="&amp;nbsp;" ET="6" Quantity="4" Unit="">
+    <map x="85" y="57" w="294" h="205">
+      <ref pos="2">1.1.4.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_3_1" name="LOCKING LINK  (STRAIGHT) 1/2 X 3/16&amp;quot;" materialnr="006592" pos="2" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_4_4" name="CHAIN 1/2x3/16&amp;quot; 97-LINKS+MASTER LINK" materialnr="428837" pos="15" description="&amp;nbsp;" ET="6" Quantity="5" Unit="">
+    <map x="52" y="33" w="386" h="266">
+      <ref pos="1">1.1.4.4.1</ref>
+      <ref pos="2">1.1.4.4.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_4_1" name="CHAIN 1/2x3/16&amp;quot; 97-LINKS" materialnr="424825" pos="1" description="&amp;nbsp;" ET="8" Quantity="5" Unit="">
+    <map x="44" y="18" w="381" h="309">
+      <ref pos="1">1.1.4.4.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_4_1_1" name="CHAIN 1/2X3/16&amp;quot; L=5000 P83V" materialnr="006540" pos="1" description="&amp;nbsp;" ET="8" Quantity="18097,5" Unit="" />
+  <stk id="1_1_4_4_2" name="LOCKING LINK  (STRAIGHT) 1/2 X 3/16&amp;quot;" materialnr="006592" pos="2" description="&amp;nbsp;" ET="8" Quantity="5" Unit="" />
+  <stk id="1_1_4_5" name="TRANSPORT SHAFT ATL" materialnr="452770" pos="17" description="&amp;nbsp;" ET="9" Quantity="15" Unit="">
+    <map x="239" y="87" w="28" h="20">
+      <ref pos="2">1.1.4.5.1</ref>
+    </map>
+    <map x="63" y="168" w="28" h="20">
+      <ref pos="3">1.1.4.5.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_5_1" name="PEDESTAL BEARING;CAST HOUS.ID25" materialnr="005762" pos="2" description="&amp;nbsp;" ET="7" Quantity="45" Unit="" />
+  <stk id="1_1_4_5_2" name="SPROCKET W/KWY,1/2&amp;quot;,T=13,25H7,1XM8" materialnr="014465" pos="3" description="&amp;nbsp;" ET="8" Quantity="30" Unit="" />
+  <stk id="1_1_4_6" name="CHAIN 1/2X3/16&amp;quot; 55-LINKS+LOCKING LINK" materialnr="462873" pos="18" description="&amp;nbsp;" ET="9" Quantity="4" Unit="">
+    <map x="165" y="56" w="213" h="234">
+      <ref pos="1">1.1.4.6.1</ref>
+    </map>
+    <map x="71" y="180" w="76" h="82">
+      <ref pos="2">1.1.4.6.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_6_1" name="CHAIN 1/2&amp;quot;X3/16&amp;quot; 55-LINKS" materialnr="462872" pos="1" description="&amp;nbsp;" ET="9" Quantity="4" Unit="">
+    <map x="107" y="51" w="273" h="247">
+      <ref pos="1">1.1.4.6.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_6_1_1" name="CHAIN 1/2X3/16&amp;quot; L=5000 P83V" materialnr="006540" pos="1" description="&amp;nbsp;" ET="6" Quantity="11176" Unit="" />
+  <stk id="1_1_4_6_2" name="LOCKING LINK  (STRAIGHT) 1/2 X 3/16&amp;quot;" materialnr="006592" pos="2" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_4_7" name="SWITCH LEVER LONG" materialnr="329311" pos="19" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="552" y="145" w="28" h="20" />
+    <map x="552" y="121" w="28" h="20" />
+    <map x="552" y="73" w="28" h="20" />
+    <map x="552" y="97" w="28" h="20">
+      <ref pos="4">1.1.4.7.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_7_1" name="POLYAMIDE ROLLER F/SWITCH LEVER" materialnr="329313" pos="4" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_4_8" name="DRIVE TRANSPORT SHAFT ATL" materialnr="452768" pos="25" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="78" y="154" w="28" h="20">
+      <ref pos="2">1.1.4.8.1</ref>
+    </map>
+    <map x="40" y="154" w="28" h="20">
+      <ref pos="3">1.1.4.8.2</ref>
+    </map>
+    <map x="253" y="90" w="28" h="20">
+      <ref pos="4">1.1.4.8.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_8_1" name="DBL.SPROCKET W/KWY,1/2&amp;quot;,T=16,25H7,2XM6" materialnr="014378" pos="2" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_8_2" name="SPROCKET W/KWY,1/2&amp;quot;,T=13,25H7,1XM8" materialnr="014465" pos="3" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_8_3" name="PEDESTAL BEARING;CAST HOUS.ID25" materialnr="005762" pos="4" description="&amp;nbsp;" ET="7" Quantity="4" Unit="" />
+  <stk id="1_1_4_9" name="DUPLEX(DBL) SPROCKET 1/2&amp;quot; T=20" materialnr="014384" pos="26" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_4_10" name="SPURGEAR-M. 0,75KW+GST05 I24.9 NO BRAKE" materialnr="422596" pos="27" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_5" name="VERTICAL TRANSPORT ATL + RPS AMERIKA" materialnr="463230" pos="8" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="561" y="189" w="28" h="20">
+      <ref pos="3">1.1.5.1</ref>
+    </map>
+    <map x="383" y="87" w="62" h="42">
+      <ref pos="5">1.1.5.2</ref>
+      <ref pos="20">1.1.5.7</ref>
+    </map>
+    <map x="433" y="238" w="67" h="57">
+      <ref pos="8">1.1.5.3</ref>
+    </map>
+    <map x="458" y="69" w="28" h="20">
+      <ref pos="9">1.1.5.4</ref>
+    </map>
+    <map x="486" y="42" w="28" h="20">
+      <ref pos="10">1.1.5.5</ref>
+    </map>
+    <map x="516" y="188" w="28" h="20">
+      <ref pos="11">1.1.5.6</ref>
+    </map>
+    <map x="517" y="43" w="28" h="20" />
+  </stk>
+  <stk id="1_1_5_1" name="TRANS.ROLLER W.BLOCK BEARING Ø25/ATL" materialnr="420805" pos="3" description="&amp;nbsp;" ET="9" Quantity="17" Unit="">
+    <map x="104" y="244" w="29" h="20">
+      <ref pos="5">1.1.5.1.1</ref>
+    </map>
+    <map x="41" y="243" w="29" h="20">
+      <ref pos="6">1.1.5.1.2</ref>
+    </map>
+    <map x="535" y="264" w="28" h="20" />
+    <map x="463" y="265" w="28" h="20" />
+    <map x="326" y="41" w="125" h="66" />
+  </stk>
+  <stk id="1_1_5_1_1" name="PEDESTAL BEARING;CAST HOUS.ID25" materialnr="005762" pos="5" description="&amp;nbsp;" ET="8" Quantity="34" Unit="" />
+  <stk id="1_1_5_1_2" name="DBL SPROCKET 3/8X7/32 T=14 B=20K7" materialnr="024301" pos="6" description="&amp;nbsp;" ET="6" Quantity="17" Unit="" />
+  <stk id="1_1_5_2" name="CHAIN 3/8x7/32&amp;quot;  81LINKS+LOCKING LINK" materialnr="025502" pos="5" description="&amp;nbsp;" ET="6" Quantity="16" Unit="">
+    <map x="265" y="329" w="80" h="63">
+      <ref pos="2">1.1.5.2.2</ref>
+    </map>
+    <map x="25" y="29" w="359" h="291">
+      <ref pos="1">1.1.5.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_2_1" name="CHAIN 3/8X7/32&amp;quot; 81 LINKS" materialnr="123200" pos="1" description="&amp;nbsp;" ET="8" Quantity="16" Unit="">
+    <map x="102" y="36" w="311" h="262">
+      <ref pos="1">1.1.5.2.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_2_1_1" name="CHAIN 3/8X7/32&amp;quot; L=5000 DIN8187 G67" materialnr="006530" pos="1" description="&amp;nbsp;" ET="6" Quantity="197504" Unit="" />
+  <stk id="1_1_5_2_2" name="LOCKING LINK 3/8 X 7/32&amp;quot; (STRAIGHT)" materialnr="006589" pos="2" description="&amp;nbsp;" ET="6" Quantity="16" Unit="" />
+  <stk id="1_1_5_3" name="HEXAGONAL NUT M10 DIN 439 ZINC-CO." materialnr="004910" pos="8" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_5_4" name="CHAIN TENSIONER" materialnr="166024" pos="9" description="&amp;nbsp;" ET="8" Quantity="17" Unit="">
+    <map x="190" y="79" w="212" h="141">
+      <ref pos="1">1.1.5.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_4_1" name="ROUND BAR 70/POLYAMIDE 6.6/DIN16980" materialnr="012687" pos="1" description="&amp;nbsp;" ET="7" Quantity="714" Unit="" />
+  <stk id="1_1_5_5" name="BEARING BRACKET FOR MOTOR ADJUSTMENT" materialnr="458285" pos="10" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="189" y="139" w="28" h="20">
+      <ref pos="1">1.1.5.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_5_1" name="JOINTL BEARING ID=10MM OD=19MM W=9MM" materialnr="013211" pos="1" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_6" name="TRANS.ROLLER UNIT F.TENS.SET DRIVER VERT" materialnr="461554" pos="11" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="571" y="233" w="28" h="20">
+      <ref pos="1">1.1.5.6.1</ref>
+    </map>
+    <map x="198" y="44" w="28" h="20">
+      <ref pos="2">1.1.5.6.2</ref>
+    </map>
+    <map x="421" y="73" w="28" h="20">
+      <ref pos="3">1.1.5.6.3</ref>
+    </map>
+    <map x="231" y="44" w="37" h="20">
+      <ref pos="4">1.1.5.6.4</ref>
+      <ref pos="10">1.1.5.6.9</ref>
+    </map>
+    <map x="503" y="73" w="28" h="20">
+      <ref pos="6">1.1.5.6.5</ref>
+    </map>
+    <map x="536" y="73" w="28" h="20">
+      <ref pos="7">1.1.5.6.6</ref>
+    </map>
+    <map x="539" y="233" w="28" h="20">
+      <ref pos="8">1.1.5.6.7</ref>
+    </map>
+    <map x="271" y="44" w="28" h="20">
+      <ref pos="9">1.1.5.6.8</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_6_1" name="HEX BOLT (SOCKET/HED) M8X20 GALV" materialnr="004492" pos="1" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_6_2" name="RETAINING RING DIN 471-20X1.2MM" materialnr="005350" pos="2" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_5_6_3" name="RETAINING RING DIN 471-25X1.2MM" materialnr="005353" pos="3" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_5_6_4" name="DBL SPROCKET 3/8X7/32 T=14 B=20K7" materialnr="024301" pos="4" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_5_6_5" name="VULCOLLAN RING 69/79X85MM 88-90 SHORE A" materialnr="309103" pos="6" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_5_6_6" name="TRANSPORT ROLLER BODY F SHAFT D=25H9" materialnr="324830" pos="7" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_6_7" name="LOCK WASHER GREAT FOR M8 ZINC-COATED" materialnr="330383" pos="8" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_6_8" name="PEDESTAL BEARING;CAST HOUS.ID25" materialnr="005762" pos="9" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_5_6_9" name="KEY 6x6x18MM" materialnr="024115" pos="10" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_5_7" name="CHAIN 3/8X7/32&amp;quot; 107LINKS+LOCKING LINK" materialnr="209423" pos="20" description="&amp;nbsp;" ET="6" Quantity="1" Unit="">
+    <map x="14" y="22" w="135" h="91" />
+  </stk>
+</catalog>

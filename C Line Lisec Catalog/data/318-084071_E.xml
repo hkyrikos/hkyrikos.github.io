@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="WRA-1000">
+  <stk id="1" name="WRA-1000" materialnr="417313" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="">
+    <map x="133" y="7" w="419" h="313">
+      <ref pos="11">1.1</ref>
+      <ref pos="17">1.2</ref>
+      <ref pos="19">1.3</ref>
+      <ref pos="21">1.4</ref>
+      <ref pos="22">1.5</ref>
+      <ref pos="28">1.6</ref>
+      <ref pos="40">1.7</ref>
+      <ref pos="41">1.8</ref>
+      <ref pos="42">1.9</ref>
+      <ref pos="43">1.10</ref>
+      <ref pos="44">1.11</ref>
+      <ref pos="48">1.12</ref>
+      <ref pos="50">1.13</ref>
+      <ref pos="51">1.14</ref>
+      <ref pos="54">1.15</ref>
+      <ref pos="55">1.16</ref>
+      <ref pos="57">1.17</ref>
+      <ref pos="58">1.18</ref>
+      <ref pos="59">1.19</ref>
+      <ref pos="60">1.20</ref>
+      <ref pos="61">1.21</ref>
+      <ref pos="100">1.22</ref>
+      <ref pos="106">1.23</ref>
+      <ref pos="107">1.24</ref>
+      <ref pos="114">1.25</ref>
+      <ref pos="118">1.26</ref>
+      <ref pos="124">1.27</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="HOSE METERING PUMP DULCOflex DF4a" materialnr="447657" pos="11" description="&amp;nbsp;" ET="7" Quantity="1" Unit="">
+    <map x="142" y="235" w="200" h="83">
+      <ref pos="10">1.1.1</ref>
+      <ref pos="20">1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="SPARE HOSE FOR 447657" materialnr="447661" pos="10" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_2" name="REPLACEMENT ROTOR HEAD FOR 447657" materialnr="482984" pos="20" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_2" name="SHUT-OFF FLAP DN40 PN16 STAINLESS/GG" materialnr="409368" pos="17" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_3" name="COMPRESSED AIR DOUBLE DIAPHRAGM PUMP" materialnr="318853" pos="19" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="211" y="84" w="169" h="195">
+      <ref pos="10">1.3.1</ref>
+      <ref pos="20">1.3.2</ref>
+      <ref pos="30">1.3.3</ref>
+      <ref pos="40">1.3.4</ref>
+      <ref pos="50">1.3.5</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1" name="SERVICE-SET DIAPHRAGM FOR DIAPHRAGM PUMP" materialnr="329329" pos="10" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_3_2" name="SERVICE-SET VALVES F DIAPHRAGM PUMP VA15" materialnr="329330" pos="20" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_3_3" name="COVER FOR DIAPHRAGM-PUMP VA15" materialnr="355122" pos="30" description="&amp;nbsp;" ET="0" Quantity="2" Unit="" />
+  <stk id="1_3_4" name="AIR VALVE REP_SET FOR VA15" materialnr="356388" pos="40" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_3_5" name="VALVE BOX COVER FOR VA15" materialnr="356402" pos="50" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_4" name="5/2-PATH-VALVE &amp;quot;NAMUR&amp;quot; V22K2-16/24V" materialnr="032871" pos="21" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_5" name="SLUDGE CAR" materialnr="417268" pos="22" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="126" y="66" w="299" h="284">
+      <ref pos="1">1.5.1</ref>
+      <ref pos="3">1.5.2</ref>
+      <ref pos="6">1.5.3</ref>
+      <ref pos="8">1.5.4</ref>
+      <ref pos="9">1.5.5</ref>
+      <ref pos="102">1.5.6</ref>
+    </map>
+  </stk>
+  <stk id="1_5_1" name="FIXED CASTOR 88-100 SUB" materialnr="005614" pos="1" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_5_2" name="BIG-BAG 50X50X70CM" materialnr="395035" pos="3" description="&amp;nbsp;" ET="1" Quantity="1" Unit="" />
+  <stk id="1_5_3" name="HOSE NOZZLE MALE 1&amp;quot; F HOSE ID=25MM" materialnr="003529" pos="6" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_5_4" name="BALL VALVE 1&amp;quot;-FEMALE BRASS-CHROMED" materialnr="021719" pos="8" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_5_5" name="ANGLE 90 DEGR., 1&amp;quot;-MALE-FEMALE" materialnr="007226" pos="9" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_5_6" name="SOLID COUPLING D/25 WITH MALE THREAD 1&amp;quot;" materialnr="322087" pos="102" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_6" name="MAINTENANCE UNIT 3/8&amp;quot; 0,5-8,5BAR SMC" materialnr="372235" pos="28" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="387" y="245" w="48" h="28">
+      <ref pos="1">1.6.1</ref>
+      <ref pos="2">1.6.2</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1" name="FILTER UNIT FOR MAINTENANCE UNIT 372235" materialnr="377104" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_6_2" name="FILTER CONTROLLER BOX C3SF FOR 372235" materialnr="414305" pos="2" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_7" name="HOSE NOZZLE MALE 1&amp;quot; F HOSE ID=25MM" materialnr="003529" pos="40" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_8" name="ANGLE 90 DEGR., 3/4&amp;quot;-MALE-FEMALE BRASS" materialnr="007225" pos="41" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_9" name="3/2 WAY SOLENOID VALVE 24VDC" materialnr="003200" pos="42" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_10" name="PRESSURE CONTROLLER 0.3 - 7BAR R1/4&amp;quot;" materialnr="027522" pos="43" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_11" name="BALL VALVE R5/4&amp;quot;-FEMALE 40B NW32 BRASS" materialnr="007316" pos="44" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_12" name="RED. NIPPLE R6/4&amp;quot;-MALE 5/4&amp;quot;-FEMALE/BRASS" materialnr="398180" pos="48" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_13" name="HOSE NOZZLE 5/4&amp;quot;-MALE-31MM  BRASS" materialnr="016175" pos="50" description="&amp;nbsp;" ET="8" Quantity="6" Unit="" />
+  <stk id="1_14" name="SOCKET R1&amp;quot; -FEMALE THREAD/BRASS" materialnr="007245" pos="51" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_15" name="PLUG 5/4&amp;quot;-MALE THREAD MACHINED" materialnr="013977" pos="54" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_16" name="ANGLE 90 DEGR., 1&amp;quot;-FEMALE" materialnr="007222" pos="55" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_17" name="HOSE NOZZLE R3/4&amp;quot;-MALE; HOSE ID=25MM" materialnr="003527" pos="57" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_18" name="ANGLE 90 DEGR., 5/4&amp;quot;-MALE-FEMALE" materialnr="007227" pos="58" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_19" name="ANGLE 90 DEGR., 1&amp;quot;-MALE-FEMALE" materialnr="007226" pos="59" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_20" name="DOUBLE NIPPLE R5/4&amp;quot;-MALE THREAD" materialnr="245127" pos="60" description="&amp;nbsp;" ET="8" Quantity="6" Unit="" />
+  <stk id="1_21" name="T-PIECE D5/4&amp;quot;-FEMALE THREAD/BRASS" materialnr="245129" pos="61" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_22" name="MANOMETER 0-10B R1/8&amp;quot;-HORIZONTAL" materialnr="003355" pos="100" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_23" name="PP PIPE BEND D=110 87&amp;deg; GREY" materialnr="251560" pos="106" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_24" name="PP PIPE BEND ND110 45&amp;deg;" materialnr="408292" pos="107" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_25" name="PVC-TEXTILE-FIBER HOSE;D= 32MM; CLEAR" materialnr="016174" pos="114" description="&amp;nbsp;" ET="8" Quantity="30000" Unit="" />
+  <stk id="1_26" name="FLOCCULATING AGENT 7418 CHLORIDEFREE 30K" materialnr="394470" pos="118" description="&amp;nbsp;" ET="1" Quantity="1" Unit="" />
+  <stk id="1_27" name="BIG-BAG 50X50X70CM" materialnr="395035" pos="124" description="&amp;nbsp;" ET="1" Quantity="1" Unit="" />
+</catalog>

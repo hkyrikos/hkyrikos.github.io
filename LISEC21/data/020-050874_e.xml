@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="LKT-10/33">
+  <stk id="1" name="LKT-10/33" materialnr="311252" pos="1" description="&amp;nbsp;">
+    <map x="14" y="28" w="570" h="267">
+      <ref pos="1">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="LKT-10/33" materialnr="318780" pos="1" description="&amp;nbsp;">
+    <map x="191" y="224" w="109" h="73">
+      <ref pos="2">1.1.1</ref>
+      <ref pos="4">1.1.2</ref>
+      <ref pos="21">1.1.3</ref>
+      <ref pos="26">1.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="RADIAL FAN MPB-300T, 50HZ" materialnr="338102" pos="2" description="&amp;nbsp;">
+    <map x="168" y="131" w="75" h="90">
+      <ref pos="10">1.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="THREEPHASE MOTOR 1,1KW 2760RPM 50HZ" materialnr="353181" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="BLOWER HOSE D=125MM" materialnr="007799" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_3" name="DA-PNEU CYLINDER D25 STR80 ISO/SIGNAL" materialnr="016424" pos="21" description="&amp;nbsp;" />
+  <stk id="1_1_4" name="SAFETY BAR FOR BTS-XX/33" materialnr="311316" pos="26" description="&amp;nbsp;">
+    <map x="287" y="58" w="27" h="25">
+      <ref pos="1">1.1.4.1</ref>
+    </map>
+    <map x="475" y="110" w="27" h="25">
+      <ref pos="2">1.1.4.2</ref>
+    </map>
+    <map x="377" y="289" w="27" h="25">
+      <ref pos="7">1.1.4.5</ref>
+    </map>
+    <map x="331" y="289" w="27" h="25">
+      <ref pos="8">1.1.4.6</ref>
+    </map>
+    <map x="331" y="241" w="27" h="25">
+      <ref pos="11">1.1.4.7</ref>
+    </map>
+    <map x="60" y="165" w="27" h="25">
+      <ref pos="12">1.1.4.8</ref>
+    </map>
+    <map x="158" y="253" w="99" h="90">
+      <ref pos="31">1.1.4.9</ref>
+    </map>
+    <map x="421" y="288" w="27" h="25">
+      <ref pos="5">1.1.4.3</ref>
+      <ref pos="6">1.1.4.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="SUBPLATE BREAKER BAR L=3450MM" materialnr="311292" pos="1" description="&amp;nbsp;">
+    <map x="130" y="211" w="27" h="34">
+      <ref pos="3">1.1.4.1.1</ref>
+    </map>
+    <map x="301" y="113" w="27" h="34">
+      <ref pos="4">1.1.4.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_1" name="ARTICULATED HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_4_1_2" name="BREAKER BAR ATTACHMENT" materialnr="169445" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_4_2" name="PLUMMER BLOCK BEAR:CAST HOUS.ID 20MM" materialnr="005759" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_4_3" name="COUNTER BEARING BRACKET D=80" materialnr="003087" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_4_4" name="SWIVEL MOUNT FORK CYL.D=80MM" materialnr="003069" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_4_5" name="DBL/ACT PNEUM.CYL.,D=80,STROKE=50MM;" materialnr="189812" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_4_6" name="ARTICULATED HEAD M20X1.5-FEMALE-R D20" materialnr="003073" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_4_7" name="ARTICULATED HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_4_8" name="ARTICULATED HEAD M16X1.5-FEM-LEFT D=16MM" materialnr="003052" pos="12" description="&amp;nbsp;" />
+  <stk id="1_1_4_9" name="EXHAUST THROTTLE THR.3/8&amp;quot; D8 PLUG-CONN." materialnr="316702" pos="31" description="&amp;nbsp;" />
+</catalog>

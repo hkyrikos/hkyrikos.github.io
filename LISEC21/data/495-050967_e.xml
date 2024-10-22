@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="LASN">
+  <stk id="1" name="LASN" materialnr="210969" pos="1" description="&amp;nbsp;">
+    <map x="213" y="128" w="104" h="163">
+      <ref pos="1">1.1</ref>
+    </map>
+    <map x="343" y="244" w="44" h="43">
+      <ref pos="3">1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="SPECIAL-GLASS-ROTATING-LEVER 150KG" materialnr="329483" pos="1" description="&amp;nbsp;">
+    <map x="414" y="348" w="26" h="25">
+      <ref pos="10">1.1.1</ref>
+    </map>
+    <map x="415" y="279" w="26" h="25">
+      <ref pos="20">1.1.2</ref>
+    </map>
+    <map x="404" y="198" w="42" h="25">
+      <ref pos="30">1.1.3</ref>
+      <ref pos="550">1.1.34</ref>
+    </map>
+    <map x="416" y="252" w="26" h="25">
+      <ref pos="40">1.1.4</ref>
+    </map>
+    <map x="145" y="189" w="26" h="25">
+      <ref pos="50">1.1.5</ref>
+    </map>
+    <map x="350" y="295" w="33" h="28">
+      <ref pos="60">1.1.6</ref>
+    </map>
+    <map x="147" y="374" w="26" h="25">
+      <ref pos="80">1.1.9</ref>
+    </map>
+    <map x="176" y="77" w="26" h="25">
+      <ref pos="130">1.1.10</ref>
+    </map>
+    <map x="120" y="285" w="47" h="29">
+      <ref pos="140">1.1.12</ref>
+      <ref pos="140">1.1.11</ref>
+    </map>
+    <map x="120" y="250" w="46" h="28">
+      <ref pos="150">1.1.14</ref>
+      <ref pos="150">1.1.13</ref>
+    </map>
+    <map x="171" y="218" w="26" h="25">
+      <ref pos="160">1.1.15</ref>
+    </map>
+    <map x="98" y="218" w="69" h="26">
+      <ref pos="170">1.1.16</ref>
+      <ref pos="180">1.1.17</ref>
+      <ref pos="700">1.1.36</ref>
+    </map>
+    <map x="120" y="320" w="47" h="25">
+      <ref pos="200">1.1.18</ref>
+      <ref pos="200">1.1.19</ref>
+    </map>
+    <map x="313" y="143" w="26" h="25">
+      <ref pos="220">1.1.21</ref>
+    </map>
+    <map x="389" y="313" w="60" h="26">
+      <ref pos="300">1.1.24</ref>
+      <ref pos="310">1.1.25</ref>
+      <ref pos="320">1.1.26</ref>
+    </map>
+    <map x="451" y="237" w="26" h="25">
+      <ref pos="330">1.1.27</ref>
+    </map>
+    <map x="389" y="171" w="26" h="25">
+      <ref pos="340">1.1.28</ref>
+    </map>
+    <map x="355" y="159" w="34" h="26">
+      <ref pos="510">1.1.32</ref>
+      <ref pos="520">1.1.33</ref>
+    </map>
+    <map x="409" y="224" w="26" h="25">
+      <ref pos="550">1.1.34</ref>
+    </map>
+    <map x="37" y="60" w="117" h="108">
+      <ref pos="620">1.1.35</ref>
+      <ref pos="700">1.1.36</ref>
+      <ref pos="710">1.1.37</ref>
+      <ref pos="740">1.1.40</ref>
+      <ref pos="760">1.1.42</ref>
+    </map>
+    <map x="353" y="131" w="26" h="25">
+      <ref pos="720">1.1.38</ref>
+    </map>
+    <map x="223" y="212" w="26" h="25">
+      <ref pos="40">1.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="SUCTION CUP(SEALED)FOR LASN" materialnr="323515" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="Ejector (M10A6B1N) for LASN (20)" materialnr="338310" pos="20" description="&amp;nbsp;" />
+  <stk id="1_1_3" name="FILTER WK 31/2" materialnr="003862" pos="30" description="&amp;nbsp;" />
+  <stk id="1_1_4" name="VACUUM MANOMETER -1/0BAR D=63MM FOR LASN" materialnr="315853" pos="40" description="&amp;nbsp;" />
+  <stk id="1_1_5" name="SPIRAL-AIR HOSE FOR LASN (50)" materialnr="325418" pos="50" description="&amp;nbsp;" />
+  <stk id="1_1_6" name="LIFT DRIVE UNIT FOR LASN (60)" materialnr="233824" pos="60" description="&amp;nbsp;" />
+  <stk id="1_1_9" name="SHAFT INCL.SUBPLATE FOR LASN (80)" materialnr="335889" pos="80" description="&amp;nbsp;" />
+  <stk id="1_1_10" name="FREQUENCY CHANGER SET FUS 040-YA-606V7" materialnr="233830" pos="130" description="&amp;nbsp;" />
+  <stk id="1_1_11" name="ILLUMINATED PUSH BUTTON/LOCKING" materialnr="233832" pos="140" description="&amp;nbsp;" />
+  <stk id="1_1_12" name="PUSH BUTTON RED/STAY-PUT LASN (140)" materialnr="386436" pos="140" description="&amp;nbsp;" />
+  <stk id="1_1_13" name="PUSH BUTTON (NOT LOCKING) FOR LASN" materialnr="233833" pos="150" description="&amp;nbsp;" />
+  <stk id="1_1_14" name="Push button green for LASN (150)" materialnr="386437" pos="150" description="&amp;nbsp;" />
+  <stk id="1_1_15" name="SPHERICAL SURFACE GREEN FOR LASN" materialnr="233835" pos="160" description="&amp;nbsp;" />
+  <stk id="1_1_16" name="SPHERICAL SURFACE RED FOR LASN" materialnr="233836" pos="170" description="&amp;nbsp;" />
+  <stk id="1_1_17" name="GUARD BUSHING TH18" materialnr="233837" pos="180" description="&amp;nbsp;" />
+  <stk id="1_1_18" name="POTENTIOMETER FOR  LASN" materialnr="339539" pos="200" description="&amp;nbsp;" />
+  <stk id="1_1_19" name="SWITCH ROCKER ON CONTROL HEAD LASN" materialnr="351395" pos="200" description="&amp;nbsp;" />
+  <stk id="1_1_21" name="SHORT-STROKE BLOCK LASN" materialnr="352462" pos="220" description="&amp;nbsp;" />
+  <stk id="1_1_24" name="TOGGLE SWITCH  BLACK  FOR LASN/300" materialnr="233849" pos="300" description="&amp;nbsp;" />
+  <stk id="1_1_25" name="CONTACT BLOCK/NORM.OPEN CONTACT F LASN" materialnr="233851" pos="310" description="&amp;nbsp;" />
+  <stk id="1_1_26" name="RETAINER OF CONTACT BLOCK;TRIPLE; F LASN" materialnr="233853" pos="320" description="&amp;nbsp;" />
+  <stk id="1_1_27" name="TRIGGER VALVE FOR LASN" materialnr="338316" pos="330" description="&amp;nbsp;" />
+  <stk id="1_1_28" name="BLOW-OFF VALVE FOR LASN" materialnr="338315" pos="340" description="&amp;nbsp;" />
+  <stk id="1_1_32" name="QUICK DISCONNECT 1/4&amp;quot;-EXTERIOR D=7,2MM" materialnr="003492" pos="510" description="&amp;nbsp;" />
+  <stk id="1_1_33" name="MALE HOSE QUICK DISCONNECT W/MALE" materialnr="003505" pos="520" description="&amp;nbsp;" />
+  <stk id="1_1_34" name="CHECK VALVE SMALL D6" materialnr="324785" pos="550" description="&amp;nbsp;" />
+  <stk id="1_1_35" name="WARNING-PRESSURE SWITCH FOR LASN" materialnr="356628" pos="620" description="&amp;nbsp;" />
+  <stk id="1_1_36" name="MINIATURE FILAMENT LAMP, 220V" materialnr="001081" pos="700" description="&amp;nbsp;" />
+  <stk id="1_1_37" name="STOP BUSHING ON CYLINDER D=20MM" materialnr="233240" pos="710" description="&amp;nbsp;" />
+  <stk id="1_1_38" name="SPIRAL CABLE FOR 329483 50HZ" materialnr="387555" pos="720" description="&amp;nbsp;" />
+  <stk id="1_1_40" name="PROXIMITY CONTROL WN 1500.A.C" materialnr="233840" pos="740" description="&amp;nbsp;" />
+  <stk id="1_1_42" name="RETURN SPRING FOR ROCKER LEVER LASN" materialnr="383938" pos="760" description="&amp;nbsp;" />
+  <stk id="1_2" name="QUICK DISCONNECT" materialnr="003498" pos="3" description="&amp;nbsp;" />
+</catalog>

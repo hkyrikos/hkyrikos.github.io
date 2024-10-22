@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="ATL-60/30BF">
+  <stk id="1" name="ATL-60/30BF" materialnr="141409" pos="1" description="&amp;nbsp;">
+    <map x="131" y="25" w="367" h="251">
+      <ref pos="1">1.1</ref>
+      <ref pos="3">1.2</ref>
+      <ref pos="3">1.3</ref>
+      <ref pos="5">1.4</ref>
+      <ref pos="15">1.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="PARTS FOR BASE FRAME/TRAVELLING" materialnr="190602" pos="1" description="&amp;nbsp;">
+    <map x="455" y="198" w="27" h="25">
+      <ref pos="12">1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="SUPPORT  ROLLER ID17MM;OD47; W=21MM" materialnr="005743" pos="12" description="&amp;nbsp;" />
+  <stk id="1_2" name="TABLE BOARD COMPLETE" materialnr="329319" pos="3" description="&amp;nbsp;">
+    <map x="20" y="267" w="553" h="29">
+      <ref pos="4">1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1" name="GLASS UNIT TRANSPORT VERTICAL" materialnr="329317" pos="4" description="&amp;nbsp;">
+    <map x="500" y="40" w="26" h="25">
+      <ref>1.2.1.1</ref>
+    </map>
+    <map x="381" y="87" w="20" h="17">
+      <ref>1.2.1.2</ref>
+    </map>
+    <map x="371" y="66" w="19" h="19">
+      <ref>1.2.1.3</ref>
+    </map>
+    <map x="382" y="16" w="26" h="25">
+      <ref>1.2.1.4</ref>
+    </map>
+    <map x="359" y="44" w="21" h="20">
+      <ref>1.2.1.5</ref>
+    </map>
+    <map x="487" y="172" w="19" h="21">
+      <ref>1.2.1.6</ref>
+    </map>
+    <map x="507" y="164" w="17" h="23">
+      <ref>1.2.1.7</ref>
+    </map>
+    <map x="527" y="136" w="26" h="25">
+      <ref>1.2.1.8</ref>
+    </map>
+    <map x="462" y="184" w="23" h="19">
+      <ref>1.2.1.9</ref>
+    </map>
+    <map x="439" y="185" w="20" h="21">
+      <ref>1.2.1.10</ref>
+    </map>
+    <map x="314" y="260" w="26" h="25">
+      <ref>1.2.1.11</ref>
+    </map>
+    <map x="283" y="288" w="26" h="25">
+      <ref>1.2.1.12</ref>
+    </map>
+    <map x="232" y="317" w="26" h="25">
+      <ref>1.2.1.13</ref>
+    </map>
+    <map x="342" y="106" w="26" h="25">
+      <ref>1.2.1.14</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1_1" name="DBL SPROCKET 3/8X7/32 T=14 B=20K7" materialnr="024301" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_1_2" name="DUPLEX(DBL) SPROCKET 1/2&amp;quot; T=19" materialnr="014383" pos="4" description="&amp;nbsp;" />
+  <stk id="1_2_1_3" name="DUPLEX CHAIN 1/2X5/16 69LINKS+MASTER LIN" materialnr="026071" pos="5" description="&amp;nbsp;" />
+  <stk id="1_2_1_4" name="DBL.SPROCKET W/KWY,1/2&amp;quot;,T=14,20H7,2X" materialnr="014375" pos="6" description="&amp;nbsp;" />
+  <stk id="1_2_1_5" name="BEVEL GEARING MOTOR GKR04-2M VBR 50/60HZ" materialnr="310612" pos="7" description="&amp;nbsp;" />
+  <stk id="1_2_1_6" name="VULCOLLAN RING 69/79X85MM 88-90 SHORE A" materialnr="309103" pos="9" description="&amp;nbsp;" />
+  <stk id="1_2_1_7" name="SPRING WASHER FOR TRANSPORT ROLLER" materialnr="308438" pos="10" description="&amp;nbsp;" />
+  <stk id="1_2_1_8" name="TRANSPORT ROLLER BODY F SHAFT D=25H9" materialnr="324830" pos="11" description="&amp;nbsp;" />
+  <stk id="1_2_1_9" name="FLANGE BEARING ID25; OVAL CAST HOUSING" materialnr="005780" pos="12" description="&amp;nbsp;" />
+  <stk id="1_2_1_10" name="DRIVE SHAFT D=25H9X394MM" materialnr="315424" pos="13" description="&amp;nbsp;" />
+  <stk id="1_2_1_11" name="TRANS.ROLLER UNIT OF VERT.TRANSPORT ATL" materialnr="329316" pos="14" description="&amp;nbsp;">
+    <map x="400" y="340" w="27" h="25">
+      <ref>1.2.1.11.1</ref>
+    </map>
+    <map x="401" y="80" w="27" h="25">
+      <ref>1.2.1.11.2</ref>
+    </map>
+    <map x="155" y="260" w="27" h="25">
+      <ref>1.2.1.11.3</ref>
+    </map>
+    <map x="70" y="25" w="27" h="25">
+      <ref>1.2.1.11.4</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1_11_1" name="TRANSPORT ROLLER BODY F SHAFT D=25H9" materialnr="324830" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_1_11_2" name="VULCOLLAN RING 69/79X85MM 88-90 SHORE A" materialnr="309103" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_1_11_3" name="FLANGE BEARING ID25; OVAL CAST HOUSING" materialnr="005780" pos="5" description="&amp;nbsp;" />
+  <stk id="1_2_1_11_4" name="DBL SPROCKET 3/8X7/32 T=14 B=20K7" materialnr="024301" pos="6" description="&amp;nbsp;" />
+  <stk id="1_2_1_12" name="CHAIN 3/8x7/32&amp;quot;  81LINKS+MASTER LINK" materialnr="025502" pos="15" description="&amp;nbsp;" />
+  <stk id="1_2_1_13" name="CHAIN TENSIONER-TRANSP.ROLLER DRIVE PSLN" materialnr="136879" pos="16" description="&amp;nbsp;" />
+  <stk id="1_2_1_14" name="FLANGE BEARING ID20;3-HOLE CASTING" materialnr="005771" pos="18" description="&amp;nbsp;" />
+  <stk id="1_3" name="PARTS FOR MOBILE DESIGN" materialnr="378685" pos="3" description="&amp;nbsp;">
+    <map x="298" y="37" w="29" h="21">
+      <ref pos="12">1.3.1</ref>
+    </map>
+    <map x="339" y="248" w="28" h="20">
+      <ref pos="14">1.3.2</ref>
+    </map>
+    <map x="373" y="16" w="87" h="75">
+      <ref pos="17">1.3.3</ref>
+      <ref pos="18">1.3.4</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1" name="PLUMMER BLOCK BEARING;CAST HOUS.ID30" materialnr="005764" pos="12" description="&amp;nbsp;" />
+  <stk id="1_3_2" name="FLAT-GEAR MOTOR 750W 81RPM 220-415V 50HZ" materialnr="371887" pos="14" description="&amp;nbsp;">
+    <map x="204" y="29" w="261" h="163">
+      <ref pos="10">1.3.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_2_1" name="MOUNTING -SET LENZE GFL/04 GFL/05 GSS04" materialnr="417191" pos="10" description="&amp;nbsp;" />
+  <stk id="1_3_3" name="ENERGY PIPE 58.100.150.9" materialnr="237917" pos="17" description="&amp;nbsp;">
+    <map x="33" y="26" w="536" h="277">
+      <ref pos="10">1.3.3.1</ref>
+      <ref pos="20">1.3.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_3_3_1" name="ENERGY PIPE 58.100.150.9  Single-Link" materialnr="345916" pos="10" description="&amp;nbsp;" />
+  <stk id="1_3_3_2" name="CONNECTING LINK F.ENERGY PIPE 58.100.150" materialnr="387075" pos="20" description="&amp;nbsp;" />
+  <stk id="1_3_4" name="ENERGY PIPE 58.100.150.9. 29 LINKS" materialnr="322388" pos="18" description="&amp;nbsp;">
+    <map x="85" y="87" w="219" h="222">
+      <ref pos="10">1.3.4.1</ref>
+      <ref pos="20">1.3.4.2</ref>
+    </map>
+  </stk>
+  <stk id="1_3_4_1" name="ENERGY PIPE 58.100.150.9  Single-Link" materialnr="345916" pos="10" description="&amp;nbsp;" />
+  <stk id="1_3_4_2" name="CONNECTING LINK F.ENERGY PIPE 58.100.150" materialnr="387075" pos="20" description="&amp;nbsp;" />
+  <stk id="1_4" name="PART LIST ATL-60/30BF COMP.HD" materialnr="345762" pos="5" description="&amp;nbsp;">
+    <map x="416" y="171" w="28" h="19">
+      <ref pos="1">1.4.1</ref>
+    </map>
+    <map x="68" y="163" w="28" h="19">
+      <ref pos="12">1.4.5</ref>
+    </map>
+    <map x="480" y="19" w="58" h="99">
+      <ref pos="5">1.4.3</ref>
+      <ref pos="18">1.4.6</ref>
+    </map>
+    <map x="515" y="246" w="28" h="19">
+      <ref pos="3">1.4.2</ref>
+    </map>
+    <map x="5" y="206" w="28" h="19">
+      <ref pos="11">1.4.4</ref>
+    </map>
+    <map x="6" y="282" w="29" h="19">
+      <ref pos="34">1.4.7</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1" name="HD-POWER UNIT 13,9L/MIN 3KW COMPACT" materialnr="342457" pos="1" description="&amp;nbsp;">
+    <map x="149" y="92" w="110" h="162">
+      <ref pos="10">1.4.1.1</ref>
+      <ref pos="20">1.4.1.2</ref>
+      <ref pos="30">1.4.1.3</ref>
+    </map>
+    <map x="310" y="90" w="218" h="196">
+      <ref pos="40">1.4.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_1" name="LOWERING BRAKE VALVE WB-CC-DE-L6 DBL" materialnr="325938" pos="10" description="&amp;nbsp;" />
+  <stk id="1_4_1_2" name="COUPLING 24/30 B/Bx60 Steel,Rotex" materialnr="353246" pos="20" description="&amp;nbsp;" />
+  <stk id="1_4_1_3" name="4/6-SOL-VALVE ARON-AD3E01" materialnr="333911" pos="30" description="&amp;nbsp;" />
+  <stk id="1_4_1_4" name="HYDRAULIC OIL TANK 25L" materialnr="380643" pos="40" description="&amp;nbsp;" />
+  <stk id="1_4_2" name="HD-CYLINDER D63 STR800 200BAR" materialnr="342455" pos="3" description="&amp;nbsp;" />
+  <stk id="1_4_3" name="HYD-HOSE D=10MM;L=2500MM; DKS/DKS ST2" materialnr="030947" pos="5" description="&amp;nbsp;" />
+  <stk id="1_4_4" name="MULTI-DIRECTIONAL ROLLER D80;W64;BORE 15" materialnr="005640" pos="11" description="&amp;nbsp;" />
+  <stk id="1_4_5" name="FLANGE BEARING;ID=40; OVAL CAST HOUSING" materialnr="005792" pos="12" description="&amp;nbsp;" />
+  <stk id="1_4_6" name="HYRAULIC FLUID/HLP-HM32 TANK FILLING" materialnr="008127" pos="18" description="&amp;nbsp;" />
+  <stk id="1_4_7" name="TRANSPORT ROLLER W.VULCOLLAN D58X69MM" materialnr="381322" pos="34" description="&amp;nbsp;">
+    <map x="220" y="6" w="26" h="25">
+      <ref>1.4.7.1</ref>
+    </map>
+    <map x="295" y="9" w="26" h="25">
+      <ref>1.4.7.2</ref>
+    </map>
+  </stk>
+  <stk id="1_4_7_1" name="TRANSPORT ROLLER OD=50 ID=20 W=70MM" materialnr="381431" pos="1" description="&amp;nbsp;" />
+  <stk id="1_4_7_2" name="TRANSPORT ROLLER COATING 57/47x65MM" materialnr="230340" pos="2" description="&amp;nbsp;" />
+  <stk id="1_5" name="TABLE BOARD W GLASS UNIT TRANS.HORIZONT." materialnr="329318" pos="15" description="&amp;nbsp;">
+    <map x="540" y="243" w="28" h="20">
+      <ref pos="1">1.5.1</ref>
+      <ref pos="2">1.5.2</ref>
+    </map>
+    <map x="540" y="265" w="28" h="20">
+      <ref pos="3">1.5.3</ref>
+    </map>
+    <map x="454" y="12" w="28" h="20">
+      <ref pos="16">1.5.7</ref>
+    </map>
+    <map x="484" y="12" w="28" h="20">
+      <ref pos="21">1.5.9</ref>
+    </map>
+    <map x="270" y="262" w="230" h="43">
+      <ref pos="11">1.5.4</ref>
+      <ref pos="12">1.5.5</ref>
+      <ref pos="18">1.5.8</ref>
+    </map>
+    <map x="507" y="157" w="28" h="20">
+      <ref pos="14">1.5.6</ref>
+    </map>
+  </stk>
+  <stk id="1_5_1" name="TP-SPUR GEAR MOTOR 750W 55RPM 220/480V" materialnr="033263" pos="1" description="&amp;nbsp;" />
+  <stk id="1_5_2" name="DBL.SPROCKET W/KWY,1/2&amp;quot;,T=25,25H7,2X" materialnr="014391" pos="2" description="&amp;nbsp;" />
+  <stk id="1_5_3" name="DUPLEX-CHAIN 1/2X5/16&amp;quot; 73 LINKS" materialnr="023382" pos="3" description="&amp;nbsp;" />
+  <stk id="1_5_4" name="CHAIN 3/8&amp;quot;X7/32&amp;quot; 76 LINKS+MASTER LINK" materialnr="176945" pos="11" description="&amp;nbsp;" />
+  <stk id="1_5_5" name="CHAIN 3/8X7/32&amp;quot; 137 LINKS+MASTER LINK" materialnr="328005" pos="12" description="&amp;nbsp;" />
+  <stk id="1_5_6" name="MULTI-DIRECTIONAL ROLLER D80;W64;BORE 15" materialnr="005640" pos="14" description="&amp;nbsp;" />
+  <stk id="1_5_7" name="TRANSPORT SHAFT PRE-ASSEMBLED L=2995MM" materialnr="315498" pos="16" description="&amp;nbsp;" />
+  <stk id="1_5_8" name="CHAIN 3/8x7/32&amp;quot; 67LINKS+MASTER LINK" materialnr="022686" pos="18" description="&amp;nbsp;" />
+  <stk id="1_5_9" name="TRANS.DRIVE SHAFT PREASSEMBLED L=2995MM" materialnr="315499" pos="21" description="&amp;nbsp;">
+    <map x="19" y="179" w="27" h="25">
+      <ref>1.5.9.1</ref>
+    </map>
+    <map x="46" y="348" w="27" h="25">
+      <ref>1.5.9.2</ref>
+    </map>
+    <map x="140" y="323" w="27" h="25">
+      <ref>1.5.9.3</ref>
+    </map>
+  </stk>
+  <stk id="1_5_9_1" name="IDLE PULLEY;EPDM;D80;W18;BORE HOLE 18" materialnr="005623" pos="3" description="&amp;nbsp;" />
+  <stk id="1_5_9_2" name="DBL SPROCKET 3/8X7/32 T=14 B=20K7 +" materialnr="014869" pos="5" description="&amp;nbsp;" />
+  <stk id="1_5_9_3" name="DBL.SPROCKET W/KWY,1/2&amp;quot;,T=14,20H7,2X" materialnr="014375" pos="7" description="&amp;nbsp;" />
+</catalog>

@@ -1,0 +1,1157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="VB-45">
+  <stk id="1" name="VB-45" materialnr="184224" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="">
+    <map x="14" y="55" w="540" h="310">
+      <ref pos="2">1.1</ref>
+      <ref pos="5">1.2</ref>
+      <ref pos="8">1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="BAUGRUPPENGESAMTLISTE VB-45 VAR.2 SP" materialnr="252545" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="68" y="36" w="465" h="229">
+      <ref pos="1">1.1.1</ref>
+      <ref pos="2">1.1.2</ref>
+      <ref pos="3">1.1.3</ref>
+      <ref pos="4">1.1.4</ref>
+      <ref pos="5">1.1.5</ref>
+      <ref pos="6">1.1.6</ref>
+      <ref pos="7">1.1.7</ref>
+      <ref pos="8">1.1.8</ref>
+      <ref pos="9">1.1.9</ref>
+      <ref pos="11">1.1.10</ref>
+      <ref pos="12">1.1.11</ref>
+      <ref pos="13">1.1.12</ref>
+      <ref pos="14">1.1.13</ref>
+      <ref pos="15">1.1.14</ref>
+      <ref pos="16">1.1.15</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="GESTELL SCHMAL GESAMT VB-45 SP." materialnr="252452" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="67" y="284" w="41" h="20">
+      <ref pos="8">1.1.1.1</ref>
+      <ref pos="9">1.1.1.2</ref>
+    </map>
+    <map x="133" y="70" w="28" h="20">
+      <ref pos="16">1.1.1.3</ref>
+    </map>
+    <map x="524" y="196" w="28" h="20">
+      <ref pos="19">1.1.1.4</ref>
+    </map>
+    <map x="6" y="246" w="28" h="20">
+      <ref pos="33">1.1.1.5</ref>
+    </map>
+    <map x="241" y="39" w="28" h="20">
+      <ref pos="40">1.1.1.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="Anschlagrolle Dm60x15 h&amp;ouml;henbeweglich" materialnr="322843" pos="8" description="&amp;nbsp;" ET="6" Quantity="1" Unit="">
+    <map x="89" y="52" w="27" h="25">
+      <ref pos="1">1.1.1.1.1</ref>
+    </map>
+    <map x="89" y="80" w="27" h="25">
+      <ref pos="2">1.1.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1_1" name="Rolle f. h&amp;ouml;heneinstellbare Anschlagrolle" materialnr="322841" pos="1" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_1_1_2" name="Lagerbuchse D28/25 mit Bund, L=16.5mm" materialnr="330058" pos="2" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_1_2" name="Exzenterbolzen f.Anschlagrolle beweglich" materialnr="322844" pos="9" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_1_3" name="F&amp;uuml;hrungsschiene STAR Gr.25 L=5230mm" materialnr="309063" pos="16" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_1_4" name="STOSSD&amp;Auml;MPFER H=25, 195NM/H," materialnr="248574" pos="19" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_1_5" name="SCHWINGMETALLPUFFER,D25,H17, AG-M6X16" materialnr="020899" pos="33" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_1_6" name="ST&amp;Uuml;TZROLLE F&amp;Uuml;R EFK" materialnr="031092" pos="40" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_2" name="ACHSANTRIEB VB45 KOMPLETT SP" materialnr="252453" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="546" y="62" w="46" h="80">
+      <ref pos="1">1.1.2.1</ref>
+    </map>
+    <map x="361" y="76" w="28" h="20">
+      <ref pos="2">1.1.2.2</ref>
+    </map>
+    <map x="193" y="76" w="38" h="20">
+      <ref pos="3">1.1.2.3</ref>
+      <ref pos="3">1.1.2.4</ref>
+    </map>
+    <map x="193" y="233" w="38" h="20">
+      <ref pos="4">1.1.2.5</ref>
+      <ref pos="4">1.1.2.6</ref>
+    </map>
+    <map x="16" y="258" w="28" h="20">
+      <ref pos="5">1.1.2.7</ref>
+    </map>
+    <map x="23" y="78" w="28" h="20">
+      <ref pos="6">1.1.2.8</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="Antriebseinheit m. Spannrolle Var.2 sp" materialnr="321286" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="239" y="25" w="28" h="21">
+      <ref pos="1">1.1.2.1.1</ref>
+    </map>
+    <map x="417" y="193" w="28" h="21">
+      <ref pos="3">1.1.2.1.2</ref>
+    </map>
+    <map x="239" y="146" w="28" h="21">
+      <ref pos="7">1.1.2.1.4</ref>
+    </map>
+    <map x="417" y="170" w="28" h="21">
+      <ref pos="9">1.1.2.1.5</ref>
+    </map>
+    <map x="417" y="148" w="28" h="21">
+      <ref pos="11">1.1.2.1.6</ref>
+    </map>
+    <map x="417" y="123" w="28" h="21">
+      <ref pos="14">1.1.2.1.7</ref>
+    </map>
+    <map x="244" y="265" w="28" h="21">
+      <ref pos="6">1.1.2.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_1" name="HTD-ZAHNR.SCH;T8,Z24,BR20,20H7,BUCHS" materialnr="029620" pos="1" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_2_1_2" name="HTD-ZAHNR.SCH;T8,Z32,BR20,20H7,BUCHS" materialnr="029621" pos="3" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_1_3" name="STEHLAGER,GUSSGEH&amp;Auml;USE,ID=20,PSHE 20" materialnr="019602" pos="6" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_2_1_4" name="STG.Servom.LENZE 0.8kW+GST04 i=9.9 oB" materialnr="304921" pos="7" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_1_5" name="Umlenkrolle Dm88/42 f&amp;uuml;r RB=20mm" materialnr="320373" pos="9" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_1_6" name="RILLENKUGELL.ID20,AD42,BR12,2DICHTS." materialnr="005697" pos="11" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_7" name="ZAHNRIEMEN, HTD-8M-1280-20" materialnr="030975" pos="14" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_2" name="Zahnr.Satz PGGT-LL-8MR-20 11000mm 2 Stk" materialnr="368092" pos="2" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_3" name="Energiekette T=46 BA=82 HA=42 KR=100" materialnr="365310" pos="3" description="&amp;nbsp;" ET="8" Quantity="65" Unit="" />
+  <stk id="1_1_2_4" name="Anschlusselemente-Satz IGUS 220.062.12" materialnr="365311" pos="3" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_5" name="Energierohr T=46 BA=70 HA=42 KR=100" materialnr="365336" pos="4" description="&amp;nbsp;" ET="8" Quantity="62" Unit="" />
+  <stk id="1_1_2_6" name="Anschlusselemente-Satz IGUS 760.050.12" materialnr="365337" pos="4" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_7" name="UMLENKROLLE GESAMT VAR.2" materialnr="223644" pos="5" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="384" y="77" w="27" h="26">
+      <ref pos="1">1.1.2.7.1</ref>
+    </map>
+    <map x="439" y="127" w="27" h="26">
+      <ref pos="5">1.1.2.7.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_7_1" name="UMLENKROLLE D=53/35MM,RB=20MM,ALU" materialnr="029851" pos="1" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_7_2" name="RILLENKUGELL.ID17,AD35,BR10,2DICHTS." materialnr="005688" pos="5" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_8" name="Spannrolleneinheit Schneider oben VB" materialnr="324452" pos="6" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="496" y="224" w="27" h="24">
+      <ref pos="2">1.1.2.8.1</ref>
+    </map>
+    <map x="496" y="319" w="27" h="24">
+      <ref pos="3">1.1.2.8.2</ref>
+    </map>
+    <map x="495" y="263" w="27" h="24">
+      <ref pos="5">1.1.2.8.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_8_1" name="BOHRUNGSSICHERUNGSRING DIN472-35X1.5" materialnr="005376" pos="2" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_8_2" name="WELLENSICHERUNGSRING DIN 471 - 17X1" materialnr="005348" pos="3" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_8_3" name="RILLENKUGELL.ID17,AD35,BR10,2DICHTS." materialnr="005688" pos="5" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3" name="Saugerbalken beweglich gesamt VB-45 sp" materialnr="321393" pos="3" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="259" y="285" w="26" h="25">
+      <ref pos="2">1.1.3.1</ref>
+    </map>
+    <map x="172" y="152" w="26" h="25">
+      <ref pos="5">1.1.3.3</ref>
+    </map>
+    <map x="366" y="72" w="26" h="25">
+      <ref pos="6">1.1.3.4</ref>
+    </map>
+    <map x="337" y="72" w="26" h="25">
+      <ref pos="8">1.1.3.5</ref>
+    </map>
+    <map x="491" y="196" w="26" h="25">
+      <ref pos="9">1.1.3.6</ref>
+    </map>
+    <map x="322" y="285" w="43" h="25">
+      <ref pos="12">1.1.3.7</ref>
+      <ref pos="13">1.1.3.8</ref>
+    </map>
+    <map x="261" y="98" w="26" h="25">
+      <ref pos="14">1.1.3.9</ref>
+    </map>
+    <map x="291" y="285" w="26" h="25">
+      <ref pos="16">1.1.3.10</ref>
+    </map>
+    <map x="30" y="352" w="26" h="25">
+      <ref pos="18">1.1.3.11</ref>
+    </map>
+    <map x="453" y="17" w="56" h="25">
+      <ref pos="21">1.1.3.13</ref>
+      <ref pos="28">1.1.3.16</ref>
+      <ref pos="37">1.1.3.23</ref>
+    </map>
+    <map x="370" y="285" w="26" h="25">
+      <ref pos="22">1.1.3.14</ref>
+    </map>
+    <map x="502" y="140" w="47" h="24">
+      <ref pos="19">1.1.3.12</ref>
+      <ref pos="23">1.1.3.15</ref>
+    </map>
+    <map x="461" y="197" w="26" h="25">
+      <ref pos="31">1.1.3.18</ref>
+    </map>
+    <map x="379" y="198" w="26" h="25">
+      <ref pos="32">1.1.3.19</ref>
+    </map>
+    <map x="410" y="198" w="48" h="24">
+      <ref pos="34">1.1.3.20</ref>
+      <ref pos="35">1.1.3.21</ref>
+    </map>
+    <map x="30" y="229" w="26" h="25">
+      <ref pos="36">1.1.3.22</ref>
+    </map>
+    <map x="56" y="229" w="26" h="25">
+      <ref pos="100">1.1.3.25</ref>
+    </map>
+    <map x="228" y="285" w="26" h="25">
+      <ref pos="4">1.1.3.2</ref>
+    </map>
+    <map x="367" y="44" w="25" h="24">
+      <ref pos="39">1.1.3.24</ref>
+    </map>
+    <map x="414" y="252" w="90" h="51">
+      <ref pos="101">1.1.3.26</ref>
+    </map>
+    <map x="366" y="16" w="26" h="25">
+      <ref pos="29">1.1.3.17</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="GELENKKOPF M16X1.5-INNEN-R, ND 16MM" materialnr="003047" pos="2" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_2" name="GELENKKOPF M16X1.5-INNEN-L, ND 16MM" materialnr="003052" pos="4" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_3" name="Saugertorsionswelle gesamt SB bew. VB-45" materialnr="321340" pos="5" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="200" y="181" w="27" h="25">
+      <ref pos="9">1.1.3.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_3_1" name="GLEITLAGERBUCHSE,ID=35,AD=39,B=30MM" materialnr="019566" pos="9" description="&amp;nbsp;" ET="8" Quantity="14" Unit="" />
+  <stk id="1_1_3_4" name="DISTANZH&amp;Uuml;LSE F.&amp;Uuml;BERTRANSPORTHILFE" materialnr="219433" pos="6" description="&amp;nbsp;" ET="6" Quantity="46" Unit="" />
+  <stk id="1_1_3_5" name="Sauger beweglich VB gesamt" materialnr="449993" pos="8" description="&amp;nbsp;" ET="9" Quantity="22" Unit="">
+    <map x="535" y="77" w="28" h="20">
+      <ref pos="1">1.1.3.5.1</ref>
+    </map>
+    <map x="293" y="111" w="70" h="51">
+      <ref pos="7">1.1.3.5.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_5_1" name="SAUGER MIT M6 SCHRAUBBAR VORMONTIERT" materialnr="213243" pos="1" description="&amp;nbsp;" ET="6" Quantity="22" Unit="">
+    <map x="220" y="136" w="148" h="64">
+      <ref pos="1">1.1.3.5.1.1</ref>
+      <ref pos="2">1.1.3.5.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_5_1_1" name="FLACHSAUGGREIFER MIT 2X M6 SCHRAUBBAR" materialnr="213214" pos="1" description="&amp;nbsp;" ET="8" Quantity="484" Unit="" />
+  <stk id="1_1_3_5_1_2" name="Miniaturschalld&amp;auml;mpfer G1/8&amp;quot;, Messing" materialnr="346276" pos="2" description="&amp;nbsp;" ET="7" Quantity="484" Unit="" />
+  <stk id="1_1_3_5_2" name="PU-Schlauch AD6X1,wei&amp;szlig;,hochflexibel" materialnr="322933" pos="7" description="&amp;nbsp;" ET="8" Quantity="5500" Unit="" />
+  <stk id="1_1_3_6" name="Glasunterst&amp;uuml;tzung bei VB-Sauger" materialnr="348340" pos="9" description="&amp;nbsp;" ET="8" Quantity="23" Unit="" />
+  <stk id="1_1_3_7" name="GEGENLAGER LASCHE BREIT ZYL.DM=80" materialnr="003087" pos="12" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_3_8" name="SCHWENKBEF.GABELAUSF.BREIT PN-ZYL.D=80" materialnr="003069" pos="13" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_3_9" name="GELENKKOPF M20X1.5-INNEN-R ND 20 WF" materialnr="003073" pos="14" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_3_10" name="DW.PN.Zyl. D=80 H=25 ISO m.Sign. LLA" materialnr="424223" pos="16" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_3_11" name="ST&amp;Uuml;TZROLLE, ID=17MM, AD=47MM, B=21MM" materialnr="005743" pos="18" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_3_12" name="F&amp;Uuml;HRUNGSKL0TZ F.SAUGERBALKEN BEWEGL." materialnr="031031" pos="19" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_13" name="Exzenterbolzen f.Anschlagrolle beweglich" materialnr="322844" pos="21" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_14" name="FLANSCHLAGER,ID=50MM,OVALES GEH&amp;Auml;USE" materialnr="005794" pos="22" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_3_15" name="F&amp;Uuml;HRUNGSKAPPE F.SAUGERBALKEN BEWEGL." materialnr="031035" pos="23" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_3_16" name="Anschlagrolle Dm60x15 h&amp;ouml;henbeweglich" materialnr="322843" pos="28" description="&amp;nbsp;" ET="6" Quantity="2" Unit="">
+    <map x="89" y="52" w="27" h="25">
+      <ref pos="1">1.1.3.16.1</ref>
+    </map>
+    <map x="89" y="80" w="27" h="25">
+      <ref pos="2">1.1.3.16.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_16_1" name="Rolle f. h&amp;ouml;heneinstellbare Anschlagrolle" materialnr="322841" pos="1" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_16_2" name="Lagerbuchse D28/25 mit Bund, L=16.5mm" materialnr="330058" pos="2" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_17" name="Gleitlagerklotz bei Anschlagrolle var.1" materialnr="437101" pos="29" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_18" name="GELENKKOPF M8-AUSSEN-R, ND 8MM" materialnr="005849" pos="31" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_19" name="DW-Kurzhubzyl.D=50 Hub=15,M.Sign." materialnr="418941" pos="32" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_20" name="SCHWENKBEF.GABELAUSF.BREIT PN-ZYL.D=32" materialnr="003034" pos="34" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_21" name="GEGENLAGER LASCHE BREIT ZYL.DM=32" materialnr="003084" pos="35" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_22" name="GLEITLAGERBUCHSE,ID=12,AD=14,L=10MM" materialnr="005802" pos="36" description="&amp;nbsp;" ET="8" Quantity="92" Unit="" />
+  <stk id="1_1_3_23" name="GLEITLAGERBUCHSE,ID=14,AD=16,L=20MM" materialnr="005804" pos="37" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_24" name="Sauger beweglich zweiteilig VB gesamt" materialnr="449994" pos="39" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="535" y="78" w="28" h="20">
+      <ref pos="1">1.1.3.24.1</ref>
+    </map>
+    <map x="353" y="118" w="28" h="20">
+      <ref pos="3">1.1.3.24.2</ref>
+    </map>
+    <map x="534" y="138" w="28" h="20">
+      <ref pos="7">1.1.3.24.3</ref>
+    </map>
+    <map x="270" y="109" w="59" h="49">
+      <ref pos="50">1.1.3.24.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_24_1" name="Flachsauggreifer 83x70 mit 2 xM6" materialnr="389730" pos="1" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_3_24_2" name="Steckverschr. M5, gerade, Dm6" materialnr="308207" pos="3" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_24_3" name="Miniaturschalld&amp;auml;mpfer G1/8&amp;quot;, Messing" materialnr="346276" pos="7" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_24_4" name="PU-Schlauch AD6X1,wei&amp;szlig;,hochflexibel" materialnr="322933" pos="50" description="&amp;nbsp;" ET="8" Quantity="500" Unit="" />
+  <stk id="1_1_3_25" name="SCHAUMSTOFF-ABSCHIRMUNG VAR.2" materialnr="216508" pos="100" description="&amp;nbsp;" ET="8" Quantity="23" Unit="" />
+  <stk id="1_1_3_26" name="WELLENSICHERUNGSRING DIN 471 - 17X1" materialnr="005348" pos="101" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_4" name="SAUGERBALKEN FIX GESAMT VB-45" materialnr="250528" pos="4" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="88" y="139" w="28" h="20">
+      <ref pos="1">1.1.4.1</ref>
+    </map>
+    <map x="340" y="203" w="28" h="20">
+      <ref pos="2">1.1.4.2</ref>
+    </map>
+    <map x="5" y="204" w="28" h="20">
+      <ref pos="5">1.1.4.3</ref>
+    </map>
+    <map x="118" y="139" w="28" h="20">
+      <ref pos="7">1.1.4.4</ref>
+    </map>
+    <map x="470" y="0" w="37" h="20">
+      <ref pos="9">1.1.4.5</ref>
+      <ref pos="10">1.1.4.6</ref>
+    </map>
+    <map x="169" y="126" w="51" h="33">
+      <ref pos="11">1.1.4.7</ref>
+    </map>
+    <map x="121" y="270" w="28" h="20">
+      <ref pos="12">1.1.4.8</ref>
+    </map>
+    <map x="340" y="227" w="28" h="20">
+      <ref pos="14">1.1.4.9</ref>
+    </map>
+    <map x="371" y="179" w="28" h="20">
+      <ref pos="17">1.1.4.10</ref>
+    </map>
+    <map x="371" y="203" w="28" h="20">
+      <ref pos="20">1.1.4.11</ref>
+    </map>
+    <map x="25" y="139" w="28" h="20">
+      <ref pos="21">1.1.4.12</ref>
+    </map>
+    <map x="56" y="139" w="28" h="20">
+      <ref pos="24">1.1.4.13</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="Sauger beweglich VB gesamt" materialnr="449993" pos="1" description="&amp;nbsp;" ET="9" Quantity="22" Unit="">
+    <map x="535" y="77" w="28" h="20">
+      <ref pos="1">1.1.4.1.1</ref>
+    </map>
+    <map x="293" y="111" w="70" h="51">
+      <ref pos="7">1.1.4.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_1" name="SAUGER MIT M6 SCHRAUBBAR VORMONTIERT" materialnr="213243" pos="1" description="&amp;nbsp;" ET="6" Quantity="22" Unit="">
+    <map x="220" y="136" w="148" h="64">
+      <ref pos="1">1.1.4.1.1.1</ref>
+      <ref pos="2">1.1.4.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_1_1" name="FLACHSAUGGREIFER MIT 2X M6 SCHRAUBBAR" materialnr="213214" pos="1" description="&amp;nbsp;" ET="8" Quantity="484" Unit="" />
+  <stk id="1_1_4_1_1_2" name="Miniaturschalld&amp;auml;mpfer G1/8&amp;quot;, Messing" materialnr="346276" pos="2" description="&amp;nbsp;" ET="7" Quantity="484" Unit="" />
+  <stk id="1_1_4_1_2" name="PU-Schlauch AD6X1,wei&amp;szlig;,hochflexibel" materialnr="322933" pos="7" description="&amp;nbsp;" ET="8" Quantity="5500" Unit="" />
+  <stk id="1_1_4_2" name="TORSIONSWELLE GESAMT SAUGERBET&amp;Auml;T." materialnr="252324" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="189" y="155" w="27" h="25">
+      <ref pos="8">1.1.4.2.1</ref>
+    </map>
+    <map x="346" y="98" w="27" h="25">
+      <ref pos="9">1.1.4.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_2_1" name="GLEITLAGERBUCHSE,ID=35,AD=39,B=30MM" materialnr="019566" pos="8" description="&amp;nbsp;" ET="8" Quantity="12" Unit="" />
+  <stk id="1_1_4_2_2" name="PASSFEDER 10X8X32MM,DIN 6885,ST50-1K" materialnr="005330" pos="9" description="&amp;nbsp;" ET="8" Quantity="25" Unit="" />
+  <stk id="1_1_4_3" name="F&amp;uuml;hrungsschiene STAR Gr.25 L=5230mm" materialnr="309063" pos="5" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_4" name="DISTANZKLOTZ AUF BRECHLEISTENSEITE" materialnr="233729" pos="7" description="&amp;nbsp;" ET="8" Quantity="16" Unit="" />
+  <stk id="1_1_4_5" name="Anschlagrolle Dm60x15 h&amp;ouml;henbeweglich" materialnr="322843" pos="9" description="&amp;nbsp;" ET="6" Quantity="3" Unit="">
+    <map x="89" y="52" w="27" h="25">
+      <ref pos="1">1.1.4.5.1</ref>
+    </map>
+    <map x="89" y="80" w="27" h="25">
+      <ref pos="2">1.1.4.5.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_5_1" name="Rolle f. h&amp;ouml;heneinstellbare Anschlagrolle" materialnr="322841" pos="1" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_4_5_2" name="Lagerbuchse D28/25 mit Bund, L=16.5mm" materialnr="330058" pos="2" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_4_6" name="Exzenterbolzen f.Anschlagrolle beweglich" materialnr="322844" pos="10" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_4_7" name="SCHAUMSTOFF-ABSCHIRMUNG VAR.2" materialnr="216508" pos="11" description="&amp;nbsp;" ET="8" Quantity="23" Unit="" />
+  <stk id="1_1_4_8" name="GLEITLAGERBUCHSE,ID=12,AD=14,L=10MM" materialnr="005802" pos="12" description="&amp;nbsp;" ET="8" Quantity="92" Unit="" />
+  <stk id="1_1_4_9" name="GELENKKOPF M16X1.5-INNEN-L, ND 16MM" materialnr="003052" pos="14" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_10" name="GELENKKOPF M16X1.5-INNEN-R, ND 16MM" materialnr="003047" pos="17" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_4_11" name="DW.PN.Zyl. D=50 H=25 ISO m.Sign. LLA" materialnr="424805" pos="20" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_4_12" name="Gleitflach f&amp;uuml;r Schubflach Var.2" materialnr="330986" pos="21" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_4_13" name="Sauger beweglich zweiteilig VB gesamt" materialnr="449994" pos="24" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="535" y="78" w="28" h="20">
+      <ref pos="1">1.1.4.13.1</ref>
+    </map>
+    <map x="353" y="118" w="28" h="20">
+      <ref pos="3">1.1.4.13.2</ref>
+    </map>
+    <map x="534" y="138" w="28" h="20">
+      <ref pos="7">1.1.4.13.3</ref>
+    </map>
+    <map x="270" y="109" w="59" h="49">
+      <ref pos="50">1.1.4.13.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_13_1" name="Flachsauggreifer 83x70 mit 2 xM6" materialnr="389730" pos="1" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_4_13_2" name="Steckverschr. M5, gerade, Dm6" materialnr="308207" pos="3" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_4_13_3" name="Miniaturschalld&amp;auml;mpfer G1/8&amp;quot;, Messing" materialnr="346276" pos="7" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_4_13_4" name="PU-Schlauch AD6X1,wei&amp;szlig;,hochflexibel" materialnr="322933" pos="50" description="&amp;nbsp;" ET="8" Quantity="500" Unit="" />
+  <stk id="1_1_5" name="Schneider oben VB, s=2x8mm sp" materialnr="414702" pos="5" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="463" y="14" w="27" h="26">
+      <ref pos="2">1.1.5.1</ref>
+    </map>
+    <map x="200" y="228" w="27" h="26">
+      <ref pos="9">1.1.5.4</ref>
+    </map>
+    <map x="522" y="239" w="27" h="26">
+      <ref pos="10">1.1.5.5</ref>
+    </map>
+    <map x="522" y="360" w="27" h="26">
+      <ref pos="12">1.1.5.6</ref>
+    </map>
+    <map x="314" y="224" w="27" h="26">
+      <ref pos="14">1.1.5.7</ref>
+    </map>
+    <map x="200" y="306" w="65" h="37">
+      <ref pos="17">1.1.5.8</ref>
+      <ref pos="33">1.1.5.12</ref>
+    </map>
+    <map x="314" y="253" w="27" h="26">
+      <ref pos="29">1.1.5.11</ref>
+    </map>
+    <map x="377" y="369" w="57" h="26">
+      <ref pos="67">1.1.5.26</ref>
+    </map>
+    <map x="522" y="123" w="27" h="26" />
+    <map x="0" y="323" w="27" h="26">
+      <ref pos="34">1.1.5.13</ref>
+    </map>
+    <map x="200" y="258" w="27" h="26">
+      <ref pos="37">1.1.5.14</ref>
+    </map>
+    <map x="0" y="296" w="27" h="26">
+      <ref pos="42">1.1.5.15</ref>
+    </map>
+    <map x="0" y="267" w="27" h="26">
+      <ref pos="44">1.1.5.16</ref>
+    </map>
+    <map x="201" y="361" w="27" h="26" />
+    <map x="314" y="340" w="27" h="26">
+      <ref pos="47">1.1.5.17</ref>
+    </map>
+    <map x="314" y="195" w="27" h="26">
+      <ref pos="48">1.1.5.18</ref>
+    </map>
+    <map x="260" y="44" w="27" h="26">
+      <ref pos="49">1.1.5.19</ref>
+    </map>
+    <map x="314" y="311" w="27" h="26">
+      <ref pos="50">1.1.5.20</ref>
+    </map>
+    <map x="522" y="80" w="27" h="26" />
+    <map x="0" y="237" w="27" h="26">
+      <ref pos="63">1.1.5.23</ref>
+    </map>
+    <map x="315" y="166" w="26" h="25">
+      <ref pos="51">1.1.5.21</ref>
+    </map>
+    <map x="210" y="92" w="128" h="55">
+      <ref pos="4">1.1.5.2</ref>
+      <ref pos="19">1.1.5.9</ref>
+      <ref pos="64">1.1.5.24</ref>
+      <ref pos="66">1.1.5.25</ref>
+    </map>
+    <map x="315" y="283" w="26" h="25">
+      <ref pos="26">1.1.5.10</ref>
+    </map>
+    <map x="519" y="184" w="26" h="25">
+      <ref pos="53">1.1.5.22</ref>
+    </map>
+    <map x="524" y="270" w="26" h="25">
+      <ref pos="5">1.1.5.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1" name="2/2-M-VENTIL,M5,FRST.,24V=,58L/MIN" materialnr="003184" pos="2" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_5_2" name="WELLENSICHERUNGSRING DIN 471-25X1.2" materialnr="005353" pos="4" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_5_3" name="Kegelschmiernippel,gerade,M6x1/5,5mm" materialnr="416713" pos="5" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_4" name="KLEMMPLATTE,T=8,RB=20MM,F.HTD-ZAHNR." materialnr="029850" pos="9" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_5" name="DW-Pn.Flachzyl. Dm63 H30 durchgeh. Kosta" materialnr="401813" pos="10" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_5_6" name="BRECHROLLE VB-45" materialnr="182278" pos="12" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="113" y="68" w="267" h="169">
+      <ref pos="1">1.1.5.6.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_6_1" name="ACLAN-ROLLE,D=80MM,B=20MM,ID=25;m.Lager" materialnr="032982" pos="1" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_7" name="Abluftdrossel, M5, Dm6, Steckanschl." materialnr="316739" pos="14" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_5_8" name="PA-SCHLAUCH AD4X0,75;BLAU;MITTELHART" materialnr="208628" pos="17" description="&amp;nbsp;" ET="7" Quantity="0,14" Unit="" />
+  <stk id="1_1_5_9" name="WELLENSICHERUNGSRING DIN 471-26X1.2" materialnr="248397" pos="19" description="&amp;nbsp;" ET="7" Quantity="8" Unit="" />
+  <stk id="1_1_5_10" name="VERL&amp;Auml;NGERUNGSMUTTER M6, H=18MM" materialnr="249653" pos="26" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_11" name="DW-Kompakt Zylinder D=25 H=50 SMC" materialnr="304144" pos="29" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_5_12" name="Dosierventil f&amp;uuml;r Schneid&amp;ouml;l VB HXF-1300" materialnr="454376" pos="33" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_5_13" name="Steckverschr. gerade, Dm4, Gewinde M6" materialnr="307320" pos="34" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_14" name="Steckverschr. 90&amp;deg;, Dm4, Gewinde M6" materialnr="308636" pos="37" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_15" name="Abluftdrossel, R1/4&amp;quot;, Dm8, Steck. Handv." materialnr="335237" pos="42" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_16" name="LINEARF&amp;Uuml;HRUNGSWAGEN STAR GR.25" materialnr="027585" pos="44" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_5_17" name="Steckverschr. M5, 90&amp;deg;, Dm:6mm" materialnr="013359" pos="47" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_5_18" name="KUGELBUCHSE DM16/26 X 36MM LANG" materialnr="244170" pos="48" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_5_19" name="ZUGENTLASTUNG F. EFK-OBEN VB-33" materialnr="225608" pos="49" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_20" name="Kugelbuchsenwelle D=16h6x330 mit 2x M5" materialnr="244200" pos="50" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_5_21" name="Faltenbalg f.Stangen-Dm16,NBR" materialnr="455285" pos="51" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_5_22" name="Druckfeder, ID=20.7mm, d=1.8mm, L=101mm" materialnr="303866" pos="53" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_23" name="Steckverschr. R1/4&amp;quot;, 90&amp;deg;, Dm:8mm" materialnr="223937" pos="63" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_24" name="St&amp;uuml;tzh&amp;uuml;lse SS-6M5-4M f&amp;uuml;r Schlauch 4- 6mm" materialnr="446601" pos="64" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_5_25" name="Steckverbindung 90&amp;deg; Dm:6mm INNEN/AUSSEN" materialnr="232033" pos="66" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_26" name="Schneidkopf oben VB-xxN starre Var." materialnr="400700" pos="67" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="436" y="272" w="27" h="25">
+      <ref pos="10">1.1.5.26.1</ref>
+    </map>
+    <map x="233" y="19" w="27" h="25">
+      <ref pos="12">1.1.5.26.2</ref>
+    </map>
+    <map x="273" y="6" w="27" h="25">
+      <ref pos="14">1.1.5.26.3</ref>
+    </map>
+    <map x="196" y="20" w="27" h="25">
+      <ref pos="15">1.1.5.26.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_26_1" name="Steckverschr. M5, 90&amp;deg;, Dm:6mm" materialnr="013359" pos="10" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_5_26_2" name="HM-Schneidrad 5.6x1.08x1.42 155&amp;deg; 03A155I" materialnr="452380" pos="12" description="&amp;nbsp;" ET="3" Quantity="1" Unit="" />
+  <stk id="1_1_5_26_3" name="HM-Schneidradachse Dm1,38x4,2" materialnr="305569" pos="14" description="&amp;nbsp;" ET="3" Quantity="1" Unit="" />
+  <stk id="1_1_5_26_4" name="Schneidradhalter 432.0 ohne R&amp;auml;dchen" materialnr="305567" pos="15" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_6" name="Schneider unten Zyl.Dm25 H50 Var.2 sp" materialnr="358693" pos="6" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="245" y="0" w="35" h="21">
+      <ref pos="1">1.1.6.1</ref>
+      <ref pos="2">1.1.6.2</ref>
+    </map>
+    <map x="213" y="151" w="29" h="20">
+      <ref pos="12">1.1.6.3</ref>
+    </map>
+    <map x="213" y="199" w="29" h="20">
+      <ref pos="23">1.1.6.6</ref>
+    </map>
+    <map x="213" y="127" w="29" h="20">
+      <ref pos="20">1.1.6.5</ref>
+    </map>
+    <map x="213" y="174" w="29" h="20">
+      <ref pos="13">1.1.6.4</ref>
+    </map>
+    <map x="349" y="45" w="29" h="20">
+      <ref pos="29">1.1.6.8</ref>
+    </map>
+    <map x="393" y="264" w="29" h="20">
+      <ref pos="27">1.1.6.7</ref>
+    </map>
+    <map x="256" y="49" w="63" h="30">
+      <ref pos="39">1.1.6.10</ref>
+    </map>
+    <map x="312" y="128" w="57" h="41">
+      <ref pos="32">1.1.6.9</ref>
+      <ref pos="100">1.1.6.11</ref>
+      <ref pos="101">1.1.6.12</ref>
+    </map>
+  </stk>
+  <stk id="1_1_6_1" name="HM-Schneidrad 5.6x1.08x1.42 155&amp;deg; 03A155I" materialnr="452380" pos="1" description="&amp;nbsp;" ET="3" Quantity="1" Unit="" />
+  <stk id="1_1_6_2" name="Schneidradhalter 432.0 ohne R&amp;auml;dchen" materialnr="305567" pos="2" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_6_3" name="Kugelbuchsenwelle D=16h6x330 mit 2x M5" materialnr="244200" pos="12" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_6_4" name="KUGELBUCHSE DM16/26 X 36MM LANG" materialnr="244170" pos="13" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_6_5" name="DW-Kompakt Zylinder D=25 H=50 SMC" materialnr="304144" pos="20" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_6_6" name="Faltenbalg f.Stangen-Dm16,NBR" materialnr="455285" pos="23" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_6_7" name="ZUGENTLASTUNG 6XDM6 1XDM8" materialnr="248134" pos="27" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_6_8" name="LINEARF&amp;Uuml;HRUNGSWAGEN STAR GR.25" materialnr="027585" pos="29" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_6_9" name="KLEMMPLATTE,T=8,RB=20MM,F.HTD-ZAHNR." materialnr="029850" pos="32" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_6_10" name="Schneidkopf unten VB-xxN starre Var." materialnr="400638" pos="39" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="211" y="299" w="26" h="25">
+      <ref pos="4">1.1.6.10.2</ref>
+    </map>
+    <map x="451" y="253" w="26" h="25">
+      <ref pos="8">1.1.6.10.3</ref>
+    </map>
+    <map x="481" y="253" w="26" h="25">
+      <ref pos="18">1.1.6.10.7</ref>
+    </map>
+    <map x="211" y="327" w="26" h="25">
+      <ref pos="19">1.1.6.10.8</ref>
+    </map>
+    <map x="371" y="91" w="26" h="25">
+      <ref pos="15">1.1.6.10.4</ref>
+    </map>
+    <map x="371" y="32" w="37" h="25">
+      <ref pos="16">1.1.6.10.5</ref>
+      <ref pos="17">1.1.6.10.6</ref>
+    </map>
+    <map x="371" y="62" w="26" h="25">
+      <ref pos="2">1.1.6.10.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_6_10_1" name="FED.DRUCKST.M.KUGEL,M3X7,D-KUGEL1.5" materialnr="029472" pos="2" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_6_10_2" name="REDUZIERNIPPEL M5-IG, M5-AG, MESSING" materialnr="025140" pos="4" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_6_10_3" name="Steckverschr. M5, 90&amp;deg;, Dm:4mm" materialnr="244841" pos="8" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_6_10_4" name="Schneidradhalter 432.0 ohne R&amp;auml;dchen" materialnr="305567" pos="15" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_6_10_5" name="HM-Schneidradachse Dm1,38x4,2" materialnr="305569" pos="16" description="&amp;nbsp;" ET="3" Quantity="1" Unit="" />
+  <stk id="1_1_6_10_6" name="HM-Schneidrad 5.6x1.08x1.42 155&amp;deg; 03A155I" materialnr="452380" pos="17" description="&amp;nbsp;" ET="3" Quantity="1" Unit="" />
+  <stk id="1_1_6_10_7" name="Steckverschr. M5, 90&amp;deg;, Dm:6mm" materialnr="013359" pos="18" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_6_10_8" name="Zuluftdrossel, M5, Dm4, Steckanschl." materialnr="393708" pos="19" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_6_11" name="WELLENSICHERUNGSRING DIN 471-26X1.2" materialnr="248397" pos="100" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_6_12" name="ZYLINDERSTIFT 4X30MM, GEH., DIN 6325" materialnr="005201" pos="101" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_7" name="Heizung gesamt VB-45 stehend" materialnr="438982" pos="7" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="274" y="235" w="28" h="20">
+      <ref pos="1">1.1.7.1</ref>
+    </map>
+    <map x="69" y="208" w="28" h="20">
+      <ref pos="3">1.1.7.2</ref>
+    </map>
+    <map x="99" y="208" w="28" h="20">
+      <ref pos="10">1.1.7.3</ref>
+    </map>
+    <map x="160" y="209" w="28" h="20">
+      <ref pos="11">1.1.7.4</ref>
+    </map>
+    <map x="38" y="208" w="28" h="20">
+      <ref pos="12">1.1.7.5</ref>
+    </map>
+    <map x="129" y="209" w="28" h="20">
+      <ref pos="20">1.1.7.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_7_1" name="IR-Strahler 34x14 9.8kW 700V 4620mm Var1" materialnr="389310" pos="1" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_7_2" name="Abluftdrossel, G1/8&amp;quot;, Dm6, Steckanschl." materialnr="315403" pos="3" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_7_3" name="DW.PN.ZYL;D=25,H=50,ISO,M.SIGN;D&amp;Auml;MPF" materialnr="250976" pos="10" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_7_4" name="GELENKKOPF M10X1.25-INNEN-R, ND 10MM" materialnr="003029" pos="11" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_7_5" name="GEGENLAGER GABEL PN-ZYL.D=20/25" materialnr="003127" pos="12" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_7_6" name="Hubbegrenzung einstellbar f. Zyl.Dm 25" materialnr="306754" pos="20" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_8" name="Brechleiste gesamt Var.3 f&amp;uuml;r VB-45" materialnr="342747" pos="8" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="311" y="255" w="28" h="20">
+      <ref pos="4">1.1.8.3</ref>
+    </map>
+    <map x="281" y="255" w="28" h="20">
+      <ref pos="11">1.1.8.4</ref>
+    </map>
+    <map x="39" y="84" w="28" h="20">
+      <ref pos="13">1.1.8.5</ref>
+    </map>
+    <map x="400" y="0" w="28" h="20">
+      <ref pos="16">1.1.8.6</ref>
+    </map>
+    <map x="341" y="255" w="28" h="20">
+      <ref pos="22">1.1.8.7</ref>
+    </map>
+    <map x="370" y="255" w="28" h="20" />
+    <map x="571" y="28" w="28" h="20">
+      <ref pos="31">1.1.8.9</ref>
+    </map>
+    <map x="571" y="146" w="28" h="20">
+      <ref pos="33">1.1.8.10</ref>
+    </map>
+    <map x="571" y="171" w="28" h="20">
+      <ref pos="34">1.1.8.11</ref>
+    </map>
+    <map x="279" y="0" w="28" h="20">
+      <ref pos="42">1.1.8.12</ref>
+    </map>
+    <map x="401" y="254" w="28" h="20">
+      <ref pos="25">1.1.8.8</ref>
+    </map>
+    <map x="70" y="84" w="28" h="20">
+      <ref pos="100">1.1.8.14</ref>
+    </map>
+    <map x="162" y="56" w="55" h="31">
+      <ref pos="1">1.1.8.1</ref>
+      <ref pos="2">1.1.8.2</ref>
+    </map>
+    <map x="8" y="84" w="28" h="20">
+      <ref pos="50">1.1.8.13</ref>
+    </map>
+  </stk>
+  <stk id="1_1_8_1" name="Brechleistenaufsatz schmal L=1180mm" materialnr="378273" pos="1" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_8_2" name="Brechleistenaufsatz schmal L=1130mm" materialnr="378274" pos="2" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_8_3" name="Hebelmechanismus eins vormontiert Var.2" materialnr="335262" pos="4" description="&amp;nbsp;" ET="9" Quantity="8" Unit="">
+    <map x="246" y="326" w="27" h="25">
+      <ref pos="2">1.1.8.3.1</ref>
+    </map>
+    <map x="255" y="79" w="27" h="25">
+      <ref pos="8">1.1.8.3.2</ref>
+    </map>
+    <map x="257" y="139" w="27" h="25">
+      <ref pos="9">1.1.8.3.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_8_3_1" name="GELENKKOPF M16X1.5-INNEN-L, ND 16MM" materialnr="003052" pos="2" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_8_3_2" name="GLEITLAGERBUCHSE,ID=10MM,AD=12,L=10" materialnr="005801" pos="8" description="&amp;nbsp;" ET="8" Quantity="16" Unit="" />
+  <stk id="1_1_8_3_3" name="GLEITLAGERBUCHSE,ID=8MM,AD=10MM,L=10" materialnr="005800" pos="9" description="&amp;nbsp;" ET="8" Quantity="16" Unit="" />
+  <stk id="1_1_8_4" name="Torsionswelle gesamt Var.3 f&amp;uuml;r VB-45" materialnr="342758" pos="11" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="154" y="152" w="24" h="22">
+      <ref pos="7">1.1.8.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_8_4_1" name="GLEITLAGERBUCHSE,ID=50,AD=55,L=30MM" materialnr="028316" pos="7" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_8_5" name="GLEITKLOTZ AUF SCHUBFLACH" materialnr="233731" pos="13" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_8_6" name="GLEITLAGERBUCHSE, ID=35,AD=39,B=20" materialnr="249286" pos="16" description="&amp;nbsp;" ET="8" Quantity="6" Unit="" />
+  <stk id="1_1_8_7" name="GELENKKOPF M10-AUSSEN-R, ND 10MM" materialnr="005850" pos="22" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_8_8" name="DW-KURZHUBZYL. D=80, H=25,M.SIGN." materialnr="029848" pos="25" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_8_9" name="DRUCKST&amp;Uuml;CK DIN6311+GEWINDESTIFT M12X60" materialnr="005483" pos="31" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_8_10" name="GELENKKOPF M16X1.5-INNEN-R, ND 16MM" materialnr="003047" pos="33" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_8_11" name="DW.PN.Zyl. D=50 H=50 ISO m.Sign." materialnr="424806" pos="34" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_8_12" name="GLEITLAGERBUCHSE,ID=20,AD=23,L=30MM" materialnr="005813" pos="42" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_8_13" name="Gleitflach Sonder f&amp;uuml;r Schubflach" materialnr="378329" pos="50" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_8_14" name="WELLENSICHERUNGSRING DIN 471 - 8X0.8" materialnr="005341" pos="100" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_9" name="Schr&amp;auml;ge Andr&amp;uuml;ckrolle Var.3 in VB" materialnr="343606" pos="9" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="365" y="16" w="26" h="24">
+      <ref pos="2">1.1.9.1</ref>
+    </map>
+    <map x="379" y="119" w="26" h="24">
+      <ref pos="4">1.1.9.2</ref>
+    </map>
+    <map x="183" y="343" w="26" h="24">
+      <ref pos="7">1.1.9.3</ref>
+    </map>
+    <map x="192" y="150" w="26" h="24">
+      <ref pos="8">1.1.9.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_9_1" name="ACLAN-ROLLE,D=80MM,B=20MM,ID=25;m.Lager" materialnr="032982" pos="2" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_9_2" name="F&amp;Uuml;HRUNGSWELLE DM20X168 M.GEWINDE M6" materialnr="236195" pos="4" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="165" y="132" w="178" h="70">
+      <ref pos="1">1.1.9.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_9_2_1" name="KUGELBUCHSENWELLE,D=20h6,L=170MM" materialnr="024284" pos="1" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_9_3" name="DW.PN.ZYL.D=16,H=30,KOMPAKTZYL; SMC" materialnr="226728" pos="7" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_9_4" name="KUGELBUCHSE WD=20, COMPACT,GESCHLOSSEN" materialnr="026768" pos="8" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_10" name="LUFTKISSEN VB-45 KOMPLETT SP" materialnr="252546" pos="11" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="14" y="87" w="570" h="144">
+      <ref pos="1">1.1.10.1</ref>
+      <ref pos="7">1.1.10.2</ref>
+      <ref pos="9">1.1.10.3</ref>
+      <ref pos="12">1.1.10.4</ref>
+      <ref pos="13">1.1.10.5</ref>
+      <ref pos="14">1.1.10.6</ref>
+      <ref pos="15">1.1.10.7</ref>
+      <ref pos="16">1.1.10.8</ref>
+    </map>
+  </stk>
+  <stk id="1_1_10_1" name="LUFTKISSEN VB-45 STANDARD SP" materialnr="252644" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="54" y="169" w="177" h="43">
+      <ref pos="1">1.1.10.1.1</ref>
+    </map>
+    <map x="375" y="169" w="181" h="41">
+      <ref pos="2">1.1.10.1.2</ref>
+    </map>
+    <map x="375" y="107" w="180" h="19">
+      <ref pos="3">1.1.10.1.3</ref>
+    </map>
+    <map x="53" y="107" w="179" h="19">
+      <ref pos="4">1.1.10.1.4</ref>
+    </map>
+    <map x="16" y="105" w="28" h="36">
+      <ref pos="5">1.1.10.1.5</ref>
+    </map>
+    <map x="16" y="145" w="30" h="68">
+      <ref pos="6">1.1.10.1.6</ref>
+    </map>
+    <map x="563" y="103" w="26" h="39">
+      <ref pos="7">1.1.10.1.7</ref>
+    </map>
+    <map x="562" y="153" w="26" h="61">
+      <ref pos="8">1.1.10.1.8</ref>
+    </map>
+    <map x="244" y="170" w="123" h="41">
+      <ref pos="9">1.1.10.1.9</ref>
+    </map>
+    <map x="244" y="107" w="121" h="17">
+      <ref pos="10">1.1.10.1.10</ref>
+    </map>
+  </stk>
+  <stk id="1_1_10_1_1" name="LUFTKISSEN BREIT VB-33 SP" materialnr="251444" pos="1" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_1_2" name="LUFTKISSEN BREIT VB-33 WG" materialnr="250123" pos="2" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_1_3" name="Luftkissen schmal Var.3 wg" materialnr="343631" pos="3" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_1_4" name="Luftkissen schmal Var.3 sp" materialnr="343634" pos="4" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_1_5" name="ENDPLATTE SCHMAL SP" materialnr="251505" pos="5" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_1_6" name="ENDPLATTE BREIT AUF REF.SEITE SP" materialnr="251504" pos="6" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_1_7" name="SEITENPLATTE KURZ GEGEN REF.SEITE" materialnr="238519" pos="7" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_1_8" name="ENDPLATTE BREIT GEGEN REF.SEITE SP" materialnr="251544" pos="8" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_1_9" name="LUFTKISSEN BREIT MITTIG VB-45" materialnr="252559" pos="9" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_1_10" name="LUFTKISSEN SCHMAL MITTIG VB-45" materialnr="252596" pos="10" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_2" name="Gebl&amp;auml;seeinheit 3kW FU auf/zu saugseitig" materialnr="411118" pos="7" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="415" y="316" w="26" h="25">
+      <ref pos="1">1.1.10.2.1</ref>
+    </map>
+    <map x="461" y="90" w="26" h="25">
+      <ref pos="3">1.1.10.2.3</ref>
+    </map>
+    <map x="358" y="151" w="110" h="64">
+      <ref pos="2">1.1.10.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_10_2_1" name="SCHWINGMETALLPUFFER,D50,H30, 2XAG-M10X26" materialnr="014562" pos="1" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_10_2_2" name="Verschlussklappe saugseit. f&amp;uuml;r HRD 16T" materialnr="410374" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="392" y="117" w="28" h="19">
+      <ref pos="1">1.1.10.2.2.1</ref>
+    </map>
+    <map x="423" y="117" w="28" h="19">
+      <ref pos="3">1.1.10.2.2.2</ref>
+    </map>
+    <map x="186" y="50" w="28" h="20" />
+    <map x="186" y="76" w="28" h="20">
+      <ref pos="4">1.1.10.2.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_10_2_2_1" name="DW.PN.ZYL;D=25,H=80,ISO,M.SIGN." materialnr="016424" pos="1" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_2_2_2" name="Steckverschr. R1/8&amp;quot;, 90&amp;deg;, Dm:6mm" materialnr="231973" pos="3" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_10_2_2_3" name="Verschlussklappe f&amp;uuml;r HRD 16T (Elektror)" materialnr="410320" pos="4" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="268" y="71" w="28" h="20">
+      <ref pos="1">1.1.10.2.2.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_10_2_2_3_1" name="ISK-SENKSCHR. M5X10MM, DIN7991, A4-70" materialnr="014734" pos="1" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_10_2_3" name="Radialventilator HPB-F-040 FU-100Hz/3kW" materialnr="433146" pos="3" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_3" name="GEBL&amp;Auml;SESCHLAUCH,NW125,PVC-FLEX-G/L" materialnr="016327" pos="9" description="&amp;nbsp;" ET="8" Quantity="10000" Unit="" />
+  <stk id="1_1_10_4" name="PVC-SAUG-U.GEBL&amp;Auml;SESCHLAUCH NW50" materialnr="251566" pos="12" description="&amp;nbsp;" ET="8" Quantity="25" Unit="" />
+  <stk id="1_1_10_5" name="PP &amp;Uuml;BERSCHIEBMUFFE ND 125" materialnr="030456" pos="13" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_6" name="PP EINFACHABZWEIGER ND 125, 45&amp;deg;" materialnr="033002" pos="14" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_10_7" name="PP ROHR ND 125, L=150MM" materialnr="032905" pos="15" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_10_8" name="DICHTRING DM130/90X5MM,PE-SCHAUMST." materialnr="252246" pos="16" description="&amp;nbsp;" ET="8" Quantity="9" Unit="" />
+  <stk id="1_1_11" name="Verkleidungsbleche VB-xx Var.2 sp" materialnr="225290" pos="12" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="211" y="122" w="89" h="137">
+      <ref pos="24">1.1.11.2</ref>
+      <ref pos="25">1.1.11.3</ref>
+    </map>
+    <map x="424" y="187" w="101" h="121">
+      <ref pos="3">1.1.11.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_11_1" name="Armaturenblech VB gesamt m.Trennm. sp" materialnr="337595" pos="3" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="14" y="94" w="29" h="20">
+      <ref pos="3">1.1.11.1.1</ref>
+    </map>
+    <map x="69" y="10" w="29" h="20">
+      <ref pos="4">1.1.11.1.2</ref>
+    </map>
+    <map x="67" y="291" w="29" h="20">
+      <ref pos="6">1.1.11.1.3</ref>
+    </map>
+    <map x="283" y="188" w="29" h="20">
+      <ref pos="7">1.1.11.1.4</ref>
+    </map>
+    <map x="184" y="10" w="29" h="20">
+      <ref pos="8">1.1.11.1.5</ref>
+    </map>
+    <map x="282" y="141" w="29" h="20">
+      <ref pos="11">1.1.11.1.6</ref>
+    </map>
+    <map x="282" y="117" w="29" h="20">
+      <ref pos="12">1.1.11.1.7</ref>
+    </map>
+    <map x="120" y="10" w="29" h="20">
+      <ref pos="19">1.1.11.1.8</ref>
+    </map>
+    <map x="282" y="92" w="29" h="20">
+      <ref pos="22">1.1.11.1.9</ref>
+    </map>
+    <map x="335" y="192" w="29" h="20" />
+    <map x="400" y="32" w="29" h="20" />
+    <map x="283" y="164" w="28" h="20">
+      <ref pos="25">1.1.11.1.11</ref>
+    </map>
+    <map x="284" y="236" w="28" h="20">
+      <ref pos="23">1.1.11.1.10</ref>
+    </map>
+    <map x="275" y="282" w="49" h="38">
+      <ref pos="26">1.1.11.1.12</ref>
+    </map>
+  </stk>
+  <stk id="1_1_11_1_1" name="PR&amp;Auml;ZISIONSDRUCKREGLER 0.1-8BAR 1/4&amp;quot;" materialnr="033246" pos="3" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_11_1_2" name="SCHALTT.-MANO; 0-6BAR, R1/4&amp;quot;-R&amp;Uuml;CKS." materialnr="218962" pos="4" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_11_1_3" name="VAKUUMMETER,-1 BIS 0,R1/4&amp;quot;-R&amp;Uuml;CKS." materialnr="003426" pos="6" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_11_1_4" name="DRUCKREGLER, R1/4&amp;quot;, 0.3-7 BAR" materialnr="027522" pos="7" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_11_1_5" name="MANOMETER, 0-4BAR, R1/8&amp;quot;-WAAGRECHT" materialnr="003356" pos="8" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_11_1_6" name="Dosierventil f&amp;uuml;r Schneid&amp;ouml;l VB HXF-1300" materialnr="454376" pos="11" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_11_1_7" name="2/2-M-VENTIL,M5,FRST.,24V=,58L/MIN" materialnr="003184" pos="12" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_11_1_8" name="SCHALTT.-MANO; 0-10BAR,R1/4&amp;quot;-R&amp;Uuml;CKS." materialnr="003364" pos="19" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_11_1_9" name="DRUCKREGLER, R1/4&amp;quot;, 0,0-1,3 BAR" materialnr="325537" pos="22" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_11_1_10" name="EINHANDKUPPLUNG,R1/4&amp;quot;-AG, NW 7.2 MESSING" materialnr="003492" pos="23" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_11_1_11" name="MANOMETER, 0-10BAR, R1/8&amp;quot;-WAAGRECHT" materialnr="003355" pos="25" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_11_1_12" name="St&amp;uuml;tzh&amp;uuml;lse SS-6M5-4M f&amp;uuml;r Schlauch 4- 6mm" materialnr="446601" pos="26" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_11_2" name="SCHWINGMETALLPUFFER,D25,H17, AG-M6X16" materialnr="020899" pos="24" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_11_3" name="Spreizniete Dm6mm,3-7mm Kunstoff" materialnr="352472" pos="25" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12" name="Pneumatikteile VB" materialnr="225378" pos="13" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="12" y="44" w="553" h="328">
+      <ref pos="1">1.1.12.1</ref>
+      <ref pos="4">1.1.12.2</ref>
+      <ref pos="8">1.1.12.3</ref>
+      <ref pos="11">1.1.12.4</ref>
+      <ref pos="12">1.1.12.5</ref>
+      <ref pos="20">1.1.12.6</ref>
+      <ref pos="21">1.1.12.7</ref>
+      <ref pos="24">1.1.12.8</ref>
+      <ref pos="28">1.1.12.9</ref>
+      <ref pos="29">1.1.12.10</ref>
+      <ref pos="32">1.1.12.11</ref>
+      <ref pos="45">1.1.12.12</ref>
+      <ref pos="52">1.1.12.13</ref>
+      <ref pos="54">1.1.12.14</ref>
+      <ref pos="55">1.1.12.15</ref>
+      <ref pos="56">1.1.12.16</ref>
+      <ref pos="57">1.1.12.17</ref>
+      <ref pos="64">1.1.12.18</ref>
+    </map>
+  </stk>
+  <stk id="1_1_12_1" name="KRAFTSTOFFFILTER, MANN TYP: WK 31/2" materialnr="003862" pos="1" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_12_2" name="SCHALLD&amp;Auml;MPFER, R3/8&amp;quot;, SINTERMETALL" materialnr="003352" pos="4" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_12_3" name="Abluftdrossel, G1/8&amp;quot;, Dm6, Steckanschl." materialnr="315403" pos="8" description="&amp;nbsp;" ET="8" Quantity="10" Unit="" />
+  <stk id="1_1_12_4" name="Abluftdrossel, G1/4&amp;quot;, Dm6, Steckanschl." materialnr="316705" pos="11" description="&amp;nbsp;" ET="8" Quantity="10" Unit="" />
+  <stk id="1_1_12_5" name="Elektropneum.Druckregelvent. NW5 0-6bar" materialnr="314013" pos="12" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_6" name="PVC-Schlauch mit Stahldrahteinl. 10/16" materialnr="419270" pos="20" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_12_7" name="PVC-SCHLAUCH M.STAHLDRAHTEINL.16/23" materialnr="003490" pos="21" description="&amp;nbsp;" ET="8" Quantity="5000" Unit="" />
+  <stk id="1_1_12_8" name="Str&amp;ouml;mungsventil vormontiert" materialnr="330873" pos="24" description="&amp;nbsp;" ET="8" Quantity="48" Unit="">
+    <map x="249" y="229" w="27" h="25">
+      <ref pos="2">1.1.12.8.1</ref>
+    </map>
+    <map x="464" y="230" w="27" h="25" />
+  </stk>
+  <stk id="1_1_12_8_1" name="STR&amp;Ouml;MUNGSVENTIL R1/4&amp;quot;,SV 1-4,M.SCHL." materialnr="016172" pos="2" description="&amp;nbsp;" ET="8" Quantity="48" Unit="" />
+  <stk id="1_1_12_9" name="Ventilinsel CD01 Var.6 f&amp;uuml;r VB" materialnr="363418" pos="28" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="95" y="85" w="27" h="25">
+      <ref pos="2">1.1.12.9.1</ref>
+    </map>
+    <map x="338" y="12" w="27" h="25">
+      <ref pos="3">1.1.12.9.2</ref>
+    </map>
+    <map x="174" y="53" w="27" h="25">
+      <ref pos="4">1.1.12.9.3</ref>
+    </map>
+    <map x="62" y="83" w="27" h="25">
+      <ref pos="10">1.1.12.9.9</ref>
+    </map>
+    <map x="147" y="343" w="27" h="25">
+      <ref pos="11">1.1.12.9.10</ref>
+    </map>
+    <map x="126" y="53" w="27" h="25">
+      <ref pos="12">1.1.12.9.11</ref>
+    </map>
+    <map x="211" y="53" w="27" h="25">
+      <ref pos="14">1.1.12.9.12</ref>
+    </map>
+    <map x="442" y="12" w="27" h="25">
+      <ref pos="15">1.1.12.9.13</ref>
+    </map>
+    <map x="29" y="86" w="27" h="25">
+      <ref pos="17">1.1.12.9.14</ref>
+    </map>
+    <map x="0" y="181" w="26" h="25">
+      <ref pos="5">1.1.12.9.4</ref>
+    </map>
+    <map x="540" y="198" w="26" h="25">
+      <ref pos="6">1.1.12.9.5</ref>
+    </map>
+    <map x="329" y="302" w="26" h="25">
+      <ref pos="7">1.1.12.9.6</ref>
+    </map>
+    <map x="299" y="302" w="26" h="25">
+      <ref pos="8">1.1.12.9.7</ref>
+    </map>
+    <map x="268" y="302" w="26" h="25">
+      <ref pos="9">1.1.12.9.8</ref>
+    </map>
+  </stk>
+  <stk id="1_1_12_9_1" name="5/2-M-VENTIL TYP CD01 NW4 IMPULSV." materialnr="191568" pos="2" description="&amp;nbsp;" ET="8" Quantity="10" Unit="" />
+  <stk id="1_1_12_9_2" name="3/2-M-VENTIL (2-FACH) TYP CD01 NW4 NC/NC" materialnr="190518" pos="3" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_9_3" name="5/3-M-VENTIL TYP CD 01 NW 4  M.ENTL&amp;Uuml;FTET" materialnr="191577" pos="4" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_12_9_4" name="Anschlussplatte links, CD 01 ohne Dicht." materialnr="191604" pos="5" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_9_5" name="Anschlussplatte rechts, CD 01 mit Dicht." materialnr="191605" pos="6" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_9_6" name="ANSCHLUSSPLATTE F. TYP CD 01,Rohr-AD 6mm" materialnr="191608" pos="7" description="&amp;nbsp;" ET="8" Quantity="10" Unit="" />
+  <stk id="1_1_12_9_7" name="ANSCHLUSSPLATTE F. TYP CD 01,Rohr-AD 8mm" materialnr="191616" pos="8" description="&amp;nbsp;" ET="8" Quantity="10" Unit="" />
+  <stk id="1_1_12_9_8" name="ANSCHLUSSPLATTE R-P-S ZUS. TYP CD 01" materialnr="249131" pos="9" description="&amp;nbsp;" ET="8" Quantity="5" Unit="" />
+  <stk id="1_1_12_9_9" name="Schalld&amp;auml;mpfer push-in Ø=8mm" materialnr="249136" pos="10" description="&amp;nbsp;" ET="8" Quantity="10" Unit="" />
+  <stk id="1_1_12_9_10" name="SCHALLD&amp;Auml;MPFER, R1/8&amp;quot;, SINTERMETALL,," materialnr="003350" pos="11" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_9_11" name="Kontaktbr&amp;uuml;cke lang CD01 0.5m M12 +Init." materialnr="318841" pos="12" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_9_12" name="KONTAKTBR&amp;Uuml;CKE LANG TYP CD 01, 0.2M" materialnr="191677" pos="14" description="&amp;nbsp;" ET="8" Quantity="7" Unit="" />
+  <stk id="1_1_12_9_13" name="Endstecker f.letzte Kontaktbr&amp;uuml;cke CD01" materialnr="303633" pos="15" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_9_14" name="Kontaktbr&amp;uuml;cke lang TYP CD 01, 0.2m,+Init" materialnr="318839" pos="17" description="&amp;nbsp;" ET="8" Quantity="7" Unit="" />
+  <stk id="1_1_12_10" name="3/2-M-VENTIL,G1/2&amp;quot;,FRST,24=,4000L/MI" materialnr="221879" pos="29" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_12_11" name="DREHSCH.VAKUUMP.,150MB,190-440V, CSA" materialnr="213813" pos="32" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="55" y="45" w="466" h="309">
+      <ref pos="2">1.1.12.11.1</ref>
+      <ref pos="3">1.1.12.11.2</ref>
+      <ref pos="4">1.1.12.11.3</ref>
+      <ref pos="5">1.1.12.11.4</ref>
+      <ref pos="10">1.1.12.11.5</ref>
+      <ref pos="11">1.1.12.11.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_12_11_1" name="Filterpatrone f.Vakuump. VT4.40/SV1040" materialnr="245119" pos="2" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_12_11_2" name="Lamellensatz f.Vakuumpumpe VT4.40" materialnr="336040" pos="3" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_12_11_3" name="Vakuumregulierventil f&amp;uuml;r Vakuumpumpe" materialnr="354749" pos="4" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_12_11_4" name="Rotor f&amp;uuml;r Vakuumpumpe Becker VT4.40" materialnr="360299" pos="5" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_12_11_5" name="O-Ring, 14x1.5mm,NBR 70 Shore" materialnr="412196" pos="10" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_12_11_6" name="Schwingmetallpuffer D15 H30 IG-AG M6" materialnr="425492" pos="11" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_12_12" name="Kontaktbr&amp;uuml;cke kurz CD01 1m +Init." materialnr="192735" pos="45" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_13" name="Ventilbaugruppe 1 VB var.2" materialnr="324257" pos="52" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="141" y="30" w="300" h="355">
+      <ref pos="2">1.1.12.13.1</ref>
+      <ref pos="5">1.1.12.13.2</ref>
+      <ref pos="6">1.1.12.13.3</ref>
+      <ref pos="7">1.1.12.13.4</ref>
+      <ref pos="9">1.1.12.13.5</ref>
+      <ref pos="10">1.1.12.13.6</ref>
+      <ref pos="11">1.1.12.13.7</ref>
+      <ref pos="15">1.1.12.13.8</ref>
+    </map>
+  </stk>
+  <stk id="1_1_12_13_1" name="5/2-M-VENTIL TYP CD01 NW4 MONOSTABIL" materialnr="191548" pos="2" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_13_2" name="Vakuum-Saugd&amp;uuml;se G1/8&amp;quot;, 170mbar Enddruck" materialnr="327982" pos="5" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_13_3" name="KRAFTSTOFFFILTER, MANN TYP: WK 31/2" materialnr="003862" pos="6" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_12_13_4" name="Steckverschr. R1/8&amp;quot;, 90&amp;deg;, Dm:6mm" materialnr="231973" pos="7" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_12_13_5" name="Druckregler f.CD01 Ventile, H&amp;ouml;henverk." materialnr="191587" pos="9" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_13_6" name="MANOMETER F. DRUCKREGLER TYP CD 01" materialnr="191599" pos="10" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_13_7" name="DR.R&amp;Uuml;CKSCHL.STECKVERSCHR;DM6 BEIDS." materialnr="251583" pos="11" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_12_13_8" name="Steckverschr. R1/8&amp;quot;, gerade, Dm:6mm" materialnr="028819" pos="15" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_14" name="R&amp;Uuml;CKSCHLAGVENTIL BEIDSEITIG NW 6MM" materialnr="249014" pos="54" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_12_15" name="Wartungseinheit,G3/8&amp;quot;,0.5-8.5bar,SMC" materialnr="372235" pos="55" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="388" y="243" w="27" h="24">
+      <ref pos="1">1.1.12.15.1</ref>
+      <ref pos="2">1.1.12.15.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_12_15_1" name="Filterelement f. Wartungseinheit 372235" materialnr="377104" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_12_15_2" name="Filterreglerbeh&amp;auml;lter C3SF f&amp;uuml;r 372235" materialnr="414305" pos="2" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_12_16" name="P/E-UMFORMER, R1/4&amp;quot;, 24V=, 1-16 BAR" materialnr="003285" pos="56" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_17" name="3/2-Kipphebelventil, G1/8&amp;quot;, rastend" materialnr="349204" pos="57" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_12_18" name="3/2-Druckknopfventil, R1/8&amp;quot;, Frst." materialnr="335172" pos="64" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_13" name="Trennvorrichtung  VB s=28 sp" materialnr="375355" pos="14" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="132" y="115" w="29" h="20">
+      <ref pos="2">1.1.13.1</ref>
+    </map>
+    <map x="452" y="103" w="29" h="20">
+      <ref pos="4">1.1.13.2</ref>
+    </map>
+    <map x="132" y="184" w="29" h="20">
+      <ref pos="10">1.1.13.3</ref>
+    </map>
+    <map x="132" y="230" w="29" h="20">
+      <ref pos="12">1.1.13.4</ref>
+    </map>
+    <map x="132" y="207" w="29" h="20">
+      <ref pos="17">1.1.13.5</ref>
+    </map>
+    <map x="294" y="299" w="29" h="20">
+      <ref pos="18">1.1.13.6</ref>
+    </map>
+    <map x="326" y="299" w="29" h="20">
+      <ref pos="20">1.1.13.7</ref>
+    </map>
+    <map x="132" y="161" w="29" h="20">
+      <ref pos="22">1.1.13.9</ref>
+    </map>
+    <map x="452" y="80" w="29" h="20">
+      <ref pos="26">1.1.13.10</ref>
+    </map>
+    <map x="452" y="128" w="29" h="20">
+      <ref pos="34">1.1.13.11</ref>
+    </map>
+    <map x="263" y="299" w="29" h="20">
+      <ref pos="36">1.1.13.12</ref>
+    </map>
+    <map x="132" y="138" w="28" h="20">
+      <ref pos="21">1.1.13.8</ref>
+    </map>
+  </stk>
+  <stk id="1_1_13_1" name="Keilwelle f&amp;uuml;r Trennmesserf&amp;uuml;hrung" materialnr="339281" pos="2" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_13_2" name="DW.PN.ZYL.D=16,H=30,KOMPAKTZYL; SMC" materialnr="226728" pos="4" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_13_3" name="Klemmteil Schneidklinge s=0,6mm Var.3" materialnr="452401" pos="10" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_13_4" name="SCHNEIDKLINGE MARTOR DM25/6X0.6MM" materialnr="251117" pos="12" description="&amp;nbsp;" ET="3" Quantity="1" Unit="" />
+  <stk id="1_1_13_5" name="ACLAN-ROLLE MIT NUT AD40, ID=10, B15" materialnr="244478" pos="17" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_13_6" name="Kompaktzylinder Dm10, H=5, m.Signalg." materialnr="306099" pos="18" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_13_7" name="Abluftdrossel, M5, Dm6, gerader Anschl." materialnr="306638" pos="20" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_13_8" name="Aufnahmeteil f&amp;uuml;r Trennmesser Var.3" materialnr="452396" pos="21" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_13_9" name="Klemmhebel M6x20MM VERSTELLBAR" materialnr="354221" pos="22" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_13_10" name="Abluftdrossel, M5, Dm6, Steckanschl." materialnr="316739" pos="26" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_13_11" name="SCHR&amp;Auml;GKUGELL.ID=15,AD=35,B=15.9,2-reihig" materialnr="026780" pos="34" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_13_12" name="GELENKLAGER, ID=3MM, AD=12MM, BR=6MM" materialnr="005833" pos="36" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_14" name="Hubbegrenzung f&amp;uuml;r Saugerbalken wg" materialnr="305872" pos="15" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="183" y="13" w="27" h="26">
+      <ref pos="1">1.1.14.1</ref>
+    </map>
+    <map x="380" y="266" w="27" h="26">
+      <ref pos="2">1.1.14.2</ref>
+    </map>
+    <map x="188" y="241" w="27" h="26">
+      <ref pos="3">1.1.14.3</ref>
+    </map>
+    <map x="388" y="12" w="27" h="26">
+      <ref pos="6">1.1.14.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_14_1" name="GELENKKOPF M10X1.25-INNEN-R, ND 10MM" materialnr="003029" pos="1" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_14_2" name="GEGENLAGER GABEL PN-ZYL.D=20/25" materialnr="003127" pos="2" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_14_3" name="DW.PN.ZYL;D=25,H=50,ISO,M.SIGN;D&amp;Auml;MPF" materialnr="250976" pos="3" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_14_4" name="GLEITLAGERBUCHSE,ID=12,AD=14,L=15MM" materialnr="005803" pos="6" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_15" name="Hubbegrenzung f&amp;uuml;r Saugerbalken sp" materialnr="305891" pos="16" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="232" y="119" w="29" h="20">
+      <ref pos="1">1.1.15.1</ref>
+    </map>
+    <map x="234" y="255" w="29" h="20">
+      <ref pos="2">1.1.15.2</ref>
+    </map>
+    <map x="232" y="191" w="29" h="20">
+      <ref pos="3">1.1.15.3</ref>
+    </map>
+    <map x="418" y="26" w="29" h="20">
+      <ref pos="6">1.1.15.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_15_1" name="GELENKKOPF M10X1.25-INNEN-R, ND 10MM" materialnr="003029" pos="1" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_15_2" name="GEGENLAGER GABEL PN-ZYL.D=20/25" materialnr="003127" pos="2" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_15_3" name="DW.PN.ZYL;D=25,H=50,ISO,M.SIGN;D&amp;Auml;MPF" materialnr="250976" pos="3" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_15_4" name="GLEITLAGERBUCHSE,ID=12,AD=14,L=15MM" materialnr="005803" pos="6" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_2" name="Rollentisch 5760x650 gesamt" materialnr="326248" pos="5" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="22" y="107" w="27" h="23">
+      <ref pos="1">1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1" name="LENKROLLE,D50,B18,BH75,40KP,M10X25MM" materialnr="005591" pos="1" description="&amp;nbsp;" ET="8" Quantity="117" Unit="" />
+  <stk id="1_3" name="Inbetriebnahmepaket VB" materialnr="323830" pos="8" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="17" y="60" w="499" h="288">
+      <ref pos="5">1.3.1</ref>
+      <ref pos="7">1.3.2</ref>
+      <ref pos="8">1.3.3</ref>
+      <ref pos="9">1.3.4</ref>
+      <ref pos="10">1.3.5</ref>
+      <ref pos="11">1.3.6</ref>
+      <ref pos="13">1.3.7</ref>
+      <ref pos="14">1.3.8</ref>
+      <ref pos="16">1.3.9</ref>
+      <ref pos="17">1.3.10</ref>
+      <ref pos="19">1.3.11</ref>
+      <ref pos="20">1.3.12</ref>
+      <ref pos="21">1.3.13</ref>
+      <ref pos="22">1.3.14</ref>
+      <ref pos="23">1.3.15</ref>
+      <ref pos="26">1.3.16</ref>
+      <ref pos="27">1.3.17</ref>
+      <ref pos="28">1.3.18</ref>
+      <ref pos="29">1.3.19</ref>
+      <ref pos="30">1.3.20</ref>
+      <ref pos="31">1.3.21</ref>
+      <ref pos="32">1.3.22</ref>
+      <ref pos="33">1.3.23</ref>
+      <ref pos="34">1.3.24</ref>
+      <ref pos="35">1.3.25</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1" name="Lackstift EDDING 751, weiss, 1 - 2 mm" materialnr="169568" pos="5" description="&amp;nbsp;" ET="1" Quantity="2" Unit="" />
+  <stk id="1_3_2" name="HM-Schneidradachse Dm1,38x4,2" materialnr="305569" pos="7" description="&amp;nbsp;" ET="1" Quantity="5" Unit="" />
+  <stk id="1_3_3" name="HM-Schneidrad 5.6x1.08x1.42 135&amp;deg; 03A135I" materialnr="452378" pos="8" description="&amp;nbsp;" ET="1" Quantity="2" Unit="" />
+  <stk id="1_3_4" name="HM-Schneidrad 5.6x1.08x1.42 145&amp;deg; 03A145I" materialnr="452379" pos="9" description="&amp;nbsp;" ET="1" Quantity="4" Unit="" />
+  <stk id="1_3_5" name="HM-Schneidrad 5.6x1.08x1.42 155&amp;deg; 03A155I" materialnr="452380" pos="10" description="&amp;nbsp;" ET="1" Quantity="5" Unit="" />
+  <stk id="1_3_6" name="HM-Schneidrad 5.6x1.08x1.42 158&amp;deg; 03A158I" materialnr="455328" pos="11" description="&amp;nbsp;" ET="3" Quantity="4" Unit="" />
+  <stk id="1_3_7" name="Schneidradhalter 432.0 ohne R&amp;auml;dchen" materialnr="305567" pos="13" description="&amp;nbsp;" ET="3" Quantity="4" Unit="" />
+  <stk id="1_3_8" name="FED.DRUCKST.M.KUGEL,M3X7,D-KUGEL1.5" materialnr="029472" pos="14" description="&amp;nbsp;" ET="1" Quantity="4" Unit="" />
+  <stk id="1_3_9" name="SCHLAUCHKLEMME, 104-138MM, VERZINKT 12MM" materialnr="003666" pos="16" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_3_10" name="SCHLAUCHKLEMME, 8-14MM, VERZINKT 9MM" materialnr="003651" pos="17" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_3_11" name="Blaspistole mit Spiralschlauch 8m" materialnr="374928" pos="19" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_3_12" name="EINHANDKUPPLUNG NW 7.2,SCHLAUCH NW 9, MS" materialnr="003498" pos="20" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_3_13" name="STECKT&amp;Uuml;LLE NW7.2MM, SCHL. NW9, &amp;quot;MESSING" materialnr="003502" pos="21" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_3_14" name="SCHNEIDKLINGE MARTOR DM25/6X0.6MM" materialnr="251117" pos="22" description="&amp;nbsp;" ET="3" Quantity="10" Unit="" />
+  <stk id="1_3_15" name="SEGMENTANKER, FBN M10X89MM" materialnr="004872" pos="23" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_3_16" name="SK-SCHRAUBE M16X40,DIN 933/8.8,VERZ." materialnr="004540" pos="26" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_3_17" name="Keilsicherungsscheibe  M16 AD=25.4 verz" materialnr="029488" pos="27" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_3_18" name="SK-SCHRAUBE M5X30,DIN 933/8.8,VERZ." materialnr="004474" pos="28" description="&amp;nbsp;" ET="8" Quantity="10" Unit="" />
+  <stk id="1_3_19" name="UNTERLAGSSCHEIBE DIN134, M6 ID=6.4, VERZ" materialnr="004994" pos="29" description="&amp;nbsp;" ET="8" Quantity="10" Unit="" />
+  <stk id="1_3_20" name="ISK-SCHRAUBE M5X8,DIN 912/8.8,VERZ." materialnr="004632" pos="30" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_3_21" name="Sicherungsscheibe gro&amp;szlig; f&amp;uuml;r M5, verz." materialnr="330376" pos="31" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_3_22" name="ISK-SCHRAUBE M6X45,DIN 912/8.8,VERZ." materialnr="004658" pos="32" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_3_23" name="Unterlagsscheibe f&amp;uuml;r Senkschraube M5" materialnr="030058" pos="33" description="&amp;nbsp;" ET="8" Quantity="15" Unit="" />
+  <stk id="1_3_24" name="ISK SENKSCHRAUBE M5X12,DIN7991,8.8 VERZ" materialnr="020048" pos="34" description="&amp;nbsp;" ET="8" Quantity="15" Unit="" />
+  <stk id="1_3_25" name="ISK-SENKSCHR. M4X8MM, DIN7991, A4-70" materialnr="233785" pos="35" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+</catalog>

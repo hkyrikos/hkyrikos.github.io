@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="RTVN-27/20MZ">
+  <stk id="1" name="RTVN-27/20MZ" materialnr="169771" pos="1" description="&amp;nbsp;">
+    <map x="176" y="31" w="249" h="315">
+      <ref pos="2">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="RTVN-27MZ W/HEIGHT-MEASURING AXIS" materialnr="331277" pos="2" description="&amp;nbsp;">
+    <map x="106" y="152" w="27" h="22">
+      <ref pos="1">1.1.1</ref>
+    </map>
+    <map x="114" y="212" w="27" h="22">
+      <ref pos="7">1.1.2</ref>
+    </map>
+    <map x="117" y="285" w="27" h="22">
+      <ref pos="11">1.1.3</ref>
+    </map>
+    <map x="101" y="90" w="27" h="22">
+      <ref pos="12">1.1.4</ref>
+    </map>
+    <map x="121" y="9" w="27" h="22">
+      <ref pos="15">1.1.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="SUPPORT ROLLER D=50MM F WOOD PANEL 19MM" materialnr="306458" pos="1" description="&amp;nbsp;">
+    <map x="137" y="22" w="40" h="27">
+      <ref pos="3">1.1.1.2</ref>
+      <ref pos="10">1.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_1_2" name="ROLLER WITH TRANSPORT ROLLER FACING" materialnr="306456" pos="3" description="&amp;nbsp;">
+    <map x="49" y="137" w="27" h="24">
+      <ref pos="2">1.1.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_2_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="ROLLER BAR FOR RTVN-27MZ" materialnr="323373" pos="7" description="&amp;nbsp;">
+    <map x="245" y="300" w="27" h="33">
+      <ref pos="2">1.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="SUPPORT ROLLER D=50MM WITH THREAD M6X15" materialnr="306434" pos="2" description="&amp;nbsp;">
+    <map x="218" y="44" w="245" h="310">
+      <ref pos="3">1.1.2.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_1" name="ROLLER WITH TRANSPORT ROLLER FACING" materialnr="306456" pos="3" description="&amp;nbsp;">
+    <map x="49" y="137" w="27" h="24">
+      <ref pos="2">1.1.2.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_1_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_3" name="TRANSPORT CARRIER RTVN-27MZ ASSEMBLY" materialnr="323650" pos="11" description="&amp;nbsp;">
+    <map x="364" y="362" w="26" h="25">
+      <ref pos="2">1.1.3.1</ref>
+    </map>
+    <map x="110" y="53" w="26" h="25">
+      <ref pos="4">1.1.3.2</ref>
+    </map>
+    <map x="139" y="54" w="26" h="25">
+      <ref pos="5">1.1.3.3</ref>
+    </map>
+    <map x="471" y="222" w="26" h="25">
+      <ref pos="7">1.1.3.4</ref>
+    </map>
+    <map x="393" y="363" w="26" h="25">
+      <ref pos="9">1.1.3.5</ref>
+    </map>
+    <map x="410" y="222" w="26" h="25">
+      <ref pos="10">1.1.3.6</ref>
+    </map>
+    <map x="441" y="222" w="26" h="25">
+      <ref pos="11">1.1.3.7</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="SUPPORT ROLLER COMPLETE" materialnr="220826" pos="2" description="&amp;nbsp;">
+    <map x="61" y="41" w="27" h="34">
+      <ref pos="1">1.1.3.1.1</ref>
+    </map>
+    <map x="467" y="257" w="27" h="34">
+      <ref pos="2">1.1.3.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_1" name="TRANSPORT ROLLER D=17/12x29.4mm/" materialnr="011413" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_3_1_2" name="BEARING BOLT F/TRANSPORT ROLLER D12" materialnr="011412" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_3_2" name="BEARING BLOCK FOR BELT DRIVE RTV-MZ" materialnr="031893" pos="4" description="&amp;nbsp;">
+    <map x="431" y="36" w="26" h="26">
+      <ref pos="2">1.1.3.2.1</ref>
+    </map>
+    <map x="391" y="37" w="26" h="26">
+      <ref pos="13">1.1.3.2.5</ref>
+    </map>
+    <map x="62" y="85" w="26" h="26">
+      <ref pos="9">1.1.3.2.4</ref>
+    </map>
+    <map x="436" y="185" w="26" h="26">
+      <ref pos="5">1.1.3.2.2</ref>
+    </map>
+    <map x="437" y="217" w="26" h="25">
+      <ref pos="6">1.1.3.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_2_1" name="DRIVE SHAFT" materialnr="170022" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_3_2_2" name="GROOVED BALL BEARING ID30;OD62;W16;2SEAL" materialnr="005707" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_3_2_3" name="GREASING NIPPLE;ANGLED;M6X1-TAPERED" materialnr="005497" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_3_2_4" name="TOOTHED BELT PULLEY COMPLETE/ FPSN" materialnr="030007" pos="9" description="&amp;nbsp;">
+    <map x="103" y="7" w="345" h="378">
+      <ref pos="1">1.1.3.2.4.1</ref>
+      <ref pos="2">1.1.3.2.4.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_2_4_1" name="TOOTHED BELT PULLEY/T=25/PIT=10/W=61MM" materialnr="171658" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_3_2_4_2" name="FLANGED WHEEL FPSN(N)-U" materialnr="232603" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_3_2_5" name="KEY 8x7x45MM DIN 6885 ST50-1K(MATERIAL)" materialnr="005323" pos="13" description="&amp;nbsp;" />
+  <stk id="1_1_3_3" name="TOOTHED BELT W=60 PIT=10 L=5420MM-PAZ-T" materialnr="321486" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_3_4" name="Servomotor LENZE 1.7kW+GST05 i=20.0 nB" materialnr="303843" pos="7" description="&amp;nbsp;">
+    <map x="142" y="94" w="131" h="183">
+      <ref pos="10">1.1.3.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_4_1" name="SPUR GEAR 20.044/GST05-2F VBR" materialnr="368277" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_3_5" name="TOOTHED BELT PULLEY/PIT8/T32/BW30/25" materialnr="013453" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_3_6" name="HTD-TOOTHED BELT PULLEY TEETH=40 25H7" materialnr="013454" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_3_7" name="TOOTHED BELT,  HTD 600-8M-30 CXA III" materialnr="347069" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_4" name="HEIGHT-MEASURING AXIS 20 ON RTVN-MZ" materialnr="339920" pos="12" description="&amp;nbsp;">
+    <map x="171" y="273" w="26" h="25">
+      <ref>1.1.4.1</ref>
+    </map>
+    <map x="362" y="12" w="26" h="25">
+      <ref pos="5">1.1.4.2</ref>
+    </map>
+    <map x="196" y="361" w="26" h="25">
+      <ref>1.1.4.3</ref>
+    </map>
+    <map x="364" y="84" w="26" h="25">
+      <ref>1.1.4.4</ref>
+    </map>
+    <map x="174" y="118" w="26" h="25">
+      <ref>1.1.4.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="SPUR GEAR MOTOR 111RPM 50/60HZ BR.ENC." materialnr="302669" pos="4" description="&amp;nbsp;">
+    <map x="26" y="106" w="127" h="115">
+      <ref pos="10">1.1.4.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_1" name="SURGE GENERATOR ITD 21-A4-Y2" materialnr="246200" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_4_2" name="ECO-AXLE HIAS 40/80-3-140-2RS-2000" materialnr="032534" pos="5" description="&amp;nbsp;">
+    <map x="244" y="314" w="37" h="37">
+      <ref pos="10">1.1.4.2.1</ref>
+      <ref pos="20">1.1.4.2.2</ref>
+    </map>
+    <map x="282" y="216" w="23" h="22">
+      <ref pos="30">1.1.4.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_2_1" name="DRIVING SET F ECO-AXLE HIAS 40/80-2xS" materialnr="248985" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_4_2_2" name="DEFLECTION SET FOR ECO-AXLE HIAS 40/80" materialnr="248984" pos="20" description="&amp;nbsp;" />
+  <stk id="1_1_4_2_3" name="Toothed belt  S8M-HP-25 L=4770mm" materialnr="248995" pos="30" description="&amp;nbsp;" />
+  <stk id="1_1_4_3" name="SPHERICAL GEAR COUP./THREAD=38 NO KEYWAY" materialnr="170785" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_4_4" name="POSITIONING  SWITCH Z-15GQ22-B" materialnr="174263" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_4_5" name="CAT TRACK LINK, H25,W24; TYPE:0320.20" materialnr="006572" pos="26" description="&amp;nbsp;" />
+  <stk id="1_1_5" name="NEON LIGHT, 2/36W,1225MM,IP20,DOUBLE" materialnr="001177" pos="15" description="&amp;nbsp;" />
+</catalog>

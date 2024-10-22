@@ -1,0 +1,33 @@
+<html>
+<head>
+  <title>Menu</title>
+   <script type="text/javascript" src="functions.js"></script>
+   <script type="text/javascript" src="../scripts/cataloge.js"></script>
+   <link rel="stylesheet" type="text/css" href="simpletree.css">
+   <link rel="stylesheet" type="text/css" href="mainstyle.css">
+<style>
+body{
+  margin:0px;
+  background-color:EAF2FA;
+}
+</style>
+</head>
+<body onload="javascript:setIndex();">
+<div id="box2">
+<table cellspacing="0" cellpadding="0" height="100%" width="100%" class="Rahmen1pxRechts">
+<tr>   
+   <td height="25" align="left" colspan="2" background="img/balken3.gif"><a href="javascript:goBack();" class="txtbox"><img src="img/back.gif" border="0" width="16" height="16" align="absmiddle" alt="Back"/></a><a href="javascript:goForeward();" class="txtbox"><img src="img/forward.gif" border="0" width="16" height="16" align="absmiddle" alt="Forward" /></a><a href="javascript:goFolderup();" class="txtbox"><img src="img/folderup.gif" border="0" align="absmiddle" alt="Folder up" /></a><a href="javascript:openSearch();" class="txtbox"><img src="img/suchen.gif" border="0" align="absmiddle" alt="Search" /></a><a href="javascript:openWatchlist();" class="txtbox"><img src="img/watchlist.gif" border="0" align="absmiddle" alt="Watchlist" /></a><a href="javascript:setCatalogAnzeige();" class="txtbox"><img src="img/cd.gif" border="0" align="absmiddle" alt="Catalogs on CD" /></a><a href="javascript:printThisArticle();" class="txtbox"><img src="img/printer.gif" border="0" align="absmiddle" alt="Print this article" /></a>
+</td>
+</tr>
+<tr>
+   <td width="5px">&nbsp;</td>
+   <td width="100%"><script>showCataloge();</script></td>
+</tr>
+<tr>
+  <td class="Rahmen1pxOben" width="5px">&nbsp;</td>
+  <td height="15" class="Rahmen1pxOben"><script>showLanguages();</script></td>
+</tr>
+</table>
+</div>
+</body>
+</html>

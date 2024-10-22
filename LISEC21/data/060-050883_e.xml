@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="BTA-30/33">
+  <stk id="1" name="BTA-30/33" materialnr="309042" pos="1" description="&amp;nbsp;">
+    <map x="90" y="54" w="395" h="213">
+      <ref pos="15">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="TOTAL LIST BTA-30/33 FIELD C3" materialnr="376542" pos="15" description="&amp;nbsp;">
+    <map x="476" y="64" w="27" h="25">
+      <ref pos="3">1.1.1</ref>
+    </map>
+    <map x="452" y="264" w="27" h="25">
+      <ref pos="4">1.1.2</ref>
+    </map>
+    <map x="371" y="306" w="27" h="25">
+      <ref pos="5">1.1.3</ref>
+    </map>
+    <map x="123" y="336" w="27" h="25">
+      <ref pos="7">1.1.4</ref>
+    </map>
+    <map x="532" y="207" w="27" h="25">
+      <ref pos="8">1.1.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="FIXED CASTOR W SLIDE BEARING D50;W18 H75" materialnr="005612" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="LIFTING MECHANICS ONE BTA-30/33 C3" materialnr="376330" pos="4" description="&amp;nbsp;">
+    <map x="446" y="115" w="26" h="25">
+      <ref pos="2">1.1.2.1</ref>
+    </map>
+    <map x="125" y="77" w="26" h="25">
+      <ref pos="10">1.1.2.2</ref>
+    </map>
+    <map x="273" y="287" w="26" h="25">
+      <ref pos="11">1.1.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="ARTICULATED HEAD M20X1.5-FEMALE-L;D=20MM" materialnr="005845" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_2_2" name="ARTICULATED HEAD M20X1.5-FEMALE-R D20" materialnr="003073" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_2_3" name="PLUMMER BLOCK BEARING;CAST HOUS.ID30" materialnr="005764" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_3" name="LIFTING MECHANICS TWO BTA-30/33 C3" materialnr="376332" pos="5" description="&amp;nbsp;">
+    <map x="380" y="290" w="26" h="25">
+      <ref pos="3">1.1.3.1</ref>
+    </map>
+    <map x="131" y="281" w="26" h="25">
+      <ref pos="12">1.1.3.2</ref>
+    </map>
+    <map x="85" y="280" w="26" h="25">
+      <ref pos="13">1.1.3.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="ARTICULATED HEAD M20X1.5-FEMALE-L;D=20MM" materialnr="005845" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_3_2" name="ARTICULATED HEAD M20X1.5-FEMALE-R D20" materialnr="003073" pos="12" description="&amp;nbsp;" />
+  <stk id="1_1_3_3" name="PLUMMER BLOCK BEARING;CAST HOUS.ID30" materialnr="005764" pos="13" description="&amp;nbsp;" />
+  <stk id="1_1_4" name="AIR CUSHION PARTS FOR BTA-30/33 FIELD C3" materialnr="376540" pos="7" description="&amp;nbsp;">
+    <map x="50" y="213" w="267" h="160">
+      <ref pos="2">1.1.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="BLOWER UNIT HRD2/5 VAR.2" materialnr="251654" pos="2" description="&amp;nbsp;">
+    <map x="46" y="61" w="24" h="24">
+      <ref pos="1">1.1.4.1.1</ref>
+    </map>
+    <map x="234" y="306" w="24" h="24">
+      <ref pos="3">1.1.4.1.3</ref>
+    </map>
+    <map x="201" y="305" w="24" h="24">
+      <ref pos="5">1.1.4.1.4</ref>
+    </map>
+    <map x="352" y="150" w="24" h="24">
+      <ref pos="100">1.1.4.1.5</ref>
+    </map>
+    <map x="267" y="269" w="26" h="25">
+      <ref pos="2">1.1.4.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_1" name="HIGH PRESS. FAN, HPBx-200, 230/400V 50HZ" materialnr="340536" pos="1" description="&amp;nbsp;">
+    <map x="301" y="51" w="27" h="34">
+      <ref pos="20">1.1.4.1.1.2</ref>
+    </map>
+    <map x="133" y="53" w="33" h="30">
+      <ref pos="10">1.1.4.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_1_1" name="THREEPHASE MOTOR 3,0KW 2835RPM 50HZ" materialnr="353185" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_4_1_1_2" name="V-BELT XPZ-612 DIN7753" materialnr="356201" pos="20" description="&amp;nbsp;" />
+  <stk id="1_1_4_1_2" name="COUNTER BEARING-FORK CYLINDER D=20/25" materialnr="003127" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_4_1_3" name="DA-PNEU CYLINDER D25 STR80 ISO/SIGNAL" materialnr="016424" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_4_1_4" name="ARTICULATED HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_4_1_5" name="SILENCER FOR VENTILATOR HRD 2/5" materialnr="019980" pos="100" description="&amp;nbsp;" />
+  <stk id="1_1_5" name="BELT FIELD BTA-30/33 AFTER SDE" materialnr="376389" pos="8" description="&amp;nbsp;">
+    <map x="97" y="250" w="26" h="25">
+      <ref pos="1">1.1.5.1</ref>
+    </map>
+    <map x="459" y="108" w="26" h="25">
+      <ref pos="2">1.1.5.2</ref>
+    </map>
+    <map x="326" y="304" w="26" h="25">
+      <ref pos="7">1.1.5.3</ref>
+    </map>
+    <map x="295" y="304" w="26" h="25">
+      <ref pos="14">1.1.5.4</ref>
+    </map>
+    <map x="501" y="289" w="26" h="25">
+      <ref pos="18">1.1.5.7</ref>
+    </map>
+    <map x="500" y="232" w="41" h="25">
+      <ref pos="16">1.1.5.5</ref>
+    </map>
+    <map x="501" y="260" w="26" h="25">
+      <ref pos="17">1.1.5.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1" name="BELT UNIT L=6770MM W=25MM VAR.4" materialnr="376355" pos="1" description="&amp;nbsp;">
+    <map x="446" y="299" w="26" h="25">
+      <ref pos="10">1.1.5.1.2</ref>
+    </map>
+    <map x="37" y="142" w="26" h="25">
+      <ref pos="11">1.1.5.1.3</ref>
+    </map>
+    <map x="165" y="187" w="26" h="25">
+      <ref pos="3">1.1.5.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1_1" name="TOOTHED BELT 25T10/6770-V-PAZ-PVC" materialnr="350925" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_5_1_2" name="FLANGE BEARING ID=25MM 3-HOLE CASTING" materialnr="024655" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_5_1_3" name="GROOVED BALL BEARING ID20 0D42 W12;2SEAL" materialnr="005697" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_5_2" name="BELT UNIT L=6570MM W=25MM" materialnr="376385" pos="2" description="&amp;nbsp;">
+    <map x="188" y="100" w="26" h="25">
+      <ref pos="3">1.1.5.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_2_1" name="TOOTHED BELT 25T10/6570-V-PAZ-PVC" materialnr="376381" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_5_3" name="SPUR GEAR MOTOR 1,5KW 57RPM 50/60HZ" materialnr="220895" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_5_4" name="DISC COUPLING D=25MM" materialnr="025694" pos="14" description="&amp;nbsp;" />
+  <stk id="1_1_5_5" name="HTD-TOOTHED BELT PULLEY 32-8M-50" materialnr="384099" pos="16" description="&amp;nbsp;" />
+  <stk id="1_1_5_6" name="TOOTHED BELT 8MGT-920-50 TRANSMOTION" materialnr="377174" pos="17" description="&amp;nbsp;" />
+  <stk id="1_1_5_7" name="HTD-TOOTHED BELT PULLEY 72-8M-50 D30" materialnr="384097" pos="18" description="&amp;nbsp;" />
+</catalog>

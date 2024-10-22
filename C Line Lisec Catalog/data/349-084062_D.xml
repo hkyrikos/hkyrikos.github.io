@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="TFR-60/30">
+  <stk id="1" name="TFR-60/30" materialnr="301627" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="">
+    <map x="7" y="35" w="554" h="301">
+      <ref pos="2">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="Materialliste TFR-60/30" materialnr="303552" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="70" y="212" w="28" h="20">
+      <ref pos="1">1.1.1</ref>
+    </map>
+    <map x="70" y="235" w="28" h="20">
+      <ref pos="2">1.1.2</ref>
+    </map>
+    <map x="63" y="189" w="35" h="20">
+      <ref pos="3">1.1.3</ref>
+      <ref pos="10">1.1.8</ref>
+    </map>
+    <map x="44" y="49" w="28" h="20">
+      <ref pos="4">1.1.4</ref>
+    </map>
+    <map x="75" y="49" w="28" h="20">
+      <ref pos="5">1.1.5</ref>
+    </map>
+    <map x="106" y="49" w="37" h="20">
+      <ref pos="6">1.1.6</ref>
+      <ref pos="7">1.1.7</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="STG.DS-Motor 0.75kW+GST05 i=24.9 oB" materialnr="422596" pos="1" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_2" name="DUPLEXKETTENR.T1/2&amp;quot;,Z25,25H7 M.N;2M6" materialnr="014391" pos="2" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_3" name="DUPLEXKETTE,1/2X5/16&amp;quot;,75 GLIEDER" materialnr="023383" pos="3" description="&amp;nbsp;" ET="6" Quantity="1" Unit="">
+    <map x="33" y="26" w="411" h="297">
+      <ref pos="1">1.1.3.1</ref>
+      <ref pos="2">1.1.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="DUPLEXKETTE,1/2X5/16&amp;quot;,L=5000;D85" materialnr="006556" pos="1" description="&amp;nbsp;" ET="6" Quantity="952,5" Unit="">
+    <map x="1" y="184" w="113" h="98">
+      <ref pos="1">1.1.3.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_1" name="VERSCHLUSSGLIED DUPLEXKETTE1/2X5/16&amp;quot;" materialnr="006597" pos="1" description="&amp;nbsp;" ET="6" Quantity="952,5" Unit="" />
+  <stk id="1_1_3_2" name="VERSCHLUSSGLIED DUPLEXKETTE1/2X5/16&amp;quot;" materialnr="006597" pos="2" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_4" name="TRANSPORTANTRIEBSWELLE V.MONT;L=3020" materialnr="023387" pos="4" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="0" y="222" w="40" h="21">
+      <ref pos="2">1.1.4.1</ref>
+      <ref pos="5">1.1.4.4</ref>
+    </map>
+    <map x="238" y="102" w="28" h="20">
+      <ref pos="3">1.1.4.2</ref>
+    </map>
+    <map x="269" y="102" w="28" h="20">
+      <ref pos="4">1.1.4.3</ref>
+    </map>
+    <map x="520" y="0" w="39" h="20">
+      <ref pos="6">1.1.4.5</ref>
+      <ref pos="7">1.1.4.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="PASSFEDER 6X6X20MM,DIN 6885,ST50-1K" materialnr="005313" pos="2" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_4_2" name="LOSE ROLLE,EPDM,D80,BR18,BOHR. 18" materialnr="005623" pos="3" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_4_3" name="STEHLAGER,BLECHGEH&amp;Auml;USE,ID=20MM" materialnr="005757" pos="4" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_4_4" name="DOPPELKR.T=3/8&amp;quot;,Z=14,20K7 M.NUT,2XM6" materialnr="014869" pos="5" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_4_5" name="PASSFEDER 6X6X63MM,DIN 6885,ST50-1K" materialnr="005318" pos="6" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_4_6" name="DUPLEXKETTENR.T1/2&amp;quot;,Z14,20H7 M.N;2M6" materialnr="014375" pos="7" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_5" name="TRANSPORTWELLE VORMONT.,L=3020MM" materialnr="023388" pos="5" description="&amp;nbsp;" ET="9" Quantity="20" Unit="">
+    <map x="526" y="252" w="37" h="25">
+      <ref pos="2">1.1.5.1</ref>
+      <ref pos="5">1.1.5.4</ref>
+    </map>
+    <map x="447" y="229" w="27" h="25">
+      <ref pos="3">1.1.5.2</ref>
+    </map>
+    <map x="272" y="126" w="27" h="25">
+      <ref pos="4">1.1.5.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1" name="PASSFEDER 6X6X20MM,DIN 6885,ST50-1K" materialnr="005313" pos="2" description="&amp;nbsp;" ET="7" Quantity="20" Unit="" />
+  <stk id="1_1_5_2" name="LOSE ROLLE,EPDM,D80,BR18,BOHR. 18" materialnr="005623" pos="3" description="&amp;nbsp;" ET="8" Quantity="160" Unit="" />
+  <stk id="1_1_5_3" name="STEHLAGER,BLECHGEH&amp;Auml;USE,ID=20MM" materialnr="005757" pos="4" description="&amp;nbsp;" ET="6" Quantity="60" Unit="" />
+  <stk id="1_1_5_4" name="DOPPELKR.T=3/8&amp;quot;,Z=14,20K7 M.NUT,2XM6" materialnr="014869" pos="5" description="&amp;nbsp;" ET="6" Quantity="20" Unit="" />
+  <stk id="1_1_6" name="KETTE,3/8X7/32&amp;quot;,63 GLIEDER+VERSCHLGL" materialnr="022684" pos="6" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_7" name="KETTE,3/8X7/32&amp;quot;,81 GLIEDER+VERSCHLGL" materialnr="025502" pos="7" description="&amp;nbsp;" ET="6" Quantity="19" Unit="">
+    <map x="265" y="329" w="80" h="63">
+      <ref pos="2">1.1.7.2</ref>
+    </map>
+    <map x="25" y="29" w="359" h="291">
+      <ref pos="1">1.1.7.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_7_1" name="KETTE 3/8&amp;quot;X7/32&amp;quot; 81 GLIEDER" materialnr="123200" pos="1" description="&amp;nbsp;" ET="8" Quantity="19" Unit="">
+    <map x="102" y="36" w="311" h="262">
+      <ref pos="1">1.1.7.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_7_1_1" name="KETTE,3/8X7/32&amp;quot;,L=5000,DIN 8187, G67" materialnr="006530" pos="1" description="&amp;nbsp;" ET="6" Quantity="278511,5" Unit="" />
+  <stk id="1_1_7_2" name="VERSCHLUSSGLIED 3/8X7/32&amp;quot;,GERA.AUSF." materialnr="006589" pos="2" description="&amp;nbsp;" ET="6" Quantity="19" Unit="" />
+  <stk id="1_1_8" name="VERSCHLUSSGLIED DUPLEXKETTE1/2X5/16&amp;quot;" materialnr="006597" pos="10" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+</catalog>

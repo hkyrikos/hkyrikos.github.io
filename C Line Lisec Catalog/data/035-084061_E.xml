@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="RPS-60/33">
+  <stk id="1" name="RPS-60/33" materialnr="372705" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="">
+    <map x="144" y="31" w="326" h="239">
+      <ref pos="1">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="COMPLETE LIST RPS 30-SLOTS 5&amp;deg;" materialnr="418781" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="39" y="30" w="483" h="255">
+      <ref pos="1">1.1.1</ref>
+      <ref pos="3">1.1.3</ref>
+    </map>
+    <map x="3" y="307" w="496" h="56">
+      <ref pos="2">1.1.2</ref>
+      <ref pos="26">1.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="FRAME COMPLETE 30-Slots 5&amp;deg;" materialnr="418782" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="55" y="205" w="430" h="161">
+      <ref pos="25">1.1.1.1</ref>
+      <ref pos="27">1.1.1.2</ref>
+      <ref pos="28">1.1.1.3</ref>
+      <ref pos="29">1.1.1.4</ref>
+      <ref pos="32">1.1.1.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="STEEL ROPE D=2.5MM;6X7WIRES ZINC-COATED" materialnr="247504" pos="25" description="&amp;nbsp;" ET="8" Quantity="3000" Unit="" />
+  <stk id="1_1_1_2" name="CABLE CLAMP, 1/8&amp;quot;, WIRE ROPE D=3MM" materialnr="006971" pos="27" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_1_3" name="IRON THREAD EYE M6X40-ULMER UN 1006" materialnr="231766" pos="28" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_1_4" name="ANTI-VIBRATION BUFFER D25 M6X16-MALE" materialnr="020899" pos="29" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_1_5" name="TOOTHED BELT 50T10/2350 at lengh" materialnr="438849" pos="32" description="&amp;nbsp;" ET="6" Quantity="14" Unit="" />
+  <stk id="1_1_2" name="SUBSTRUCTURE WITH ROLLER CARRIER RPS60/3" materialnr="370125" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="29" y="187" w="527" h="32">
+      <ref pos="1">1.1.2.1</ref>
+    </map>
+    <map x="151" y="221" w="282" h="22">
+      <ref pos="3">1.1.2.3</ref>
+    </map>
+    <map x="167" y="34" w="337" h="151">
+      <ref pos="2">1.1.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="ROLLER CARRIER COMPLETE RPS-60/33" materialnr="370088" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="286" y="71" w="28" h="20">
+      <ref pos="2">1.1.2.1.1</ref>
+    </map>
+    <map x="239" y="228" w="28" h="20">
+      <ref pos="4">1.1.2.1.2</ref>
+    </map>
+    <map x="176" y="227" w="28" h="20">
+      <ref pos="8">1.1.2.1.3</ref>
+    </map>
+    <map x="490" y="134" w="28" h="20">
+      <ref pos="10">1.1.2.1.4</ref>
+    </map>
+    <map x="318" y="71" w="28" h="20">
+      <ref pos="11">1.1.2.1.5</ref>
+    </map>
+    <map x="521" y="135" w="28" h="20">
+      <ref pos="15">1.1.2.1.9</ref>
+    </map>
+    <map x="480" y="0" w="28" h="20">
+      <ref pos="26">1.1.2.1.15</ref>
+    </map>
+    <map x="282" y="248" w="156" h="59">
+      <ref pos="18">1.1.2.1.10</ref>
+      <ref pos="19">1.1.2.1.11</ref>
+      <ref pos="22">1.1.2.1.13</ref>
+    </map>
+    <map x="512" y="0" w="28" h="20">
+      <ref pos="24">1.1.2.1.14</ref>
+    </map>
+    <map x="207" y="228" w="28" h="20">
+      <ref pos="14">1.1.2.1.8</ref>
+    </map>
+    <map x="552" y="135" w="28" h="20">
+      <ref pos="27">1.1.2.1.16</ref>
+    </map>
+    <map x="454" y="283" w="28" h="20">
+      <ref pos="28">1.1.2.1.17</ref>
+    </map>
+    <map x="138" y="228" w="34" h="20">
+      <ref pos="12">1.1.2.1.6</ref>
+      <ref pos="13">1.1.2.1.7</ref>
+    </map>
+    <map x="45" y="194" w="77" h="55">
+      <ref pos="21">1.1.2.1.12</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_1" name="TRANSP. ROLLER UNIT F.TR.CARRIER RPS V.2" materialnr="436995" pos="2" description="&amp;nbsp;" ET="9" Quantity="13" Unit="">
+    <map x="42" y="168" w="28" h="20">
+      <ref pos="3">1.1.2.1.1.1</ref>
+    </map>
+    <map x="404" y="17" w="28" h="20">
+      <ref pos="6">1.1.2.1.1.2</ref>
+    </map>
+    <map x="434" y="17" w="28" h="20">
+      <ref pos="7">1.1.2.1.1.3</ref>
+    </map>
+    <map x="46" y="53" w="28" h="20">
+      <ref pos="12">1.1.2.1.1.4</ref>
+    </map>
+    <map x="293" y="255" w="86" h="58">
+      <ref pos="12">1.1.2.1.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_1_1" name="DBL SPROCKET 3/8X7/32 T=14 B=20K7" materialnr="024301" pos="3" description="&amp;nbsp;" ET="6" Quantity="13" Unit="" />
+  <stk id="1_1_2_1_1_2" name="GROOVED BALL BEARING ID25;OD52;W15;2 SEA" materialnr="005704" pos="6" description="&amp;nbsp;" ET="6" Quantity="26" Unit="" />
+  <stk id="1_1_2_1_1_3" name="VULCOLLAN RING 69/79X55 80-90 SHORE A" materialnr="410675" pos="7" description="&amp;nbsp;" ET="6" Quantity="13" Unit="" />
+  <stk id="1_1_2_1_1_4" name="RETAINING RING DIN 471-25X1.2MM" materialnr="005353" pos="12" description="&amp;nbsp;" ET="8" Quantity="13" Unit="" />
+  <stk id="1_1_2_1_2" name="DEFLECTION UNIT F.ROLLER CARRIER RPS-60/" materialnr="370053" pos="4" description="&amp;nbsp;" ET="9" Quantity="11" Unit="">
+    <map x="240" y="270" w="28" h="20">
+      <ref pos="2">1.1.2.1.2.1</ref>
+    </map>
+    <map x="168" y="270" w="28" h="20">
+      <ref pos="5">1.1.2.1.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_2_1" name="PEDESTAL BEAR./CAST HOUS.ID 20MM" materialnr="005759" pos="2" description="&amp;nbsp;" ET="6" Quantity="22" Unit="" />
+  <stk id="1_1_2_1_2_2" name="DBL SPROCKET 3/8X7/32 T=14 B=20K7" materialnr="024301" pos="5" description="&amp;nbsp;" ET="6" Quantity="11" Unit="" />
+  <stk id="1_1_2_1_3" name="DA-SHORT STROKE CYLINDER S100 STR50/SIG" materialnr="370083" pos="8" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_4" name="BEVELGEAR TP-MOTOR 1,1KW+GKR04 I10.5" materialnr="422599" pos="10" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_2_1_5" name="CHAIN TENSIONER D=50MM W=35MM" materialnr="013587" pos="11" description="&amp;nbsp;" ET="6" Quantity="24" Unit="" />
+  <stk id="1_1_2_1_6" name="COUNTER BEARING LINK WIDE CYL.D100" materialnr="013346" pos="12" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_7" name="SWIVEL FASTENING-FORK CYL.D100" materialnr="019890" pos="13" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_8" name="JOINT HEAD M16-FEMALE-RIGHT D16MM" materialnr="005837" pos="14" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_9" name="DBL.SPROCKET W/KWY,1/2&amp;quot;,T=14,20H7,2XM6" materialnr="014375" pos="15" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_2_1_10" name="CHAIN,3/8X7/32&amp;quot;,73 LINKS+LOCKLINK" materialnr="016408" pos="18" description="&amp;nbsp;" ET="6" Quantity="1" Unit="">
+    <map x="47" y="180" w="98" h="83" />
+    <map x="168" y="48" w="251" h="255" />
+  </stk>
+  <stk id="1_1_2_1_11" name="CHAIN 3/8X7/32&amp;quot; 125-LINKS+LOCKING LINK" materialnr="391796" pos="19" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_2_1_12" name="ANTI-VIBRATION BUFFER D50 M8X28-MALE" materialnr="007794" pos="21" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_13" name="CHAIN 3/8X7/32&amp;quot; 89 LINKS+MASTER LINK" materialnr="391807" pos="22" description="&amp;nbsp;" ET="6" Quantity="22" Unit="" />
+  <stk id="1_1_2_1_14" name="PEDESTAL BEAR./CAST HOUS.ID 20MM" materialnr="005759" pos="24" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_15" name="DUPLEX CHAIN 1/2X5/16&amp;quot; 49LINKS+LOCK LINK" materialnr="311281" pos="26" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="52" y="27" w="457" h="337">
+      <ref pos="1">1.1.2.1.15.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_15_1" name="DUPLEX CHAIN 1/2&amp;quot;X5/16&amp;quot; 49 LINKS" materialnr="311282" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="65" y="37" w="429" h="314">
+      <ref pos="1">1.1.2.1.15.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_15_1_1" name="DUPLEX CHAIN 1/2 X 5/16&amp;quot; L=5M D85" materialnr="006556" pos="1" description="&amp;nbsp;" ET="9" Quantity="622,3" Unit="">
+    <map x="1" y="184" w="113" h="98">
+      <ref pos="1">1.1.2.1.15.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_15_1_1_1" name="LOCKING LINK FOR DUPLEX CHAIN, 1/2X5/16&amp;quot;" materialnr="006597" pos="1" description="&amp;nbsp;" ET="8" Quantity="622,3" Unit="" />
+  <stk id="1_1_2_1_16" name="DUPLEX SPROCKET WHEEL 1/2&amp;quot; TEETH=21" materialnr="371681" pos="27" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_2_1_17" name="DBL SPROCKET 3/8X7/32 T=14 B=20K7" materialnr="024301" pos="28" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_2_2" name="DRIVE FOR ROLLER CARRIER RPS-60/33" materialnr="370004" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="100" y="229" w="28" h="20">
+      <ref pos="11">1.1.2.2.5</ref>
+    </map>
+    <map x="433" y="189" w="28" h="20">
+      <ref pos="12">1.1.2.2.6</ref>
+    </map>
+    <map x="372" y="189" w="28" h="20">
+      <ref pos="13">1.1.2.2.7</ref>
+    </map>
+    <map x="403" y="189" w="28" h="20">
+      <ref pos="1">1.1.2.2.1</ref>
+    </map>
+    <map x="370" y="7" w="54" h="35">
+      <ref pos="16">1.1.2.2.10</ref>
+    </map>
+    <map x="28" y="147" w="39" h="21">
+      <ref pos="2">1.1.2.2.2</ref>
+      <ref pos="14">1.1.2.2.8</ref>
+    </map>
+    <map x="316" y="107" w="61" h="45">
+      <ref pos="31">1.1.2.2.13</ref>
+      <ref pos="32">1.1.2.2.14</ref>
+    </map>
+    <map x="432" y="299" w="38" h="21">
+      <ref pos="15">1.1.2.2.9</ref>
+      <ref pos="17">1.1.2.2.11</ref>
+    </map>
+    <map x="341" y="189" w="28" h="20">
+      <ref pos="18">1.1.2.2.12</ref>
+    </map>
+    <map x="208" y="94" w="65" h="60" />
+    <map x="0" y="78" w="28" h="20">
+      <ref pos="4">1.1.2.2.3</ref>
+    </map>
+    <map x="99" y="293" w="28" h="20">
+      <ref pos="8">1.1.2.2.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_2_1" name="TOOTHED BELT PULLEY T=30 W=30 PITCH=8" materialnr="024280" pos="1" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_2_2" name="CONNECTION ELEMENT - SET" materialnr="033288" pos="2" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_2_3" name="CLAMP CONNECTOR L160 W26 PITCH-AT10" materialnr="357906" pos="4" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_2_2_4" name="METRIC TOOTHED BELT PULLEY" materialnr="362246" pos="8" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_2_5" name="TOTHED BELT SET 75AT10/6660" materialnr="370003" pos="11" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_2_2_6" name="Servomotor LENZE 1.7kW+GST06 i=28.3 wB" materialnr="304793" pos="12" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_2_2_7" name="TOOTHED BELT HTD 800-8M-30 CXA III" materialnr="340135" pos="13" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_2_2_8" name="CAT TRACK CABLE T46/H35/KR100/W93" materialnr="342914" pos="14" description="&amp;nbsp;" ET="6" Quantity="39" Unit="" />
+  <stk id="1_1_2_2_9" name="HTD-TOOTHED BELT PULLEY 40-8M-30 D53H7" materialnr="357821" pos="15" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_2_10" name="GROOVED BALL BEARING ID25;OD52;W15;2 SEA" materialnr="005704" pos="16" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_2_2_11" name="TLK-TAPERLOCK BUSHING ID=40 OD=53 L=32MM" materialnr="030351" pos="17" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_2_2_12" name="FLANGE BEARING;ID=40; OVAL CAST HOUSING" materialnr="005792" pos="18" description="&amp;nbsp;" ET="6" Quantity="3" Unit="" />
+  <stk id="1_1_2_2_13" name="SINGLE CONNECTING PLATE CD01 D8/LATERAL" materialnr="191625" pos="31" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_2_14" name="5/2 SOLENOID VALVE;TYPE CD01 D4; BIS" materialnr="191568" pos="32" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_2_3" name="TRAV.CARRIER F.ROLL. CARRIER RPS60/33 V2" materialnr="425602" pos="3" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="501" y="133" w="29" h="20">
+      <ref pos="6">1.1.2.3.1</ref>
+    </map>
+    <map x="442" y="32" w="29" h="20">
+      <ref pos="7">1.1.2.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_3_1" name="SUPPORT ROLLER ID=17MM OD=40MM W=21MM" materialnr="218407" pos="6" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_2_3_2" name="FLANGE BUSHING ID=20MM OD=23MM L=16.5MM" materialnr="005822" pos="7" description="&amp;nbsp;" ET="7" Quantity="4" Unit="" />
+  <stk id="1_1_3" name="ROD COMPLETE FOR RPS" materialnr="418783" pos="3" description="&amp;nbsp;" ET="9" Quantity="420" Unit="">
+    <map x="229" y="77" w="26" h="26" />
+    <map x="508" y="335" w="41" h="46">
+      <ref pos="21">1.1.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="O-RING 24X3MM NBR 70 SHORE" materialnr="007878" pos="21" description="&amp;nbsp;" ET="8" Quantity="840" Unit="" />
+  <stk id="1_1_4" name="MAINTENANCE UNIT 3/8&amp;quot; 0,5-8,5BAR SMC" materialnr="372235" pos="26" description="&amp;nbsp;" ET="7" Quantity="1" Unit="">
+    <map x="387" y="245" w="48" h="28">
+      <ref pos="1">1.1.4.1</ref>
+      <ref pos="2">1.1.4.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="FILTER UNIT FOR MAINTENANCE UNIT 372235" materialnr="377104" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_4_2" name="FILTER CONTROLLER BOX C3SF FOR 372235" materialnr="414305" pos="2" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+</catalog>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="TFR-60/30">
+  <stk id="1" name="TFR-60/30" materialnr="301627" pos="1" description="&amp;nbsp;">
+    <map x="7" y="36" w="554" h="301">
+      <ref pos="2">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="PART LIST TFR-60/30" materialnr="303552" pos="2" description="&amp;nbsp;">
+    <map x="314" y="67" w="27" h="24">
+      <ref>1.1.1</ref>
+    </map>
+    <map x="523" y="250" w="27" h="24">
+      <ref>1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="DUPLEX-CHAIN, 75 CHAIN LINKS" materialnr="023383" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="TRANS.SHAFT PRE-ASSEMBLED L=3020MM" materialnr="023388" pos="5" description="&amp;nbsp;">
+    <map x="531" y="253" w="27" h="25">
+      <ref pos="2">1.1.2.1</ref>
+      <ref pos="5">1.1.2.4</ref>
+    </map>
+    <map x="447" y="229" w="27" h="25">
+      <ref pos="3">1.1.2.2</ref>
+    </map>
+    <map x="271" y="126" w="27" h="25">
+      <ref pos="4">1.1.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="KEY 6 x6x20MM DIN 6885 ST50-1K" materialnr="005313" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_2_2" name="IDLE PULLEY;EPDM;D80;W18;BORE HOLE 18" materialnr="005623" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_2_3" name="PLUMMER BLOCK BEARING;SH.MET.HOUS ID20" materialnr="005757" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_2_4" name="DBL SPROCKET 3/8X7/32 T=14 B=20K7 +" materialnr="014869" pos="5" description="&amp;nbsp;" />
+</catalog>

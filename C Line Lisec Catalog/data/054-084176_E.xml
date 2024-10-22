@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="BTS-60/30">
+  <stk id="1" name="BTS-60/30" materialnr="458427" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="">
+    <map x="152" y="20" w="313" h="269">
+      <ref pos="1">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="COMPLETE LIST BTS-60/33C" materialnr="461607" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="26" y="43" w="551" h="204">
+      <ref pos="1">1.1.1</ref>
+      <ref pos="2">1.1.2</ref>
+      <ref pos="3">1.1.3</ref>
+      <ref pos="7">1.1.4</ref>
+    </map>
+    <map x="486" y="275" w="74" h="40">
+      <ref pos="51">1.1.5</ref>
+      <ref pos="52">1.1.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="BASIC DESIGN COMPLETE BTS-60/33C" materialnr="461528" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="195" y="232" w="118" h="62">
+      <ref pos="5">1.1.1.1</ref>
+      <ref pos="6">1.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="SEGMENT ANCHOR HSA M10x90MM" materialnr="004872" pos="5" description="&amp;nbsp;" ET="8" Quantity="12" Unit="" />
+  <stk id="1_1_1_2" name="NUT M20 W=16 GALV" materialnr="004899" pos="6" description="&amp;nbsp;" ET="8" Quantity="24" Unit="" />
+  <stk id="1_1_2" name="AIR CUSHION COMPLETE BTS-60/33C" materialnr="461476" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="34" y="31" w="527" h="255">
+      <ref pos="1">1.1.2.1</ref>
+      <ref pos="2">1.1.2.2</ref>
+      <ref pos="3">1.1.2.3</ref>
+      <ref pos="4">1.1.2.4</ref>
+      <ref pos="5">1.1.2.5</ref>
+      <ref pos="8">1.1.2.6</ref>
+      <ref pos="9">1.1.2.7</ref>
+      <ref pos="10">1.1.2.8</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="AIR CUSHION ARRANGEMENT BTS-60/33C" materialnr="461467" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="0" y="96" w="28" h="20">
+      <ref pos="1">1.1.2.1.1</ref>
+    </map>
+    <map x="36" y="116" w="160" h="88">
+      <ref pos="3">1.1.2.1.2</ref>
+    </map>
+    <map x="214" y="222" w="353" h="80">
+      <ref pos="4">1.1.2.1.3</ref>
+    </map>
+    <map x="0" y="5" w="28" h="20">
+      <ref pos="5">1.1.2.1.4</ref>
+    </map>
+    <map x="571" y="34" w="28" h="20">
+      <ref pos="6">1.1.2.1.5</ref>
+    </map>
+    <map x="37" y="223" w="162" h="76">
+      <ref pos="7">1.1.2.1.6</ref>
+    </map>
+    <map x="217" y="23" w="348" h="76">
+      <ref pos="4">1.1.2.1.3</ref>
+    </map>
+    <map x="37" y="24" w="159" h="73">
+      <ref pos="4">1.1.2.1.3</ref>
+    </map>
+    <map x="219" y="116" w="344" h="91">
+      <ref pos="3">1.1.2.1.2</ref>
+    </map>
+    <map x="191" y="303" w="26" h="17" />
+  </stk>
+  <stk id="1_1_2_1_1" name="DUMMY STRIP 2168X42X19 FELT ON THE TOP/W" materialnr="466419" pos="1" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_2" name="AIR CUSHION 2 BTS-xx/33C" materialnr="461455" pos="3" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_2_1_3" name="AIR CUSHION 1 BTS-xx/33C" materialnr="461451" pos="4" description="&amp;nbsp;" ET="8" Quantity="5" Unit="" />
+  <stk id="1_1_2_1_4" name="TAKE-OVER BAR 85/30X2195MM VAR.2" materialnr="465673" pos="5" description="&amp;nbsp;" ET="6" Quantity="6" Unit="" />
+  <stk id="1_1_2_1_5" name="TAKE-OVER BAR 85/30X1768MM VAR.2" materialnr="465672" pos="6" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_6" name="AIR CUSHION 1 BTS-xx/33C" materialnr="461451" pos="7" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_2" name="BLOWER UNIT 3KW+FREQUENCY CONVERTER" materialnr="413049" pos="2" description="&amp;nbsp;" ET="9" Quantity="3" Unit="">
+    <map x="92" y="336" w="27" h="24">
+      <ref pos="1">1.1.2.2.1</ref>
+    </map>
+    <map x="79" y="92" w="203" h="117">
+      <ref pos="2">1.1.2.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_2_1" name="ANTI-VIBRATION BUFFER D50 2XM10X26-MALE" materialnr="014562" pos="1" description="&amp;nbsp;" ET="8" Quantity="12" Unit="" />
+  <stk id="1_1_2_2_2" name="RADIAL FAN HPB-F-040 FC-100HZ/3KW" materialnr="433146" pos="2" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_2_3" name="HOSE CLIP, 104-138MM ZINC-COATED" materialnr="003666" pos="3" description="&amp;nbsp;" ET="8" Quantity="18" Unit="" />
+  <stk id="1_1_2_4" name="BLOWER HOSE D=125MM" materialnr="007799" pos="4" description="&amp;nbsp;" ET="7" Quantity="8000" Unit="" />
+  <stk id="1_1_2_5" name="AIR-CUSHION CONNECTION D=125MM H=84MM" materialnr="244123" pos="5" description="&amp;nbsp;" ET="8" Quantity="9" Unit="" />
+  <stk id="1_1_2_6" name="PP-DOUBLE SPLITTER D=125 45&amp;deg;/180&amp;deg;" materialnr="308778" pos="8" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_2_7" name="POLYPROPYLENE PIPE  ND 125 L=150MM" materialnr="032905" pos="9" description="&amp;nbsp;" ET="8" Quantity="9" Unit="" />
+  <stk id="1_1_2_8" name="POLYPROP. SLIP-ON SLEEVE ND125" materialnr="030456" pos="10" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_3" name="BREAKER BARS BTS-60/33C COMPLETE" materialnr="461570" pos="3" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="267" y="0" w="28" h="20">
+      <ref pos="1">1.1.3.1</ref>
+    </map>
+    <map x="299" y="0" w="28" h="20">
+      <ref pos="2">1.1.3.2</ref>
+    </map>
+    <map x="513" y="176" w="28" h="20">
+      <ref pos="3">1.1.3.3</ref>
+    </map>
+    <map x="513" y="200" w="28" h="20">
+      <ref pos="4">1.1.3.4</ref>
+    </map>
+    <map x="296" y="241" w="35" h="21" />
+    <map x="449" y="234" w="48" h="54">
+      <ref pos="10">1.1.3.5</ref>
+      <ref pos="12">1.1.3.6</ref>
+      <ref pos="13">1.1.3.7</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="X-BREAKER BAR FOR BTS-60/33C COMPLETE" materialnr="461566" pos="1" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="162" y="82" w="38" h="20">
+      <ref pos="2">1.1.3.1.2</ref>
+      <ref pos="3">1.1.3.1.3</ref>
+    </map>
+    <map x="114" y="203" w="42" h="20">
+      <ref pos="4">1.1.3.1.4</ref>
+      <ref pos="11">1.1.3.1.10</ref>
+    </map>
+    <map x="159" y="203" w="38" h="20">
+      <ref pos="5">1.1.3.1.5</ref>
+      <ref pos="9">1.1.3.1.8</ref>
+    </map>
+    <map x="203" y="82" w="28" h="20">
+      <ref pos="7">1.1.3.1.6</ref>
+    </map>
+    <map x="23" y="158" w="28" h="20">
+      <ref pos="8">1.1.3.1.7</ref>
+    </map>
+    <map x="53" y="182" w="28" h="20">
+      <ref pos="10">1.1.3.1.9</ref>
+    </map>
+    <map x="502" y="222" w="44" h="20">
+      <ref pos="1">1.1.3.1.1</ref>
+      <ref pos="12">1.1.3.1.11</ref>
+    </map>
+    <map x="130" y="82" w="28" h="20">
+      <ref pos="14">1.1.3.1.12</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_1" name="JOINT HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="1" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_2" name="COUNTER BEARING LINK WIDE CYL.D100" materialnr="013346" pos="2" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_3" name="SWIVEL FASTENING-FORK CYL.D100" materialnr="019890" pos="3" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_4" name="NUT (FLAT) M16x15 HEXAGONAL ZINC-COATED" materialnr="023937" pos="4" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_5" name="EXHAUST THROTTLE THR.3/8&amp;quot; D8 PLUG-CONN." materialnr="316702" pos="5" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_1_6" name="SUBPLATE BREAKER BAR L=3450MM" materialnr="311292" pos="7" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="89" y="130" w="28" h="20">
+      <ref pos="3">1.1.3.1.6.1</ref>
+    </map>
+    <map x="128" y="0" w="28" h="20">
+      <ref pos="4">1.1.3.1.6.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_6_1" name="JOINT HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="3" description="&amp;nbsp;" ET="6" Quantity="8" Unit="" />
+  <stk id="1_1_3_1_6_2" name="BREAKER BAR ATTACHMENT" materialnr="169445" pos="4" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_3_1_7" name="PEDESTAL BEAR./CAST HOUS.ID 20MM" materialnr="005759" pos="8" description="&amp;nbsp;" ET="6" Quantity="8" Unit="" />
+  <stk id="1_1_3_1_8" name="SWADGED NIPPLE,3/8&amp;quot;FEMALE,1/2&amp;quot;MALE,B" materialnr="003551" pos="9" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_1_9" name="JOINT HEAD M20X1.5-FEMALE-R D20" materialnr="003073" pos="10" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_10" name="JOINT HEAD M16X1.5-FEM-LEFT D=16MM" materialnr="003052" pos="11" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_11" name="HEX.NUT FLAT M16X1,5 DIN439 ZINC-COATED" materialnr="003044" pos="12" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_12" name="DA-PN-CYLINDER Ø100 STR125 ISO+SIGNAL" materialnr="424755" pos="14" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_3_2" name="Y-BREAKER BAR FOR BTS-60/33 COMPLETE" materialnr="461567" pos="2" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="432" y="92" w="38" h="21">
+      <ref pos="1">1.1.3.2.1</ref>
+      <ref pos="2">1.1.3.2.2</ref>
+    </map>
+    <map x="171" y="222" w="40" h="22">
+      <ref pos="3">1.1.3.2.3</ref>
+      <ref pos="8">1.1.3.2.7</ref>
+    </map>
+    <map x="456" y="215" w="38" h="20">
+      <ref pos="4">1.1.3.2.4</ref>
+      <ref pos="10">1.1.3.2.9</ref>
+    </map>
+    <map x="45" y="225" w="38" h="21">
+      <ref pos="6">1.1.3.2.5</ref>
+      <ref pos="12">1.1.3.2.10</ref>
+    </map>
+    <map x="53" y="92" w="28" h="20">
+      <ref pos="9">1.1.3.2.8</ref>
+    </map>
+    <map x="401" y="92" w="28" h="20">
+      <ref pos="14">1.1.3.2.11</ref>
+    </map>
+    <map x="313" y="223" w="40" h="20">
+      <ref pos="7">1.1.3.2.6</ref>
+      <ref pos="17">1.1.3.2.12</ref>
+    </map>
+    <map x="215" y="223" w="28" h="20">
+      <ref pos="19">1.1.3.2.13</ref>
+    </map>
+    <map x="425" y="215" w="28" h="20">
+      <ref pos="20">1.1.3.2.14</ref>
+    </map>
+    <map x="104" y="258" w="47" h="36">
+      <ref pos="24">1.1.3.2.15</ref>
+      <ref pos="26">1.1.3.2.16</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_2_1" name="COUNTER BEARING LINK WIDE CYL.D100" materialnr="013346" pos="1" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_2_2" name="SWIVEL FASTENING-FORK CYL.D100" materialnr="019890" pos="2" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_2_3" name="NUT (FLAT) M16x15 HEXAGONAL ZINC-COATED" materialnr="023937" pos="3" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_2_4" name="EXHAUST THROTTLE THR.3/8&amp;quot; D8 PLUG-CONN." materialnr="316702" pos="4" description="&amp;nbsp;" ET="8" Quantity="6" Unit="" />
+  <stk id="1_1_3_2_5" name="JOINT HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="6" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_3_2_6" name="JOINT HEAD M20X1.5-FEMALE-R D20" materialnr="003073" pos="7" description="&amp;nbsp;" ET="6" Quantity="6" Unit="" />
+  <stk id="1_1_3_2_7" name="JOINT HEAD M16X1.5-FEM-LEFT D=16MM" materialnr="003052" pos="8" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_3_2_8" name="PEDESTAL BEAR./CAST HOUS.ID 20MM" materialnr="005759" pos="9" description="&amp;nbsp;" ET="6" Quantity="16" Unit="" />
+  <stk id="1_1_3_2_9" name="SWADGED NIPPLE,3/8&amp;quot;FEMALE,1/2&amp;quot;MALE,B" materialnr="003551" pos="10" description="&amp;nbsp;" ET="8" Quantity="6" Unit="" />
+  <stk id="1_1_3_2_10" name="HEX.NUT FLAT M16X1,5 DIN439 ZINC-COATED" materialnr="003044" pos="12" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_2_11" name="LONGITUDINAL BREAKER BAR L=2160MM" materialnr="309102" pos="14" description="&amp;nbsp;" ET="9" Quantity="4" Unit="">
+    <map x="107" y="280" w="28" h="20">
+      <ref pos="3">1.1.3.2.11.1</ref>
+    </map>
+    <map x="111" y="119" w="28" h="20">
+      <ref pos="4">1.1.3.2.11.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_2_11_1" name="JOINT HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="3" description="&amp;nbsp;" ET="6" Quantity="16" Unit="" />
+  <stk id="1_1_3_2_11_2" name="WOODEN RAIL/LONGITUDINAL BREAKER BAR" materialnr="169452" pos="4" description="&amp;nbsp;" ET="6" Quantity="8" Unit="" />
+  <stk id="1_1_3_2_12" name="NUT WITH ROUND SPIGOT FOR CYLINDER" materialnr="003071" pos="17" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_2_13" name="DA-PN.CYLINDER Ø100 STR100 ISO+SIGNAL" materialnr="424754" pos="19" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_3_2_14" name="DA-PN-CYLINDER Ø100 STR125 ISO+SIGNAL" materialnr="424755" pos="20" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_3_2_15" name="TENSION SPRING OD=25,2MM ID=2,8MM" materialnr="329950" pos="24" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_2_16" name="EXTENSION NUT M8 H=24  HWN 309" materialnr="030404" pos="26" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_3" name="3/2-TILTING  VALVE 1/8&amp;quot; LOCKING" materialnr="349204" pos="3" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_3_4" name="5/2-WAY-FOOT VALVE G1/4&amp;quot;+SPRING RETURN" materialnr="458733" pos="4" description="&amp;nbsp;" ET="7" Quantity="4" Unit="" />
+  <stk id="1_1_3_5" name="BOW FOR PROTECTION HOSE" materialnr="465369" pos="10" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_6" name="FAST-BLEEDING  VALVE G1/4&amp;quot;" materialnr="350981" pos="12" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_3_7" name="EXHAUST  SILENCER 1/4 &amp;quot; SINTERED METAL" materialnr="003351" pos="13" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_4" name="SAFETY BAR FOR BTS-XX/33" materialnr="311316" pos="7" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="315" y="91" w="28" h="20">
+      <ref pos="1">1.1.4.1</ref>
+    </map>
+    <map x="486" y="148" w="28" h="20">
+      <ref pos="2">1.1.4.2</ref>
+    </map>
+    <map x="406" y="276" w="28" h="20">
+      <ref pos="7">1.1.4.5</ref>
+    </map>
+    <map x="406" y="254" w="28" h="20">
+      <ref pos="8">1.1.4.6</ref>
+    </map>
+    <map x="406" y="231" w="28" h="20">
+      <ref pos="11">1.1.4.7</ref>
+    </map>
+    <map x="64" y="132" w="28" h="20">
+      <ref pos="12">1.1.4.8</ref>
+    </map>
+    <map x="176" y="230" w="106" h="73">
+      <ref pos="21">1.1.4.9</ref>
+      <ref pos="22">1.1.4.10</ref>
+      <ref pos="23">1.1.4.11</ref>
+      <ref pos="24">1.1.4.12</ref>
+      <ref pos="31">1.1.4.13</ref>
+    </map>
+    <map x="436" y="300" w="39" h="20">
+      <ref pos="5">1.1.4.3</ref>
+      <ref pos="6">1.1.4.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="SUBPLATE BREAKER BAR L=3450MM" materialnr="311292" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="89" y="130" w="28" h="20">
+      <ref pos="3">1.1.4.1.1</ref>
+    </map>
+    <map x="128" y="0" w="28" h="20">
+      <ref pos="4">1.1.4.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_1" name="JOINT HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="3" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_4_1_2" name="BREAKER BAR ATTACHMENT" materialnr="169445" pos="4" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_4_2" name="PEDESTAL BEAR./CAST HOUS.ID 20MM" materialnr="005759" pos="2" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_4_3" name="COUNTER BEARING BRACKET CYL.D=80" materialnr="003087" pos="5" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_4" name="SWIVEL MOUNT FORK CYL.D=80MM" materialnr="003069" pos="6" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_5" name="DA-PNEU-CYLINDER Ø80 STR50 ISO+SIGNAL" materialnr="424789" pos="7" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_4_6" name="JOINT HEAD M20X1.5-FEMALE-R D20" materialnr="003073" pos="8" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_4_7" name="JOINT HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="11" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_4_8" name="JOINT HEAD M16X1.5-FEM-LEFT D=16MM" materialnr="003052" pos="12" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_4_9" name="STRAIGHT ADAPTOR R1/4&amp;quot; 90&amp;deg; D=8MM" materialnr="223937" pos="21" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_10" name="PLUG FITTING 1/4&amp;quot; STRAIGHT D=8MM" materialnr="032295" pos="22" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_11" name="THREADED UNION  R3/8&amp;quot; 90&amp;deg; D=8MM" materialnr="308288" pos="23" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_12" name="PLUG CONNECTION T-SHAPE D=8MM" materialnr="028818" pos="24" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_4_13" name="EXHAUST THROTTLE THR.3/8&amp;quot; D8 PLUG-CONN." materialnr="316702" pos="31" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_5" name="SINGLE CONNECTING PLATE F TYPE CD01" materialnr="191621" pos="51" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_6" name="5/2 SOLENOID VALVE;TYPE CD01 D4; BIS" materialnr="191568" pos="52" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+</catalog>

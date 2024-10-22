@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="RTW-3060A">
+  <stk id="1" name="RTW-3060A" materialnr="141245" pos="1" description="&amp;nbsp;">
+    <map x="222" y="24" w="150" h="340">
+      <ref pos="1">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="RTW-3060A UNLOAD-HEIGHT=4353MM" materialnr="360353" pos="1" description="&amp;nbsp;">
+    <map x="407" y="302" w="26" h="25">
+      <ref>1.1.1</ref>
+    </map>
+    <map x="365" y="87" w="26" h="25">
+      <ref>1.1.2</ref>
+    </map>
+    <map x="384" y="258" w="26" h="25">
+      <ref>1.1.3</ref>
+    </map>
+    <map x="360" y="231" w="26" h="25">
+      <ref>1.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="FRAME TOTAL RTW UNLOAD-HEIGHT 4353MM" materialnr="360216" pos="1" description="&amp;nbsp;">
+    <map x="53" y="257" w="26" h="25">
+      <ref>1.1.1.1</ref>
+    </map>
+    <map x="299" y="341" w="26" h="25">
+      <ref>1.1.1.2</ref>
+    </map>
+    <map x="152" y="74" w="26" h="25">
+      <ref>1.1.1.3</ref>
+    </map>
+    <map x="482" y="265" w="26" h="25">
+      <ref>1.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="FIXED CASTOR D=100;W=43;300KG; H=125MM" materialnr="005614" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_1_2" name="CASTOR ROLLER,D=100,W=43300KG;CO.H=125MM" materialnr="005598" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_1_3" name="5/3 WAY HAND LEVER VALVE R1/4&amp;quot;LOCKING" materialnr="003148" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="TUBULAR STEEL SECTION BAR GUIDE RTW" materialnr="360305" pos="2" description="&amp;nbsp;">
+    <map x="247" y="359" w="26" h="25">
+      <ref>1.1.2.1</ref>
+    </map>
+    <map x="476" y="47" w="26" h="25">
+      <ref>1.1.2.2</ref>
+    </map>
+    <map x="449" y="15" w="26" h="25">
+      <ref>1.1.2.3</ref>
+    </map>
+    <map x="385" y="360" w="26" h="25">
+      <ref>1.1.2.4</ref>
+    </map>
+    <map x="290" y="234" w="26" h="25">
+      <ref>1.1.2.5</ref>
+    </map>
+    <map x="276" y="99" w="26" h="25">
+      <ref pos="40">1.1.2.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="BEARING ROLLER BOTTOM D=60X125MM" materialnr="015546" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_2_2" name="TRANSPORT ROLLER ID=20MM OD=52MM W=14MM" materialnr="005739" pos="15" description="&amp;nbsp;" />
+  <stk id="1_1_2_3" name="BEARING ROLLER(TOP) D=60X125MM" materialnr="015547" pos="21" description="&amp;nbsp;" />
+  <stk id="1_1_2_4" name="GLIDE RAIL 25X5X1100MM" materialnr="014852" pos="25" description="&amp;nbsp;" />
+  <stk id="1_1_2_5" name="DA-PNEU CYLINDER D=50 STROKE160 W SIGNAL" materialnr="188953" pos="36" description="&amp;nbsp;">
+    <map x="42" y="26" w="443" h="235">
+      <ref pos="10">1.1.2.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_5_1" name="SEAL KIT FOR REXROTH CYLINDER D=50MM" materialnr="315971" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_2_6" name="EXHAUST THROTTLE THR.1/4&amp;quot; D8 W PLUG CON." materialnr="316703" pos="40" description="&amp;nbsp;" />
+  <stk id="1_1_3" name="TENSIONING-AND LOWERING DEVICE RTW H4353" materialnr="360348" pos="4" description="&amp;nbsp;">
+    <map x="531" y="176" w="26" h="25">
+      <ref>1.1.3.1</ref>
+    </map>
+    <map x="362" y="131" w="26" h="25">
+      <ref>1.1.3.2</ref>
+    </map>
+    <map x="220" y="274" w="26" h="25">
+      <ref>1.1.3.3</ref>
+    </map>
+    <map x="454" y="239" w="26" h="25">
+      <ref>1.1.3.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="TRANSPORT ROLLER/ID=15MM/OD=40MM/W=11MM" materialnr="005738" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_3_2" name="SLIDE PIN" materialnr="174682" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_3_3" name="DA-PNEU CYLINDER D80 STR1400/IS VDMA" materialnr="360347" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_3_4" name="BUSHING ID=10MM OD=12MM L=10MM" materialnr="005801" pos="17" description="&amp;nbsp;" />
+  <stk id="1_1_4" name="PNEUMATIC MATERIALS FOR RTW-3060A" materialnr="214643" pos="6" description="&amp;nbsp;">
+    <map x="50" y="51" w="62" h="39">
+      <ref pos="3">1.1.4.1</ref>
+    </map>
+    <map x="118" y="241" w="132" h="94">
+      <ref pos="8">1.1.4.2</ref>
+    </map>
+    <map x="188" y="16" w="120" h="188">
+      <ref pos="10">1.1.4.3</ref>
+    </map>
+    <map x="293" y="283" w="39" h="67">
+      <ref pos="12">1.1.4.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="CHECK VALVE PLUG-IN 1/4A-D=8MM" materialnr="334394" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_4_2" name="PVC-TEXTILE FIBER HOSE D=10MM CLEAR" materialnr="003479" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_4_3" name="5/3 WAY HAND LEVER VALVE R1/4&amp;quot;LOCKING" materialnr="003148" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_4_4" name="SUPPLY-AIR CHOKE 1/4&amp;quot; D=8MM" materialnr="317961" pos="12" description="&amp;nbsp;" />
+</catalog>

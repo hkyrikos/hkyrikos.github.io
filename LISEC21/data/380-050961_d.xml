@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="RTVN-15/27ST">
+  <stk id="1" name="RTVN-15/27ST" materialnr="169763" pos="1" description="&amp;nbsp;">
+    <map x="202" y="60" w="181" h="324">
+      <ref pos="1">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="RTVN-15ST BELT 70MM/LOWERABLE 4,5M" materialnr="387494" pos="1" description="&amp;nbsp;">
+    <map x="108" y="237" w="28" h="25">
+      <ref pos="3">1.1.1</ref>
+    </map>
+    <map x="374" y="373" w="28" h="25">
+      <ref pos="20">1.1.4</ref>
+    </map>
+    <map x="384" y="6" w="28" h="25">
+      <ref pos="5">1.1.3</ref>
+    </map>
+    <map x="382" y="310" w="28" h="25">
+      <ref pos="25">1.1.5</ref>
+    </map>
+    <map x="423" y="324" w="28" h="25">
+      <ref pos="29">1.1.6</ref>
+    </map>
+    <map x="78" y="352" w="28" h="25">
+      <ref pos="31">1.1.7</ref>
+    </map>
+    <map x="378" y="277" w="28" h="25">
+      <ref pos="36">1.1.8</ref>
+    </map>
+    <map x="135" y="199" w="28" h="25">
+      <ref pos="37">1.1.9</ref>
+    </map>
+    <map x="208" y="373" w="28" h="25">
+      <ref pos="39">1.1.10</ref>
+    </map>
+    <map x="167" y="367" w="28" h="25">
+      <ref pos="41">1.1.11</ref>
+    </map>
+    <map x="189" y="215" w="51" h="73">
+      <ref pos="52">1.1.12</ref>
+    </map>
+    <map x="411" y="352" w="28" h="25">
+      <ref pos="4">1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="DRIVE CARRIER WITH BELT RTVN-15 70MM" materialnr="364598" pos="3" description="&amp;nbsp;">
+    <map x="156" y="321" w="27" h="25">
+      <ref>1.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="BEARING BLOCK F.BELT DRIVE/ BELT-W=70MM" materialnr="364613" pos="7" description="&amp;nbsp;">
+    <map x="157" y="73" w="27" h="34">
+      <ref>1.1.1.1.1</ref>
+    </map>
+    <map x="377" y="325" w="27" h="34">
+      <ref>1.1.1.1.3</ref>
+    </map>
+    <map x="429" y="104" w="27" h="25">
+      <ref pos="6">1.1.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1_1" name="GROOVED BALL BEARING ID30;OD62;W16;2SEAL" materialnr="005707" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_2" name="GREASING NIPPLE;ANGLED;M6X1-TAPERED" materialnr="005497" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_3" name="TOOTHED BELT PULLEY COMPL.BELT-W=70MM" materialnr="364612" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="Servomotor LENZE 1.7kW+GST05 i=20.0 nB" materialnr="303843" pos="4" description="&amp;nbsp;">
+    <map x="142" y="94" w="131" h="183">
+      <ref pos="10">1.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="SPUR GEAR 20.044/GST05-2F VBR" materialnr="368277" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_3" name="MODULE SEALING SHUTTER RTVN-15/27ST" materialnr="364658" pos="5" description="&amp;nbsp;">
+    <map x="72" y="156" w="27" h="25">
+      <ref>1.1.3.1</ref>
+    </map>
+    <map x="513" y="210" w="27" h="25">
+      <ref>1.1.3.2</ref>
+    </map>
+    <map x="230" y="240" w="27" h="25">
+      <ref>1.1.3.3</ref>
+    </map>
+    <map x="316" y="103" w="27" h="25">
+      <ref>1.1.3.4</ref>
+    </map>
+    <map x="446" y="73" w="27" h="25">
+      <ref>1.1.3.5</ref>
+    </map>
+    <map x="258" y="97" w="27" h="25">
+      <ref>1.1.3.6</ref>
+    </map>
+    <map x="331" y="274" w="27" h="25">
+      <ref>1.1.3.7</ref>
+    </map>
+    <map x="75" y="77" w="27" h="25">
+      <ref pos="19">1.1.3.8</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="VULKOCELL PLATE 500X70X9MM" materialnr="364646" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_3_2" name="FLANGE BUSHING ID=20MM OD=23MM L=16.5MM" materialnr="005822" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_3_3" name="COUNTER BEAR, ZYL.D=50" materialnr="003085" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_3_4" name="DBL/ACT PNEUM.CYL;DIA=50;STROKE=100;" materialnr="218949" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_3_5" name="ARTICULATED HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_3_6" name="SWIVEL MOUNT FORK CYL. D=50MM" materialnr="003054" pos="12" description="&amp;nbsp;" />
+  <stk id="1_1_3_7" name="FOAM PLATE 900X75MM PERFORATED" materialnr="364662" pos="17" description="&amp;nbsp;" />
+  <stk id="1_1_3_8" name="VULKOCELL-PLATE 200X70X9MM" materialnr="364663" pos="19" description="&amp;nbsp;" />
+  <stk id="1_1_4" name="HTD-TOOTHED BELT PULLEY TEETH=40 25H7" materialnr="013454" pos="20" description="&amp;nbsp;" />
+  <stk id="1_1_5" name="TOOTHED BELT,  HTD 600-8M-30 CXA III" materialnr="347069" pos="25" description="&amp;nbsp;" />
+  <stk id="1_1_6" name="TOOTHED BELT PULLEY/PIT8/T32/BW30/25" materialnr="013453" pos="29" description="&amp;nbsp;" />
+  <stk id="1_1_7" name="INTERMEDIATE SEAL (SYSTEM SUPPORT FINGER" materialnr="367196" pos="31" description="&amp;nbsp;">
+    <map x="73" y="53" w="27" h="25">
+      <ref>1.1.7.1</ref>
+    </map>
+    <map x="262" y="371" w="27" h="25">
+      <ref>1.1.7.2</ref>
+    </map>
+    <map x="248" y="116" w="27" h="25">
+      <ref>1.1.7.3</ref>
+    </map>
+    <map x="256" y="295" w="27" h="25">
+      <ref>1.1.7.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_7_1" name="BUSHING ID=10MM OD=12MM L=5MM" materialnr="005821" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_7_2" name="COUNTER BEARING-FORK CYL.D12/16" materialnr="003106" pos="13" description="&amp;nbsp;" />
+  <stk id="1_1_7_3" name="ARTICULATED HEAD M6-FEMALE-R 5MM" materialnr="368658" pos="14" description="&amp;nbsp;" />
+  <stk id="1_1_7_4" name="DA-PNEU CYLINDER D16 STR50 ISO/SIGNAL" materialnr="030629" pos="15" description="&amp;nbsp;" />
+  <stk id="1_1_8" name="SUPPORT ROLLER D=50MM WITH THREAD M6X15" materialnr="306434" pos="36" description="&amp;nbsp;">
+    <map x="218" y="44" w="245" h="310">
+      <ref pos="3">1.1.8.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_8_1" name="ROLLER WITH TRANSPORT ROLLER FACING" materialnr="306456" pos="3" description="&amp;nbsp;">
+    <map x="49" y="137" w="27" h="24">
+      <ref pos="2">1.1.8.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_8_1_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_9" name="SUPPORT ROLLER D=50MM F WOOD PANEL 19MM" materialnr="306458" pos="37" description="&amp;nbsp;">
+    <map x="137" y="22" w="40" h="27">
+      <ref pos="3">1.1.9.2</ref>
+      <ref pos="10">1.1.9.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_9_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_9_2" name="ROLLER WITH TRANSPORT ROLLER FACING" materialnr="306456" pos="3" description="&amp;nbsp;">
+    <map x="49" y="137" w="27" h="24">
+      <ref pos="2">1.1.9.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_9_2_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_10" name="GLASS STOP RTVN-15/25 BELT" materialnr="363697" pos="39" description="&amp;nbsp;">
+    <map x="140" y="111" w="28" h="20">
+      <ref pos="1">1.1.10.1</ref>
+    </map>
+    <map x="108" y="111" w="28" h="20">
+      <ref pos="3">1.1.10.2</ref>
+    </map>
+    <map x="308" y="72" w="28" h="20">
+      <ref pos="7">1.1.10.3</ref>
+    </map>
+    <map x="277" y="72" w="28" h="20">
+      <ref pos="9">1.1.10.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_10_1" name="FLANGE BUSHING ID=25 OD=28MM  L=16,5MM" materialnr="005824" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_10_2" name="LOCATOR STOP F.GLASS UNIT STOP(WIDE)" materialnr="340395" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_10_3" name="DBL-ACT.PNEUM.CYL/DIA=63/STRK120/ISO" materialnr="199929" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_10_4" name="STRAIGHT ADAPTOR R3/8&amp;quot; 90&amp;deg; D=8MM" materialnr="308288" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_11" name="BELT CARRIER LOWER/RTVN-15 BELTS" materialnr="343183" pos="41" description="&amp;nbsp;">
+    <map x="160" y="39" w="28" h="20">
+      <ref pos="4">1.1.11.1</ref>
+    </map>
+    <map x="60" y="225" w="28" h="20">
+      <ref pos="9">1.1.11.2</ref>
+    </map>
+    <map x="60" y="250" w="28" h="20">
+      <ref pos="10">1.1.11.3</ref>
+    </map>
+    <map x="60" y="201" w="28" h="20">
+      <ref pos="15">1.1.11.4</ref>
+    </map>
+    <map x="60" y="177" w="28" h="20">
+      <ref pos="16">1.1.11.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1_11_1" name="BUSHING ID=30 OD=34 L=15MM" materialnr="323920" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_11_2" name="DBL/ACT PNEUM.CYL.,D=80,STROKE=50MM;" materialnr="189812" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_11_3" name="EXHAUST THROTTLE T1/4&amp;quot; D=6MM/PLUG-CONN." materialnr="316705" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_11_4" name="PRESSURE CONTROLLER 0.2-3.5BAR R1/4&amp;quot;" materialnr="003368" pos="15" description="&amp;nbsp;" />
+  <stk id="1_1_11_5" name="MANOMETER 0-4 BAR" materialnr="003356" pos="16" description="&amp;nbsp;" />
+  <stk id="1_1_12" name="VALVE BLOCK FOR RTVN WITH SEALING" materialnr="356917" pos="52" description="&amp;nbsp;">
+    <map x="332" y="120" w="51" h="104">
+      <ref pos="1">1.1.12.1</ref>
+    </map>
+    <map x="212" y="68" w="65" h="163">
+      <ref pos="8">1.1.12.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_12_1" name="5/2 WAY SOLENOID VALVE, 24VDC," materialnr="003229" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_12_2" name="5/2 WAY DBL SOLENOID VALVE, 24VDC," materialnr="003230" pos="8" description="&amp;nbsp;" />
+</catalog>

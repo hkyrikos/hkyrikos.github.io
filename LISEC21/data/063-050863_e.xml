@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="RWF-33/25">
+  <stk id="1" name="RWF-33/25" materialnr="350065" pos="1" description="&amp;nbsp;">
+    <map x="48" y="45" w="461" h="324">
+      <ref pos="1">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="TOTAL LIST RWF-33/25 BELT-L=8600MM" materialnr="384065" pos="1" description="&amp;nbsp;">
+    <map x="395" y="309" w="27" h="24">
+      <ref pos="2">1.1.1</ref>
+    </map>
+    <map x="241" y="342" w="27" h="24">
+      <ref pos="3">1.1.2</ref>
+    </map>
+    <map x="288" y="327" w="27" h="24">
+      <ref pos="4">1.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="LIFTING MECHANICS RWF-33/25 L8600MM" materialnr="371786" pos="2" description="&amp;nbsp;">
+    <map x="286" y="308" w="24" h="24">
+      <ref pos="1">1.1.1.1</ref>
+    </map>
+    <map x="109" y="241" w="24" h="24">
+      <ref pos="6">1.1.1.2</ref>
+    </map>
+    <map x="110" y="211" w="24" h="24">
+      <ref pos="7">1.1.1.3</ref>
+    </map>
+    <map x="111" y="181" w="24" h="24">
+      <ref pos="8">1.1.1.4</ref>
+    </map>
+    <map x="464" y="269" w="24" h="24">
+      <ref pos="9">1.1.1.5</ref>
+    </map>
+    <map x="271" y="225" w="46" h="25">
+      <ref pos="10">1.1.1.6</ref>
+      <ref pos="11">1.1.1.7</ref>
+    </map>
+    <map x="445" y="127" w="24" h="24">
+      <ref pos="12">1.1.1.8</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="DA- PNEU CYL.D=100 STROKE=100 W SIGNAL" materialnr="188979" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_1_2" name="PLUMMER BLOCK BEARING;CAST HOUS.ID30" materialnr="005764" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_1_3" name="PLUMMER BLOCK  BEARING ID60 UCP 212" materialnr="014936" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_1_4" name="ARTICULATED HEAD M20X1.5-FEMALE-R D20" materialnr="003073" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_1_5" name="ARTICULATED HEAD M20X1.5-FEMALE-L;D=20MM" materialnr="005845" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_1_6" name="COUNTER BEARING BRACKET WIDE CYL.D100" materialnr="013346" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_1_7" name="SWIVEL FASTENING-FORK CYL.D100" materialnr="019890" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_1_8" name="BUMPER D=50 H=61MM  M8" materialnr="007794" pos="12" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="BELT FIELD RWF-33/25 BELT-L=8600MM" materialnr="384006" pos="3" description="&amp;nbsp;">
+    <map x="81" y="345" w="27" h="24">
+      <ref pos="4">1.1.2.1</ref>
+    </map>
+    <map x="188" y="341" w="27" h="24">
+      <ref pos="6">1.1.2.2</ref>
+    </map>
+    <map x="13" y="273" w="27" h="24">
+      <ref pos="7">1.1.2.3</ref>
+    </map>
+    <map x="13" y="326" w="27" h="24">
+      <ref pos="15">1.1.2.5</ref>
+    </map>
+    <map x="9" y="225" w="33" h="24">
+      <ref pos="14">1.1.2.4</ref>
+      <ref pos="16">1.1.2.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="SPUR GEAR MOTOR 1,5KW 57RPM 50/60HZ" materialnr="220895" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_2_2" name="BELT UNIT 1 RWF L=8600MM W=25MM" materialnr="371788" pos="6" description="&amp;nbsp;">
+    <map x="35" y="107" w="25" h="25">
+      <ref pos="4">1.1.2.2.1</ref>
+    </map>
+    <map x="313" y="79" w="25" h="25">
+      <ref pos="9">1.1.2.2.2</ref>
+    </map>
+    <map x="448" y="115" w="25" h="25">
+      <ref pos="15">1.1.2.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_2_1" name="FLANGE BEARING ID=25MM 3-HOLE CASTING" materialnr="024655" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_2_2_2" name="TOOTHED BELT W=25 PIT10 L8600-V-PAZ-PVC" materialnr="305856" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_2_2_3" name="GROOVED BALL BEARING ID20 0D42 W12;2SEAL" materialnr="005697" pos="15" description="&amp;nbsp;" />
+  <stk id="1_1_2_3" name="TOOTHED BELT 1200-8MGT-50 POWERGRIP GT3" materialnr="384151" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_2_4" name="HTD-TOOTHED BELT PULLEY 32-8M-50" materialnr="384099" pos="14" description="&amp;nbsp;" />
+  <stk id="1_1_2_5" name="HTD-TOOTHED BELT PULLEY 72-8M-50 D30" materialnr="384097" pos="15" description="&amp;nbsp;" />
+  <stk id="1_1_2_6" name="CLAMPING BUSH D=25/50 TLK131 420NM" materialnr="378623" pos="16" description="&amp;nbsp;" />
+  <stk id="1_1_3" name="ROLLER FIELD RWF-33/25 VAR.2" materialnr="384048" pos="4" description="&amp;nbsp;">
+    <map x="460" y="311" w="24" h="24">
+      <ref pos="7">1.1.3.1</ref>
+    </map>
+    <map x="441" y="73" w="24" h="24">
+      <ref pos="10">1.1.3.2</ref>
+    </map>
+    <map x="460" y="275" w="24" h="24">
+      <ref pos="11">1.1.3.3</ref>
+    </map>
+    <map x="377" y="65" w="24" h="24">
+      <ref pos="12">1.1.3.4</ref>
+    </map>
+    <map x="334" y="64" w="24" h="24">
+      <ref pos="13">1.1.3.5</ref>
+    </map>
+    <map x="282" y="320" w="24" h="24">
+      <ref pos="14">1.1.3.6</ref>
+    </map>
+    <map x="468" y="213" w="24" h="24">
+      <ref pos="22">1.1.3.7</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="DEFLECTION ROLLER TOTAL OD=88MM" materialnr="363034" pos="7" description="&amp;nbsp;">
+    <map x="140" y="137" w="28" h="20">
+      <ref pos="3">1.1.3.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_1" name="GROOVED BALL BEARING ID20 0D42 W12;2SEAL" materialnr="005697" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_3_2" name="HTD-TOOTHED BELT PULLEY 40-8M-50" materialnr="384100" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_3_3" name="DEFLECTION ROLLER TOTAL F.RWF-26/25" materialnr="369638" pos="11" description="&amp;nbsp;">
+    <map x="114" y="112" w="28" h="20">
+      <ref pos="3">1.1.3.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_3_1" name="GROOVED BALL BEARING ID20 0D42 W12;2SEAL" materialnr="005697" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_3_4" name="FEED ROLLER 1 TOTAL RWF-33/25" materialnr="371800" pos="12" description="&amp;nbsp;">
+    <map x="480" y="191" w="25" h="25">
+      <ref pos="2">1.1.3.4.2</ref>
+      <ref pos="3">1.1.3.4.3</ref>
+    </map>
+    <map x="455" y="294" w="25" h="25">
+      <ref pos="5">1.1.3.4.5</ref>
+      <ref pos="6">1.1.3.4.6</ref>
+    </map>
+    <map x="242" y="135" w="25" h="25">
+      <ref pos="7">1.1.3.4.7</ref>
+    </map>
+    <map x="352" y="161" w="25" h="25">
+      <ref pos="1">1.1.3.4.1</ref>
+    </map>
+    <map x="165" y="125" w="25" h="25">
+      <ref pos="4">1.1.3.4.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_4_1" name="CONVEYOR  ROLLER ONE" materialnr="024469" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_3_4_2" name="HOUSING F BEARING TOP UC204" materialnr="028131" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_3_4_3" name="BALL BEARING UC 204 W/FIXING SCREW" materialnr="202942" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_3_4_4" name="CONVEYOR ROLLER TWO" materialnr="024470" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_3_4_5" name="TOTHED BELT PULLEY 56AT10/20-2" materialnr="362855" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_3_4_6" name="TAPERLOCK BUSHING ID20 OD38 L=21MM" materialnr="362858" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_3_4_7" name="PLUMMER BLOCK BEAR.ALU-CAST HOUS.ID20MM" materialnr="005758" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_3_5" name="CONVEYOR ROLLER 2 TOTAL RWF-33/25" materialnr="371801" pos="13" description="&amp;nbsp;">
+    <map x="479" y="199" w="25" h="25">
+      <ref pos="2">1.1.3.5.2</ref>
+      <ref pos="3">1.1.3.5.3</ref>
+    </map>
+    <map x="444" y="296" w="25" h="25">
+      <ref pos="5">1.1.3.5.5</ref>
+      <ref pos="6">1.1.3.5.6</ref>
+    </map>
+    <map x="258" y="141" w="25" h="25">
+      <ref pos="7">1.1.3.5.7</ref>
+    </map>
+    <map x="142" y="123" w="25" h="25">
+      <ref pos="4">1.1.3.5.4</ref>
+    </map>
+    <map x="355" y="163" w="25" h="25">
+      <ref pos="1">1.1.3.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_5_1" name="CONVEYOR  ROLLER ONE" materialnr="024469" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_3_5_2" name="HOUSING F BEARING TOP UC204" materialnr="028131" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_3_5_3" name="BALL BEARING UC 204 W/FIXING SCREW" materialnr="202942" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_3_5_4" name="CONVEYOR ROLLER TWO" materialnr="024470" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_3_5_5" name="TOTHED BELT PULLEY 56AT10/20-2" materialnr="362855" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_3_5_6" name="TAPERLOCK BUSHING ID20 OD38 L=21MM" materialnr="362858" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_3_5_7" name="PLUMMER BLOCK BEAR.ALU-CAST HOUS.ID20MM" materialnr="005758" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_3_6" name="TOOTHED BELT 8MGT-920-50 TRANSMOTION" materialnr="377174" pos="14" description="&amp;nbsp;" />
+  <stk id="1_1_3_7" name="SPUR GEAR MOTOR;1.1KW;1:15.4;N2=92RP" materialnr="231787" pos="22" description="&amp;nbsp;" />
+</catalog>

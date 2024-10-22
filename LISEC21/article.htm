@@ -1,0 +1,70 @@
+<html>
+<head>
+   <link rel="stylesheet" type="text/css" href="../mainstyle.css">
+<script type="text/javascript" src="../functions.js"></script>
+<style type="text/css">
+//div { position:absolute; border:1px solid #FFDD00; }
+//div:hover   { background-color:#AA0000; }
+
+a:hover   { background-color:#BF3D3D; }
+a { position:absolute; border:1px solid #FFDD00; }
+
+##MapCSS##
+
+</style>
+<BASE target="_self">
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function getIndex(){
+  return ##ArticleIndex##;
+}
+//-->
+
+
+function resize_iframe()
+{
+  
+  //resize the iframe according to the size of the
+  //window (all these should be on the same line)
+  
+  document.getElementById("article").style.height=
+ parseInt(document.body.clientHeight-434)+"px";
+
+}
+
+
+</script>
+</head>
+<body onload="resize_iframe();showArtikelImage(getIndex());doOpenNode()" onresize="resize_iframe()">
+<div id="box2">
+<div class="noprint">
+##MapLinks##
+</div>
+<table cellspacing="0" cellpadding="0" width="100%">
+<tr>
+  <td colspan="2" height="25" class="UeberschriftGrau" valign="middle" background="../img/balken3.gif"><script>showArtikelBezeichnung(getIndex());</script></td>
+</tr>
+<tr>
+  <td colspan="2" height="400px" valign="top" align="left" width="600px" style="background-repeat:no-repeat;" id="imageRow"><div class="toprint"><script>showArtikelImageToPrint(getIndex());</script></div></td>
+</tr>
+<tr>
+  <td colspan="2" height="2"></td>
+</tr>
+<tr>
+  <td colspan="2" height="2" bgcolor="#cde3f8"><img width="600px" height="2px" src="../img/spot.gif" /></td>
+</tr>
+<tr>
+  <td colspan="2" height="5"></td>
+</tr>
+</table>
+
+<map name="assembly">
+##MapAreas##
+</map>
+<div class="noprint">
+<iframe id="article" name="article" src="empty.htm" height="130" width="100%" scrolling="auto" frameborder="0"></iframe>
+</div>
+</div>
+</body>
+</html>

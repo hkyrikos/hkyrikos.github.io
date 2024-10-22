@@ -1,0 +1,99 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
+<html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+	<head>
+		<title>Sparepart List</title>
+
+        <script src="javascripts/watchlist.js" type="text/javascript"></script>
+        <script src="javascripts/codelist.min.js" type="text/javascript"></script>
+        <script src="javascripts/jquery-1.4.2.min.js" type="text/javascript"></script>
+        <script src="javascripts/jquery.treeview.js" type="text/javascript"></script>
+        <script src="javascripts/jquery.tiptip.js" type="text/javascript"></script>
+        <script src="javascripts/application.min.js" type="text/javascript"></script>
+        
+        <script src="customer/customer.js" type="text/javascript"></script>
+	    <script type="text/javascript" language="JavaScript"></script>
+
+        <link href="stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="stylesheets/jquery.treeview.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="stylesheets/jquery.tiptip.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="customer/customer.css" media="screen" rel="stylesheet" type="text/css" />
+	</head>
+	<body onload="javascript:Initialize()" onresize="javascript:clResize()">
+        <div id="clRoot">
+        
+            <!-- LEFT COLUMN -->
+            <div id="clLeft">
+      
+                <!-- CATALOGS ON CD -->
+                <div class="subcontent" style="border-left:none;border-right:none;border-bottom:none;padding-right:0;" id="catalogs_div">
+                    <div class="title">Catalogs on CD</div>
+                    <div id="clCatalogs"></div>
+                </div>
+            </div>
+      
+      
+            <div id="clHandle" ondragstart="return false;"></div>
+            
+            <!-- CODELIST -->
+            <div id="rightCodelist">
+                <!-- QUICKVIEW -->
+                <div id="clQuickview">
+                    <div class="subcontent" style="border: none;" id="clParts">
+                        <div class="title">Parts</div>
+                        <div id="clName"></div>
+                        <img id="clThumbnail" src="" />
+                        <!-- <div id="addtowatchlist">Add to Watchlist<br/>(0 Items)</div> -->
+                    </div>
+                </div>
+
+                <div class="subcontent" style="border:none;border-top: 1px solid #000;" id="Div1">
+                    <div class="title">Sparepart List</div>
+                </div>
+                <div id="codelistform">
+                    <table cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td rowspan="2">
+                                &nbsp;Select:
+                                <input type="button" id="bCLCheckAll" class="filterButton" value="All" />
+                                <input type="button" id="cCLCheckNone" class="filterButton" value="None" />
+                            </td>
+                            <td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                            <td valign="bottom" align="center">&nbsp;1&nbsp;</td>
+                            <td valign="bottom" align="center">&nbsp;2&nbsp;</td>
+                            <td valign="bottom" align="center">&nbsp;3&nbsp;</td>
+                            <td valign="bottom" align="center">&nbsp;4&nbsp;</td>
+                            <td valign="bottom" align="center">&nbsp;5&nbsp;</td>
+                            <td valign="bottom" align="center">&nbsp;6&nbsp;</td>
+                            <td valign="bottom" align="center">&nbsp;7&nbsp;</td>
+                            <td valign="bottom" align="center">&nbsp;8&nbsp;</td>
+                            <td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                            <td rowspan="2"><input type="checkbox" id="cbShow" />&nbsp;&nbsp;</td>
+                            <td rowspan="2">Show only<br />selected</td>
+                            <td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                            <td rowspan="2"><input type="button" id="bSearch" class="searchButton" value="Search" /></td>
+                            <td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                            <td rowspan="2"><input id="bSendMail" type="image" src="images/MailForward.png" alt="Send Email" /></td>
+                        </tr>
+                        <tr>
+                            <td >&nbsp;<input type="checkbox" id="cbCL1" checked/>&nbsp;</td>
+                            <td >&nbsp;<input type="checkbox" id="cbCL2" checked/>&nbsp;</td>
+                            <td >&nbsp;<input type="checkbox" id="cbCL3" checked/>&nbsp;</td>
+                            <td >&nbsp;<input type="checkbox" id="cbCL4" checked/>&nbsp;</td>
+                            <td >&nbsp;<input type="checkbox" id="cbCL5" checked/>&nbsp;</td>
+                            <td >&nbsp;<input type="checkbox" id="cbCL6" checked/>&nbsp;</td>
+                            <td >&nbsp;<input type="checkbox" id="cbCL7" checked/>&nbsp;</td>
+                            <td >&nbsp;<input type="checkbox" id="cbCL8" checked/>&nbsp;</td>
+                    
+                            <!--<input type="text" id="search_string" value="" />
+                            <input type="button" id="search_submit" value="search" />
+                            <span id="result_count"></span>-->
+                        </tr>
+                    </table>
+                </div>
+                <div id="codelistContent" ></div>
+            
+            </div>
+
+        </div>
+	</body>
+</html>

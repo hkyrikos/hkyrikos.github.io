@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="LKT-21/33">
+  <stk id="1" name="LKT-21/33" materialnr="311252" pos="1" description="&amp;nbsp;">
+    <map x="14" y="28" w="570" h="267">
+      <ref pos="1">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="LKT-21/33" materialnr="320865" pos="1" description="&amp;nbsp;">
+    <map x="490" y="295" w="26" h="25">
+      <ref pos="3">1.1.2</ref>
+    </map>
+    <map x="453" y="297" w="26" h="25">
+      <ref pos="4">1.1.3</ref>
+    </map>
+    <map x="198" y="135" w="184" h="110">
+      <ref pos="5">1.1.4</ref>
+      <ref pos="6">1.1.5</ref>
+    </map>
+    <map x="469" y="85" w="26" h="25">
+      <ref pos="2">1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="GLASS ROTATING DEVICE SDV/ VAR:2" materialnr="313317" pos="2" description="&amp;nbsp;">
+    <map x="375" y="348" w="26" h="25">
+      <ref pos="3">1.1.1.1</ref>
+    </map>
+    <map x="374" y="286" w="26" h="25">
+      <ref pos="5">1.1.1.2</ref>
+    </map>
+    <map x="372" y="236" w="26" h="25">
+      <ref pos="6">1.1.1.3</ref>
+    </map>
+    <map x="390" y="92" w="26" h="25">
+      <ref pos="7">1.1.1.4</ref>
+    </map>
+    <map x="374" y="316" w="26" h="25">
+      <ref pos="9">1.1.1.5</ref>
+    </map>
+    <map x="87" y="339" w="26" h="25">
+      <ref pos="11">1.1.1.6</ref>
+    </map>
+    <map x="111" y="222" w="26" h="25">
+      <ref pos="16">1.1.1.7</ref>
+    </map>
+    <map x="206" y="36" w="88" h="98">
+      <ref pos="17">1.1.1.8</ref>
+      <ref pos="18">1.1.1.9</ref>
+      <ref pos="20">1.1.1.10</ref>
+      <ref pos="21">1.1.1.11</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="COUNTER BEARING-BRACKET  F/CYLINDER D63" materialnr="016696" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_1_2" name="DBL-ACT SHORT STROKE CYL D=80 STR25" materialnr="029848" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_1_3" name="ARTIC.HEAD;MALE THREAD M10-RIGHT,D=10MM" materialnr="005850" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_1_4" name="BEVEL GEARING-MOTOR/0,25KW RATIO=291.600" materialnr="225678" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_1_5" name="SWIVEL MOUNT-FORK NARROW F CYL,D=63MM" materialnr="033278" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_1_6" name="FLANGE BUSHING ID=30MM OD=34MM L=16MM" materialnr="026457" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_1_7" name="ROTARY STRAIGHT ADAPTOR R1/4&amp;quot; 90&amp;deg; D=8MM" materialnr="242277" pos="16" description="&amp;nbsp;" />
+  <stk id="1_1_1_8" name="O-RING 50X3MM PERBUNAN" materialnr="007907" pos="17" description="&amp;nbsp;" />
+  <stk id="1_1_1_9" name="CAP SCREEN D=14,8X8,5MM" materialnr="241633" pos="18" description="&amp;nbsp;" />
+  <stk id="1_1_1_10" name="VACUUM SUCTION NOZZLE (EJECTOR)" materialnr="003411" pos="20" description="&amp;nbsp;" />
+  <stk id="1_1_1_11" name="CHECK VALVE 1/2&amp;quot; VACUUM-APPLICABLE" materialnr="358468" pos="21" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="STOP ROLLER WITH SCANNING" materialnr="248943" pos="3" description="&amp;nbsp;">
+    <map x="487" y="129" w="36" h="37">
+      <ref pos="1">1.1.2.1</ref>
+      <ref pos="18">1.1.2.5</ref>
+    </map>
+    <map x="340" y="330" w="26" h="25">
+      <ref pos="6">1.1.2.2</ref>
+    </map>
+    <map x="63" y="224" w="26" h="25">
+      <ref pos="8">1.1.2.3</ref>
+    </map>
+    <map x="88" y="178" w="26" h="25">
+      <ref pos="9">1.1.2.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="DA-SHORT STROKE CYLINDER D=20 S=25 W SIG" materialnr="033143" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_2_2" name="BUSHING ID=30MM OD=34MM L=30MM GLY.PG" materialnr="005819" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_2_3" name="BASE BODY FOR STOP ROLLER" materialnr="030138" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_2_4" name="TRANSPORT ROLLER  COATING 57/47X55MM" materialnr="230339" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_2_5" name="EXHAUST THROTTLE M5 D=6/PLUG CONNECTION" materialnr="316739" pos="18" description="&amp;nbsp;" />
+  <stk id="1_1_3" name="LINEAR LIMIT STOP LKT" materialnr="320504" pos="4" description="&amp;nbsp;">
+    <map x="384" y="19" w="26" h="25">
+      <ref pos="2">1.1.3.1</ref>
+    </map>
+    <map x="340" y="341" w="26" h="25">
+      <ref pos="3">1.1.3.2</ref>
+      <ref pos="4">1.1.3.3</ref>
+    </map>
+    <map x="340" y="244" w="26" h="25">
+      <ref pos="5">1.1.3.4</ref>
+    </map>
+    <map x="341" y="157" w="26" h="25">
+      <ref pos="6">1.1.3.5</ref>
+    </map>
+    <map x="160" y="61" w="26" h="25">
+      <ref pos="7">1.1.3.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="FLANGE BUSHING ID=20MM OD=23MM L=16.5MM" materialnr="005822" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_3_2" name="COUNTER BEAR, ZYL.D=50" materialnr="003085" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_3_3" name="SWIVEL MOUNT FORK CYL. D=50MM" materialnr="003054" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_3_4" name="DA-PNEU CYLINDER D=50 STROKE=25 W SIGNAL" materialnr="189786" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_3_5" name="FORK HEAD M16X1.5MM ISO-CYL.D=50/63MM" materialnr="003045" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_3_6" name="FRONT LIMIT STOP ROLLER D=60X22MM/POLY." materialnr="011984" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_4" name="SIR CUSHION LKT-21/33+GLASS ROT.DEVICE" materialnr="320863" pos="5" description="&amp;nbsp;">
+    <map x="166" y="168" w="28" h="20">
+      <ref pos="7">1.1.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="DUMMY STRIP WATERPROOF" materialnr="174344" pos="7" description="&amp;nbsp;">
+    <map x="161" y="142" w="324" h="104">
+      <ref pos="10">1.1.4.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_1" name="NEEDLE FELT TH=3.5MM QUAL 1418  BLACK" materialnr="033290" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_5" name="AIR CUSHION PARTS LKT-21/33+GLASS ROT.D." materialnr="320864" pos="6" description="&amp;nbsp;">
+    <map x="223" y="263" w="162" h="86">
+      <ref pos="7">1.1.5.2</ref>
+      <ref pos="10">1.1.5.4</ref>
+      <ref pos="11">1.1.5.5</ref>
+      <ref pos="12">1.1.5.6</ref>
+      <ref pos="14">1.1.5.7</ref>
+      <ref pos="15">1.1.5.8</ref>
+      <ref pos="16">1.1.5.9</ref>
+      <ref pos="17">1.1.5.10</ref>
+      <ref pos="19">1.1.5.11</ref>
+      <ref pos="20">1.1.5.12</ref>
+    </map>
+    <map x="358" y="139" w="74" h="84">
+      <ref pos="3">1.1.5.1</ref>
+    </map>
+    <map x="252" y="203" w="87" h="50">
+      <ref pos="9">1.1.5.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1" name="BLOWER MBP400 W.SHUTTER SUC/PRESS.SIDED" materialnr="351284" pos="3" description="&amp;nbsp;">
+    <map x="454" y="123" w="26" h="25">
+      <ref pos="1">1.1.5.1.1</ref>
+    </map>
+    <map x="453" y="72" w="26" h="25">
+      <ref pos="2">1.1.5.1.2</ref>
+    </map>
+    <map x="106" y="261" w="26" h="25">
+      <ref pos="4">1.1.5.1.3</ref>
+    </map>
+    <map x="106" y="231" w="26" h="25">
+      <ref pos="5">1.1.5.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1_1" name="SEALING SHUTTER/SUCTION-SIDE FOR RD-74" materialnr="313550" pos="1" description="&amp;nbsp;">
+    <map x="448" y="129" w="26" h="34">
+      <ref pos="4">1.1.5.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1_1_1" name="DA-PNEU CYLINDER D25 STR80 ISO/SIGNAL" materialnr="016424" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_5_1_2" name="RADIAL FAN MPB-400T 50HZ" materialnr="338104" pos="2" description="&amp;nbsp;">
+    <map x="142" y="114" w="117" h="100">
+      <ref pos="10">1.1.5.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1_2_1" name="THREEPHASE MOTOR 4,0KW 2915RPM 50HZ" materialnr="353183" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_5_1_3" name="THROTTLE FLAP COMPLETE FOR RD74/MPB-400T" materialnr="338541" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_5_1_4" name="ARTICULATED HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_5_2" name="VALVE UNIT 5/2 SPRING RET.1-8/6 4,2-6/4" materialnr="314011" pos="7" description="&amp;nbsp;">
+    <map x="251" y="73" w="27" h="25">
+      <ref pos="2">1.1.5.2.1</ref>
+    </map>
+    <map x="346" y="366" w="27" h="25">
+      <ref pos="4">1.1.5.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_2_1" name="5/2 WAY SOLENOID VALVE, 24VDC," materialnr="003229" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_5_2_2" name="EXHAUST  SILENCER 1/4 &amp;quot; SINTERED METAL" materialnr="003351" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_5_3" name="BLAST HOSE W=125MM  TENSILE PVC-G/L" materialnr="016327" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_5_4" name="3/2-WAY SOLENOID VALVE/DOUBLE" materialnr="190518" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_5_5" name="5/2 SOLENOID VALVE;TYPE CD01 D4;MONO" materialnr="191548" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_5_6" name="5/2 SOLENOID VALVE;TYPE CD01 D4; BIS" materialnr="191568" pos="12" description="&amp;nbsp;" />
+  <stk id="1_1_5_7" name="FLOW CHECK VALVE" materialnr="003270" pos="14" description="&amp;nbsp;" />
+  <stk id="1_1_5_8" name="EXHAUST  SILENCER 1/4 &amp;quot; SINTERED METAL" materialnr="003351" pos="15" description="&amp;nbsp;" />
+  <stk id="1_1_5_9" name="EXHAUST THROTTLE THR.1/4&amp;quot; D8 W PLUG CON." materialnr="316703" pos="16" description="&amp;nbsp;" />
+  <stk id="1_1_5_10" name="EXHAUST THROTTLE M5 D=6/PLUG CONNECTION" materialnr="316739" pos="17" description="&amp;nbsp;" />
+  <stk id="1_1_5_11" name="VACUUM-SUCTION NOZZLE;3/8&amp;quot;NW2.5 W VALVE" materialnr="234302" pos="19" description="&amp;nbsp;" />
+  <stk id="1_1_5_12" name="CHECK VALVE 1/2&amp;quot; VACUUM-APPLICABLE" materialnr="358468" pos="20" description="&amp;nbsp;" />
+</catalog>

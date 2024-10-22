@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="BTA-30/33">
+  <stk id="1" name="BTA-30/33" materialnr="309042" pos="1" description="&amp;nbsp;">
+    <map x="90" y="54" w="395" h="213">
+      <ref pos="15">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="TOTAL LIST BTA-30/33 W.SDE FIELD C2" materialnr="376537" pos="15" description="&amp;nbsp;">
+    <map x="503" y="151" w="28" h="21">
+      <ref pos="5">1.1.1</ref>
+    </map>
+    <map x="141" y="277" w="28" h="21">
+      <ref pos="6">1.1.2</ref>
+    </map>
+    <map x="55" y="225" w="28" h="21">
+      <ref pos="8">1.1.3</ref>
+    </map>
+    <map x="102" y="61" w="28" h="21">
+      <ref pos="9">1.1.4</ref>
+    </map>
+    <map x="428" y="35" w="28" h="21">
+      <ref pos="10">1.1.5</ref>
+    </map>
+    <map x="315" y="258" w="256" h="69">
+      <ref pos="100">1.1.6</ref>
+      <ref pos="101">1.1.7</ref>
+      <ref pos="102">1.1.8</ref>
+      <ref pos="103">1.1.9</ref>
+      <ref pos="106">1.1.10</ref>
+      <ref pos="107">1.1.11</ref>
+      <ref pos="108">1.1.12</ref>
+      <ref pos="109">1.1.13</ref>
+      <ref pos="110">1.1.14</ref>
+      <ref pos="111">1.1.15</ref>
+      <ref pos="112">1.1.16</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="LIFTING MECHANICS ONE BTA-30/33 C2" materialnr="376329" pos="5" description="&amp;nbsp;">
+    <map x="288" y="290" w="27" h="25">
+      <ref pos="3">1.1.1.1</ref>
+    </map>
+    <map x="440" y="107" w="27" h="25">
+      <ref pos="5">1.1.1.2</ref>
+    </map>
+    <map x="161" y="261" w="27" h="25">
+      <ref pos="12">1.1.1.3</ref>
+    </map>
+    <map x="120" y="261" w="27" h="25">
+      <ref pos="13">1.1.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="ARTICULATED HEAD M20X1.5-FEMALE-L;D=20MM" materialnr="005845" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_1_2" name="DBL/ACT PNEUM.CYL.,D=80 STROKE=25MM" materialnr="189810" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_1_3" name="ARTICULATED HEAD M20X1.5-FEMALE-R D20" materialnr="003073" pos="12" description="&amp;nbsp;" />
+  <stk id="1_1_1_4" name="PLUMMER BLOCK BEARING;CAST HOUS.ID30" materialnr="005764" pos="13" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="LIFTING MECHANICS TWO BTA-30/33 C2" materialnr="376331" pos="6" description="&amp;nbsp;">
+    <map x="398" y="292" w="26" h="25">
+      <ref pos="3">1.1.2.1</ref>
+    </map>
+    <map x="138" y="255" w="26" h="25">
+      <ref pos="12">1.1.2.2</ref>
+    </map>
+    <map x="105" y="254" w="26" h="25">
+      <ref pos="13">1.1.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="ARTICULATED HEAD M20X1.5-FEMALE-L;D=20MM" materialnr="005845" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_2_2" name="ARTICULATED HEAD M20X1.5-FEMALE-R D20" materialnr="003073" pos="12" description="&amp;nbsp;" />
+  <stk id="1_1_2_3" name="PLUMMER BLOCK BEARING;CAST HOUS.ID30" materialnr="005764" pos="13" description="&amp;nbsp;" />
+  <stk id="1_1_3" name="AIR CUSHION PARTS F.BTA-30/33 FIELD C2" materialnr="376525" pos="8" description="&amp;nbsp;">
+    <map x="323" y="163" w="175" h="117">
+      <ref pos="3">1.1.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="BLOWER UNIT HRD2/5 VAR.2" materialnr="251654" pos="3" description="&amp;nbsp;">
+    <map x="46" y="61" w="24" h="24">
+      <ref pos="1">1.1.3.1.1</ref>
+    </map>
+    <map x="234" y="306" w="24" h="24">
+      <ref pos="3">1.1.3.1.3</ref>
+    </map>
+    <map x="201" y="305" w="24" h="24">
+      <ref pos="5">1.1.3.1.4</ref>
+    </map>
+    <map x="352" y="150" w="24" h="24">
+      <ref pos="100">1.1.3.1.5</ref>
+    </map>
+    <map x="267" y="269" w="26" h="25">
+      <ref pos="2">1.1.3.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_1" name="HIGH PRESS. FAN, HPBx-200, 230/400V 50HZ" materialnr="340536" pos="1" description="&amp;nbsp;">
+    <map x="301" y="51" w="27" h="34">
+      <ref pos="20">1.1.3.1.1.2</ref>
+    </map>
+    <map x="133" y="53" w="33" h="30">
+      <ref pos="10">1.1.3.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_1_1" name="THREEPHASE MOTOR 3,0KW 2835RPM 50HZ" materialnr="353185" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_3_1_1_2" name="V-BELT XPZ-612 DIN7753" materialnr="356201" pos="20" description="&amp;nbsp;" />
+  <stk id="1_1_3_1_2" name="COUNTER BEARING-FORK CYLINDER D=20/25" materialnr="003127" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_3_1_3" name="DA-PNEU CYLINDER D25 STR80 ISO/SIGNAL" materialnr="016424" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_3_1_4" name="ARTICULATED HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_3_1_5" name="SILENCER FOR VENTILATOR HRD 2/5" materialnr="019980" pos="100" description="&amp;nbsp;" />
+  <stk id="1_1_4" name="BELT FIELD BTA-30/33 IN FRONT OF SDE" materialnr="376363" pos="9" description="&amp;nbsp;">
+    <map x="113" y="249" w="27" h="25">
+      <ref pos="1">1.1.4.1</ref>
+    </map>
+    <map x="419" y="314" w="27" h="25">
+      <ref pos="6">1.1.4.2</ref>
+    </map>
+    <map x="468" y="259" w="27" h="25">
+      <ref pos="13">1.1.4.3</ref>
+    </map>
+    <map x="379" y="313" w="35" h="26">
+      <ref pos="15">1.1.4.4</ref>
+    </map>
+    <map x="307" y="312" w="37" h="25">
+      <ref pos="16">1.1.4.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="BELT UNIT L=6770MM W=25MM VAR.4" materialnr="376355" pos="1" description="&amp;nbsp;">
+    <map x="446" y="299" w="27" h="25">
+      <ref pos="10">1.1.4.1.2</ref>
+    </map>
+    <map x="37" y="142" w="27" h="25">
+      <ref pos="11">1.1.4.1.3</ref>
+    </map>
+    <map x="165" y="187" w="27" h="25">
+      <ref pos="3">1.1.4.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_1" name="TOOTHED BELT 25T10/6770-V-PAZ-PVC" materialnr="350925" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_4_1_2" name="FLANGE BEARING ID=25MM 3-HOLE CASTING" materialnr="024655" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_4_1_3" name="GROOVED BALL BEARING ID20 0D42 W12;2SEAL" materialnr="005697" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_4_2" name="SERVOMOTOR LENZE 1.7kW+GST06 i=24.9 nB" materialnr="303698" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_4_3" name="DISC COUPLING D=25MM" materialnr="025694" pos="13" description="&amp;nbsp;" />
+  <stk id="1_1_4_4" name="HTD-TOOTHED BELT PULLEY 32-8M-50" materialnr="384099" pos="15" description="&amp;nbsp;" />
+  <stk id="1_1_4_5" name="HTD-TOOTHED BELT PULLEY 40-8M-50" materialnr="384100" pos="16" description="&amp;nbsp;" />
+  <stk id="1_1_5" name="COMPLETE LIST F. ROTARY DEVICE SDE V.5" materialnr="395992" pos="10" description="&amp;nbsp;">
+    <map x="123" y="100" w="28" h="20">
+      <ref pos="1">1.1.5.1</ref>
+    </map>
+    <map x="11" y="130" w="35" h="59">
+      <ref pos="2">1.1.5.2</ref>
+    </map>
+    <map x="123" y="76" w="28" h="20">
+      <ref pos="7">1.1.5.3</ref>
+    </map>
+    <map x="123" y="53" w="28" h="20">
+      <ref pos="9">1.1.5.4</ref>
+    </map>
+    <map x="226" y="98" w="362" h="204">
+      <ref pos="18">1.1.5.5</ref>
+    </map>
+    <map x="122" y="124" w="28" h="20">
+      <ref pos="20">1.1.5.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1" name="ARTICULATED HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_5_2" name="SHOCK ABSORBER STROKE=25MM MAX.2000N" materialnr="322133" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_5_3" name="SUPPORT ROLLER D=31.8MM/ WITH BOLT" materialnr="026050" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_5_4" name="SERVO-BEVEL SPUR GEAR M. LENZE 0,8KW" materialnr="395988" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_5_5" name="ROTARY UNIT IN SDE VAR.1" materialnr="383557" pos="18" description="&amp;nbsp;">
+    <map x="423" y="87" w="27" h="25">
+      <ref pos="1">1.1.5.5.1</ref>
+    </map>
+    <map x="88" y="239" w="27" h="25">
+      <ref pos="5">1.1.5.5.2</ref>
+    </map>
+    <map x="424" y="120" w="27" h="25">
+      <ref pos="22">1.1.5.5.3</ref>
+    </map>
+    <map x="268" y="180" w="45" h="25">
+      <ref pos="23">1.1.5.5.4</ref>
+      <ref pos="45">1.1.5.5.13</ref>
+    </map>
+    <map x="74" y="124" w="40" h="24">
+      <ref pos="24">1.1.5.5.5</ref>
+      <ref pos="25">1.1.5.5.6</ref>
+    </map>
+    <map x="511" y="212" w="27" h="25">
+      <ref pos="26">1.1.5.5.7</ref>
+    </map>
+    <map x="75" y="185" w="27" h="25">
+      <ref pos="27">1.1.5.5.8</ref>
+    </map>
+    <map x="75" y="153" w="27" h="25">
+      <ref pos="28">1.1.5.5.9</ref>
+    </map>
+    <map x="422" y="56" w="27" h="25">
+      <ref pos="29">1.1.5.5.10</ref>
+    </map>
+    <map x="513" y="259" w="27" h="25">
+      <ref pos="31">1.1.5.5.11</ref>
+    </map>
+    <map x="336" y="295" w="27" h="25">
+      <ref pos="32">1.1.5.5.12</ref>
+    </map>
+    <map x="480" y="144" w="27" h="25">
+      <ref pos="46">1.1.5.5.14</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_5_1" name="ARTICULATED HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_2" name="ARTICULATED HEAD IG M10 ND10/MAINT.FREE" materialnr="354923" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_3" name="DBL/ACT PN.CYL DIA=25 STROKE=80;w/EN" materialnr="234945" pos="22" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_4" name="SUCTIONCUP D100 G1/4&amp;quot; SOFT SUCTION-LIP" materialnr="346287" pos="23" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_5" name="CYLINDER COUNTER SUPPORT (LUG/TYPE)" materialnr="003084" pos="24" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_6" name="SWIVEL MOUNT FORK CYL. D=32MM" materialnr="003034" pos="25" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_7" name="BUSHING ID=20MM OD=23MM L=10MM" materialnr="005812" pos="26" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_8" name="ARTIC. HEAD;MALE THREAD M8-RIGHT D=8MM" materialnr="005849" pos="27" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_9" name="DA-SHORT STROKE CYL.D=50 STROKE=50 SIGNA" materialnr="023461" pos="28" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_10" name="FLANGE BEARING;ID=40; OVAL CAST HOUSING" materialnr="005792" pos="29" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_11" name="BREAKER BAR TOP 3" materialnr="184505" pos="31" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_12" name="PRESS-ON UNIT SWIVELLING ON SDE" materialnr="376428" pos="32" description="&amp;nbsp;">
+    <map x="59" y="199" w="27" h="25">
+      <ref pos="2">1.1.5.5.12.1</ref>
+    </map>
+    <map x="497" y="211" w="27" h="25">
+      <ref pos="7">1.1.5.5.12.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_5_12_1" name="CONVEYOR CYLINDER D=25MM STROKE=1850MM" materialnr="376425" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_12_2" name="BUSHING ID=15MM OD=17MM L=10MM GLY.PG" materialnr="005806" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_13" name="FOAM SHIELDING AT SUCTION SDE" materialnr="371281" pos="45" description="&amp;nbsp;" />
+  <stk id="1_1_5_5_14" name="DA-PNEU CYLINDER D25 STR10 SHORT-STROKE" materialnr="371215" pos="46" description="&amp;nbsp;" />
+  <stk id="1_1_5_6" name="ARTICULATED HEAD M16X1.5-FEM-LEFT D=16MM" materialnr="003052" pos="20" description="&amp;nbsp;" />
+  <stk id="1_1_6" name="5/2 SOLENOID VALVE;TYPE CD01 D4;MONO" materialnr="191548" pos="100" description="&amp;nbsp;" />
+  <stk id="1_1_7" name="5/2 SOLENOID VALVE;TYPE CD01 D4; BIS" materialnr="191568" pos="101" description="&amp;nbsp;" />
+  <stk id="1_1_8" name="3/2-WAY SOLENOID VALVE/DOUBLE" materialnr="190518" pos="102" description="&amp;nbsp;" />
+  <stk id="1_1_9" name="5/3-WAY SOLENOID VALVE/BLEEDED" materialnr="191573" pos="103" description="&amp;nbsp;" />
+  <stk id="1_1_10" name="CONNECTING PLATE FOR TYPE CD01/PIPE OD8" materialnr="191616" pos="106" description="&amp;nbsp;" />
+  <stk id="1_1_11" name="CONNECTION PLATE FOR TYPE CD01;PIPE OD6" materialnr="191608" pos="107" description="&amp;nbsp;" />
+  <stk id="1_1_12" name="VACUUM SWITCH UZU120, G1/8&amp;quot;,24V,PNP" materialnr="235342" pos="108" description="&amp;nbsp;" />
+  <stk id="1_1_13" name="VACUUM SUCTION  NOZZLE G1/8&amp;quot;, 170mbar" materialnr="327982" pos="109" description="&amp;nbsp;" />
+  <stk id="1_1_14" name="PRESSURE CONTROLLER F.CD01 PATH-VALVES" materialnr="191587" pos="110" description="&amp;nbsp;" />
+  <stk id="1_1_15" name="MANOMETER F. PRESSURE CONTROLLER TYP" materialnr="191599" pos="111" description="&amp;nbsp;" />
+  <stk id="1_1_16" name="FLOW-CHECK STRAIGHT ADAPTOR D6/DBL SIDED" materialnr="251583" pos="112" description="&amp;nbsp;" />
+</catalog>

@@ -1,0 +1,141 @@
+<html>
+<head>
+   <link rel="stylesheet" type="text/css" href="../mainstyle.css">
+
+<script type="text/javascript" src="../functions.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+var ArtikelIndizes=new Array(##ArtikelIndizes##);
+var varvar;
+var index=0;
+
+
+if (window.location.search.substring(1)!=""){
+  varvar=window.location.search.substring(1).split("=");
+  index=varvar[1];
+  if (index>=ArtikelIndizes.length){ index=0; }
+}
+
+
+function showWeiter()
+{
+  if (ArtikelIndizes.length>1){    
+    document.write('<a class="LinkNormalSchwarz" href="##Artikel_Unterartikel##.htm?ID=' + (Number(index)+1) + '">weiter</a>'); 
+    showCounter();
+  }
+}
+
+
+
+
+function redirectArticleInfo()
+{
+   parent.parent.mainFrame.location= ArtikelIDs[Number(ArtikelIndizes[index])].replace(/\./g,"_") +".htm";	
+   parent.parent.leftFrame.naviFrame.ddtreemenu.openNode('treemenu1',ArtikelIDs[Number(ArtikelIndizes[index])]);
+
+}
+
+function showCounter(){
+   document.write('<span class="txtNormal">&nbsp;&nbsp;&nbsp;' + (Number(index)+1) + '/' + ArtikelIndizes.length + '</span>');
+}
+
+function AddToWatchlist(){
+  vorhanden=false;
+  if (parent.parent.watchlist!=null){
+	watchlist=parent.parent.watchlist;
+      for (i=0;i<watchlist.length;i++){
+	   if (ArtikelIDs[Number(ArtikelIndizes[index])]==watchlist[i]){
+		vorhanden=true;
+         }
+      }
+      if (vorhanden==false){
+	   watchlist[watchlist.length]=ArtikelIDs[Number(ArtikelIndizes[index])];
+	}
+  }
+  else{
+      watchlist=new Array(1);
+	watchlist[0]=ArtikelIDs[Number(ArtikelIndizes[index])];
+  }
+
+  parent.parent.watchlist=watchlist;
+
+  if (WatchlistWindowIsOpened()==true){
+     parent.parent.watchlistWindowReference.location.reload();
+  }
+
+  getWatchlistInfo();
+}
+
+//-->
+
+function getDescription(){
+  if(showArticleDescription(Number(ArtikelIndizes[index]))!=""){
+     document.write('<tr><td class="txtNormal"><span class="UeberschriftGrauOR txtNormal">Description:</span><br>' + showArticleDescription(Number(ArtikelIndizes[index])) + '</td></tr>');
+
+  }
+}
+function getDocuments(){
+  if(ArtikelDokumente[Number(ArtikelIndizes[index])]!="" || Artikelzeichnung[Number(ArtikelIndizes[index])]!=""){
+     document.write('<tr><td class="txtNormal">Documents: ');
+     if(Artikelzeichnung[Number(ArtikelIndizes[index])]!=""){      
+	document.write('<a href="../img/zng/' +  Artikelzeichnung[Number(ArtikelIndizes[index])] + '" target="_blank" class="farbig txtNormal">Drawing</a>');
+     }
+
+     if(ArtikelDokumente[Number(ArtikelIndizes[index])]!=""){	
+	tmp=ArtikelDokumente[Number(ArtikelIndizes[index])].split("|");
+     	for(i=0;i<tmp.length;i++){
+	   if(i>0 || Artikelzeichnung[Number(ArtikelIndizes[index])]!=""){ document.write(', ');}
+	   document.write('<a href="../img/docs/' + tmp[i] + '" target="_blank" class="farbig txtNormal">' + tmp[i].substr(tmp[i].indexOf("_")+1) + '</a>');
+        }
+     }
+     document.write('</td></tr>');
+  }
+}
+
+</script>
+</head>
+<body margin="0" onload="javascript:getWatchlistInfo();">
+<table cellspacing="0" cellpadding="0" width="600" align="left">
+<tr>
+  <td width="3%"> </td>
+  <td valign="top" width="57%"><table width="100%">
+  <tr><td valign="top" height="55"><span class="txtNormalFettBlau">
+   <script language="JavaScript">
+   showArticleInfoNumber(Number(ArtikelIndizes[index]));
+   </script> 
+   </span><br><span class="txtNormalFett">
+   <script language="javascript">
+   showArticleInfoName(Number(ArtikelIndizes[index]));   
+   </script> 
+   </span>
+   </td></tr>
+   <tr>
+     <td height="20px">
+       <script language="javascript">   
+          showWeiter();
+       </script>
+     </td>
+   </tr>
+   <tr>
+     <td><a href="javascript:AddToWatchlist();"><img src="../img/add.gif" border="0" align="top" class="farbig" /></a>
+     </td>
+   </tr>
+   <tr>
+      <td height="20" valign="bottom"><a href="javascript:openWatchlistFromArticleInfo();" class="farbig txtNormal" ID="WatchlistInfo"></a></td>
+   </tr>
+<script type="text/javascript">
+   getDescription();
+   getDocuments();
+</script>
+ </table>
+ </td>
+  <td valign="top" rowspan="3" width="40%">
+   <script language="javascript">
+   showArticleInfoPicture(Number(ArtikelIndizes[index]));
+   </script>
+  </td>
+</tr>
+</table>
+</body>
+</html>
+

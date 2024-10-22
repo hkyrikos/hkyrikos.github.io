@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="BTS-33C">
+  <stk id="1" name="BTS-33C" materialnr="458427" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="">
+    <map x="152" y="20" w="313" h="269">
+      <ref pos="1">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="Gesamtliste BTS-60/33C" materialnr="461607" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="26" y="43" w="551" h="204">
+      <ref pos="1">1.1.1</ref>
+      <ref pos="2">1.1.2</ref>
+      <ref pos="3">1.1.3</ref>
+      <ref pos="7">1.1.4</ref>
+    </map>
+    <map x="486" y="275" w="74" h="40">
+      <ref pos="51">1.1.5</ref>
+      <ref pos="52">1.1.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="Grundkonstruktion ges. BTS-60/33C" materialnr="461528" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="195" y="232" w="118" h="62">
+      <ref pos="5">1.1.1.1</ref>
+      <ref pos="6">1.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="SEGMENTANKER, FBN M10X89MM" materialnr="004872" pos="5" description="&amp;nbsp;" ET="8" Quantity="12" Unit="" />
+  <stk id="1_1_1_2" name="SK-MUTTER M20, DIN 934/8.8, VERZINKT" materialnr="004899" pos="6" description="&amp;nbsp;" ET="8" Quantity="24" Unit="" />
+  <stk id="1_1_2" name="Luftkissen gesamt BTS-60/33C" materialnr="461476" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="34" y="31" w="527" h="255">
+      <ref pos="1">1.1.2.1</ref>
+      <ref pos="2">1.1.2.2</ref>
+      <ref pos="3">1.1.2.3</ref>
+      <ref pos="4">1.1.2.4</ref>
+      <ref pos="5">1.1.2.5</ref>
+      <ref pos="8">1.1.2.6</ref>
+      <ref pos="9">1.1.2.7</ref>
+      <ref pos="10">1.1.2.8</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="Luftkissenanordnung BTS-60/33C wg" materialnr="461467" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="0" y="96" w="28" h="20">
+      <ref pos="1">1.1.2.1.1</ref>
+    </map>
+    <map x="36" y="116" w="160" h="88">
+      <ref pos="3">1.1.2.1.2</ref>
+    </map>
+    <map x="214" y="222" w="353" h="80">
+      <ref pos="4">1.1.2.1.3</ref>
+    </map>
+    <map x="0" y="5" w="28" h="20">
+      <ref pos="5">1.1.2.1.4</ref>
+    </map>
+    <map x="571" y="34" w="28" h="20">
+      <ref pos="6">1.1.2.1.5</ref>
+    </map>
+    <map x="37" y="223" w="162" h="76">
+      <ref pos="7">1.1.2.1.6</ref>
+    </map>
+    <map x="217" y="23" w="348" h="76">
+      <ref pos="4">1.1.2.1.3</ref>
+    </map>
+    <map x="37" y="24" w="159" h="73">
+      <ref pos="4">1.1.2.1.3</ref>
+    </map>
+    <map x="219" y="116" w="344" h="91">
+      <ref pos="3">1.1.2.1.2</ref>
+    </map>
+    <map x="191" y="303" w="26" h="17" />
+  </stk>
+  <stk id="1_1_2_1_1" name="Blindleiste 2168x42x19, Filz oben, wf" materialnr="466419" pos="1" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_2" name="Luftkissen 2 BTS-xx/33C" materialnr="461455" pos="3" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_2_1_3" name="Luftkissen 1 BTS-xx/33C" materialnr="461451" pos="4" description="&amp;nbsp;" ET="8" Quantity="5" Unit="" />
+  <stk id="1_1_2_1_4" name="Abnahmeleiste 85/30x2195 Var.2" materialnr="465673" pos="5" description="&amp;nbsp;" ET="6" Quantity="6" Unit="" />
+  <stk id="1_1_2_1_5" name="Abnahmeleiste 85/30x1768 Var.2" materialnr="465672" pos="6" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_6" name="Luftkissen 1 BTS-xx/33C" materialnr="461451" pos="7" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_2" name="Gebl&amp;auml;seeinheit 3kW FU" materialnr="413049" pos="2" description="&amp;nbsp;" ET="9" Quantity="3" Unit="">
+    <map x="92" y="336" w="27" h="24">
+      <ref pos="1">1.1.2.2.1</ref>
+    </map>
+    <map x="79" y="92" w="203" h="117">
+      <ref pos="2">1.1.2.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_2_1" name="SCHWINGMETALLPUFFER,D50,H30, 2XAG-M10X26" materialnr="014562" pos="1" description="&amp;nbsp;" ET="8" Quantity="12" Unit="" />
+  <stk id="1_1_2_2_2" name="Radialventilator HPB-F-040 FU-100Hz/3kW" materialnr="433146" pos="2" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_2_3" name="SCHLAUCHKLEMME, 104-138MM, VERZINKT 12MM" materialnr="003666" pos="3" description="&amp;nbsp;" ET="8" Quantity="18" Unit="" />
+  <stk id="1_1_2_4" name="GEBL&amp;Auml;SESCHLAUCH NW125MM,PVC,HOCHFLEXIBEL" materialnr="007799" pos="4" description="&amp;nbsp;" ET="7" Quantity="8000" Unit="" />
+  <stk id="1_1_2_5" name="LUFTKISSENANSCHLUSS DM 125, H=84" materialnr="244123" pos="5" description="&amp;nbsp;" ET="8" Quantity="9" Unit="" />
+  <stk id="1_1_2_6" name="PP DOPPELABZWEIGER ND125, 45&amp;deg;/180&amp;deg;" materialnr="308778" pos="8" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_2_7" name="PP ROHR ND 125, L=150MM" materialnr="032905" pos="9" description="&amp;nbsp;" ET="8" Quantity="9" Unit="" />
+  <stk id="1_1_2_8" name="PP &amp;Uuml;BERSCHIEBMUFFE ND 125" materialnr="030456" pos="10" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_3" name="Brechleisten BTS-60/33C, gesamt" materialnr="461570" pos="3" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="267" y="0" w="28" h="20">
+      <ref pos="1">1.1.3.1</ref>
+    </map>
+    <map x="299" y="0" w="28" h="20">
+      <ref pos="2">1.1.3.2</ref>
+    </map>
+    <map x="513" y="176" w="28" h="20">
+      <ref pos="3">1.1.3.3</ref>
+    </map>
+    <map x="513" y="200" w="28" h="20">
+      <ref pos="4">1.1.3.4</ref>
+    </map>
+    <map x="296" y="241" w="35" h="21" />
+    <map x="449" y="234" w="48" h="54">
+      <ref pos="10">1.1.3.5</ref>
+      <ref pos="12">1.1.3.6</ref>
+      <ref pos="13">1.1.3.7</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="X-Brechleiste f&amp;uuml;r BTS-60/33C, ges." materialnr="461566" pos="1" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="162" y="82" w="38" h="20">
+      <ref pos="2">1.1.3.1.2</ref>
+      <ref pos="3">1.1.3.1.3</ref>
+    </map>
+    <map x="114" y="203" w="42" h="20">
+      <ref pos="4">1.1.3.1.4</ref>
+      <ref pos="11">1.1.3.1.10</ref>
+    </map>
+    <map x="159" y="203" w="38" h="20">
+      <ref pos="5">1.1.3.1.5</ref>
+      <ref pos="9">1.1.3.1.8</ref>
+    </map>
+    <map x="203" y="82" w="28" h="20">
+      <ref pos="7">1.1.3.1.6</ref>
+    </map>
+    <map x="23" y="158" w="28" h="20">
+      <ref pos="8">1.1.3.1.7</ref>
+    </map>
+    <map x="53" y="182" w="28" h="20">
+      <ref pos="10">1.1.3.1.9</ref>
+    </map>
+    <map x="502" y="222" w="44" h="20">
+      <ref pos="1">1.1.3.1.1</ref>
+      <ref pos="12">1.1.3.1.11</ref>
+    </map>
+    <map x="130" y="82" w="28" h="20">
+      <ref pos="14">1.1.3.1.12</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_1" name="GELENKKOPF M16X1.5-INNEN-R, ND 16MM" materialnr="003047" pos="1" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_2" name="GEGENLAGER LASCHE BREIT ZYL.DM=100" materialnr="013346" pos="2" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_3" name="SCHWENKBEF.GABELAUSF.BREIT PN-ZYL.D=100" materialnr="019890" pos="3" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_4" name="SK-MUTTER FLACH, M16X1.5LI, DIN439, VERZ" materialnr="023937" pos="4" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_5" name="Abluftdrossel, G3/8&amp;quot;, Dm8, Steckanschl." materialnr="316702" pos="5" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_1_6" name="Traverenbrechleiste L=3450" materialnr="311292" pos="7" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="89" y="130" w="28" h="20">
+      <ref pos="3">1.1.3.1.6.1</ref>
+    </map>
+    <map x="128" y="0" w="28" h="20">
+      <ref pos="4">1.1.3.1.6.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_6_1" name="GELENKKOPF M16X1.5-INNEN-R, ND 16MM" materialnr="003047" pos="3" description="&amp;nbsp;" ET="6" Quantity="8" Unit="" />
+  <stk id="1_1_3_1_6_2" name="BRECHLEISTE AUFSATZ" materialnr="169445" pos="4" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_3_1_7" name="STEHLAGER,GUSSGEH&amp;Auml;USE,ID=20,UCP 204" materialnr="005759" pos="8" description="&amp;nbsp;" ET="6" Quantity="8" Unit="" />
+  <stk id="1_1_3_1_8" name="REDUZIERNIPPEL R3/8&amp;quot;-IG,R1/2&amp;quot;-AG,MESSING" materialnr="003551" pos="9" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_1_9" name="GELENKKOPF M20X1.5-INNEN-R ND 20 WF" materialnr="003073" pos="10" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_10" name="GELENKKOPF M16X1.5-INNEN-L, ND 16MM" materialnr="003052" pos="11" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_11" name="Sk-Mutter Flach, M16x1.5, DIN 439, VERZ" materialnr="003044" pos="12" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_12" name="DW.PN.Zyl. D=100 H=125 ISO m.Sign." materialnr="424755" pos="14" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_3_2" name="Y-Brechleiste f&amp;uuml;r BTS-60/33C, ges." materialnr="461567" pos="2" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="432" y="92" w="38" h="21">
+      <ref pos="1">1.1.3.2.1</ref>
+      <ref pos="2">1.1.3.2.2</ref>
+    </map>
+    <map x="171" y="222" w="40" h="22">
+      <ref pos="3">1.1.3.2.3</ref>
+      <ref pos="8">1.1.3.2.7</ref>
+    </map>
+    <map x="456" y="215" w="38" h="20">
+      <ref pos="4">1.1.3.2.4</ref>
+      <ref pos="10">1.1.3.2.9</ref>
+    </map>
+    <map x="45" y="225" w="38" h="21">
+      <ref pos="6">1.1.3.2.5</ref>
+      <ref pos="12">1.1.3.2.10</ref>
+    </map>
+    <map x="53" y="92" w="28" h="20">
+      <ref pos="9">1.1.3.2.8</ref>
+    </map>
+    <map x="401" y="92" w="28" h="20">
+      <ref pos="14">1.1.3.2.11</ref>
+    </map>
+    <map x="313" y="223" w="40" h="20">
+      <ref pos="7">1.1.3.2.6</ref>
+      <ref pos="17">1.1.3.2.12</ref>
+    </map>
+    <map x="215" y="223" w="28" h="20">
+      <ref pos="19">1.1.3.2.13</ref>
+    </map>
+    <map x="425" y="215" w="28" h="20">
+      <ref pos="20">1.1.3.2.14</ref>
+    </map>
+    <map x="104" y="258" w="47" h="36">
+      <ref pos="24">1.1.3.2.15</ref>
+      <ref pos="26">1.1.3.2.16</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_2_1" name="GEGENLAGER LASCHE BREIT ZYL.DM=100" materialnr="013346" pos="1" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_2_2" name="SCHWENKBEF.GABELAUSF.BREIT PN-ZYL.D=100" materialnr="019890" pos="2" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_2_3" name="SK-MUTTER FLACH, M16X1.5LI, DIN439, VERZ" materialnr="023937" pos="3" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_2_4" name="Abluftdrossel, G3/8&amp;quot;, Dm8, Steckanschl." materialnr="316702" pos="4" description="&amp;nbsp;" ET="8" Quantity="6" Unit="" />
+  <stk id="1_1_3_2_5" name="GELENKKOPF M16X1.5-INNEN-R, ND 16MM" materialnr="003047" pos="6" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_3_2_6" name="GELENKKOPF M20X1.5-INNEN-R ND 20 WF" materialnr="003073" pos="7" description="&amp;nbsp;" ET="6" Quantity="6" Unit="" />
+  <stk id="1_1_3_2_7" name="GELENKKOPF M16X1.5-INNEN-L, ND 16MM" materialnr="003052" pos="8" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_3_2_8" name="STEHLAGER,GUSSGEH&amp;Auml;USE,ID=20,UCP 204" materialnr="005759" pos="9" description="&amp;nbsp;" ET="6" Quantity="16" Unit="" />
+  <stk id="1_1_3_2_9" name="REDUZIERNIPPEL R3/8&amp;quot;-IG,R1/2&amp;quot;-AG,MESSING" materialnr="003551" pos="10" description="&amp;nbsp;" ET="8" Quantity="6" Unit="" />
+  <stk id="1_1_3_2_10" name="Sk-Mutter Flach, M16x1.5, DIN 439, VERZ" materialnr="003044" pos="12" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_2_11" name="L&amp;auml;ngsbrechleiste L=2160" materialnr="309102" pos="14" description="&amp;nbsp;" ET="9" Quantity="4" Unit="">
+    <map x="107" y="280" w="28" h="20">
+      <ref pos="3">1.1.3.2.11.1</ref>
+    </map>
+    <map x="111" y="119" w="28" h="20">
+      <ref pos="4">1.1.3.2.11.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_2_11_1" name="GELENKKOPF M16X1.5-INNEN-R, ND 16MM" materialnr="003047" pos="3" description="&amp;nbsp;" ET="6" Quantity="16" Unit="" />
+  <stk id="1_1_3_2_11_2" name="HOLZLEISTE L&amp;Auml;NGSBRECHLEISTE" materialnr="169452" pos="4" description="&amp;nbsp;" ET="6" Quantity="8" Unit="" />
+  <stk id="1_1_3_2_12" name="SK-MUTTER FLACH, M20X1.5, DIN 439, VERZ" materialnr="003071" pos="17" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_2_13" name="DW.PN.Zyl. D=100 H=100 ISO m.Sign." materialnr="424754" pos="19" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_3_2_14" name="DW.PN.Zyl. D=100 H=125 ISO m.Sign." materialnr="424755" pos="20" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_3_2_15" name="Zugfeder Da=25,2; d=2,8mm; Lo=201,9 1.12" materialnr="329950" pos="24" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_2_16" name="VERL&amp;Auml;NGERUNGSMUTTER M8,H=24;HWN 309" materialnr="030404" pos="26" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_3" name="3/2-Kipphebelventil, G1/8&amp;quot;, rastend" materialnr="349204" pos="3" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_3_4" name="5/2-Wege-Fu&amp;szlig;ventil G1/4&amp;quot;, FRST." materialnr="458733" pos="4" description="&amp;nbsp;" ET="7" Quantity="4" Unit="" />
+  <stk id="1_1_3_5" name="B&amp;uuml;gel f&amp;uuml;r Schutzschlauch" materialnr="465369" pos="10" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_6" name="Schnellentl&amp;uuml;ftungsventil G1/4&amp;quot;" materialnr="350981" pos="12" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_3_7" name="SCHALLD&amp;Auml;MPFER, R1/4&amp;quot;, SINTERMETALL" materialnr="003351" pos="13" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_4" name="Sicherheitsleiste f. BTS-xx/33" materialnr="311316" pos="7" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="315" y="91" w="28" h="20">
+      <ref pos="1">1.1.4.1</ref>
+    </map>
+    <map x="486" y="148" w="28" h="20">
+      <ref pos="2">1.1.4.2</ref>
+    </map>
+    <map x="406" y="276" w="28" h="20">
+      <ref pos="7">1.1.4.5</ref>
+    </map>
+    <map x="406" y="254" w="28" h="20">
+      <ref pos="8">1.1.4.6</ref>
+    </map>
+    <map x="406" y="231" w="28" h="20">
+      <ref pos="11">1.1.4.7</ref>
+    </map>
+    <map x="64" y="132" w="28" h="20">
+      <ref pos="12">1.1.4.8</ref>
+    </map>
+    <map x="176" y="230" w="106" h="73">
+      <ref pos="21">1.1.4.9</ref>
+      <ref pos="22">1.1.4.10</ref>
+      <ref pos="23">1.1.4.11</ref>
+      <ref pos="24">1.1.4.12</ref>
+      <ref pos="31">1.1.4.13</ref>
+    </map>
+    <map x="436" y="300" w="39" h="20">
+      <ref pos="5">1.1.4.3</ref>
+      <ref pos="6">1.1.4.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="Traverenbrechleiste L=3450" materialnr="311292" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="89" y="130" w="28" h="20">
+      <ref pos="3">1.1.4.1.1</ref>
+    </map>
+    <map x="128" y="0" w="28" h="20">
+      <ref pos="4">1.1.4.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_1" name="GELENKKOPF M16X1.5-INNEN-R, ND 16MM" materialnr="003047" pos="3" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_4_1_2" name="BRECHLEISTE AUFSATZ" materialnr="169445" pos="4" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_4_2" name="STEHLAGER,GUSSGEH&amp;Auml;USE,ID=20,UCP 204" materialnr="005759" pos="2" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_4_3" name="GEGENLAGER LASCHE BREIT ZYL.DM=80" materialnr="003087" pos="5" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_4" name="SCHWENKBEF.GABELAUSF.BREIT PN-ZYL.D=80" materialnr="003069" pos="6" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_5" name="DW.PN.Zyl. D=80 H=50 ISO m.Sign." materialnr="424789" pos="7" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_4_6" name="GELENKKOPF M20X1.5-INNEN-R ND 20 WF" materialnr="003073" pos="8" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_4_7" name="GELENKKOPF M16X1.5-INNEN-R, ND 16MM" materialnr="003047" pos="11" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_4_8" name="GELENKKOPF M16X1.5-INNEN-L, ND 16MM" materialnr="003052" pos="12" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_4_9" name="Steckverschr. R1/4&amp;quot;, 90&amp;deg;, Dm:8mm" materialnr="223937" pos="21" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_10" name="Steckverschr. R1/4&amp;quot;, gerade, Dm:8mm" materialnr="032295" pos="22" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_11" name="Steckverschr. R3/8&amp;quot;, 90&amp;deg;, Dm:8mm" materialnr="308288" pos="23" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_12" name="Steckverbindung T-Form Dm:8mm" materialnr="028818" pos="24" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_4_13" name="Abluftdrossel, G3/8&amp;quot;, Dm8, Steckanschl." materialnr="316702" pos="31" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_5" name="Einzelanschlussplatte CD01 Dm6 seitlich" materialnr="191621" pos="51" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_6" name="5/2-M-VENTIL TYP CD01 NW4 IMPULSV." materialnr="191568" pos="52" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+</catalog>

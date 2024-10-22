@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="RKT-45KLA">
+  <stk id="1" name="RKT-45KLA" materialnr="407106" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="">
+    <map x="89" y="27" w="417" h="278">
+      <ref pos="1">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="COMPL.LIST RKT-45KLA 19MM 2400MM MOBILE" materialnr="482195" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="94" y="23" w="409" h="272">
+      <ref pos="1">1.1.1</ref>
+      <ref pos="2">1.1.2</ref>
+      <ref pos="4">1.1.3</ref>
+      <ref pos="5">1.1.4</ref>
+      <ref pos="6">1.1.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="SUBSTRUCTURE RKT45KLA 2400MM MOBILE 19MM" materialnr="482190" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="218" y="169" w="28" h="20">
+      <ref pos="4">1.1.1.1</ref>
+    </map>
+    <map x="281" y="119" w="28" h="20">
+      <ref pos="5">1.1.1.2</ref>
+    </map>
+    <map x="152" y="211" w="28" h="20">
+      <ref pos="6">1.1.1.3</ref>
+    </map>
+    <map x="248" y="143" w="28" h="20">
+      <ref pos="8">1.1.1.4</ref>
+    </map>
+    <map x="68" y="58" w="41" h="20">
+      <ref pos="10">1.1.1.5</ref>
+      <ref pos="11">1.1.1.6</ref>
+    </map>
+    <map x="312" y="93" w="28" h="20">
+      <ref pos="15">1.1.1.7</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="TOOTHED ROD 30X30X2300MM CONTINUOUS S" materialnr="402363" pos="4" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_1_2" name="TOOTHED ROD 30X30 L=1450MM CONTINUOUS" materialnr="455306" pos="5" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_1_3" name="GUIDING CAR &amp;quot;STAR&amp;quot; SIZE 45" materialnr="358632" pos="6" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_1_4" name="GUIDE RAIL STAR SIZE-45 L=4345MM" materialnr="455316" pos="8" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_1_5" name="CONNECTING ELBOW SET F.CHAIN 26/27/27" materialnr="344033" pos="10" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_1_6" name="CAT TRACK CABLE 100/35" materialnr="346593" pos="11" description="&amp;nbsp;" ET="8" Quantity="43" Unit="" />
+  <stk id="1_1_1_7" name="ANTI-VIBRATION BUFER D100 M16 M16-FEMALE" materialnr="024133" pos="15" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_2" name="DRIVE FOR MOVING FRAME RKT-40KLA" materialnr="439411" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="139" y="45" w="28" h="20">
+      <ref pos="2">1.1.2.1</ref>
+    </map>
+    <map x="563" y="127" w="28" h="20">
+      <ref pos="3">1.1.2.2</ref>
+    </map>
+    <map x="501" y="128" w="28" h="20">
+      <ref pos="4">1.1.2.3</ref>
+    </map>
+    <map x="532" y="128" w="28" h="20">
+      <ref pos="5">1.1.2.4</ref>
+    </map>
+    <map x="7" y="147" w="28" h="20">
+      <ref pos="6">1.1.2.5</ref>
+    </map>
+    <map x="7" y="171" w="28" h="20">
+      <ref pos="7">1.1.2.6</ref>
+    </map>
+    <map x="7" y="124" w="28" h="20">
+      <ref pos="8">1.1.2.7</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="SPUR GEAR SERVOMOTOR 2,3KW+GST06 LENZE" materialnr="377212" pos="2" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_2" name="SPUR GEAR/TEETH=80 PIT=5MM D=53H7 MACHIN" materialnr="324186" pos="3" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_3" name="PLUMMER BLOCK BEARING; CAST HOUS.ID 40" materialnr="005766" pos="4" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_4" name="TLK-TAPERLOCK BUSHING ID=40 OD=53 L=32MM" materialnr="030351" pos="5" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_5" name="POLY-CHAIN TOOTHED BELT,W=36 L=800 PIT=8" materialnr="023598" pos="6" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_6" name="TOOTHED BELT PULLEY T=45 W=36 PIT=8" materialnr="024635" pos="7" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_7" name="POLYCHAIN-TOOTHED BELT PULLEY/PIT=8" materialnr="032739" pos="8" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3" name="TABLE BOARD COMPLETE RKT-45KLA 19MM" materialnr="482169" pos="4" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="282" y="300" w="28" h="20">
+      <ref pos="2">1.1.3.1</ref>
+    </map>
+    <map x="507" y="114" w="28" h="20">
+      <ref pos="3">1.1.3.2</ref>
+    </map>
+    <map x="507" y="137" w="28" h="20">
+      <ref pos="4">1.1.3.3</ref>
+    </map>
+    <map x="505" y="41" w="28" h="20">
+      <ref pos="5">1.1.3.4</ref>
+    </map>
+    <map x="505" y="65" w="28" h="20">
+      <ref pos="6">1.1.3.5</ref>
+    </map>
+    <map x="508" y="238" w="38" h="20">
+      <ref pos="7">1.1.3.6</ref>
+      <ref pos="11">1.1.3.8</ref>
+    </map>
+    <map x="507" y="190" w="28" h="20">
+      <ref pos="10">1.1.3.7</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="BELT CARRIER BELT-W=60MM RKT-45KLA" materialnr="478831" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="255" y="66" w="28" h="20">
+      <ref pos="3">1.1.3.1.1</ref>
+    </map>
+    <map x="0" y="253" w="28" h="20">
+      <ref pos="7">1.1.3.1.2</ref>
+    </map>
+    <map x="75" y="253" w="28" h="20">
+      <ref pos="8">1.1.3.1.3</ref>
+    </map>
+    <map x="0" y="118" w="36" h="20">
+      <ref pos="9">1.1.3.1.4</ref>
+      <ref pos="20">1.1.3.1.8</ref>
+    </map>
+    <map x="76" y="210" w="28" h="20">
+      <ref pos="10">1.1.3.1.5</ref>
+    </map>
+    <map x="538" y="0" w="28" h="20">
+      <ref pos="15">1.1.3.1.6</ref>
+    </map>
+    <map x="571" y="0" w="28" h="20">
+      <ref pos="17">1.1.3.1.7</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_1" name="TOOTHED BELT 60AT10/9460-PAZ-T" materialnr="478802" pos="3" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_2" name="TOOTHED BELT HTD 600-8M-30 MGDY" materialnr="423833" pos="7" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_3" name="SPURGEAR-TPM. 1,5KW+GST05 I8.16 NO BRAKE" materialnr="422603" pos="8" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_4" name="TOOTHED BELT PULLEY/PIT8/T32/BW30/25" materialnr="013453" pos="9" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_5" name="HTD-TOOTHED BELT PULLEY TEETH=40 25H7" materialnr="013454" pos="10" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_6" name="BEARING BLOCK FOR BELT DRIVE RTV-MZ" materialnr="031893" pos="15" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="430" y="36" w="26" h="26">
+      <ref pos="2">1.1.3.1.6.1</ref>
+    </map>
+    <map x="392" y="38" w="26" h="26">
+      <ref pos="13">1.1.3.1.6.4</ref>
+    </map>
+    <map x="62" y="84" w="26" h="26">
+      <ref pos="9">1.1.3.1.6.3</ref>
+    </map>
+    <map x="436" y="186" w="26" h="25">
+      <ref pos="5">1.1.3.1.6.2</ref>
+    </map>
+    <map x="436" y="214" w="26" h="25" />
+    <map x="188" y="40" w="147" h="99" />
+  </stk>
+  <stk id="1_1_3_1_6_1" name="DRIVE SHAFT" materialnr="170022" pos="2" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_6_2" name="GROOVED BALL BEARING ID30;OD62;W16;2SEAL" materialnr="005707" pos="5" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_3_1_6_3" name="TOOTHED BELT PULLEY COMPLETE/ FPSN" materialnr="030007" pos="9" description="&amp;nbsp;" ET="8" Quantity="2" Unit="">
+    <map x="103" y="7" w="345" h="378">
+      <ref pos="1">1.1.3.1.6.3.1</ref>
+      <ref pos="2">1.1.3.1.6.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_6_3_1" name="TOOTHED BELT PULLEY/T=25/PIT=10/W=61MM" materialnr="171658" pos="1" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_1_6_3_2" name="FLANGED WHEEL FPSN(N)-U" materialnr="232603" pos="2" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_3_1_6_4" name="KEY 8x7x45MM DIN 6885 ST50-1K(MATERIAL)" materialnr="005323" pos="13" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_7" name="SUPPORT ROLLER COMPLETE" materialnr="220826" pos="17" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="149" y="44" w="27" h="25">
+      <ref pos="1">1.1.3.1.7.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_7_1" name="TRANSPORT ROLLER D=17/12x29.4mm/" materialnr="011413" pos="1" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_8" name="KEY 8x7x45MM DIN 6885 ST50-1K(MATERIAL)" materialnr="005323" pos="20" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_3_2" name="BELT UNIT RKT-45KLA VAR.2" materialnr="478618" pos="3" description="&amp;nbsp;" ET="9" Quantity="9" Unit="">
+    <map x="0" y="197" w="28" h="20">
+      <ref pos="3">1.1.3.2.2</ref>
+    </map>
+    <map x="535" y="38" w="64" h="30">
+      <ref pos="4">1.1.3.2.3</ref>
+      <ref pos="5">1.1.3.2.4</ref>
+      <ref pos="6">1.1.3.2.5</ref>
+      <ref pos="7">1.1.3.2.6</ref>
+      <ref pos="8">1.1.3.2.7</ref>
+    </map>
+    <map x="235" y="231" w="28" h="20">
+      <ref pos="1">1.1.3.2.1</ref>
+    </map>
+    <map x="392" y="147" w="28" h="20">
+      <ref pos="12">1.1.3.2.8</ref>
+    </map>
+    <map x="188" y="231" w="28" h="20">
+      <ref pos="13">1.1.3.2.9</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_2_1" name="BASE PLATE FOR BELT UNIT RKT-45KLA" materialnr="478610" pos="1" description="&amp;nbsp;" ET="8" Quantity="9" Unit="" />
+  <stk id="1_1_3_2_2" name="TOOHED BELT 25T10/9540-V-PAZ-PVC" materialnr="478617" pos="3" description="&amp;nbsp;" ET="6" Quantity="9" Unit="" />
+  <stk id="1_1_3_2_3" name="DEFLECTION ROLLER OD=72,75 ID=42 W25 ST." materialnr="408264" pos="4" description="&amp;nbsp;" ET="8" Quantity="9" Unit="" />
+  <stk id="1_1_3_2_4" name="AXLE BOLT FOR BELT UNIT RWF" materialnr="118267" pos="5" description="&amp;nbsp;" ET="8" Quantity="9" Unit="" />
+  <stk id="1_1_3_2_5" name="GROOVED BALL BEARING ID20 0D42 W12;2SEAL" materialnr="005697" pos="6" description="&amp;nbsp;" ET="6" Quantity="18" Unit="" />
+  <stk id="1_1_3_2_6" name="RETAINER RING DIN 472-42X1.75MM" materialnr="005380" pos="7" description="&amp;nbsp;" ET="7" Quantity="9" Unit="" />
+  <stk id="1_1_3_2_7" name="RETAINING RING DIN 471-20X1.2MM" materialnr="005350" pos="8" description="&amp;nbsp;" ET="7" Quantity="18" Unit="" />
+  <stk id="1_1_3_2_8" name="BELT SUPPORT RKT-KLA/MIRROR INVERTED" materialnr="433508" pos="12" description="&amp;nbsp;" ET="9" Quantity="9" Unit="" />
+  <stk id="1_1_3_2_9" name="Belt support RKT-KLA as drawn" materialnr="431460" pos="13" description="&amp;nbsp;" ET="9" Quantity="9" Unit="" />
+  <stk id="1_1_3_3" name="BELT DRIVE UNIT 9 BELTS VAR.2" materialnr="474353" pos="4" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="406" y="278" w="39" h="21">
+      <ref pos="5">1.1.3.3.1</ref>
+      <ref pos="9">1.1.3.3.4</ref>
+    </map>
+    <map x="297" y="229" w="28" h="20">
+      <ref pos="7">1.1.3.3.2</ref>
+    </map>
+    <map x="329" y="228" w="28" h="20">
+      <ref pos="8">1.1.3.3.3</ref>
+    </map>
+    <map x="197" y="148" w="28" h="20">
+      <ref pos="10">1.1.3.3.5</ref>
+    </map>
+    <map x="448" y="278" w="39" h="20">
+      <ref pos="12">1.1.3.3.6</ref>
+      <ref pos="16">1.1.3.3.10</ref>
+    </map>
+    <map x="441" y="156" w="28" h="20">
+      <ref pos="13">1.1.3.3.7</ref>
+    </map>
+    <map x="226" y="62" w="28" h="20">
+      <ref pos="14">1.1.3.3.8</ref>
+    </map>
+    <map x="166" y="148" w="28" h="20">
+      <ref pos="15">1.1.3.3.9</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_3_1" name="ETP-CLAMP.BUSH ID25 OD34 L27 HEX. SCREW" materialnr="443741" pos="5" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_3_2" name="FLANGE BEARING ID=25MM 3-HOLE CASTING" materialnr="024655" pos="7" description="&amp;nbsp;" ET="6" Quantity="13" Unit="" />
+  <stk id="1_1_3_3_3" name="MET.TOOTHED BELT PULLEY 25H7 STEEL" materialnr="408290" pos="8" description="&amp;nbsp;" ET="8" Quantity="9" Unit="" />
+  <stk id="1_1_3_3_4" name="POLY-CHAIN-TOOTHED BELT PULLEY D=34H7" materialnr="380482" pos="9" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_3_5" name="DISC COUPLING D=25MM" materialnr="025694" pos="10" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_3_3_6" name="DISC COUPLING D=25MM L=55MM" materialnr="203791" pos="12" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_3_3_7" name="FITTED KEY 8X7X56MM DIN 6885" materialnr="025757" pos="13" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_3_3_8" name="KEY 8x7x32MM DIN 6885 ST50-1K(MATERIAL)" materialnr="005322" pos="14" description="&amp;nbsp;" ET="7" Quantity="8" Unit="" />
+  <stk id="1_1_3_3_9" name="KEY 8x7x45MM DIN 6885 ST50-1K(MATERIAL)" materialnr="005323" pos="15" description="&amp;nbsp;" ET="7" Quantity="4" Unit="" />
+  <stk id="1_1_3_3_10" name="KEY 8X7X25MM DIN 6885 ST50-1K" materialnr="023564" pos="16" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_3_4" name="ANTIFALL GUARD RKT-45/xxKLA TH=19MM" materialnr="478658" pos="5" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="68" y="300" w="28" h="20">
+      <ref pos="6">1.1.3.4.1</ref>
+    </map>
+    <map x="81" y="45" w="28" h="20">
+      <ref pos="9">1.1.3.4.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_4_1" name="SUPPORT ROLLER D=50MM WITH THREAD M6X15" materialnr="306434" pos="6" description="&amp;nbsp;" ET="6" Quantity="58" Unit="">
+    <map x="161" y="25" w="357" h="359">
+      <ref pos="2">1.1.3.4.1.1</ref>
+      <ref pos="3">1.1.3.4.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_4_1_1" name="BEARING BOLT Ø8X22MM" materialnr="408764" pos="2" description="&amp;nbsp;" ET="8" Quantity="58" Unit="" />
+  <stk id="1_1_3_4_1_2" name="ROLLER WITH TRANSPORT ROLLER FACING" materialnr="306456" pos="3" description="&amp;nbsp;" ET="9" Quantity="58" Unit="">
+    <map x="205" y="69" w="25" h="19">
+      <ref pos="2">1.1.3.4.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_4_1_2_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" ET="6" Quantity="3364" Unit="" />
+  <stk id="1_1_3_4_2" name="Dummy riveted nut semi-hexagonal M8 A2" materialnr="426967" pos="9" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_3_5" name="ROLLER BAR FOR SWIVEL FRAME RKT-45KLA" materialnr="408328" pos="6" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="274" y="230" w="28" h="20">
+      <ref pos="1">1.1.3.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_5_1" name="SUPPORT ROLLER D=50MM WITH THREAD M6X15" materialnr="306434" pos="1" description="&amp;nbsp;" ET="6" Quantity="10" Unit="">
+    <map x="161" y="25" w="357" h="359">
+      <ref pos="2">1.1.3.5.1.1</ref>
+      <ref pos="3">1.1.3.5.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_5_1_1" name="BEARING BOLT Ø8X22MM" materialnr="408764" pos="2" description="&amp;nbsp;" ET="8" Quantity="10" Unit="" />
+  <stk id="1_1_3_5_1_2" name="ROLLER WITH TRANSPORT ROLLER FACING" materialnr="306456" pos="3" description="&amp;nbsp;" ET="9" Quantity="10" Unit="">
+    <map x="205" y="69" w="25" h="19">
+      <ref pos="2">1.1.3.5.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_5_1_2_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" ET="6" Quantity="100" Unit="" />
+  <stk id="1_1_3_6" name="SPURGEAR-TPM. 1,5KW+GST05 I8.16 NO BRAKE" materialnr="422603" pos="7" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_3_7" name="POLY-CHAIN TOOTHED BELT,W=36 L=800 PIT=8" materialnr="023598" pos="10" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_3_8" name="POLYCHAIN-TOOTHED BELT PULLEY/PIT8/" materialnr="200070" pos="11" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4" name="CRANK DRIVE RKT-45KLA 6&amp;deg;" materialnr="481949" pos="5" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="282" y="75" w="28" h="20">
+      <ref pos="3">1.1.4.1</ref>
+    </map>
+    <map x="97" y="129" w="28" h="20">
+      <ref pos="5">1.1.4.2</ref>
+    </map>
+    <map x="231" y="284" w="28" h="20">
+      <ref pos="6">1.1.4.3</ref>
+    </map>
+    <map x="263" y="284" w="28" h="20">
+      <ref pos="7">1.1.4.4</ref>
+    </map>
+    <map x="200" y="284" w="28" h="20">
+      <ref pos="8">1.1.4.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="SERVO-BEVEL GEAR MOTOR 7KW I243+BRAKE" materialnr="457205" pos="3" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_4_2" name="CRANK ROD" materialnr="457462" pos="5" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="325" y="31" w="28" h="20">
+      <ref pos="2">1.1.4.2.1</ref>
+    </map>
+    <map x="154" y="153" w="28" h="20">
+      <ref pos="3">1.1.4.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_2_1" name="JOINT HEAD M39X3-I-R DIN 648 E" materialnr="383757" pos="2" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_4_2_2" name="JOINT HEAD M39X3-FEMALE DIN 648 E" materialnr="383758" pos="3" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_4_3" name="FLANGE BEARING IØ85MM UCF317 QUAD.CASING" materialnr="457383" pos="6" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_4_4" name="FITTED KEY 25X14X125MM DIN6885 ST50-1K" materialnr="457580" pos="7" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_4_5" name="LOCKING BUSHING TLK450 IØ80 OØ120" materialnr="457579" pos="8" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_5" name="SMALL PARTS RKT-40/25KLA MOBILE VAR.2" materialnr="478586" pos="6" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="105" y="19" w="28" h="20">
+      <ref pos="2">1.1.5.1</ref>
+    </map>
+    <map x="366" y="0" w="28" h="20">
+      <ref pos="5">1.1.5.2</ref>
+    </map>
+    <map x="33" y="107" w="43" h="21">
+      <ref pos="10">1.1.5.3</ref>
+      <ref pos="22">1.1.5.8</ref>
+    </map>
+    <map x="571" y="241" w="28" h="20">
+      <ref pos="11">1.1.5.4</ref>
+    </map>
+    <map x="571" y="118" w="28" h="20">
+      <ref pos="13">1.1.5.5</ref>
+    </map>
+    <map x="187" y="29" w="93" h="76">
+      <ref pos="18">1.1.5.6</ref>
+      <ref pos="20">1.1.5.7</ref>
+      <ref pos="23">1.1.5.9</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1" name="TRANS.ROLLER WITH BALL BEARING OD38 W38" materialnr="033307" pos="2" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_5_2" name="JOINT BEARING ID=50MM OD=75MM W=35MM" materialnr="327686" pos="5" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_5_3" name="CAT TRACK CABLE W=93/H=35/CURV.R100 P46" materialnr="033287" pos="10" description="&amp;nbsp;" ET="6" Quantity="22" Unit="" />
+  <stk id="1_1_5_4" name="ANTI-VIBRATION BUFER D100 M16 M16-FEMALE" materialnr="024133" pos="11" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_5_5" name="ANTI-VIBRATION BUFFER D50 M8X28-MALE" materialnr="007794" pos="13" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_5_6" name="LOCK WASHER M30 OD=58,5MM ZINC-COATED" materialnr="202749" pos="18" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_5_7" name="WEDGE RETAINING WASHER M20 OD=39 A4" materialnr="410384" pos="20" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_5_8" name="CONNECTION ELEMENT - SET" materialnr="033288" pos="22" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5_9" name="SUPPORT ROLLER RKT-35KLA" materialnr="403672" pos="23" description="&amp;nbsp;" ET="9" Quantity="4" Unit="">
+    <map x="314" y="48" w="230" h="133">
+      <ref pos="1">1.1.5.9.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_9_1" name="ROLLER WITH TRANSPORT ROLLER FACING" materialnr="306456" pos="1" description="&amp;nbsp;" ET="9" Quantity="4" Unit="">
+    <map x="205" y="69" w="25" h="19">
+      <ref pos="2">1.1.5.9.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_9_1_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" ET="6" Quantity="16" Unit="" />
+</catalog>

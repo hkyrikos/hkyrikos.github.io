@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="LBS-60/30">
+  <stk id="1" name="LBS-60/30" materialnr="141202" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="">
+    <map x="125" y="127" w="325" h="147">
+      <ref pos="1">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="STORAGE RACK DEPTH=1200MM, H=300MM" materialnr="301357" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="92" y="197" w="174" h="87">
+      <ref pos="11">1.1.1</ref>
+      <ref pos="12">1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="SYNTHETIC NEEDLED FELT 1200X80X10,BOTTOM" materialnr="021125" pos="11" description="&amp;nbsp;" ET="8" Quantity="5" Unit="" />
+  <stk id="1_1_2" name="NEEDLE FELT STRIP 3000X70X4,8 VERTICAL" materialnr="032766" pos="12" description="&amp;nbsp;" ET="8" Quantity="5" Unit="" />
+</catalog>

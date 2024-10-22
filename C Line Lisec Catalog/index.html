@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <title>Sparepart Catalog</title>
+    <script src="javascripts/watchlist.js" type="text/javascript"></script>
+    <script src="javascripts/jquery-1.4.2.min.js" type="text/javascript"></script>
+    <script src="javascripts/jquery.treeview.js" type="text/javascript"></script>
+    <script src="javascripts/jquery.tiptip.js" type="text/javascript"></script>
+    <script src="javascripts/application.min.js" type="text/javascript"></script>
+    <script src="customer/customer.js" type="text/javascript"></script>
+	<script type="text/javascript" language="JavaScript"></script>
+
+    
+    <link href="stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="stylesheets/jquery.treeview.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="stylesheets/jquery.tiptip.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="customer/customer.css" media="screen" rel="stylesheet" type="text/css" />
+  </head>
+  
+  <body>
+      
+    <div id="root">
+      
+      <!-- COPYRIGHT + VERSION NUMBER -->
+      <div id="info"></div>
+       
+       
+      <!-- HEADER -->
+      <div id="top">
+        <div class="button" id="goBack" title="Back"></div>
+        <div class="button" id="goForward" title="Forward"></div>
+        <div class="button" id="showParent" title="Parent"></div>
+        <div class="button" id="showSearch" title="Search"></div>
+        <div class="button" id="showWatchlist" title="Watchlist"></div>
+        <div class="button" id="German" title="German"></div>
+		<div class="button" id="English" title="English"></div>
+		<div class="button" id="showPrint" title="Print"></div>
+        <div class="button" id="toggleCatalogs" title="Catalogs on CD"></div>
+        <div class="button" id="showCodelist" title="Sparepart List"></div>
+		
+        <div id="loader_small"></div>
+      </div>
+      <p style="clear:both"></p>
+      
+      
+      <!-- LEFT COLUMN -->
+      <div id="left">
+      
+        <!-- CATALOGS ON CD -->
+        <div class="subcontent" style="border-left:none;border-right:none;border-bottom:none;padding-right:0;" id="catalogs_div">
+            <div class="title">Catalogs on CD</div>
+            <div id="catalogs"></div>
+        </div>
+        
+        <div id="handleUD" height="5px" ondragstart="return false;"></div>
+
+        <!-- MACHINE -->
+        <div class="subcontent" style="border-left:none;border-bottom:none;border-right:none;padding-right:0;" id="machine_div">
+          <div class="title" style="margin-bottom:3px;"><span id="mSpan" style="position:relative;">Machine</span></div>
+          <div id="loader"><img src="images/loader.gif" /><br/>loading catalog...</div>
+          <div id="tree"></div>
+        </div>
+        
+      </div>
+      
+      
+      <div id="handle" ondragstart="return false;"></div>
+      
+      
+      <!-- CONTENT -->
+      <div id="right">
+        
+        <!-- QUICKVIEW -->
+        <div id="quickview">
+          <div class="subcontent" style="border: none;" id="parts">
+            <div class="title">Parts</div>
+            <div id="name"></div>
+            <img id="thumbnail" src="" />
+            <!-- <div id="addtowatchlist">Add to Watchlist<br/>(0 Items)</div> -->
+			
+          </div>
+        </div>
+        
+        <!-- ASSEMBLY -->
+        <div class="subcontent" style="border:none;border-top: 1px solid #000;" id="assembly">
+            <div class="title">Assembly</div>
+            <div id="wrap_image">
+              <div id="item_addtowatchlist">
+                Add to Watchlist<br/>
+                <input id='bWLAdd' type='button' value='+'/>&nbsp;
+                <span id='wlCounter'>0</span>&nbsp;
+                <input id='bWLRem' type='button' value='-'/>&nbsp;&nbsp;
+                <span id='wlItems'>(0 Items)</span>
+              </div>
+		      <div id="loadimage"></div>
+	          <img id="image" src="" />
+		
+  
+		      <br><br>
+         
+              <div id="description" ></div>
+		      <table border="0" id="cosmic_einkaufswagen">
+			  <tr>
+			
+				    <td>
+				  
+					    <a href="javascript:linkcosmic()">
+						    <span style="color: blue;">
+						    <b><u><div class="matnr"></div></u></b>
+					    </a></span>
+				    </td>
+			
+				    <td>
+
+					    <a class="docs" href="javascript:wkcosmic()"><img src="customer/wagen2.GIF"></a>
+				    </td> 
+			  </tr> 
+		      </table>     
+            </div>
+
+    
+
+            <!-- DOKUMENTE -->
+            <div class="subcontent" style="border:none;border-top: 1px solid #000;" id="div_Documents">
+                <div class="titleDoc">Documents</div>
+                <div id="docList"></div>
+            </div>
+        
+        </div>
+      
+        <p style="clear:both;" />
+      
+     </div>
+
+    
+     <div id="log"></div>
+
+  </body>
+
+</html>

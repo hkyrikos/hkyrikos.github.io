@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="BTA-50/33">
+  <stk id="1" name="BTA-50/33" materialnr="309042" pos="1" description="&amp;nbsp;">
+    <map x="89" y="54" w="395" h="214">
+      <ref pos="3">1.1</ref>
+      <ref pos="50">1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="TOTAL LIST BTA50/33 WITHOUT AIR CUSHION" materialnr="344150" pos="3" description="&amp;nbsp;">
+    <map x="30" y="183" w="28" h="20">
+      <ref pos="1">1.1.1</ref>
+    </map>
+    <map x="30" y="207" w="28" h="20">
+      <ref pos="2">1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="EXPANSION UNIT BELT-L=10200 W=33MM" materialnr="344146" pos="1" description="&amp;nbsp;">
+    <map x="328" y="107" w="26" h="25">
+      <ref>1.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="CONSTRUCTION-BELT FIELD L10200/W33" materialnr="344126" pos="1" description="&amp;nbsp;">
+    <map x="73" y="45" w="26" h="25">
+      <ref>1.1.1.1.1</ref>
+    </map>
+    <map x="353" y="131" w="26" h="25">
+      <ref>1.1.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1_1" name="DISC COUPLING D=25MM" materialnr="025694" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_2" name="BELT UNIT L=10200 W=50MM VAR.1" materialnr="343977" pos="3" description="&amp;nbsp;">
+    <map x="487" y="305" w="27" h="25">
+      <ref>1.1.1.1.2.1</ref>
+    </map>
+    <map x="538" y="340" w="27" h="25">
+      <ref>1.1.1.1.2.2</ref>
+    </map>
+    <map x="0" y="131" w="27" h="25">
+      <ref>1.1.1.1.2.3</ref>
+    </map>
+    <map x="44" y="56" w="27" h="25">
+      <ref>1.1.1.1.2.4</ref>
+    </map>
+    <map x="147" y="177" w="27" h="25">
+      <ref>1.1.1.1.2.5</ref>
+    </map>
+    <map x="3" y="42" w="27" h="25">
+      <ref>1.1.1.1.2.7</ref>
+    </map>
+    <map x="310" y="120" w="27" h="25">
+      <ref pos="9">1.1.1.1.2.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1_2_1" name="GROOVED BALL BEARING ID25;OD52;W15;2 SEA" materialnr="005704" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_2_2" name="DEFLECTION ROLLER F TOOTHED BELT D120/55" materialnr="019621" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_2_3" name="FLANGE BEARING ID25; OVAL CAST HOUSING" materialnr="005780" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_2_4" name="TOOTHED BELT PULLEY T=40 W=50 PIT=10" materialnr="019763" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_2_5" name="BELT GUIDE F.BELT UNIT/BELT-L=10200MM" materialnr="343976" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_2_6" name="TOOTHED BELT W=50 PIT10 L10200-V-PAZ-PVC" materialnr="201112" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_2_7" name="VULCOLLAN-ROLLER W.BEARING OD40 ID10 W15" materialnr="188734" pos="12" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="BASIC UNIT A1-FIELD BELT-L=10200MM" materialnr="343983" pos="2" description="&amp;nbsp;">
+    <map x="366" y="93" w="26" h="25">
+      <ref>1.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="BASIC UNIT/BELT FIELD L=10200MM" materialnr="343980" pos="2" description="&amp;nbsp;">
+    <map x="313" y="305" w="28" h="21">
+      <ref pos="1">1.1.2.1.1</ref>
+    </map>
+    <map x="522" y="305" w="28" h="21">
+      <ref pos="6">1.1.2.1.2</ref>
+      <ref pos="13">1.1.2.1.7</ref>
+    </map>
+    <map x="461" y="305" w="28" h="21">
+      <ref pos="7">1.1.2.1.3</ref>
+    </map>
+    <map x="251" y="305" w="28" h="21">
+      <ref pos="8">1.1.2.1.4</ref>
+    </map>
+    <map x="375" y="304" w="28" h="21">
+      <ref pos="10">1.1.2.1.5</ref>
+    </map>
+    <map x="491" y="305" w="28" h="21">
+      <ref pos="11">1.1.2.1.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_1" name="DISC COUPLING D=25MM" materialnr="025694" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_2_1_2" name="HTD-TOOTHED BELT PULLEY 40-8M-50" materialnr="377062" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_2_1_3" name="HTD-TOOTHED BELT PULLEY 30-8M-50" materialnr="377061" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_2_1_4" name="BELT UNIT L=10200 W=50MM VAR.1" materialnr="343977" pos="8" description="&amp;nbsp;">
+    <map x="487" y="305" w="27" h="25">
+      <ref>1.1.2.1.4.1</ref>
+    </map>
+    <map x="538" y="340" w="27" h="25">
+      <ref>1.1.2.1.4.2</ref>
+    </map>
+    <map x="0" y="131" w="27" h="25">
+      <ref>1.1.2.1.4.3</ref>
+    </map>
+    <map x="44" y="56" w="27" h="25">
+      <ref>1.1.2.1.4.4</ref>
+    </map>
+    <map x="147" y="177" w="27" h="25">
+      <ref>1.1.2.1.4.5</ref>
+    </map>
+    <map x="3" y="42" w="27" h="25">
+      <ref>1.1.2.1.4.7</ref>
+    </map>
+    <map x="320" y="143" w="27" h="25">
+      <ref pos="9">1.1.2.1.4.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_4_1" name="GROOVED BALL BEARING ID25;OD52;W15;2 SEA" materialnr="005704" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_2_1_4_2" name="DEFLECTION ROLLER F TOOTHED BELT D120/55" materialnr="019621" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_2_1_4_3" name="FLANGE BEARING ID25; OVAL CAST HOUSING" materialnr="005780" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_2_1_4_4" name="TOOTHED BELT PULLEY T=40 W=50 PIT=10" materialnr="019763" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_2_1_4_5" name="BELT GUIDE F.BELT UNIT/BELT-L=10200MM" materialnr="343976" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_2_1_4_6" name="TOOTHED BELT W=50 PIT10 L10200-V-PAZ-PVC" materialnr="201112" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_2_1_4_7" name="VULCOLLAN-ROLLER W.BEARING OD40 ID10 W15" materialnr="188734" pos="12" description="&amp;nbsp;" />
+  <stk id="1_1_2_1_5" name="SERVOMOTOR LENZE 1.7kW+GST06 i=24.9 nB" materialnr="303698" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_2_1_6" name="TOOTHED BELT 8MGT-800-50 Transmotion" materialnr="367844" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_2_1_7" name="CLAMPING BUSH D=25/50 TLK131 420NM" materialnr="378623" pos="13" description="&amp;nbsp;" />
+  <stk id="1_2" name="COMPLETE LIST - LABELLING LASER" materialnr="385748" pos="50" description="&amp;nbsp;">
+    <map x="552" y="139" w="29" h="21">
+      <ref pos="13">1.2.1</ref>
+    </map>
+    <map x="53" y="231" w="29" h="21">
+      <ref pos="19">1.2.2</ref>
+      <ref pos="25">1.2.4</ref>
+    </map>
+    <map x="299" y="24" w="29" h="21">
+      <ref pos="20">1.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1" name="SPUR GEAR SERVO LENZE 2,3KW+GST06 NO BR." materialnr="385590" pos="13" description="&amp;nbsp;" />
+  <stk id="1_2_2" name="HTD-TOOTHED BELT PULLEY 40-8M-50" materialnr="384100" pos="19" description="&amp;nbsp;" />
+  <stk id="1_2_3" name="COVER TOTAL" materialnr="385954" pos="20" description="&amp;nbsp;">
+    <map x="478" y="148" w="32" h="32">
+      <ref pos="15">1.2.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_3_1" name="VULCOLLAN-ROLLER W.BEARING OD40 ID10 W15" materialnr="188734" pos="15" description="&amp;nbsp;" />
+  <stk id="1_2_4" name="TAPERLOCK BUSHING;ID30,AD55,L42,MAX510NM" materialnr="030028" pos="25" description="&amp;nbsp;" />
+</catalog>

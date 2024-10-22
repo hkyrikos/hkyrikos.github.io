@@ -1,0 +1,1495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="RAL-35/25U">
+  <stk id="1" name="RAL-35/25U" materialnr="226561" pos="1" description="&amp;nbsp;">
+    <map x="473" y="18" w="26" h="25">
+      <ref pos="1">1.1</ref>
+    </map>
+    <map x="473" y="105" w="26" h="25">
+      <ref pos="6">1.6</ref>
+    </map>
+    <map x="474" y="163" w="26" h="25">
+      <ref pos="7">1.7</ref>
+    </map>
+    <map x="87" y="25" w="26" h="25">
+      <ref pos="8">1.8</ref>
+    </map>
+    <map x="169" y="318" w="224" h="44">
+      <ref pos="3">1.3</ref>
+      <ref pos="5">1.5</ref>
+    </map>
+    <map x="220" y="154" w="137" h="91">
+      <ref pos="2">1.2</ref>
+      <ref pos="4">1.4</ref>
+    </map>
+    <map x="68" y="62" w="26" h="25">
+      <ref pos="10">1.9</ref>
+    </map>
+    <map x="25" y="252" w="73" h="74">
+      <ref pos="11">1.10</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="FRAMES TOTAL RAL-35" materialnr="225868" pos="1" description="&amp;nbsp;">
+    <map x="278" y="287" w="26" h="25">
+      <ref pos="6">1.1.6</ref>
+    </map>
+    <map x="66" y="79" w="26" h="25">
+      <ref pos="2">1.1.2</ref>
+    </map>
+    <map x="485" y="81" w="26" h="25">
+      <ref pos="3">1.1.3</ref>
+    </map>
+    <map x="6" y="219" w="58" h="49">
+      <ref pos="8">1.1.7</ref>
+      <ref pos="13">1.1.9</ref>
+    </map>
+    <map x="377" y="273" w="26" h="25">
+      <ref pos="9">1.1.8</ref>
+    </map>
+    <map x="345" y="273" w="26" h="25">
+      <ref pos="18">1.1.10</ref>
+    </map>
+    <map x="34" y="0" w="26" h="25">
+      <ref pos="1">1.1.1</ref>
+    </map>
+    <map x="31" y="144" w="26" h="25">
+      <ref pos="4">1.1.4</ref>
+    </map>
+    <map x="503" y="159" w="26" h="25">
+      <ref pos="5">1.1.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="BASIC DESIGN W MOUNTS 35/25 MIR.INVERTED" materialnr="225390" pos="1" description="&amp;nbsp;">
+    <map x="80" y="201" w="352" h="116">
+      <ref pos="2">1.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="BOTTOM FRAME RAL-35/XX MIRROR INVERTED" materialnr="225382" pos="2" description="&amp;nbsp;">
+    <map x="100" y="290" w="28" h="20">
+      <ref pos="14">1.1.1.1.1</ref>
+    </map>
+    <map x="434" y="289" w="28" h="20">
+      <ref pos="31">1.1.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1_1" name="FIXING PART FOR GUIDE CARRIER/AS DRAWN" materialnr="166725" pos="14" description="&amp;nbsp;">
+    <map x="97" y="114" w="27" h="25">
+      <ref>1.1.1.1.1.1</ref>
+    </map>
+    <map x="370" y="150" w="27" h="25">
+      <ref>1.1.1.1.1.2</ref>
+    </map>
+    <map x="407" y="339" w="27" h="25">
+      <ref>1.1.1.1.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1_1_1" name="FIXING ANGLE/AS DRAWN" materialnr="166731" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_1_2" name="FIXING ANGLE/AS DRAWN" materialnr="166729" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_1_3" name="SUPPORT" materialnr="166728" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_2" name="FIX.PART F/GUIDE CARRIER MIRROR INVERTED" materialnr="166727" pos="31" description="&amp;nbsp;">
+    <map x="146" y="105" w="27" h="25">
+      <ref>1.1.1.1.2.1</ref>
+    </map>
+    <map x="369" y="168" w="27" h="25">
+      <ref>1.1.1.1.2.2</ref>
+    </map>
+    <map x="413" y="335" w="27" h="25">
+      <ref>1.1.1.1.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1_2_1" name="FIXING ANGLE/MIRROR INVERTED" materialnr="166732" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_2_2" name="FIXING ANGLE/MIRROR INVERTED" materialnr="166730" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_2_3" name="SUPPORT" materialnr="166728" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="GUIDE PILLAR/INLET SIDE RAL-25/25 MIR.IN" materialnr="220982" pos="2" description="&amp;nbsp;">
+    <map x="275" y="35" w="25" h="25">
+      <ref>1.1.2.1</ref>
+    </map>
+    <map x="142" y="229" w="25" h="25">
+      <ref>1.1.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="TOOTHED ROD M3 H30 L=188.5MM" materialnr="166855" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_2_2" name="TOOTHED ROD M3 W30 H30 L=422.5MM" materialnr="166857" pos="13" description="&amp;nbsp;" />
+  <stk id="1_1_3" name="GUIDE PILLAR/OUTLET RAL-25/25 MIR.INV." materialnr="220987" pos="3" description="&amp;nbsp;">
+    <map x="317" y="33" w="27" h="25">
+      <ref>1.1.3.1</ref>
+    </map>
+    <map x="164" y="233" w="27" h="25">
+      <ref>1.1.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="TOOTHED ROD M3 H30 L=188.5MM" materialnr="166855" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_3_2" name="TOOTHED ROD M3 W30 H30 L=422.5MM" materialnr="166857" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_4" name="ROLLER WALL INLET SIDED/TOTAL" materialnr="167304" pos="4" description="&amp;nbsp;">
+    <map x="57" y="128" w="26" h="25">
+      <ref pos="3">1.1.4.2</ref>
+    </map>
+    <map x="341" y="361" w="26" h="25">
+      <ref pos="4">1.1.4.3</ref>
+    </map>
+    <map x="273" y="362" w="26" h="25">
+      <ref pos="5">1.1.4.4</ref>
+    </map>
+    <map x="22" y="275" w="26" h="25">
+      <ref pos="6">1.1.4.5</ref>
+    </map>
+    <map x="18" y="333" w="26" h="25">
+      <ref pos="12">1.1.4.9</ref>
+    </map>
+    <map x="42" y="209" w="26" h="25">
+      <ref pos="2">1.1.4.1</ref>
+    </map>
+    <map x="430" y="314" w="90" h="56">
+      <ref pos="7">1.1.4.6</ref>
+      <ref pos="8">1.1.4.7</ref>
+      <ref pos="10">1.1.4.8</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="SUPPORT ANGLE BRACKET" materialnr="167306" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_4_2" name="SUPPORT ROLLER D=50MM WITH THREAD M6X15" materialnr="306434" pos="3" description="&amp;nbsp;">
+    <map x="218" y="44" w="245" h="310">
+      <ref pos="3">1.1.4.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_2_1" name="ROLLER WITH TRANSPORT ROLLER FACING" materialnr="306456" pos="3" description="&amp;nbsp;">
+    <map x="49" y="137" w="27" h="24">
+      <ref pos="2">1.1.4.2.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_2_1_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_4_3" name="TRANSPORT ROLLER W/DBL SPROCKET WHEEL" materialnr="166471" pos="4" description="&amp;nbsp;">
+    <map x="460" y="104" w="27" h="25">
+      <ref>1.1.4.3.1</ref>
+    </map>
+    <map x="100" y="328" w="27" h="25">
+      <ref>1.1.4.3.2</ref>
+    </map>
+    <map x="16" y="210" w="27" h="25">
+      <ref>1.1.4.3.4</ref>
+    </map>
+    <map x="297" y="66" w="27" h="25">
+      <ref pos="3">1.1.4.3.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_3_1" name="TRANSP.ROLLER OD=48.5/ID=20/W=39/ROB" materialnr="007102" pos="1" description="&amp;nbsp;">
+    <map x="128" y="40" w="27" h="25">
+      <ref>1.1.4.3.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_3_1_1" name="TRANSPORT ROLLER  COATING 57/47X35MM" materialnr="230335" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_4_3_2" name="PLUMMER BLOCK BEAR.ALU-CAST HOUS.ID20MM" materialnr="005758" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_4_3_3" name="TRANSPORT ROLLER SHAFT" materialnr="166207" pos="3" description="&amp;nbsp;">
+    <map x="182" y="88" w="140" h="116">
+      <ref pos="1">1.1.4.3.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_3_3_1" name="ROUND BAR 20 H9 9SMN36K, DIN 671,(FR" materialnr="012586" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_4_3_4" name="DBL SPROCKET 3/8X7/32 T=14 B=20H7 +" materialnr="014369" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_4_4" name="ROLLER CHAIN 3/8X7/32&amp;quot;,47LINKS+COUPL" materialnr="006533" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_4_5" name="ROLLER WITH TRANP.ROLLER COATING AT RAL" materialnr="321163" pos="6" description="&amp;nbsp;">
+    <map x="220" y="30" w="221" h="246">
+      <ref pos="1">1.1.4.5.1</ref>
+      <ref pos="2">1.1.4.5.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_5_1" name="UNWORKED INJECTION MOULD.F.SUPPORT.ROLLE" materialnr="028271" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_4_5_2" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_4_6" name="BEARING BOLT FOR SUPPORT ROLLER" materialnr="166616" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_4_7" name="ANGLE BRACKET FOR 02.023.200.100" materialnr="032237" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_4_8" name="TRIPLE SPROCKET W.3/8&amp;quot; TEETH=14 20H7" materialnr="014754" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_4_9" name="TRANSPORT ROLLER W.TRIPLE SPROCKET WHEEL" materialnr="383428" pos="12" description="&amp;nbsp;">
+    <map x="417" y="45" w="27" h="25">
+      <ref pos="1">1.1.4.9.1</ref>
+    </map>
+    <map x="342" y="43" w="27" h="25">
+      <ref pos="7">1.1.4.9.3</ref>
+    </map>
+    <map x="132" y="43" w="27" h="25">
+      <ref pos="9">1.1.4.9.4</ref>
+    </map>
+    <map x="298" y="41" w="27" h="25">
+      <ref pos="2">1.1.4.9.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_9_1" name="TRANSP.ROLLER OD=48.5/ID=20/W=39/ROB" materialnr="007102" pos="1" description="&amp;nbsp;">
+    <map x="128" y="40" w="27" h="25">
+      <ref>1.1.4.9.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_9_1_1" name="TRANSPORT ROLLER  COATING 57/47X35MM" materialnr="230335" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_4_9_2" name="TRANSPORT ROLLER SHAFT" materialnr="166207" pos="2" description="&amp;nbsp;">
+    <map x="206" y="126" w="149" h="85">
+      <ref pos="1">1.1.4.9.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_9_2_1" name="ROUND BAR 20 H9 9SMN36K, DIN 671,(FR" materialnr="012586" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_4_9_3" name="PLUMMER BLOCK BEAR.ALU-CAST HOUS.ID20MM" materialnr="005758" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_4_9_4" name="TRIPLE SPROCKET W.3/8&amp;quot; TEETH=14 20H7" materialnr="014754" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_5" name="ROLLER WALL OUTLET SIDED/TOTAL" materialnr="167319" pos="5" description="&amp;nbsp;">
+    <map x="192" y="198" w="28" h="21">
+      <ref pos="4">1.1.5.1</ref>
+    </map>
+    <map x="303" y="265" w="28" h="21">
+      <ref pos="5">1.1.5.2</ref>
+    </map>
+    <map x="242" y="32" w="28" h="21">
+      <ref pos="7">1.1.5.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1" name="FIXING ANGLE FOR ROLLER WALL" materialnr="167317" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_5_2" name="ROLLER WITH TRANP.ROLLER COATING AT RAL" materialnr="321163" pos="5" description="&amp;nbsp;">
+    <map x="220" y="30" w="221" h="246">
+      <ref pos="1">1.1.5.2.1</ref>
+      <ref pos="2">1.1.5.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_2_1" name="UNWORKED INJECTION MOULD.F.SUPPORT.ROLLE" materialnr="028271" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_5_2_2" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_5_3" name="SUPPORT ROLLER D=50MM WITH THREAD M6X15" materialnr="306434" pos="7" description="&amp;nbsp;">
+    <map x="218" y="44" w="245" h="310">
+      <ref pos="3">1.1.5.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_3_1" name="ROLLER WITH TRANSPORT ROLLER FACING" materialnr="306456" pos="3" description="&amp;nbsp;">
+    <map x="49" y="137" w="27" h="24">
+      <ref pos="2">1.1.5.3.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_3_1_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_6" name="GUIDE CARRIER/VERTICAL BEAM 35 MIR.INV." materialnr="225858" pos="6" description="&amp;nbsp;">
+    <map x="351" y="20" w="142" h="104">
+      <ref pos="70">1.1.6.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_6_1" name="PRESSURE GAUGE (GTi)1-10 BAR REAR" materialnr="003355" pos="70" description="&amp;nbsp;" />
+  <stk id="1_1_7" name="VALVE FASTENING PLATE TOT.WITH USR" materialnr="226216" pos="8" description="&amp;nbsp;">
+    <map x="151" y="116" w="206" h="153">
+      <ref pos="2">1.1.7.1</ref>
+      <ref pos="3">1.1.7.2</ref>
+      <ref pos="4">1.1.7.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_7_1" name="3/2 WAY SOLENOID VALVE 24VDC" materialnr="003200" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_7_2" name="3/2 WAY SOLENOID VALVE, 24VDC," materialnr="003202" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_7_3" name="5/2 WAY DBL SOLENOID VALVE, 24VDC," materialnr="003230" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_8" name="ADAPTION MECHANISM/MOVEABLE PLATE R-L" materialnr="220743" pos="9" description="&amp;nbsp;">
+    <map x="277" y="295" w="28" h="20">
+      <ref pos="1">1.1.8.1</ref>
+    </map>
+    <map x="246" y="295" w="28" h="20">
+      <ref pos="3">1.1.8.3</ref>
+    </map>
+    <map x="204" y="57" w="28" h="20">
+      <ref pos="4">1.1.8.4</ref>
+    </map>
+    <map x="174" y="57" w="28" h="20">
+      <ref pos="5">1.1.8.5</ref>
+    </map>
+    <map x="61" y="110" w="28" h="20">
+      <ref pos="6">1.1.8.6</ref>
+    </map>
+    <map x="235" y="57" w="28" h="20">
+      <ref pos="7">1.1.8.7</ref>
+    </map>
+    <map x="143" y="57" w="28" h="20">
+      <ref pos="8">1.1.8.8</ref>
+      <ref pos="9">1.1.8.9</ref>
+    </map>
+    <map x="297" y="57" w="28" h="20">
+      <ref pos="10">1.1.8.10</ref>
+    </map>
+    <map x="329" y="58" w="28" h="20">
+      <ref pos="11">1.1.8.11</ref>
+    </map>
+    <map x="265" y="57" w="28" h="20">
+      <ref pos="12">1.1.8.12</ref>
+      <ref pos="29">1.1.8.20</ref>
+    </map>
+    <map x="309" y="295" w="28" h="20">
+      <ref pos="13">1.1.8.13</ref>
+    </map>
+    <map x="61" y="132" w="28" h="20">
+      <ref pos="17">1.1.8.14</ref>
+    </map>
+    <map x="61" y="154" w="28" h="20">
+      <ref pos="18">1.1.8.15</ref>
+    </map>
+    <map x="128" y="295" w="28" h="20">
+      <ref pos="23">1.1.8.16</ref>
+    </map>
+    <map x="159" y="295" w="28" h="20">
+      <ref pos="24">1.1.8.17</ref>
+    </map>
+    <map x="96" y="295" w="28" h="20">
+      <ref pos="25">1.1.8.18</ref>
+    </map>
+    <map x="190" y="295" w="28" h="20">
+      <ref pos="26">1.1.8.19</ref>
+    </map>
+    <map x="375" y="7" w="180" h="155">
+      <ref pos="33">1.1.8.22</ref>
+    </map>
+    <map x="213" y="178" w="47" h="25">
+      <ref pos="2">1.1.8.2</ref>
+      <ref pos="31">1.1.8.21</ref>
+    </map>
+  </stk>
+  <stk id="1_1_8_1" name="SPINDLE BEARING" materialnr="167185" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_8_2" name="ASSEMBLY-ADJUSTMENT PLATE/MIRROR INV." materialnr="167202" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_8_3" name="ADJUSTING SCREW" materialnr="167230" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_8_4" name="COVER FOR SPINDLE" materialnr="167240" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_8_5" name="DRIVING ROD" materialnr="167266" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_8_6" name="CONNECTING BOLT" materialnr="167267" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_8_7" name="BALL SCREW W/FLANGE SINGLE NUT" materialnr="013213" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_8_8" name="GROOVED BALL BEARING ID12/OD32/W10 D.COV" materialnr="005678" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_8_9" name="RETAINING RING DIN 471-12X1MM" materialnr="005344" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_8_10" name="FIXED BEARING UNIT ID 15/OD45MM  L=53MM" materialnr="005747" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_8_11" name="FASTENING FLANGE F SOL.BEAR.UNIT BSBF15" materialnr="005748" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_8_12" name="ASSEMBLY-FLANGE" materialnr="167198" pos="12" description="&amp;nbsp;" />
+  <stk id="1_1_8_13" name="KEY 4x4x12MM DIN 6885 ST50-1K" materialnr="005301" pos="13" description="&amp;nbsp;" />
+  <stk id="1_1_8_14" name="ARTICULATED HEAD M16-FEMALE-RIGHT D16MM" materialnr="005837" pos="17" description="&amp;nbsp;" />
+  <stk id="1_1_8_15" name="ARTICULATED HEAD IG M10 ND10/MAINT.FREE" materialnr="354923" pos="18" description="&amp;nbsp;" />
+  <stk id="1_1_8_16" name="BALL BEARING BUSHING D=30MM/CLOSED" materialnr="005873" pos="23" description="&amp;nbsp;" />
+  <stk id="1_1_8_17" name="HOUSING FOR BALL BEARING/CLOSED" materialnr="360841" pos="24" description="&amp;nbsp;" />
+  <stk id="1_1_8_18" name="SHAFT SUPPORT FOR D=30MM; TYPE GW30" materialnr="005872" pos="25" description="&amp;nbsp;" />
+  <stk id="1_1_8_19" name="BALL BEARING SHAFT D=30H6 L=350MM" materialnr="005875" pos="26" description="&amp;nbsp;" />
+  <stk id="1_1_8_20" name="GROOVED BALL BEARING ID12 OD28 W8 SEAL" materialnr="005677" pos="29" description="&amp;nbsp;" />
+  <stk id="1_1_8_21" name="GROOVED BALL BEARING ID12 OD28 W8 SEAL" materialnr="005677" pos="31" description="&amp;nbsp;" />
+  <stk id="1_1_8_22" name="DRIVE OF MOVEABLE PLATE RAL" materialnr="112605" pos="33" description="&amp;nbsp;">
+    <map x="422" y="168" w="27" h="25">
+      <ref>1.1.8.22.1</ref>
+    </map>
+    <map x="213" y="319" w="27" h="25">
+      <ref>1.1.8.22.2</ref>
+    </map>
+    <map x="143" y="83" w="27" h="25">
+      <ref>1.1.8.22.3</ref>
+    </map>
+    <map x="229" y="367" w="27" h="25">
+      <ref>1.1.8.22.4</ref>
+    </map>
+    <map x="153" y="197" w="27" h="25">
+      <ref>1.1.8.22.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1_8_22_1" name="AC-MOTOR W/BRAKE,3X380/415VAC,50HZ," materialnr="006229" pos="1" description="&amp;nbsp;">
+    <map x="29" y="95" w="27" h="25">
+      <ref>1.1.8.22.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_8_22_1_1" name="ELASTIC-FORCE BRAKE BFK 458-06N" materialnr="344771" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_8_22_2" name="TOOTHED BELT PIT=5MM W=16MM L=900MM" materialnr="031260" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_8_22_3" name="TOOTHED BELT PULLEY FOR MOTOR" materialnr="167336" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_8_22_4" name="TOOTHED BELT PULLEY T=60 W=16 PIT=5" materialnr="013448" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_8_22_5" name="MOTOR FASTENINGS TOTAL" materialnr="167342" pos="6" description="&amp;nbsp;">
+    <map x="105" y="89" w="224" h="186">
+      <ref pos="1">1.1.8.22.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_8_22_5_1" name="MOTOR FASTENING/MIRROR INVERTED" materialnr="167332" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_9" name="MAINTENANCE UNIT 3/8&amp;quot; 0,5-8,5BAR SMC" materialnr="372235" pos="13" description="&amp;nbsp;">
+    <map x="389" y="240" w="28" h="25">
+      <ref pos="1">1.1.9.1</ref>
+      <ref pos="2">1.1.9.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_9_1" name="FILTER UNIT FOR MAINTENANCE UNIT 372235" materialnr="377104" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_9_2" name="FILTER CONTROLLER BOX C3SF FOR 372235" materialnr="414305" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_10" name="BUMPER D=50 H=61MM  M8" materialnr="007794" pos="18" description="&amp;nbsp;" />
+  <stk id="1_2" name="MOVABLE PLATE RAL-35" materialnr="224935" pos="2" description="&amp;nbsp;">
+    <map x="26" y="7" w="504" h="372">
+      <ref pos="1">1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1" name="MOVABLE PLATE RAL-35/MIRROR INVERTED" materialnr="224788" pos="1" description="&amp;nbsp;">
+    <map x="44" y="230" w="28" h="20">
+      <ref pos="7">1.2.1.1</ref>
+    </map>
+    <map x="44" y="254" w="28" h="20">
+      <ref pos="8">1.2.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1_1" name="SWITCH ACTUATION TOTAL" materialnr="166027" pos="7" description="&amp;nbsp;">
+    <map x="203" y="61" w="26" h="25">
+      <ref>1.2.1.1.1</ref>
+    </map>
+    <map x="121" y="104" w="26" h="25">
+      <ref>1.2.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1_1_1" name="SWITCH LUG" materialnr="166025" pos="1" description="&amp;nbsp;">
+    <map x="184" y="123" w="266" h="81">
+      <ref pos="1">1.2.1.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1_1_1_1" name="FLAT BAR 20X10MM ST37-2, DIN1017" materialnr="012193" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_1_1_2" name="MOUNT FOR SWITCH ACTUATION" materialnr="166026" pos="2" description="&amp;nbsp;">
+    <map x="115" y="82" w="237" h="194">
+      <ref pos="1">1.2.1.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1_1_2_1" name="FLAT BAR 100X10MM ST37-2 DIN1017" materialnr="012277" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_1_2" name="SUPPORT ROLLER D=50MM WITH THREAD M6X15" materialnr="306434" pos="8" description="&amp;nbsp;">
+    <map x="218" y="44" w="245" h="310">
+      <ref pos="3">1.2.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1_2_1" name="ROLLER WITH TRANSPORT ROLLER FACING" materialnr="306456" pos="3" description="&amp;nbsp;">
+    <map x="49" y="137" w="27" h="24">
+      <ref pos="2">1.2.1.2.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1_2_1_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3" name="ROLLER CARRIER RAL-35/XX INSET FIXED" materialnr="385982" pos="3" description="&amp;nbsp;">
+    <map x="422" y="35" w="26" h="25">
+      <ref pos="4">1.3.2</ref>
+    </map>
+    <map x="40" y="349" w="26" h="25">
+      <ref pos="5">1.3.3</ref>
+    </map>
+    <map x="84" y="342" w="26" h="25">
+      <ref pos="6">1.3.4</ref>
+    </map>
+    <map x="392" y="190" w="26" h="25">
+      <ref pos="7">1.3.5</ref>
+    </map>
+    <map x="495" y="126" w="26" h="25">
+      <ref pos="8">1.3.6</ref>
+    </map>
+    <map x="455" y="34" w="26" h="25">
+      <ref pos="9">1.3.7</ref>
+    </map>
+    <map x="510" y="33" w="26" h="25">
+      <ref pos="10">1.3.8</ref>
+    </map>
+    <map x="373" y="78" w="26" h="25">
+      <ref pos="12">1.3.9</ref>
+    </map>
+    <map x="259" y="124" w="26" h="25">
+      <ref pos="14">1.3.10</ref>
+    </map>
+    <map x="171" y="167" w="26" h="25">
+      <ref pos="16">1.3.11</ref>
+    </map>
+    <map x="483" y="33" w="26" h="25">
+      <ref pos="17">1.3.12</ref>
+    </map>
+    <map x="338" y="78" w="26" h="25">
+      <ref pos="19">1.3.13</ref>
+      <ref pos="25">1.3.14</ref>
+    </map>
+    <map x="285" y="232" w="26" h="25">
+      <ref pos="28">1.3.15</ref>
+    </map>
+    <map x="302" y="78" w="26" h="25">
+      <ref pos="29">1.3.16</ref>
+    </map>
+    <map x="462" y="167" w="26" h="25">
+      <ref pos="2">1.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1" name="GLASS STOP/MIRROR INVERTED(ROLLER CARR)" materialnr="226523" pos="2" description="&amp;nbsp;">
+    <map x="183" y="111" w="28" h="20">
+      <ref pos="4">1.3.1.1</ref>
+    </map>
+    <map x="350" y="116" w="28" h="20">
+      <ref pos="5">1.3.1.2</ref>
+    </map>
+    <map x="489" y="118" w="28" h="20">
+      <ref pos="8">1.3.1.3</ref>
+    </map>
+    <map x="258" y="113" w="28" h="20">
+      <ref pos="9">1.3.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1" name="DBL/ACT PNEUM.CYL/DIAM=32/STROKE=50/" materialnr="198931" pos="4" description="&amp;nbsp;" />
+  <stk id="1_3_1_2" name="ARTICULATED HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="5" description="&amp;nbsp;" />
+  <stk id="1_3_1_3" name="TRANSPORT ROLLER D=17/12x29.4mm/" materialnr="011413" pos="8" description="&amp;nbsp;" />
+  <stk id="1_3_1_4" name="EXHAUST THROTTLE THREAD1/8&amp;quot; D6/PLUG-CON." materialnr="315403" pos="9" description="&amp;nbsp;" />
+  <stk id="1_3_2" name="CHAIN TENSIONER" materialnr="166024" pos="4" description="&amp;nbsp;">
+    <map x="162" y="66" w="250" h="269">
+      <ref pos="1">1.3.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_2_1" name="ROUND BAR 70/POLYAMIDE 6.6/DIN16980" materialnr="012687" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_3" name="TRANSPORT ROLLER W.SPROCKET WHEEL" materialnr="166568" pos="5" description="&amp;nbsp;">
+    <map x="450" y="87" w="27" h="25">
+      <ref>1.3.3.1</ref>
+    </map>
+    <map x="62" y="349" w="27" h="25">
+      <ref>1.3.3.2</ref>
+    </map>
+    <map x="383" y="83" w="27" h="25">
+      <ref>1.3.3.3</ref>
+    </map>
+    <map x="275" y="33" w="27" h="25">
+      <ref>1.3.3.4</ref>
+    </map>
+  </stk>
+  <stk id="1_3_3_1" name="TRANSP.ROLLER OD=48.5/ID=20/W=39/ROB" materialnr="007102" pos="1" description="&amp;nbsp;">
+    <map x="128" y="40" w="27" h="25">
+      <ref>1.3.3.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_3_1_1" name="TRANSPORT ROLLER  COATING 57/47X35MM" materialnr="230335" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_3_2" name="PLUMMER BLOCK BEAR.ALU-CAST HOUS.ID20MM" materialnr="005758" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_3_3" name="TRANSPORT ROLLER SHAFT" materialnr="166567" pos="3" description="&amp;nbsp;">
+    <map x="145" y="105" w="264" h="129">
+      <ref pos="1">1.3.3.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_3_3_1" name="ROUND BAR 20 H9 9SMN36K, DIN 671,(FR" materialnr="012586" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_3_4" name="SPROCKET 3/8X7/32 T=14 W=16/25 B=20" materialnr="014303" pos="8" description="&amp;nbsp;" />
+  <stk id="1_3_4" name="TRANSPORT ROLLER W/BEVEL WHEEL+GEAR" materialnr="166200" pos="6" description="&amp;nbsp;">
+    <map x="467" y="97" w="27" h="25">
+      <ref>1.3.4.1</ref>
+    </map>
+    <map x="94" y="336" w="27" h="25">
+      <ref>1.3.4.2</ref>
+    </map>
+    <map x="16" y="131" w="27" h="25">
+      <ref>1.3.4.4</ref>
+    </map>
+    <map x="358" y="54" w="27" h="25">
+      <ref>1.3.4.5</ref>
+    </map>
+    <map x="228" y="8" w="27" h="25">
+      <ref pos="3">1.3.4.3</ref>
+    </map>
+  </stk>
+  <stk id="1_3_4_1" name="TRANSP.ROLLER OD=48.5/ID=20/W=39/ROB" materialnr="007102" pos="1" description="&amp;nbsp;">
+    <map x="128" y="40" w="27" h="25">
+      <ref>1.3.4.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_4_1_1" name="TRANSPORT ROLLER  COATING 57/47X35MM" materialnr="230335" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_4_2" name="PLUMMER BLOCK BEAR.ALU-CAST HOUS.ID20MM" materialnr="005758" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_4_3" name="TRANSPORT ROLLER SHAFT" materialnr="166207" pos="3" description="&amp;nbsp;">
+    <map x="206" y="126" w="149" h="85">
+      <ref pos="1">1.3.4.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_4_3_1" name="ROUND BAR 20 H9 9SMN36K, DIN 671,(FR" materialnr="012586" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_4_4" name="BEVEL WHEEL/INLET  TEETH=16" materialnr="011402" pos="4" description="&amp;nbsp;" />
+  <stk id="1_3_4_5" name="SPROCKET 3/8X7/32 T=14 W=16/25 B=20" materialnr="014303" pos="8" description="&amp;nbsp;" />
+  <stk id="1_3_5" name="TRANSPORT ROLLER WITH BEVEL WHEEL" materialnr="166189" pos="7" description="&amp;nbsp;">
+    <map x="444" y="107" w="28" h="21">
+      <ref pos="1">1.3.5.1</ref>
+    </map>
+    <map x="354" y="60" w="28" h="21">
+      <ref pos="2">1.3.5.2</ref>
+    </map>
+    <map x="195" y="40" w="28" h="21">
+      <ref pos="4">1.3.5.4</ref>
+    </map>
+    <map x="296" y="53" w="28" h="20">
+      <ref pos="3">1.3.5.3</ref>
+    </map>
+  </stk>
+  <stk id="1_3_5_1" name="TRANSP.ROLLER OD=48.5/ID=20/W=39/ROB" materialnr="007102" pos="1" description="&amp;nbsp;">
+    <map x="128" y="40" w="27" h="25">
+      <ref>1.3.5.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_5_1_1" name="TRANSPORT ROLLER  COATING 57/47X35MM" materialnr="230335" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_5_2" name="PLUMMER BLOCK BEAR.ALU-CAST HOUS.ID20MM" materialnr="005758" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_5_3" name="TRANSPORT ROLLER SHAFT" materialnr="166207" pos="3" description="&amp;nbsp;">
+    <map x="206" y="126" w="149" h="85">
+      <ref pos="1">1.3.5.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_5_3_1" name="ROUND BAR 20 H9 9SMN36K, DIN 671,(FR" materialnr="012586" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_5_4" name="BEVEL WHEEL/INLET  TEETH=16" materialnr="011402" pos="4" description="&amp;nbsp;" />
+  <stk id="1_3_6" name="TRANSPORT ROLLER W/ 2 SPROCKET WHEELS" materialnr="166208" pos="8" description="&amp;nbsp;">
+    <map x="449" y="207" w="27" h="25">
+      <ref>1.3.6.1</ref>
+    </map>
+    <map x="357" y="77" w="27" h="25">
+      <ref>1.3.6.2</ref>
+    </map>
+    <map x="242" y="316" w="27" h="25">
+      <ref>1.3.6.3</ref>
+    </map>
+    <map x="83" y="64" w="27" h="25">
+      <ref pos="4">1.3.6.4</ref>
+    </map>
+    <map x="446" y="361" w="27" h="25">
+      <ref pos="5">1.3.6.5</ref>
+      <ref pos="6">1.3.6.6</ref>
+    </map>
+    <map x="447" y="333" w="27" h="25">
+      <ref pos="7">1.3.6.7</ref>
+    </map>
+    <map x="27" y="198" w="27" h="25">
+      <ref>1.3.6.8</ref>
+    </map>
+    <map x="316" y="118" w="27" h="25">
+      <ref pos="9">1.3.6.9</ref>
+    </map>
+  </stk>
+  <stk id="1_3_6_1" name="TRANSP.ROLLER OD=48.5/ID=20/W=39/ROB" materialnr="007102" pos="1" description="&amp;nbsp;">
+    <map x="128" y="40" w="27" h="25">
+      <ref>1.3.6.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_6_1_1" name="TRANSPORT ROLLER  COATING 57/47X35MM" materialnr="230335" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_6_2" name="PLUMMER BLOCK BEAR.ALU-CAST HOUS.ID20MM" materialnr="005758" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_6_3" name="TRANSPORT ROLLER SHAFT" materialnr="166207" pos="3" description="&amp;nbsp;">
+    <map x="206" y="126" w="149" h="85">
+      <ref pos="1">1.3.6.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_6_3_1" name="ROUND BAR 20 H9 9SMN36K, DIN 671,(FR" materialnr="012586" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_6_4" name="KEY 6 x6x20MM DIN 6885 ST50-1K" materialnr="005313" pos="4" description="&amp;nbsp;" />
+  <stk id="1_3_6_5" name="RETAINING WASHER 20X28X0.2MM DIN 988" materialnr="005264" pos="5" description="&amp;nbsp;" />
+  <stk id="1_3_6_6" name="SHIM ID=20,1MM" materialnr="013217" pos="6" description="&amp;nbsp;" />
+  <stk id="1_3_6_7" name="RETAINING RING DIN 471-20X1.2MM" materialnr="005350" pos="7" description="&amp;nbsp;" />
+  <stk id="1_3_6_8" name="SPROCKET 3/8X7/32 T=14 W=16/25 B=20" materialnr="014303" pos="8" description="&amp;nbsp;" />
+  <stk id="1_3_6_9" name="KEY 6x6x12MM DIN 6885 ST50-1K" materialnr="005312" pos="9" description="&amp;nbsp;" />
+  <stk id="1_3_7" name="TRANSPORT ROLLER W/DBL SPROCKET WHEEL" materialnr="166471" pos="9" description="&amp;nbsp;">
+    <map x="460" y="104" w="27" h="25">
+      <ref>1.3.7.1</ref>
+    </map>
+    <map x="100" y="328" w="27" h="25">
+      <ref>1.3.7.2</ref>
+    </map>
+    <map x="16" y="210" w="27" h="25">
+      <ref>1.3.7.4</ref>
+    </map>
+    <map x="309" y="58" w="27" h="25">
+      <ref pos="3">1.3.7.3</ref>
+    </map>
+  </stk>
+  <stk id="1_3_7_1" name="TRANSP.ROLLER OD=48.5/ID=20/W=39/ROB" materialnr="007102" pos="1" description="&amp;nbsp;">
+    <map x="128" y="40" w="27" h="25">
+      <ref>1.3.7.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_7_1_1" name="TRANSPORT ROLLER  COATING 57/47X35MM" materialnr="230335" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_7_2" name="PLUMMER BLOCK BEAR.ALU-CAST HOUS.ID20MM" materialnr="005758" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_7_3" name="TRANSPORT ROLLER SHAFT" materialnr="166207" pos="3" description="&amp;nbsp;">
+    <map x="206" y="126" w="149" h="85">
+      <ref pos="1">1.3.7.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_7_3_1" name="ROUND BAR 20 H9 9SMN36K, DIN 671,(FR" materialnr="012586" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_7_4" name="DBL SPROCKET 3/8X7/32 T=14 B=20H7 +" materialnr="014369" pos="8" description="&amp;nbsp;" />
+  <stk id="1_3_8" name="TRANSPORT ROLLER W.TRIPLE SPROCKET WHEEL" materialnr="383428" pos="10" description="&amp;nbsp;">
+    <map x="417" y="45" w="27" h="25">
+      <ref pos="1">1.3.8.1</ref>
+    </map>
+    <map x="342" y="43" w="27" h="25">
+      <ref pos="7">1.3.8.3</ref>
+    </map>
+    <map x="132" y="43" w="27" h="25">
+      <ref pos="9">1.3.8.4</ref>
+    </map>
+    <map x="286" y="42" w="27" h="25">
+      <ref pos="2">1.3.8.2</ref>
+    </map>
+  </stk>
+  <stk id="1_3_8_1" name="TRANSP.ROLLER OD=48.5/ID=20/W=39/ROB" materialnr="007102" pos="1" description="&amp;nbsp;">
+    <map x="128" y="40" w="27" h="25">
+      <ref>1.3.8.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_8_1_1" name="TRANSPORT ROLLER  COATING 57/47X35MM" materialnr="230335" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_8_2" name="TRANSPORT ROLLER SHAFT" materialnr="166207" pos="2" description="&amp;nbsp;">
+    <map x="206" y="126" w="149" h="85">
+      <ref pos="1">1.3.8.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_8_2_1" name="ROUND BAR 20 H9 9SMN36K, DIN 671,(FR" materialnr="012586" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_8_3" name="PLUMMER BLOCK BEAR.ALU-CAST HOUS.ID20MM" materialnr="005758" pos="7" description="&amp;nbsp;" />
+  <stk id="1_3_8_4" name="TRIPLE SPROCKET W.3/8&amp;quot; TEETH=14 20H7" materialnr="014754" pos="9" description="&amp;nbsp;" />
+  <stk id="1_3_9" name="SPROCKET 1/2X3/16 T=20 B=20 W/KWY" materialnr="014275" pos="12" description="&amp;nbsp;" />
+  <stk id="1_3_10" name="BEVEL WHEEL/INLET  TEETH=16" materialnr="011402" pos="14" description="&amp;nbsp;" />
+  <stk id="1_3_11" name="PLUMMER BLOCK BEAR.ALU-CAST HOUS.ID20MM" materialnr="005758" pos="16" description="&amp;nbsp;" />
+  <stk id="1_3_12" name="ROLLER CHAIN 3/8X7/32&amp;quot;,47LINKS+COUPL" materialnr="006533" pos="17" description="&amp;nbsp;" />
+  <stk id="1_3_13" name="MASTER LINK  (STRAIGHT) 1/2 X 3/16" materialnr="006592" pos="19" description="&amp;nbsp;" />
+  <stk id="1_3_14" name="ROLLER CHAIN 1/2X3/16&amp;quot;,(5 METER(16.4 FT)" materialnr="006540" pos="25" description="&amp;nbsp;" />
+  <stk id="1_3_15" name="ROLLER WITH TRANP.ROLLER COATING AT RAL" materialnr="321163" pos="28" description="&amp;nbsp;">
+    <map x="220" y="30" w="221" h="246">
+      <ref pos="1">1.3.15.1</ref>
+      <ref pos="2">1.3.15.2</ref>
+    </map>
+  </stk>
+  <stk id="1_3_15_1" name="UNWORKED INJECTION MOULD.F.SUPPORT.ROLLE" materialnr="028271" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_15_2" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_16" name="AC-SPUR GEAR MOTOR;550W;219RPM;220-" materialnr="206421" pos="29" description="&amp;nbsp;">
+    <map x="37" y="82" w="524" h="235">
+      <ref pos="1">1.3.16.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_16_1" name="ELASTIC- FORCE BRAKE BFK 458-08N" materialnr="337533" pos="1" description="&amp;nbsp;" />
+  <stk id="1_4" name="TORQUE RAL-35" materialnr="224331" pos="4" description="&amp;nbsp;">
+    <map x="248" y="262" w="27" h="25">
+      <ref pos="1">1.4.1</ref>
+    </map>
+    <map x="412" y="43" w="27" h="25">
+      <ref pos="4">1.4.2</ref>
+    </map>
+    <map x="420" y="178" w="27" h="25">
+      <ref pos="5">1.4.3</ref>
+    </map>
+    <map x="70" y="65" w="27" h="25">
+      <ref pos="6">1.4.4</ref>
+    </map>
+    <map x="142" y="0" w="27" h="25">
+      <ref pos="7">1.4.5</ref>
+    </map>
+    <map x="139" y="64" w="27" h="25">
+      <ref pos="8">1.4.6</ref>
+    </map>
+    <map x="144" y="245" w="27" h="25">
+      <ref pos="9">1.4.7</ref>
+    </map>
+    <map x="179" y="27" w="27" h="25">
+      <ref pos="10">1.4.8</ref>
+    </map>
+    <map x="478" y="111" w="27" h="25">
+      <ref pos="11">1.4.9</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1" name="TORSION SHAFT RAL-35" materialnr="223375" pos="1" description="&amp;nbsp;" />
+  <stk id="1_4_2" name="CONNECTING ROD L=180MM M16X1,5 L-R" materialnr="165986" pos="4" description="&amp;nbsp;">
+    <map x="165" y="118" w="279" h="166">
+      <ref pos="1">1.4.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_4_2_1" name="HEXAGON 24,9SMN36K,DIN176,(FREECUT.S" materialnr="012503" pos="1" description="&amp;nbsp;" />
+  <stk id="1_4_3" name="CONNECTING ROD" materialnr="165982" pos="5" description="&amp;nbsp;" />
+  <stk id="1_4_4" name="NUT FOR ISO-CYLINDER D=50/63MM" materialnr="003044" pos="6" description="&amp;nbsp;" />
+  <stk id="1_4_5" name="HEX NUT M16X1.5 CCL/THREADED" materialnr="004895" pos="7" description="&amp;nbsp;" />
+  <stk id="1_4_6" name="ARTICULATED HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="8" description="&amp;nbsp;" />
+  <stk id="1_4_7" name="ARTICULATED HEAD M16X1.5-FEM-LEFT D=16MM" materialnr="003052" pos="9" description="&amp;nbsp;" />
+  <stk id="1_4_8" name="PLUMMER BLOCK BEARING;CAST HOUS.ID30" materialnr="005764" pos="10" description="&amp;nbsp;" />
+  <stk id="1_4_9" name="SHAFT FOR TORSIONAL BEARING" materialnr="166022" pos="11" description="&amp;nbsp;">
+    <map x="235" y="150" w="139" h="83">
+      <ref pos="1">1.4.9.1</ref>
+    </map>
+  </stk>
+  <stk id="1_4_9_1" name="ROUND BAR 30 H9, ST52.3K, DIN 671" materialnr="012536" pos="1" description="&amp;nbsp;" />
+  <stk id="1_5" name="BEAM BOTTOM RAL-35" materialnr="225935" pos="5" description="&amp;nbsp;">
+    <map x="219" y="111" w="28" h="20">
+      <ref pos="8">1.5.1</ref>
+    </map>
+    <map x="101" y="153" w="28" h="20">
+      <ref pos="9">1.5.2</ref>
+    </map>
+    <map x="144" y="128" w="28" h="20">
+      <ref pos="14">1.5.3</ref>
+    </map>
+    <map x="162" y="293" w="28" h="20">
+      <ref pos="25">1.5.4</ref>
+    </map>
+    <map x="180" y="115" w="28" h="20">
+      <ref pos="28">1.5.5</ref>
+    </map>
+    <map x="274" y="247" w="28" h="20">
+      <ref pos="30">1.5.6</ref>
+    </map>
+    <map x="480" y="135" w="28" h="20">
+      <ref pos="32">1.5.7</ref>
+    </map>
+  </stk>
+  <stk id="1_5_1" name="BUSHING ID=20MM OD=23MM L=10MM" materialnr="005812" pos="8" description="&amp;nbsp;" />
+  <stk id="1_5_2" name="GRIPPER  FOR RAL/SHORT" materialnr="011925" pos="9" description="&amp;nbsp;">
+    <map x="401" y="148" w="26" h="34">
+      <ref>1.5.2.1</ref>
+    </map>
+    <map x="337" y="250" w="26" h="34">
+      <ref>1.5.2.3</ref>
+    </map>
+    <map x="306" y="328" w="26" h="34">
+      <ref>1.5.2.4</ref>
+    </map>
+    <map x="340" y="209" w="31" h="29">
+      <ref pos="10">1.5.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_5_2_1" name="CYLINDER DBL/ACT D=20 STROKE=100 NO SIGN" materialnr="025233" pos="8" description="&amp;nbsp;" />
+  <stk id="1_5_2_2" name="TEMPERED STRAIGHT PIN 5x28MM DIN 6325" materialnr="013380" pos="10" description="&amp;nbsp;" />
+  <stk id="1_5_2_3" name="BUSHING ID=5MM OD=7MM L=4MM" materialnr="005797" pos="12" description="&amp;nbsp;" />
+  <stk id="1_5_2_4" name="BUSHING ID=10MM OD=12MM L=5MM" materialnr="005821" pos="13" description="&amp;nbsp;" />
+  <stk id="1_5_3" name="RAL NEEDLE CYLINDER (VER 1986-&gt;)" materialnr="002758" pos="14" description="&amp;nbsp;" />
+  <stk id="1_5_4" name="DA-PNEU CYLINDER D25 STR50 ISO+SIGNAL" materialnr="025239" pos="25" description="&amp;nbsp;" />
+  <stk id="1_5_5" name="ARTICULATED HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="28" description="&amp;nbsp;" />
+  <stk id="1_5_6" name="EXHAUST THROTTLE THREAD1/8&amp;quot; D6/PLUG-CON." materialnr="315403" pos="30" description="&amp;nbsp;" />
+  <stk id="1_5_7" name="ELBOW STUD FITTING/THREAD 1/8&amp;quot;-TAPERED" materialnr="003591" pos="32" description="&amp;nbsp;">
+    <map x="475" y="161" w="27" h="25">
+      <ref>1.5.7.1</ref>
+    </map>
+  </stk>
+  <stk id="1_5_7_1" name="SET SCREW M6X6 MACHINED" materialnr="236358" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6" name="BEAM ON THE TOP-MANUAL RAL-35" materialnr="226132" pos="6" description="&amp;nbsp;">
+    <map x="58" y="101" w="31" h="23">
+      <ref pos="6">1.6.1</ref>
+      <ref pos="24">1.6.5</ref>
+    </map>
+    <map x="473" y="1" w="28" h="20">
+      <ref pos="7">1.6.2</ref>
+    </map>
+    <map x="220" y="84" w="28" h="20">
+      <ref pos="16">1.6.3</ref>
+    </map>
+    <map x="221" y="55" w="28" h="20">
+      <ref pos="17">1.6.4</ref>
+    </map>
+    <map x="17" y="98" w="28" h="20">
+      <ref pos="25">1.6.6</ref>
+    </map>
+    <map x="107" y="242" w="28" h="20">
+      <ref pos="26">1.6.7</ref>
+    </map>
+    <map x="9" y="131" w="28" h="20">
+      <ref pos="27">1.6.8</ref>
+    </map>
+    <map x="50" y="264" w="28" h="20">
+      <ref pos="28">1.6.9</ref>
+    </map>
+    <map x="260" y="177" w="95" h="47">
+      <ref pos="30">1.6.10</ref>
+    </map>
+    <map x="507" y="1" w="28" h="20">
+      <ref pos="36">1.6.11</ref>
+    </map>
+    <map x="308" y="6" w="28" h="20">
+      <ref pos="40">1.6.12</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1" name="GUIDE ROLLER" materialnr="167445" pos="6" description="&amp;nbsp;" />
+  <stk id="1_6_2" name="GEAR WHEEL OF UPPER BEAM" materialnr="167446" pos="7" description="&amp;nbsp;" />
+  <stk id="1_6_3" name="CLAMPING JAW" materialnr="167459" pos="16" description="&amp;nbsp;" />
+  <stk id="1_6_4" name="CLAMPING PIECE" materialnr="167460" pos="17" description="&amp;nbsp;" />
+  <stk id="1_6_5" name="GROOVED BALL BEARING ID25;OD52;W15;2 SEA" materialnr="005704" pos="24" description="&amp;nbsp;" />
+  <stk id="1_6_6" name="TRANSPORT ROLLER ID=20MM OD=52MM W=14MM" materialnr="005739" pos="25" description="&amp;nbsp;" />
+  <stk id="1_6_7" name="FLANGE BEAR.ID 35; ROUND HOUSING" materialnr="005790" pos="26" description="&amp;nbsp;" />
+  <stk id="1_6_8" name="HEXAFLEX-COUPLING 5400RPM" materialnr="015773" pos="27" description="&amp;nbsp;" />
+  <stk id="1_6_9" name="Servomotor LENZE 4.1kW+GKS06 i=30.4 wB" materialnr="305547" pos="28" description="&amp;nbsp;" />
+  <stk id="1_6_10" name="GRIPPER&amp;BEARINGS/BEAM ON THE TOP RAL35" materialnr="226186" pos="30" description="&amp;nbsp;">
+    <map x="166" y="302" w="28" h="21">
+      <ref pos="1">1.6.10.1</ref>
+    </map>
+    <map x="207" y="301" w="28" h="21">
+      <ref pos="3">1.6.10.2</ref>
+    </map>
+    <map x="137" y="115" w="28" h="21">
+      <ref pos="4">1.6.10.3</ref>
+    </map>
+    <map x="232" y="253" w="28" h="21">
+      <ref pos="12">1.6.10.4</ref>
+    </map>
+    <map x="60" y="182" w="28" h="21">
+      <ref pos="15">1.6.10.5</ref>
+    </map>
+    <map x="27" y="184" w="28" h="21">
+      <ref pos="16">1.6.10.6</ref>
+    </map>
+    <map x="281" y="73" w="28" h="21">
+      <ref pos="19">1.6.10.7</ref>
+    </map>
+    <map x="176" y="114" w="28" h="21">
+      <ref pos="20">1.6.10.8</ref>
+    </map>
+    <map x="368" y="25" w="28" h="21">
+      <ref pos="21">1.6.10.9</ref>
+    </map>
+    <map x="65" y="26" w="57" h="54">
+      <ref pos="3">1.6.10.2</ref>
+      <ref pos="31">1.6.10.11</ref>
+    </map>
+    <map x="326" y="23" w="28" h="20">
+      <ref pos="23">1.6.10.10</ref>
+    </map>
+  </stk>
+  <stk id="1_6_10_1" name="FRAME LOCATOR (BEAM)MIRROR INVERTED" materialnr="223891" pos="1" description="&amp;nbsp;" />
+  <stk id="1_6_10_2" name="BUSHING ID=20MM OD=23MM L=10MM" materialnr="005812" pos="3" description="&amp;nbsp;" />
+  <stk id="1_6_10_3" name="GRIPPER  FOR RAL/SHORT" materialnr="011925" pos="4" description="&amp;nbsp;">
+    <map x="401" y="148" w="26" h="34">
+      <ref>1.6.10.3.1</ref>
+    </map>
+    <map x="337" y="250" w="26" h="34">
+      <ref>1.6.10.3.3</ref>
+    </map>
+    <map x="306" y="328" w="26" h="34">
+      <ref>1.6.10.3.4</ref>
+    </map>
+    <map x="340" y="209" w="31" h="29">
+      <ref pos="10">1.6.10.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_6_10_3_1" name="CYLINDER DBL/ACT D=20 STROKE=100 NO SIGN" materialnr="025233" pos="8" description="&amp;nbsp;" />
+  <stk id="1_6_10_3_2" name="TEMPERED STRAIGHT PIN 5x28MM DIN 6325" materialnr="013380" pos="10" description="&amp;nbsp;" />
+  <stk id="1_6_10_3_3" name="BUSHING ID=5MM OD=7MM L=4MM" materialnr="005797" pos="12" description="&amp;nbsp;" />
+  <stk id="1_6_10_3_4" name="BUSHING ID=10MM OD=12MM L=5MM" materialnr="005821" pos="13" description="&amp;nbsp;" />
+  <stk id="1_6_10_4" name="RAL NEEDLE CYLINDER (VER 1986-&gt;)" materialnr="002758" pos="12" description="&amp;nbsp;" />
+  <stk id="1_6_10_5" name="HEIGHT-COMPARATIVE UNIT/BEAM-TOP RAL" materialnr="339813" pos="15" description="&amp;nbsp;">
+    <map x="492" y="288" w="26" h="25">
+      <ref>1.6.10.5.1</ref>
+    </map>
+    <map x="329" y="374" w="26" h="25">
+      <ref>1.6.10.5.2</ref>
+    </map>
+    <map x="253" y="366" w="26" h="25">
+      <ref>1.6.10.5.3</ref>
+    </map>
+  </stk>
+  <stk id="1_6_10_5_1" name="STOP PLATE F GLASS HEIGHT MEASURING DEV." materialnr="223794" pos="7" description="&amp;nbsp;" />
+  <stk id="1_6_10_5_2" name="RETAINING RING DIN 471-10X1MM" materialnr="005343" pos="9" description="&amp;nbsp;" />
+  <stk id="1_6_10_5_3" name="BUSHING ID=10MM OD=12MM L=10MM" materialnr="005801" pos="10" description="&amp;nbsp;" />
+  <stk id="1_6_10_6" name="DA-PNEU CYLINDER D25 STR50 ISO+SIGNAL" materialnr="025239" pos="16" description="&amp;nbsp;" />
+  <stk id="1_6_10_7" name="3/2 WAY SOLENOID VALVE 24VDC" materialnr="003200" pos="19" description="&amp;nbsp;" />
+  <stk id="1_6_10_8" name="3/2 WAY SOLENOID VALVE, 24VDC," materialnr="003202" pos="20" description="&amp;nbsp;" />
+  <stk id="1_6_10_9" name="EXHAUST THROTTLE THREAD1/8&amp;quot; D6/PLUG-CON." materialnr="315403" pos="21" description="&amp;nbsp;" />
+  <stk id="1_6_10_10" name="ELBOW STUD FITTING/THREAD 1/8&amp;quot;-TAPERED" materialnr="003591" pos="23" description="&amp;nbsp;">
+    <map x="475" y="161" w="27" h="25">
+      <ref>1.6.10.10.1</ref>
+    </map>
+  </stk>
+  <stk id="1_6_10_10_1" name="SET SCREW M6X6 MACHINED" materialnr="236358" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_10_11" name="ROLLER-DEAD STOP GRIPPING DEVICE" materialnr="011927" pos="31" description="&amp;nbsp;" />
+  <stk id="1_6_11" name="TEMPERED STRAIGHT PIN DIN6325-10X70MM" materialnr="005226" pos="36" description="&amp;nbsp;" />
+  <stk id="1_6_12" name="ADDITIONAL GRIPPER ON UPPER BEAM RAL-35" materialnr="388147" pos="40" description="&amp;nbsp;">
+    <map x="430" y="188" w="28" h="20">
+      <ref pos="1">1.6.12.1</ref>
+    </map>
+    <map x="113" y="119" w="28" h="20">
+      <ref pos="2">1.6.12.2</ref>
+    </map>
+    <map x="244" y="71" w="28" h="20">
+      <ref pos="5">1.6.12.3</ref>
+    </map>
+    <map x="272" y="233" w="28" h="20">
+      <ref pos="6">1.6.12.4</ref>
+    </map>
+    <map x="313" y="107" w="28" h="20">
+      <ref pos="7">1.6.12.5</ref>
+    </map>
+    <map x="293" y="260" w="28" h="20">
+      <ref pos="12">1.6.12.6</ref>
+    </map>
+    <map x="367" y="172" w="28" h="20">
+      <ref pos="16">1.6.12.7</ref>
+    </map>
+    <map x="233" y="204" w="28" h="20">
+      <ref pos="17">1.6.12.8</ref>
+    </map>
+    <map x="388" y="91" w="61" h="56">
+      <ref pos="51">1.6.12.9</ref>
+    </map>
+  </stk>
+  <stk id="1_6_12_1" name="LINEAR GUIDE IGUS-DryLin nk-02-40-2,660" materialnr="388123" pos="1" description="&amp;nbsp;" />
+  <stk id="1_6_12_2" name="ARTICULATED HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_12_3" name="DBL-ACT PNEUM.CYL./D=25/STROKE=160MM" materialnr="029774" pos="5" description="&amp;nbsp;" />
+  <stk id="1_6_12_4" name="DA-PNEU CYLINDER D16 STR25 ISO/SIGNAL" materialnr="344590" pos="6" description="&amp;nbsp;" />
+  <stk id="1_6_12_5" name="DA-PNEU CYL,D25;STROKE50;ISO; W SIGNAL" materialnr="016168" pos="7" description="&amp;nbsp;" />
+  <stk id="1_6_12_6" name="ARTICULATED HEAD M6-FEM-RIGHT; D=6MM" materialnr="003111" pos="12" description="&amp;nbsp;" />
+  <stk id="1_6_12_7" name="EXHAUST THROTTLE THREAD1/8&amp;quot; D6/PLUG-CON." materialnr="315403" pos="16" description="&amp;nbsp;" />
+  <stk id="1_6_12_8" name="EXHAUST THROTTLE M5 D=6/PLUG CONNECTION" materialnr="316739" pos="17" description="&amp;nbsp;" />
+  <stk id="1_6_12_9" name="VALVE UNIT FOR ADDITIONAL GRIPPER RAL-35" materialnr="388143" pos="51" description="&amp;nbsp;">
+    <map x="442" y="164" w="28" h="20">
+      <ref pos="1">1.6.12.9.1</ref>
+    </map>
+    <map x="192" y="16" w="28" h="20">
+      <ref pos="2">1.6.12.9.2</ref>
+    </map>
+    <map x="120" y="30" w="28" h="20">
+      <ref pos="5">1.6.12.9.3</ref>
+    </map>
+  </stk>
+  <stk id="1_6_12_9_1" name="5/2 WAY SOLENOID VALVE, 24VDC," materialnr="003229" pos="1" description="&amp;nbsp;" />
+  <stk id="1_6_12_9_2" name="PRESSURE CONTROLLER 0.3 - 7BAR" materialnr="027522" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_12_9_3" name="PRESSURE GAUGE (GTi)1-10 BAR REAR" materialnr="003355" pos="5" description="&amp;nbsp;" />
+  <stk id="1_7" name="BEAM/1st SIDE (FIXED)TOTAL" materialnr="222962" pos="7" description="&amp;nbsp;">
+    <map x="174" y="8" w="233" h="379">
+      <ref pos="1">1.7.1</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1" name="BEAM 1.SIDE(FIXED)RAL25/25 R-L" materialnr="222866" pos="1" description="&amp;nbsp;">
+    <map x="39" y="152" w="26" h="25">
+      <ref>1.7.1.1</ref>
+    </map>
+    <map x="297" y="359" w="26" h="25">
+      <ref>1.7.1.2</ref>
+    </map>
+    <map x="441" y="315" w="26" h="25">
+      <ref>1.7.1.3</ref>
+    </map>
+    <map x="423" y="98" w="26" h="25">
+      <ref>1.7.1.4</ref>
+    </map>
+    <map x="503" y="229" w="26" h="25">
+      <ref>1.7.1.5</ref>
+    </map>
+    <map x="345" y="53" w="26" h="25">
+      <ref>1.7.1.8</ref>
+    </map>
+    <map x="374" y="78" w="26" h="25">
+      <ref>1.7.1.9</ref>
+    </map>
+    <map x="391" y="102" w="26" h="25">
+      <ref>1.7.1.11</ref>
+    </map>
+    <map x="199" y="37" w="26" h="25">
+      <ref>1.7.1.12</ref>
+    </map>
+    <map x="0" y="46" w="104" h="46">
+      <ref pos="12">1.7.1.6</ref>
+      <ref pos="13">1.7.1.7</ref>
+      <ref pos="16">1.7.1.10</ref>
+      <ref pos="32">1.7.1.13</ref>
+      <ref pos="173">1.7.1.14</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1_1" name="BALL BEARING SHAFT D=20H6 L=3000MM" materialnr="014220" pos="4" description="&amp;nbsp;" />
+  <stk id="1_7_1_2" name="CLAMP BODY F.GRIPPER/MIRROR INVERTED" materialnr="229080" pos="5" description="&amp;nbsp;" />
+  <stk id="1_7_1_3" name="LONG GRIPPER-1st SIDE BOTTOM/MIR.INVERT." materialnr="222523" pos="8" description="&amp;nbsp;">
+    <map x="418" y="215" w="27" h="25">
+      <ref>1.7.1.3.1</ref>
+    </map>
+    <map x="208" y="191" w="27" h="25">
+      <ref>1.7.1.3.2</ref>
+    </map>
+    <map x="113" y="317" w="27" h="25">
+      <ref>1.7.1.3.3</ref>
+    </map>
+    <map x="123" y="61" w="102" h="85">
+      <ref pos="16">1.7.1.3.4</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1_3_1" name="GRIPPER FOR RAL/LONG" materialnr="011926" pos="1" description="&amp;nbsp;">
+    <map x="401" y="149" w="27" h="25">
+      <ref>1.7.1.3.1.1</ref>
+    </map>
+    <map x="335" y="254" w="27" h="25">
+      <ref>1.7.1.3.1.2</ref>
+    </map>
+    <map x="304" y="329" w="27" h="25">
+      <ref>1.7.1.3.1.3</ref>
+    </map>
+    <map x="370" y="200" w="27" h="25">
+      <ref pos="21">1.7.1.3.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1_3_1_1" name="DA-PNEU CYLINDER D=20 STROKE=200 SIGNAL" materialnr="022907" pos="8" description="&amp;nbsp;" />
+  <stk id="1_7_1_3_1_2" name="BUSHING ID=5MM OD=7MM L=4MM" materialnr="005797" pos="12" description="&amp;nbsp;" />
+  <stk id="1_7_1_3_1_3" name="BUSHING ID=10MM OD=12MM L=5MM" materialnr="005821" pos="13" description="&amp;nbsp;" />
+  <stk id="1_7_1_3_1_4" name="EXHAUST THROTTLE THREAD1/8&amp;quot; D6/PLUG-CON." materialnr="315403" pos="21" description="&amp;nbsp;" />
+  <stk id="1_7_1_3_2" name="AIR DISTRIBUTOR" materialnr="211677" pos="3" description="&amp;nbsp;" />
+  <stk id="1_7_1_3_3" name="RAL NEEDLE CYLINDER (VER 1986-&gt;)" materialnr="002758" pos="6" description="&amp;nbsp;" />
+  <stk id="1_7_1_3_4" name="RUBBER BUFFER OD20 H10 BORE=4.5 BLACK" materialnr="007624" pos="16" description="&amp;nbsp;" />
+  <stk id="1_7_1_4" name="GRIPPER 1(1 SIDE-TOP)MIRROR INVERTED" materialnr="222533" pos="9" description="&amp;nbsp;">
+    <map x="277" y="58" w="28" h="20">
+      <ref pos="1">1.7.1.4.1</ref>
+    </map>
+    <map x="308" y="58" w="28" h="20">
+      <ref pos="3">1.7.1.4.2</ref>
+    </map>
+    <map x="387" y="58" w="28" h="20">
+      <ref pos="6">1.7.1.4.3</ref>
+    </map>
+    <map x="246" y="58" w="28" h="20">
+      <ref pos="9">1.7.1.4.4</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1_4_1" name="GRIPPER  FOR RAL/SHORT" materialnr="011925" pos="1" description="&amp;nbsp;">
+    <map x="401" y="148" w="26" h="34">
+      <ref>1.7.1.4.1.1</ref>
+    </map>
+    <map x="337" y="250" w="26" h="34">
+      <ref>1.7.1.4.1.3</ref>
+    </map>
+    <map x="306" y="328" w="26" h="34">
+      <ref>1.7.1.4.1.4</ref>
+    </map>
+    <map x="340" y="209" w="31" h="29">
+      <ref pos="10">1.7.1.4.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1_4_1_1" name="CYLINDER DBL/ACT D=20 STROKE=100 NO SIGN" materialnr="025233" pos="8" description="&amp;nbsp;" />
+  <stk id="1_7_1_4_1_2" name="TEMPERED STRAIGHT PIN 5x28MM DIN 6325" materialnr="013380" pos="10" description="&amp;nbsp;" />
+  <stk id="1_7_1_4_1_3" name="BUSHING ID=5MM OD=7MM L=4MM" materialnr="005797" pos="12" description="&amp;nbsp;" />
+  <stk id="1_7_1_4_1_4" name="BUSHING ID=10MM OD=12MM L=5MM" materialnr="005821" pos="13" description="&amp;nbsp;" />
+  <stk id="1_7_1_4_2" name="AIR DISTRIBUTOR" materialnr="211677" pos="3" description="&amp;nbsp;" />
+  <stk id="1_7_1_4_3" name="RAL NEEDLE CYLINDER (VER 1986-&gt;)" materialnr="002758" pos="6" description="&amp;nbsp;" />
+  <stk id="1_7_1_4_4" name="ELBOW STUD FITTING/THREAD 1/8&amp;quot;-TAPERED" materialnr="003591" pos="9" description="&amp;nbsp;">
+    <map x="475" y="161" w="27" h="25">
+      <ref>1.7.1.4.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1_4_4_1" name="SET SCREW M6X6 MACHINED" materialnr="236358" pos="2" description="&amp;nbsp;" />
+  <stk id="1_7_1_5" name="GRIPPER 2+3 (1st SIDE) RAL/MIRROR INV." materialnr="222540" pos="10" description="&amp;nbsp;">
+    <map x="123" y="100" w="27" h="25">
+      <ref>1.7.1.5.1</ref>
+    </map>
+    <map x="401" y="120" w="27" h="25">
+      <ref pos="16">1.7.1.5.2</ref>
+    </map>
+    <map x="262" y="49" w="27" h="25">
+      <ref>1.7.1.5.3</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1_5_1" name="DA-PNEU CYLINDER D16 STR25 ISO/SIGNAL" materialnr="344590" pos="10" description="&amp;nbsp;" />
+  <stk id="1_7_1_5_2" name="ELBOW STUD FITTING/THREAD 1/8&amp;quot;-TAPERED" materialnr="003591" pos="16" description="&amp;nbsp;">
+    <map x="475" y="161" w="27" h="25">
+      <ref>1.7.1.5.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1_5_2_1" name="SET SCREW M6X6 MACHINED" materialnr="236358" pos="2" description="&amp;nbsp;" />
+  <stk id="1_7_1_5_3" name="GRIPPER  FOR RAL/SHORT" materialnr="011925" pos="20" description="&amp;nbsp;">
+    <map x="401" y="148" w="26" h="34">
+      <ref>1.7.1.5.3.1</ref>
+    </map>
+    <map x="337" y="250" w="26" h="34">
+      <ref>1.7.1.5.3.3</ref>
+    </map>
+    <map x="306" y="328" w="26" h="34">
+      <ref>1.7.1.5.3.4</ref>
+    </map>
+    <map x="340" y="209" w="31" h="29">
+      <ref pos="10">1.7.1.5.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1_5_3_1" name="CYLINDER DBL/ACT D=20 STROKE=100 NO SIGN" materialnr="025233" pos="8" description="&amp;nbsp;" />
+  <stk id="1_7_1_5_3_2" name="TEMPERED STRAIGHT PIN 5x28MM DIN 6325" materialnr="013380" pos="10" description="&amp;nbsp;" />
+  <stk id="1_7_1_5_3_3" name="BUSHING ID=5MM OD=7MM L=4MM" materialnr="005797" pos="12" description="&amp;nbsp;" />
+  <stk id="1_7_1_5_3_4" name="BUSHING ID=10MM OD=12MM L=5MM" materialnr="005821" pos="13" description="&amp;nbsp;" />
+  <stk id="1_7_1_6" name="CHAIN 1/2&amp;quot;X3/16&amp;quot; 19 LINKS/NO MASTER LINK" materialnr="222877" pos="12" description="&amp;nbsp;" />
+  <stk id="1_7_1_7" name="CHAIN 1/2X3/16&amp;quot; 45 LINKS/NO MASTER LINK" materialnr="222878" pos="13" description="&amp;nbsp;" />
+  <stk id="1_7_1_8" name="FASTENING OF LINEAR GUIDE" materialnr="217841" pos="14" description="&amp;nbsp;" />
+  <stk id="1_7_1_9" name="LINEAR BALL BEARING SD=20;ALU;OPENING" materialnr="005861" pos="15" description="&amp;nbsp;" />
+  <stk id="1_7_1_10" name="MASTER LINK  1/2 X 3/16 ( W/ PLATE LINK)" materialnr="006596" pos="16" description="&amp;nbsp;" />
+  <stk id="1_7_1_11" name="STOP" materialnr="217979" pos="18" description="&amp;nbsp;" />
+  <stk id="1_7_1_12" name="CAT TRACK CABLE" materialnr="342150" pos="26" description="&amp;nbsp;" />
+  <stk id="1_7_1_13" name="CONNECTION ELEMENT SET F.CHAIN 342150" materialnr="342153" pos="32" description="&amp;nbsp;" />
+  <stk id="1_7_1_14" name="ELBOW STUD FITTING/THREAD 1/8&amp;quot;-TAPERED" materialnr="003591" pos="173" description="&amp;nbsp;">
+    <map x="475" y="161" w="27" h="25">
+      <ref>1.7.1.14.1</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1_14_1" name="SET SCREW M6X6 MACHINED" materialnr="236358" pos="2" description="&amp;nbsp;" />
+  <stk id="1_8" name="BEAM/4th SIDE(MOVEABLE)/COMPLETE/RAL" materialnr="223275" pos="8" description="&amp;nbsp;">
+    <map x="414" y="195" w="26" h="25" />
+    <map x="413" y="163" w="26" h="25" />
+    <map x="449" y="13" w="26" h="25" />
+    <map x="478" y="0" w="26" h="25" />
+    <map x="530" y="259" w="26" h="25" />
+    <map x="380" y="206" w="26" h="25" />
+    <map x="132" y="348" w="136" h="28" />
+    <map x="234" y="247" w="149" h="59">
+      <ref pos="1">1.8.1</ref>
+    </map>
+    <map x="14" y="361" w="26" h="25" />
+    <map x="52" y="372" w="26" h="25" />
+    <map x="82" y="372" w="23" h="23" />
+    <map x="507" y="145" w="26" h="25" />
+    <map x="503" y="269" w="26" h="25" />
+    <map x="183" y="250" w="26" h="25" />
+    <map x="397" y="290" w="26" h="25" />
+    <map x="73" y="253" w="26" h="25" />
+    <map x="105" y="272" w="26" h="25" />
+    <map x="139" y="248" w="26" h="25" />
+  </stk>
+  <stk id="1_8_1" name="BEAM 4.SIDE(MOVEABLE)HEIGHT 25 R-LEFT" materialnr="223159" pos="1" description="&amp;nbsp;">
+    <map x="387" y="204" w="26" h="25">
+      <ref>1.8.1.1</ref>
+    </map>
+    <map x="166" y="33" w="33" h="27">
+      <ref>1.8.1.2</ref>
+      <ref>1.8.1.22</ref>
+    </map>
+    <map x="267" y="334" w="26" h="25">
+      <ref>1.8.1.3</ref>
+    </map>
+    <map x="391" y="315" w="26" h="25">
+      <ref>1.8.1.4</ref>
+    </map>
+    <map x="247" y="254" w="26" h="25">
+      <ref>1.8.1.5</ref>
+    </map>
+    <map x="68" y="203" w="26" h="25">
+      <ref>1.8.1.6</ref>
+    </map>
+    <map x="109" y="227" w="26" h="25">
+      <ref>1.8.1.7</ref>
+    </map>
+    <map x="166" y="256" w="26" h="25">
+      <ref>1.8.1.8</ref>
+    </map>
+    <map x="506" y="217" w="26" h="25">
+      <ref>1.8.1.9</ref>
+    </map>
+    <map x="29" y="116" w="26" h="25">
+      <ref>1.8.1.10</ref>
+    </map>
+    <map x="163" y="192" w="26" h="25">
+      <ref>1.8.1.11</ref>
+    </map>
+    <map x="28" y="166" w="26" h="25">
+      <ref>1.8.1.13</ref>
+    </map>
+    <map x="379" y="287" w="26" h="25">
+      <ref>1.8.1.14</ref>
+    </map>
+    <map x="44" y="139" w="26" h="25">
+      <ref>1.8.1.15</ref>
+    </map>
+    <map x="213" y="300" w="26" h="25">
+      <ref>1.8.1.16</ref>
+    </map>
+    <map x="240" y="73" w="97" h="53">
+      <ref pos="25">1.8.1.12</ref>
+      <ref pos="35">1.8.1.17</ref>
+      <ref pos="68">1.8.1.23</ref>
+      <ref pos="71">1.8.1.24</ref>
+    </map>
+    <map x="294" y="245" w="26" h="25">
+      <ref>1.8.1.18</ref>
+    </map>
+    <map x="508" y="271" w="26" h="25">
+      <ref>1.8.1.19</ref>
+    </map>
+    <map x="484" y="247" w="26" h="25">
+      <ref>1.8.1.20</ref>
+    </map>
+    <map x="300" y="355" w="26" h="25">
+      <ref>1.8.1.21</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1_1" name="Servomotor LENZE 0.8kW+GST05 i=22.8 nB" materialnr="307690" pos="3" description="&amp;nbsp;" />
+  <stk id="1_8_1_2" name="CAT TRACK CABLE 46/35/100/54" materialnr="342140" pos="6" description="&amp;nbsp;" />
+  <stk id="1_8_1_3" name="FLANGE BEARING ID25; OVAL CAST HOUSING" materialnr="005780" pos="8" description="&amp;nbsp;" />
+  <stk id="1_8_1_4" name="FLANGE BEARING ID=20:OVAL HOUSING" materialnr="005773" pos="9" description="&amp;nbsp;" />
+  <stk id="1_8_1_5" name="BALL BEARING SHAFT D=20H6 L=3373MM" materialnr="338352" pos="11" description="&amp;nbsp;" />
+  <stk id="1_8_1_6" name="GRIPPER 14(4.SIDE BOTTOM) MIRROR INVERT." materialnr="222992" pos="12" description="&amp;nbsp;">
+    <map x="218" y="65" w="28" h="20">
+      <ref pos="1">1.8.1.6.1</ref>
+    </map>
+    <map x="57" y="68" w="28" h="20">
+      <ref pos="3">1.8.1.6.2</ref>
+    </map>
+    <map x="250" y="65" w="28" h="20">
+      <ref pos="10">1.8.1.6.3</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1_6_1" name="GRIPPER  FOR RAL/SHORT" materialnr="011925" pos="1" description="&amp;nbsp;">
+    <map x="401" y="148" w="26" h="34">
+      <ref>1.8.1.6.1.1</ref>
+    </map>
+    <map x="337" y="250" w="26" h="34">
+      <ref>1.8.1.6.1.3</ref>
+    </map>
+    <map x="306" y="328" w="26" h="34">
+      <ref>1.8.1.6.1.4</ref>
+    </map>
+    <map x="340" y="209" w="31" h="29">
+      <ref pos="10">1.8.1.6.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1_6_1_1" name="CYLINDER DBL/ACT D=20 STROKE=100 NO SIGN" materialnr="025233" pos="8" description="&amp;nbsp;" />
+  <stk id="1_8_1_6_1_2" name="TEMPERED STRAIGHT PIN 5x28MM DIN 6325" materialnr="013380" pos="10" description="&amp;nbsp;" />
+  <stk id="1_8_1_6_1_3" name="BUSHING ID=5MM OD=7MM L=4MM" materialnr="005797" pos="12" description="&amp;nbsp;" />
+  <stk id="1_8_1_6_1_4" name="BUSHING ID=10MM OD=12MM L=5MM" materialnr="005821" pos="13" description="&amp;nbsp;" />
+  <stk id="1_8_1_6_2" name="RAL NEEDLE CYLINDER (VER 1986-&gt;)" materialnr="002758" pos="3" description="&amp;nbsp;" />
+  <stk id="1_8_1_6_3" name="ELBOW STUD FITTING/THREAD 1/8&amp;quot;-TAPERED" materialnr="003591" pos="10" description="&amp;nbsp;">
+    <map x="475" y="161" w="27" h="25">
+      <ref>1.8.1.6.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1_6_3_1" name="SET SCREW M6X6 MACHINED" materialnr="236358" pos="2" description="&amp;nbsp;" />
+  <stk id="1_8_1_7" name="GRIPPER 15(4.SIDE CENTER)MIRROR  INVERT." materialnr="222993" pos="13" description="&amp;nbsp;">
+    <map x="401" y="283" w="26" h="25">
+      <ref>1.8.1.7.1</ref>
+    </map>
+    <map x="319" y="352" w="26" h="25">
+      <ref>1.8.1.7.2</ref>
+    </map>
+    <map x="85" y="333" w="26" h="25">
+      <ref>1.8.1.7.3</ref>
+    </map>
+    <map x="146" y="118" w="26" h="25">
+      <ref>1.8.1.7.4</ref>
+    </map>
+    <map x="245" y="120" w="26" h="25">
+      <ref pos="18">1.8.1.7.5</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1_7_1" name="GRIPPER  FOR RAL/SHORT" materialnr="011925" pos="1" description="&amp;nbsp;">
+    <map x="401" y="148" w="26" h="34">
+      <ref>1.8.1.7.1.1</ref>
+    </map>
+    <map x="337" y="250" w="26" h="34">
+      <ref>1.8.1.7.1.3</ref>
+    </map>
+    <map x="306" y="328" w="26" h="34">
+      <ref>1.8.1.7.1.4</ref>
+    </map>
+    <map x="340" y="209" w="31" h="29">
+      <ref pos="10">1.8.1.7.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1_7_1_1" name="CYLINDER DBL/ACT D=20 STROKE=100 NO SIGN" materialnr="025233" pos="8" description="&amp;nbsp;" />
+  <stk id="1_8_1_7_1_2" name="TEMPERED STRAIGHT PIN 5x28MM DIN 6325" materialnr="013380" pos="10" description="&amp;nbsp;" />
+  <stk id="1_8_1_7_1_3" name="BUSHING ID=5MM OD=7MM L=4MM" materialnr="005797" pos="12" description="&amp;nbsp;" />
+  <stk id="1_8_1_7_1_4" name="BUSHING ID=10MM OD=12MM L=5MM" materialnr="005821" pos="13" description="&amp;nbsp;" />
+  <stk id="1_8_1_7_2" name="FRAME LOCATOR STOP" materialnr="211671" pos="2" description="&amp;nbsp;" />
+  <stk id="1_8_1_7_3" name="RAL NEEDLE CYLINDER (VER 1986-&gt;)" materialnr="002758" pos="4" description="&amp;nbsp;" />
+  <stk id="1_8_1_7_4" name="DA-PNEU CYLINDER D16 STR25 ISO/SIGNAL" materialnr="344590" pos="6" description="&amp;nbsp;" />
+  <stk id="1_8_1_7_5" name="ELBOW STUD FITTING/THREAD 1/8&amp;quot;-TAPERED" materialnr="003591" pos="18" description="&amp;nbsp;">
+    <map x="475" y="161" w="27" h="25">
+      <ref>1.8.1.7.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1_7_5_1" name="SET SCREW M6X6 MACHINED" materialnr="236358" pos="2" description="&amp;nbsp;" />
+  <stk id="1_8_1_8" name="GRIPPER 16 (4. SIDE TOP)MIRROR INVERTED" materialnr="222994" pos="14" description="&amp;nbsp;">
+    <map x="236" y="85" w="28" h="20">
+      <ref pos="1">1.8.1.8.1</ref>
+    </map>
+    <map x="79" y="84" w="28" h="20">
+      <ref pos="4">1.8.1.8.2</ref>
+    </map>
+    <map x="274" y="85" w="28" h="20">
+      <ref pos="8">1.8.1.8.3</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1_8_1" name="GRIPPER  FOR RAL/SHORT" materialnr="011925" pos="1" description="&amp;nbsp;">
+    <map x="401" y="148" w="26" h="34">
+      <ref>1.8.1.8.1.1</ref>
+    </map>
+    <map x="337" y="250" w="26" h="34">
+      <ref>1.8.1.8.1.3</ref>
+    </map>
+    <map x="306" y="328" w="26" h="34">
+      <ref>1.8.1.8.1.4</ref>
+    </map>
+    <map x="340" y="209" w="31" h="29">
+      <ref pos="10">1.8.1.8.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1_8_1_1" name="CYLINDER DBL/ACT D=20 STROKE=100 NO SIGN" materialnr="025233" pos="8" description="&amp;nbsp;" />
+  <stk id="1_8_1_8_1_2" name="TEMPERED STRAIGHT PIN 5x28MM DIN 6325" materialnr="013380" pos="10" description="&amp;nbsp;" />
+  <stk id="1_8_1_8_1_3" name="BUSHING ID=5MM OD=7MM L=4MM" materialnr="005797" pos="12" description="&amp;nbsp;" />
+  <stk id="1_8_1_8_1_4" name="BUSHING ID=10MM OD=12MM L=5MM" materialnr="005821" pos="13" description="&amp;nbsp;" />
+  <stk id="1_8_1_8_2" name="RAL NEEDLE CYLINDER (VER 1986-&gt;)" materialnr="002758" pos="4" description="&amp;nbsp;" />
+  <stk id="1_8_1_8_3" name="ELBOW STUD FITTING/THREAD 1/8&amp;quot;-TAPERED" materialnr="003591" pos="8" description="&amp;nbsp;">
+    <map x="475" y="161" w="27" h="25">
+      <ref>1.8.1.8.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1_8_3_1" name="SET SCREW M6X6 MACHINED" materialnr="236358" pos="2" description="&amp;nbsp;" />
+  <stk id="1_8_1_9" name="TRANSPORT ROLLER/ID=15MM/OD=40MM/W=11MM" materialnr="005738" pos="20" description="&amp;nbsp;" />
+  <stk id="1_8_1_10" name="LINEAR BALL BEARING SD=25; STEEL;OPENING" materialnr="005895" pos="23" description="&amp;nbsp;" />
+  <stk id="1_8_1_11" name="LINEAR BALL BEARING SD=20;ALU;OPENING" materialnr="005861" pos="24" description="&amp;nbsp;" />
+  <stk id="1_8_1_12" name="MASTER LINK  1/2 X 3/16 ( W/ PLATE LINK)" materialnr="006596" pos="25" description="&amp;nbsp;" />
+  <stk id="1_8_1_13" name="FRAME LOCATOR 4.SIDE /MIRROR INVERTED" materialnr="223147" pos="27" description="&amp;nbsp;">
+    <map x="46" y="241" w="26" h="25">
+      <ref>1.8.1.13.1</ref>
+    </map>
+    <map x="215" y="280" w="26" h="25">
+      <ref>1.8.1.13.2</ref>
+    </map>
+    <map x="14" y="241" w="26" h="25">
+      <ref pos="31">1.8.1.13.3</ref>
+    </map>
+    <map x="184" y="280" w="26" h="25">
+      <ref pos="32">1.8.1.13.4</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1_13_1" name="DA-PNEU CYLINDER D25 STR25 ISO/W SIGNAL" materialnr="344435" pos="9" description="&amp;nbsp;" />
+  <stk id="1_8_1_13_2" name="ARTICULATED HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="30" description="&amp;nbsp;" />
+  <stk id="1_8_1_13_3" name="EXHAUST THROTTLE THREAD1/8&amp;quot; D6/PLUG-CON." materialnr="315403" pos="31" description="&amp;nbsp;" />
+  <stk id="1_8_1_13_4" name="BUSHING ID=15MM OD=17MM L=10MM GLY.PG" materialnr="005806" pos="32" description="&amp;nbsp;" />
+  <stk id="1_8_1_14" name="SPUR GEAR ON THE TOP" materialnr="216320" pos="30" description="&amp;nbsp;" />
+  <stk id="1_8_1_15" name="SPUR GEAR BOTTOM" materialnr="216318" pos="31" description="&amp;nbsp;" />
+  <stk id="1_8_1_16" name="TORSION SHAFT RAL H25" materialnr="209211" pos="32" description="&amp;nbsp;" />
+  <stk id="1_8_1_17" name="STOP" materialnr="217979" pos="35" description="&amp;nbsp;" />
+  <stk id="1_8_1_18" name="SHAFT SUPPORT" materialnr="216564" pos="36" description="&amp;nbsp;" />
+  <stk id="1_8_1_19" name="HTD-TOOTHED BELT HTD-8M-720-30" materialnr="241897" pos="39" description="&amp;nbsp;" />
+  <stk id="1_8_1_20" name="HTD-TOOTHED BELT PULLEY PIT8 T26 W30 KEY" materialnr="307694" pos="40" description="&amp;nbsp;" />
+  <stk id="1_8_1_21" name="TOOTHED BELT PULLEY/PIT8/T26/BW30/24" materialnr="007062" pos="41" description="&amp;nbsp;" />
+  <stk id="1_8_1_22" name="CONNECTION ELEMENT SET F/342139,342140" materialnr="342141" pos="48" description="&amp;nbsp;" />
+  <stk id="1_8_1_23" name="ROLLER CHAIN 3/8X7/32&amp;quot;,(5 METER(16.4 FT)" materialnr="006530" pos="68" description="&amp;nbsp;" />
+  <stk id="1_8_1_24" name="ELBOW STUD FITTING/THREAD 1/8&amp;quot;-TAPERED" materialnr="003591" pos="71" description="&amp;nbsp;">
+    <map x="475" y="161" w="27" h="25">
+      <ref>1.8.1.24.1</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1_24_1" name="SET SCREW M6X6 MACHINED" materialnr="236358" pos="2" description="&amp;nbsp;" />
+  <stk id="1_9" name="HEIGHT SCANNING RAL LENGTH 25 + 35" materialnr="224496" pos="10" description="&amp;nbsp;">
+    <map x="191" y="3" w="185" h="394">
+      <ref pos="1">1.9.1</ref>
+    </map>
+  </stk>
+  <stk id="1_9_1" name="HEIGHT SCANNING FOR RAL WITH H=25" materialnr="111738" pos="1" description="&amp;nbsp;">
+    <map x="508" y="11" w="26" h="25">
+      <ref>1.9.1.1</ref>
+    </map>
+    <map x="197" y="217" w="26" h="25">
+      <ref>1.9.1.2</ref>
+    </map>
+    <map x="45" y="44" w="26" h="25">
+      <ref>1.9.1.3</ref>
+    </map>
+    <map x="321" y="355" w="26" h="25">
+      <ref>1.9.1.4</ref>
+    </map>
+    <map x="318" y="271" w="26" h="25">
+      <ref>1.9.1.7</ref>
+    </map>
+    <map x="147" y="52" w="26" h="25">
+      <ref>1.9.1.8</ref>
+    </map>
+    <map x="516" y="132" w="26" h="25">
+      <ref>1.9.1.11</ref>
+    </map>
+    <map x="62" y="102" w="26" h="25">
+      <ref>1.9.1.12</ref>
+    </map>
+    <map x="529" y="324" w="26" h="25">
+      <ref>1.9.1.13</ref>
+    </map>
+    <map x="203" y="123" w="26" h="25">
+      <ref>1.9.1.14</ref>
+    </map>
+    <map x="515" y="170" w="26" h="25">
+      <ref>1.9.1.15</ref>
+    </map>
+    <map x="441" y="0" w="26" h="25">
+      <ref>1.9.1.17</ref>
+    </map>
+    <map x="12" y="161" w="119" h="39">
+      <ref pos="17">1.9.1.5</ref>
+      <ref pos="18">1.9.1.6</ref>
+      <ref pos="24">1.9.1.9</ref>
+      <ref pos="25">1.9.1.10</ref>
+      <ref pos="31">1.9.1.16</ref>
+      <ref pos="33">1.9.1.18</ref>
+    </map>
+  </stk>
+  <stk id="1_9_1_1" name="COUPLING PIECE D=32X45MM" materialnr="021789" pos="7" description="&amp;nbsp;" />
+  <stk id="1_9_1_2" name="GUIDE RAIL 100X40X12MM" materialnr="021785" pos="11" description="&amp;nbsp;" />
+  <stk id="1_9_1_3" name="LIGHT SENSOR RETAINER/ MIRROR INVERTED" materialnr="021815" pos="15" description="&amp;nbsp;" />
+  <stk id="1_9_1_4" name="FL.BEARING ID20; SQUARE HOUSING" materialnr="005774" pos="16" description="&amp;nbsp;" />
+  <stk id="1_9_1_5" name="TEMPERED STRAIGHT PIN DIN6325-8X20MM" materialnr="005217" pos="17" description="&amp;nbsp;" />
+  <stk id="1_9_1_6" name="TEMPERED STRAIGHT PIN DIN6325-10X30MM" materialnr="005225" pos="18" description="&amp;nbsp;" />
+  <stk id="1_9_1_7" name="TEMPERED STRAIGHT PIN 10x55MM DIN 6325" materialnr="014549" pos="19" description="&amp;nbsp;" />
+  <stk id="1_9_1_8" name="SPUR GEAR MOTOR 0.25KW RATIO=1:12.5;N" materialnr="228608" pos="22" description="&amp;nbsp;" />
+  <stk id="1_9_1_9" name="CAT TRACK CABLE" materialnr="342150" pos="24" description="&amp;nbsp;" />
+  <stk id="1_9_1_10" name="CONNECTION ELEMENT SET F.CHAIN 342150" materialnr="342153" pos="25" description="&amp;nbsp;" />
+  <stk id="1_9_1_11" name="ROLLER CHAIN 1/2X3/16&amp;quot;,(5 METER(16.4 FT)" materialnr="006540" pos="26" description="&amp;nbsp;" />
+  <stk id="1_9_1_12" name="MASTER LINK  1/2 X 3/16 ( W/ PLATE LINK)" materialnr="006596" pos="27" description="&amp;nbsp;" />
+  <stk id="1_9_1_13" name="MOUNT FOR OPTICAL FIBRE" materialnr="019183" pos="28" description="&amp;nbsp;" />
+  <stk id="1_9_1_14" name="CHAIN GUIDE,1/2X3/16&amp;quot;,L2650MM,F.RPL" materialnr="007707" pos="29" description="&amp;nbsp;" />
+  <stk id="1_9_1_15" name="RUBBER BUFFER OD20 H10 BORE=4.5 BLACK" materialnr="007624" pos="30" description="&amp;nbsp;" />
+  <stk id="1_9_1_16" name="KEY 6x6x12MM DIN 6885 ST50-1K" materialnr="005312" pos="31" description="&amp;nbsp;" />
+  <stk id="1_9_1_17" name="SPROCKET W/KWY,172&amp;quot;, T=25, 20K7,2XM6" materialnr="014289" pos="32" description="&amp;nbsp;" />
+  <stk id="1_9_1_18" name="SPROCKET WHEEL COVER/ HEIGHT SCANNING" materialnr="021782" pos="33" description="&amp;nbsp;" />
+  <stk id="1_10" name="ADDIT-AND ASSEMBLING AUXILIARIES FOR RAL" materialnr="120238" pos="11" description="&amp;nbsp;">
+    <map x="90" y="68" w="355" h="218">
+      <ref pos="1">1.10.1</ref>
+      <ref pos="2">1.10.2</ref>
+    </map>
+  </stk>
+  <stk id="1_10_1" name="PAINT BRUSH WIDTH=1/2&amp;quot;" materialnr="008100" pos="1" description="&amp;nbsp;" />
+  <stk id="1_10_2" name="LUBRICANT SPRAY NEOVAL-MTO 300" materialnr="196388" pos="2" description="&amp;nbsp;" />
+</catalog>

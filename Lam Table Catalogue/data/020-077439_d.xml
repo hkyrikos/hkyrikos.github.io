@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="LKT-33">
+  <stk id="1" name="LKT-33" materialnr="311252" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="">
+    <map x="84" y="53" w="392" h="187">
+      <ref pos="3">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="LKT-12/33" materialnr="323895" pos="3" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="152" y="29" w="205" h="109">
+      <ref pos="1">1.1.1</ref>
+    </map>
+    <map x="160" y="153" w="148" h="58">
+      <ref pos="2">1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="VERBREITERUNGSTISCH F&amp;Uuml;R AL-32/33VB" materialnr="211941" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="126" y="147" w="207" h="101">
+      <ref pos="6">1.1.1.2</ref>
+      <ref pos="9">1.1.1.3</ref>
+      <ref pos="10">1.1.1.4</ref>
+      <ref pos="12">1.1.1.5</ref>
+      <ref pos="13">1.1.1.6</ref>
+      <ref pos="14">1.1.1.7</ref>
+      <ref pos="16">1.1.1.8</ref>
+    </map>
+    <map x="34" y="36" w="276" h="82">
+      <ref pos="2">1.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="SPANPLATTE VERBREITERUNGSTISCH" materialnr="212761" pos="2" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_1_2" name="LUFTKISSENANSCHLU&amp;szlig; DM 125, H=84" materialnr="244123" pos="6" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_1_3" name="PP EINFACHABZWEIGER ND 125, 45&amp;deg;" materialnr="033002" pos="9" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_1_4" name="PP ROHR ND 125, L=150MM" materialnr="032905" pos="10" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_1_5" name="PP ROHRBOGEN ND 125, 87 GRAD" materialnr="013762" pos="12" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_1_6" name="SCHLAUCHKLEMME, 104-138MM, VERZINKT 12MM" materialnr="003666" pos="13" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_1_7" name="PP &amp;Uuml;BERSCHIEBMUFFE ND 125" materialnr="030456" pos="14" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_1_8" name="GEBL&amp;Auml;SESCHLAUCH NW125MM,PVC,HOCHFLEXIBEL" materialnr="007799" pos="16" description="&amp;nbsp;" ET="7" Quantity="3000" Unit="" />
+  <stk id="1_1_2" name="Gebl&amp;auml;seeinheit 3kW FU auf/zu saugseitig" materialnr="411118" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="415" y="317" w="26" h="25">
+      <ref pos="1">1.1.2.1</ref>
+    </map>
+    <map x="461" y="90" w="26" h="25">
+      <ref pos="3">1.1.2.3</ref>
+    </map>
+    <map x="358" y="151" w="110" h="64">
+      <ref pos="2">1.1.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="SCHWINGMETALLPUFFER,D50,H30, 2XAG-M10X26" materialnr="014562" pos="1" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_2_2" name="Verschlussklappe saugseit. f&amp;uuml;r HRD 16T" materialnr="410374" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="392" y="117" w="28" h="19">
+      <ref pos="1">1.1.2.2.1</ref>
+    </map>
+    <map x="423" y="117" w="28" h="19">
+      <ref pos="3">1.1.2.2.2</ref>
+    </map>
+    <map x="186" y="50" w="28" h="20" />
+    <map x="186" y="76" w="28" h="20">
+      <ref pos="4">1.1.2.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_2_1" name="DW.PN.ZYL;D=25,H=80,ISO,M.SIGN." materialnr="016424" pos="1" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_2_2" name="Steckverschr. R1/8&amp;quot;, 90&amp;deg;, Dm:6mm" materialnr="231973" pos="3" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_2_3" name="Verschlussklappe f&amp;uuml;r HRD 16T (Elektror)" materialnr="410320" pos="4" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="268" y="71" w="28" h="20">
+      <ref pos="1">1.1.2.2.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_2_3_1" name="ISK-SENKSCHR. M5X10MM, DIN7991, A4-70" materialnr="014734" pos="1" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_3" name="Radialventilator HPB-F-040 FU-100Hz/3kW" materialnr="433146" pos="3" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+</catalog>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="TFL-45/25">
+  <stk id="1" name="TFL-45/25" materialnr="336824" pos="1" description="&amp;nbsp;">
+    <map x="141" y="97" w="336" h="144">
+      <ref pos="4">1.1</ref>
+      <ref pos="5">1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="TFL-25/25 HEIGHT 520" materialnr="390288" pos="4" description="&amp;nbsp;">
+    <map x="232" y="55" w="28" h="21">
+      <ref pos="5">1.1.1</ref>
+    </map>
+    <map x="164" y="67" w="28" h="21">
+      <ref pos="8">1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="AIRBAG" materialnr="384569" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="BELT FIELD TFL-25/25 HEIGHT 520" materialnr="390287" pos="8" description="&amp;nbsp;">
+    <map x="234" y="50" w="28" h="21">
+      <ref pos="1">1.1.2.1</ref>
+    </map>
+    <map x="146" y="89" w="28" h="21">
+      <ref pos="3">1.1.2.3</ref>
+    </map>
+    <map x="441" y="46" w="28" h="21">
+      <ref pos="10">1.1.2.4</ref>
+    </map>
+    <map x="241" y="298" w="28" h="21">
+      <ref pos="11">1.1.2.5</ref>
+    </map>
+    <map x="442" y="209" w="28" h="21">
+      <ref pos="13">1.1.2.6</ref>
+    </map>
+    <map x="322" y="261" w="28" h="21">
+      <ref pos="17">1.1.2.7</ref>
+    </map>
+    <map x="407" y="229" w="28" h="21">
+      <ref pos="20">1.1.2.8</ref>
+    </map>
+    <map x="465" y="67" w="28" h="21">
+      <ref pos="2">1.1.2.2</ref>
+      <ref pos="26">1.1.2.9</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="HTD-TOOTHED BELT W=30MM L=960MM PIT=8MM" materialnr="006847" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_2_2" name="HTD-TOOTHED BELT PULLEY; T8,W30,20H7" materialnr="032461" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_2_3" name="BELT UNIT" materialnr="337173" pos="3" description="&amp;nbsp;">
+    <map x="151" y="149" w="28" h="21">
+      <ref pos="3">1.1.2.3.1</ref>
+    </map>
+    <map x="72" y="169" w="28" h="21">
+      <ref pos="9">1.1.2.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_3_1" name="TOOTHED BELT W25 PIT10 L7540-V-PAZ-PVC" materialnr="200675" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_2_3_2" name="GROOVED BALL BEARING ID20 0D42 W12;2SEAL" materialnr="005697" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_2_4" name="DRIVE SHAFT COMPLETE" materialnr="356241" pos="10" description="&amp;nbsp;">
+    <map x="251" y="104" w="26" h="25">
+      <ref>1.1.2.4.1</ref>
+    </map>
+    <map x="285" y="282" w="26" h="25">
+      <ref>1.1.2.4.2</ref>
+    </map>
+    <map x="64" y="200" w="26" h="25">
+      <ref>1.1.2.4.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_4_1" name="TOOTHED BELT PULLEY/PIT8/T32/BW30/25" materialnr="013453" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_2_4_2" name="FLANGE BEARING ID=25MM 3-HOLE CASTING" materialnr="024655" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_2_4_3" name="TOOTHED BELT PULLEY PIT10/T32 W25 B25H7" materialnr="231405" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_2_5" name="ARTICULATED HEAD M20X1.5-FEMALE-R D20" materialnr="003073" pos="11" description="&amp;nbsp;" />
+  <stk id="1_1_2_6" name="ARTICULATED HEAD M20X1.5-FEMALE-L;D=20MM" materialnr="005845" pos="13" description="&amp;nbsp;" />
+  <stk id="1_1_2_7" name="PLUMMER BLOCK BEARING; CAST HOUS.ID 35" materialnr="005765" pos="17" description="&amp;nbsp;" />
+  <stk id="1_1_2_8" name="THREEPHASE SPUR GEAR MOTOR 750W 230/400V" materialnr="237875" pos="20" description="&amp;nbsp;">
+    <map x="200" y="89" w="185" h="193">
+      <ref pos="1">1.1.2.8.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_8_1" name="ELASTIC- FORCE BRAKE BFK 458-08N" materialnr="337533" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_2_9" name="SERVOMOTOR LENZE 1.7kW+GST06 i=24.9 nB" materialnr="303698" pos="26" description="&amp;nbsp;" />
+  <stk id="1_2" name="TFL-EXTENSION 35/25 520MM" materialnr="390282" pos="5" description="&amp;nbsp;">
+    <map x="250" y="85" w="28" h="21">
+      <ref pos="5">1.2.1</ref>
+    </map>
+    <map x="315" y="59" w="28" h="21">
+      <ref pos="10">1.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1" name="AIRBAG" materialnr="384569" pos="5" description="&amp;nbsp;" />
+  <stk id="1_2_2" name="BELT FIELD TFL-EXTENSION 35/25 520MM" materialnr="390279" pos="10" description="&amp;nbsp;">
+    <map x="189" y="98" w="28" h="21">
+      <ref pos="1">1.2.2.1</ref>
+    </map>
+    <map x="284" y="217" w="28" h="21">
+      <ref pos="9">1.2.2.2</ref>
+    </map>
+    <map x="125" y="249" w="28" h="21">
+      <ref pos="11">1.2.2.3</ref>
+    </map>
+    <map x="371" y="73" w="28" h="21">
+      <ref pos="17">1.2.2.4</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_1" name="BELT UNIT" materialnr="337173" pos="1" description="&amp;nbsp;">
+    <map x="151" y="149" w="28" h="21">
+      <ref pos="3">1.2.2.1.1</ref>
+    </map>
+    <map x="72" y="169" w="28" h="21">
+      <ref pos="9">1.2.2.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_1_1" name="TOOTHED BELT W25 PIT10 L7540-V-PAZ-PVC" materialnr="200675" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_2_1_2" name="GROOVED BALL BEARING ID20 0D42 W12;2SEAL" materialnr="005697" pos="9" description="&amp;nbsp;" />
+  <stk id="1_2_2_2" name="ARTICULATED HEAD M20X1.5-FEMALE-R D20" materialnr="003073" pos="9" description="&amp;nbsp;" />
+  <stk id="1_2_2_3" name="ARTICULATED HEAD M20X1.5-FEMALE-L;D=20MM" materialnr="005845" pos="11" description="&amp;nbsp;" />
+  <stk id="1_2_2_4" name="DRIVE SHAFT - EXTENSION TFL-35/25" materialnr="390289" pos="17" description="&amp;nbsp;">
+    <map x="123" y="183" w="28" h="21">
+      <ref pos="2">1.2.2.4.1</ref>
+    </map>
+    <map x="152" y="152" w="28" h="21">
+      <ref pos="7">1.2.2.4.2</ref>
+    </map>
+    <map x="214" y="131" w="28" h="21">
+      <ref pos="8">1.2.2.4.3</ref>
+    </map>
+    <map x="245" y="102" w="28" h="21">
+      <ref pos="9">1.2.2.4.4</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_4_1" name="SHAFT COUPLING ROTEX 28 ALU-D/160NM D25" materialnr="338277" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_2_4_2" name="FLANGE BEARING ID=25MM 3-HOLE CASTING" materialnr="024655" pos="7" description="&amp;nbsp;" />
+  <stk id="1_2_2_4_3" name="DISC COUPLING D=25MM" materialnr="025694" pos="8" description="&amp;nbsp;" />
+  <stk id="1_2_2_4_4" name="TOOTHED BELT PULLEY PIT10/T32 W25 B25H7" materialnr="231405" pos="9" description="&amp;nbsp;" />
+</catalog>

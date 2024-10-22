@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="RTVN-27MZ">
+  <stk id="1" name="RTVN-27MZ" materialnr="169771" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="161" y="11" w="275" h="299">
+      <ref pos="1">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="RTVN-27MZ Zusammenstellung" materialnr="323675" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="117" y="196" w="26" h="33">
+      <ref pos="3">1.1.1</ref>
+    </map>
+    <map x="115" y="248" w="26" h="33">
+      <ref pos="7">1.1.5</ref>
+    </map>
+    <map x="115" y="300" w="26" h="33">
+      <ref pos="4">1.1.2</ref>
+    </map>
+    <map x="424" y="69" w="26" h="33">
+      <ref pos="5">1.1.3</ref>
+    </map>
+    <map x="429" y="245" w="26" h="33">
+      <ref pos="6">1.1.4</ref>
+    </map>
+    <map x="349" y="367" w="26" h="25" />
+    <map x="79" y="55" w="74" h="77" />
+  </stk>
+  <stk id="1_1_1" name="St&amp;uuml;tzrolle Dm.50 f&amp;uuml;r Holzpl.19mm" materialnr="306458" pos="3" description="&amp;nbsp;" ET="6" Quantity="123" Unit="">
+    <map x="123" y="25" w="341" h="264">
+      <ref pos="3">1.1.1.2</ref>
+      <ref pos="10">1.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="Laufrollenbelag f. ST&amp;Uuml;TZROLLE. TPU natur" materialnr="247583" pos="10" description="&amp;nbsp;" ET="6" Quantity="123" Unit="" />
+  <stk id="1_1_1_2" name="Rolle mit Laufrollenbelag" materialnr="306456" pos="3" description="&amp;nbsp;" ET="6" Quantity="123" Unit="">
+    <map x="205" y="69" w="25" h="19">
+      <ref pos="2">1.1.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_2_1" name="Laufrollenbelag f. ST&amp;Uuml;TZROLLE. TPU natur" materialnr="247583" pos="2" description="&amp;nbsp;" ET="8" Quantity="15129" Unit="" />
+  <stk id="1_1_2" name="Transporttr&amp;auml;ger RTVN-27MZ Zusammenst." materialnr="323650" pos="4" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="363" y="361" w="28" h="24">
+      <ref pos="2">1.1.2.1</ref>
+    </map>
+    <map x="110" y="54" w="28" h="24">
+      <ref pos="4">1.1.2.2</ref>
+    </map>
+    <map x="141" y="54" w="28" h="24">
+      <ref pos="5">1.1.2.3</ref>
+    </map>
+    <map x="474" y="221" w="28" h="24">
+      <ref pos="7">1.1.2.4</ref>
+    </map>
+    <map x="393" y="361" w="28" h="24">
+      <ref pos="9">1.1.2.5</ref>
+    </map>
+    <map x="410" y="222" w="28" h="24">
+      <ref pos="10">1.1.2.6</ref>
+    </map>
+    <map x="442" y="221" w="28" h="24">
+      <ref pos="11">1.1.2.7</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="ST&amp;Uuml;TZROLLE KOMPLETT" materialnr="220826" pos="2" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="117" y="89" w="332" h="163">
+      <ref pos="1">1.1.2.1.1</ref>
+      <ref pos="2">1.1.2.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_1" name="LAUFROLLE D=17/12X29.4MM, RG7" materialnr="011413" pos="1" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_2_1_2" name="LAGERBOLZEN F.LAUFROLLE D=12D9 X 52" materialnr="011412" pos="2" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_2" name="LAGERBOCK F.RIEMENANTRIEB RTV-MZ" materialnr="031893" pos="4" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="429" y="36" w="26" h="26">
+      <ref pos="2">1.1.2.2.1</ref>
+    </map>
+    <map x="392" y="38" w="26" h="26">
+      <ref pos="13">1.1.2.2.4</ref>
+    </map>
+    <map x="62" y="84" w="26" h="26">
+      <ref pos="9">1.1.2.2.3</ref>
+    </map>
+    <map x="436" y="186" w="27" h="25">
+      <ref pos="5">1.1.2.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_2_1" name="ANTRIEBSWELLE" materialnr="170022" pos="2" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_2_2" name="RILLENKUGELL.ID30,AD62,BR16,2DECKSCH" materialnr="005707" pos="5" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_2_2_3" name="ZAHNRIEMENSCHEIBE KOMPLETT; FPSN" materialnr="030007" pos="9" description="&amp;nbsp;" ET="8" Quantity="2" Unit="">
+    <map x="103" y="7" w="345" h="378">
+      <ref pos="1">1.1.2.2.3.1</ref>
+      <ref pos="2">1.1.2.2.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_2_3_1" name="ZAHNRIEMENSCHEIBE Z=25 AT10 B=61" materialnr="171658" pos="1" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_2_2_3_2" name="BORDSCHEIBE FPS(N)-U" materialnr="232603" pos="2" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_2_2_4" name="PASSFEDER 8X7X45MM,DIN 6885,ST50-1K" materialnr="005323" pos="13" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_3" name="ZAHNRIEMEN, 60AT10/5420-PAZ-T" materialnr="321486" pos="5" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_2_4" name="STG.Servom.LENZE 1.7kW+GST05 i=20.0 oB" materialnr="303843" pos="7" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="143" y="94" w="131" h="184">
+      <ref pos="10">1.1.2.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_4_1" name="STIRNRADGETR; I=20.044; GST05-2F VBR" materialnr="368277" pos="10" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_2_5" name="HTD-ZAHNR.SCH;T8,Z32,BR30,25H7,BUCHS" materialnr="013453" pos="9" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_6" name="HTD-ZAHNR.SCH;T8,Z40,BR30,25H7,BUCHS" materialnr="013454" pos="10" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_7" name="Zahnriemen HTD 600-8M-30 CXA III" materialnr="347069" pos="11" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3" name="H&amp;ouml;henabtastung 16-33" materialnr="322415" pos="5" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="45" y="60" w="467" h="267">
+      <ref pos="1">1.1.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="H&amp;ouml;henabtastung f&amp;uuml;r 3,0m wie gez." materialnr="171656" pos="1" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="367" y="194" w="27" h="25">
+      <ref>1.1.3.1.1</ref>
+    </map>
+    <map x="417" y="31" w="27" h="25">
+      <ref>1.1.3.1.2</ref>
+    </map>
+    <map x="510" y="98" w="27" h="25">
+      <ref>1.1.3.1.3</ref>
+    </map>
+    <map x="266" y="125" w="27" h="25">
+      <ref>1.1.3.1.4</ref>
+    </map>
+    <map x="182" y="164" w="27" h="25">
+      <ref>1.1.3.1.5</ref>
+    </map>
+    <map x="150" y="165" w="27" h="25">
+      <ref pos="20">1.1.3.1.6</ref>
+    </map>
+    <map x="113" y="240" w="27" h="25">
+      <ref>1.1.3.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_1" name="DW.PN.ZYL;D=25,H=250,ISO,M.SIGN." materialnr="016168" pos="4" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_2" name="POTENTIOMETER LINEAR 250mm" materialnr="028897" pos="5" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_3" name="LINEARF&amp;Uuml;HRUNG THK RSR12 MX UU+320L" materialnr="031168" pos="9" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_4" name="Abluftdrossel, G1/8&amp;quot;, Dm6, Steckanschl." materialnr="315403" pos="12" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_5" name="SENSOR OPTOELEKTRONISCH E3S-AD88" materialnr="032031" pos="18" description="&amp;nbsp;" ET="8" Quantity="13" Unit="" />
+  <stk id="1_1_3_1_6" name="SENSOR KABEL AXIAL M12 4P 2M" materialnr="029348" pos="20" description="&amp;nbsp;" ET="8" Quantity="13" Unit="" />
+  <stk id="1_1_4" name="BAUGR. BREITENABTASTUNG + VENTILPL." materialnr="197460" pos="6" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="137" y="5" w="154" h="202">
+      <ref pos="4">1.1.4.2</ref>
+    </map>
+    <map x="298" y="258" w="123" h="121">
+      <ref pos="1">1.1.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="Dickenabtastung f&amp;uuml;r ...-MZ/MZU2 gesamt" materialnr="344580" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="150" y="39" w="308" h="194">
+      <ref pos="3">1.1.4.1.1</ref>
+      <ref pos="4">1.1.4.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_1" name="Tastschiene RTVN-Breitenabtastung L=56" materialnr="315079" pos="3" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_1_2" name="Dickenabtastung f&amp;uuml;r ...-MZ/MZU2" materialnr="340205" pos="4" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="284" y="8" w="29" h="20">
+      <ref pos="8">1.1.4.1.2.1</ref>
+    </map>
+    <map x="253" y="7" w="29" h="20">
+      <ref pos="9">1.1.4.1.2.2</ref>
+    </map>
+    <map x="222" y="7" w="29" h="20">
+      <ref pos="17">1.1.4.1.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1_2_1" name="POTENTIOMETER LINEAR 100mm, ohne Feder" materialnr="028898" pos="8" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_4_1_2_2" name="DW.PN.ZYL;D=16,H=100,ISO,M.SIGN;OVAL" materialnr="025184" pos="9" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_4_1_2_3" name="Abluftdrossel, M5, Dm6, Steckanschl." materialnr="316739" pos="17" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_4_2" name="Ventilblock f&amp;uuml;r Messzone" materialnr="307542" pos="4" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="76" y="308" w="25" h="25">
+      <ref pos="5">1.1.4.2.3</ref>
+    </map>
+    <map x="74" y="265" w="25" h="25">
+      <ref pos="6">1.1.4.2.4</ref>
+    </map>
+    <map x="526" y="132" w="25" h="25">
+      <ref pos="15">1.1.4.2.6</ref>
+    </map>
+    <map x="531" y="185" w="25" h="25">
+      <ref pos="17">1.1.4.2.7</ref>
+    </map>
+    <map x="418" y="341" w="25" h="24">
+      <ref pos="11">1.1.4.2.5</ref>
+    </map>
+    <map x="386" y="341" w="28" h="25">
+      <ref pos="3">1.1.4.2.2</ref>
+    </map>
+    <map x="356" y="341" w="28" h="25" />
+    <map x="318" y="365" w="28" h="25" />
+    <map x="525" y="346" w="28" h="25" />
+    <map x="261" y="366" w="28" h="25" />
+    <map x="463" y="130" w="28" h="25" />
+    <map x="446" y="78" w="28" h="25">
+      <ref pos="2">1.1.4.2.1</ref>
+    </map>
+    <map x="180" y="350" w="68" h="48" />
+  </stk>
+  <stk id="1_1_4_2_1" name="5/2-M-VENTIL,ISOGR.1;FRST;24,1060L/M" materialnr="003229" pos="2" description="&amp;nbsp;" ET="7" Quantity="3" Unit="" />
+  <stk id="1_1_4_2_2" name="SAMMELANSCHLUSSPL;ISO 1,R1/8-R1/4&amp;quot;" materialnr="003319" pos="3" description="&amp;nbsp;" ET="8" Quantity="3" Unit="" />
+  <stk id="1_1_4_2_3" name="DRUCKREGLER, R1/4&amp;quot;, 0.2-4 BAR" materialnr="003368" pos="5" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_4_2_4" name="MANOMETER, 0-4BAR, R1/8&amp;quot;-WAAGRECHT" materialnr="003356" pos="6" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_4_2_5" name="SCHALLD&amp;Auml;MPFER, R3/8&amp;quot;, SINTERMETALL" materialnr="003352" pos="11" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_4_2_6" name="DRUCKREGLER, R1/4&amp;quot;, 0.3-7 BAR" materialnr="027522" pos="15" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_4_2_7" name="MANOMETER, 0-10BAR, R1/8&amp;quot;-WAAGRECHT" materialnr="003355" pos="17" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_5" name="Rollenleiste RTVN-27MZ" materialnr="323373" pos="7" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="248" y="231" w="28" h="26">
+      <ref pos="2">1.1.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1" name="St&amp;uuml;tzrolle Dm.50 mit Gewinde M6x15" materialnr="306434" pos="2" description="&amp;nbsp;" ET="6" Quantity="34" Unit="">
+    <map x="212" y="151" w="170" h="129">
+      <ref pos="3">1.1.5.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1_1" name="Rolle mit Laufrollenbelag" materialnr="306456" pos="3" description="&amp;nbsp;" ET="9" Quantity="34" Unit="">
+    <map x="205" y="69" w="25" h="19">
+      <ref pos="2">1.1.5.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1_1_1" name="Laufrollenbelag f. ST&amp;Uuml;TZROLLE. TPU natur" materialnr="247583" pos="2" description="&amp;nbsp;" ET="8" Quantity="1156" Unit="" />
+</catalog>

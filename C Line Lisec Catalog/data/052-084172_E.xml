@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="ARS">
+  <stk id="1" name="ARS" materialnr="350067" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="">
+    <map x="19" y="49" w="560" h="206">
+      <ref pos="1">1.1</ref>
+    </map>
+    <map x="14" y="270" w="59" h="36" />
+  </stk>
+  <stk id="1_1" name="COMPLETE LIST ARS FOR BTA-50 + BTA-60" materialnr="345302" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="432" y="95" w="27" h="21">
+      <ref pos="1">1.1.1</ref>
+    </map>
+    <map x="22" y="113" w="27" h="21">
+      <ref pos="4">1.1.4</ref>
+    </map>
+    <map x="506" y="49" w="78" h="77">
+      <ref pos="13">1.1.8</ref>
+    </map>
+    <map x="502" y="168" w="70" h="67">
+      <ref pos="3">1.1.3</ref>
+    </map>
+    <map x="373" y="95" w="27" h="21">
+      <ref pos="2">1.1.2</ref>
+    </map>
+    <map x="558" y="296" w="27" h="21">
+      <ref pos="6">1.1.5</ref>
+    </map>
+    <map x="282" y="265" w="27" h="21">
+      <ref pos="9">1.1.7</ref>
+    </map>
+    <map x="41" y="168" w="43" h="47">
+      <ref pos="8">1.1.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="GLASS SUPPORT COMPLETE AT RBVH" materialnr="344163" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="514" y="0" w="28" h="20">
+      <ref pos="7">1.1.1.2</ref>
+    </map>
+    <map x="501" y="108" w="28" h="20">
+      <ref pos="8">1.1.1.3</ref>
+    </map>
+    <map x="545" y="0" w="28" h="20">
+      <ref pos="10">1.1.1.4</ref>
+    </map>
+    <map x="532" y="108" w="28" h="20">
+      <ref pos="11">1.1.1.5</ref>
+    </map>
+    <map x="482" y="0" w="28" h="20">
+      <ref pos="14">1.1.1.6</ref>
+    </map>
+    <map x="562" y="109" w="28" h="20">
+      <ref pos="6">1.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="COUNTER BEARING-FORK F ISO-CYL.D25 NIRO" materialnr="313389" pos="6" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_1_2" name="JOINT HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="7" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_1_3" name="GUIDING CAR &amp;quot;STAR&amp;quot; SIZE 25 1651-214-586" materialnr="349177" pos="8" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_1_4" name="DA-PNEU CYLINDER D25 STR200/WITH SIGNAL" materialnr="252797" pos="10" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_1_5" name="GUIDE RAIL STAR SIZE=25  L=340MM" materialnr="162814" pos="11" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_1_6" name="SUPPORT ROLLER UNIT AT RBVH" materialnr="345526" pos="14" description="&amp;nbsp;" ET="9" Quantity="11" Unit="">
+    <map x="182" y="50" w="28" h="20">
+      <ref pos="1">1.1.1.6.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_6_1" name="VULCOLLAN-ROLLER W.BEARING OD40 ID10 W15" materialnr="188734" pos="1" description="&amp;nbsp;" ET="6" Quantity="22" Unit="" />
+  <stk id="1_1_2" name="GLASS TANK COMPLETE 3500x500x400" materialnr="122054" pos="2" description="&amp;nbsp;" ET="9" Quantity="2" Unit="">
+    <map x="449" y="240" w="28" h="20">
+      <ref pos="2">1.1.2.1</ref>
+    </map>
+    <map x="148" y="241" w="28" h="20">
+      <ref pos="4">1.1.2.2</ref>
+    </map>
+    <map x="29" y="63" w="28" h="20">
+      <ref pos="5">1.1.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="GUIDE ROLLER BLICKLE LH-G127K" materialnr="423233" pos="2" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_2_2" name="FIXED ROLLER BLICKLE BH-G127K" materialnr="423232" pos="4" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_2_3" name="STEEL BOW-TYPE HANDLE" materialnr="025693" pos="5" description="&amp;nbsp;" ET="8" Quantity="12" Unit="" />
+  <stk id="1_1_3" name="RBVH COMPLETE VAR.2" materialnr="344160" pos="3" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="414" y="38" w="88" h="169">
+      <ref pos="1">1.1.3.1</ref>
+    </map>
+    <map x="238" y="0" w="28" h="20">
+      <ref pos="2">1.1.3.2</ref>
+    </map>
+    <map x="138" y="0" w="28" h="20">
+      <ref pos="3">1.1.3.3</ref>
+    </map>
+    <map x="293" y="0" w="28" h="20">
+      <ref pos="6">1.1.3.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="EDGE-BREAKING DEVICE RBV VAR.2" materialnr="356847" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="418" y="27" w="29" h="20">
+      <ref pos="1">1.1.3.1.1</ref>
+    </map>
+    <map x="418" y="75" w="29" h="20">
+      <ref pos="4">1.1.3.1.2</ref>
+    </map>
+    <map x="418" y="51" w="29" h="20">
+      <ref pos="5">1.1.3.1.3</ref>
+    </map>
+    <map x="418" y="122" w="29" h="20">
+      <ref pos="8">1.1.3.1.4</ref>
+    </map>
+    <map x="154" y="173" w="29" h="20">
+      <ref pos="9">1.1.3.1.5</ref>
+    </map>
+    <map x="154" y="197" w="29" h="20">
+      <ref pos="12">1.1.3.1.6</ref>
+    </map>
+    <map x="274" y="200" w="71" h="24">
+      <ref pos="16">1.1.3.1.7</ref>
+    </map>
+    <map x="278" y="240" w="56" h="33">
+      <ref pos="18">1.1.3.1.8</ref>
+      <ref pos="20">1.1.3.1.9</ref>
+    </map>
+    <map x="418" y="227" w="29" h="20">
+      <ref pos="22">1.1.3.1.10</ref>
+    </map>
+    <map x="418" y="98" w="29" h="20">
+      <ref pos="24">1.1.3.1.11</ref>
+    </map>
+    <map x="418" y="251" w="29" h="20">
+      <ref pos="25">1.1.3.1.12</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_1" name="DA-SHORT STROKE CYL. D20 STR25 W/OUT SIG" materialnr="002773" pos="1" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_2" name="CLAMPING SLIDER" materialnr="115924" pos="4" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_3" name="STRIP TERMINAL" materialnr="115935" pos="5" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_4" name="VULCOLLAN ROUND D=15x30MM" materialnr="179170" pos="8" description="&amp;nbsp;" ET="3" Quantity="8" Unit="" />
+  <stk id="1_1_3_1_5" name="CYLINDER DBL/ACT (SHORT STROKE)D=63" materialnr="002895" pos="9" description="&amp;nbsp;" ET="7" Quantity="2" Unit="">
+    <map x="189" y="54" w="228" h="194">
+      <ref pos="10">1.1.3.1.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_5_1" name="SEAL-KIT f.CYLINDER DBL/ACT,D=63, H=10" materialnr="358074" pos="10" description="&amp;nbsp;" ET="0" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_6" name="THRUST PIECE" materialnr="115920" pos="12" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_7" name="FLANGE BUSHING ID=16MM,OD=18MM,L=12MM" materialnr="014217" pos="16" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_8" name="PRESSURE SPRING D=15.5 WIRE=3.5x2.2 L25" materialnr="023565" pos="18" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_9" name="PLAIN BEARING BUSH ID15 OD17 L10MM" materialnr="005806" pos="20" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_3_1_10" name="VULCOLLAN RING D=20/12X30MM SHORE A" materialnr="028135" pos="22" description="&amp;nbsp;" ET="3" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_11" name="HAND WHEEL WITH SCREW 10X15MM D=56MM" materialnr="027177" pos="24" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_12" name="FLANGE BEARING ALLOYING 603 ID6 OD10 L10" materialnr="005825" pos="25" description="&amp;nbsp;" ET="7" Quantity="4" Unit="" />
+  <stk id="1_1_3_2" name="DA-PNEU-CYLINDER D50 STR50 ISO+SIGNAL" materialnr="424806" pos="2" description="&amp;nbsp;" ET="7" Quantity="2" Unit="" />
+  <stk id="1_1_3_3" name="JOINT HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="3" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_3_4" name="FLANGE REAR FOR CYLINDER C10-50 TY:50/11" materialnr="003048" pos="6" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_4" name="IMPACT STRIP FOR SPLINTER GUARD" materialnr="032312" pos="4" description="&amp;nbsp;" ET="6" Quantity="2" Unit="" />
+  <stk id="1_1_5" name="FIXED CASTOR 88-100 SUB" materialnr="005614" pos="6" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_6" name="ANTI-VIBRATION BUMPER D50/H20 M10X26-MAL" materialnr="020603" pos="8" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_7" name="ROBALON BAR FOR GLASS TANK GUIDE L3210MM" materialnr="352071" pos="9" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_8" name="PNEUMATIC PARTS FOR ARS" materialnr="117550" pos="13" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="78" y="61" w="436" h="289">
+      <ref pos="1">1.1.8.1</ref>
+      <ref pos="2">1.1.8.2</ref>
+      <ref pos="3">1.1.8.3</ref>
+      <ref pos="4">1.1.8.4</ref>
+      <ref pos="5">1.1.8.5</ref>
+      <ref pos="7">1.1.8.6</ref>
+      <ref pos="8">1.1.8.7</ref>
+      <ref pos="9">1.1.8.8</ref>
+      <ref pos="10">1.1.8.9</ref>
+      <ref pos="11">1.1.8.10</ref>
+      <ref pos="16">1.1.8.11</ref>
+    </map>
+  </stk>
+  <stk id="1_1_8_1" name="EXHAUST THROTTLE M5 D=6/PLUG CONNECTION" materialnr="316739" pos="1" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_8_2" name="EXHAUST THROTTLE THREAD1/8&amp;quot; D6/PLUG-CON." materialnr="315403" pos="2" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_8_3" name="EXHAUST THROTTLE T1/4&amp;quot; D=6MM/PLUG-CONN." materialnr="316705" pos="3" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_8_4" name="MANOMETER 0-4 BAR R1/8&amp;quot;-HORIZONTAL" materialnr="003356" pos="4" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_8_5" name="PRESSURE CONTROLLER 0.2-4BAR R1/4&amp;quot;" materialnr="003368" pos="5" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_8_6" name="5/2-M-VALVE CD01 NW4 MONOSTABILE" materialnr="191548" pos="7" description="&amp;nbsp;" ET="7" Quantity="6" Unit="" />
+  <stk id="1_1_8_7" name="EXHAUST SILENCER R3/8&amp;quot; SINTERED METAL" materialnr="003352" pos="8" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_8_8" name="CONNECTION PLATE FOR TYPE CD01/PIPE OD6" materialnr="191608" pos="9" description="&amp;nbsp;" ET="8" Quantity="7" Unit="" />
+  <stk id="1_1_8_9" name="CONNECTING PLATE LEFT F TYPE CD 01" materialnr="191604" pos="10" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_8_10" name="CONNECTING PLATE FOR TYPE CD 01" materialnr="191605" pos="11" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_8_11" name="5/2 SOLENOID VALVE;TYPE CD01 D4; BIS" materialnr="191568" pos="16" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+</catalog>

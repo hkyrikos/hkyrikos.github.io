@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="BTA-33">
+  <stk id="1" name="BTA-33" materialnr="309042" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="">
+    <map x="84" y="58" w="396" h="213">
+      <ref pos="6">1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="Gesamtliste BTA-20/33 RL=4500 o.Luftk." materialnr="351280" pos="6" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="374" y="232" w="28" h="20" />
+    <map x="45" y="43" w="507" h="150">
+      <ref pos="2">1.1.2</ref>
+      <ref pos="4">1.1.3</ref>
+    </map>
+    <map x="49" y="299" w="28" h="20">
+      <ref pos="1">1.1.1</ref>
+    </map>
+    <map x="114" y="270" w="62" h="51" />
+  </stk>
+  <stk id="1_1_1" name="Stahlkonstruktion BTA-20/33 RL=4500" materialnr="351282" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="63" y="285" w="28" h="20">
+      <ref pos="2">1.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="F&amp;Uuml;HRUNGSTEIL F&amp;Uuml;R SCHNEIDTISCHFUSS" materialnr="027784" pos="2" description="&amp;nbsp;" ET="9" Quantity="4" Unit="">
+    <map x="202" y="48" w="28" h="20" />
+    <map x="202" y="71" w="28" h="20" />
+    <map x="202" y="94" w="28" h="20">
+      <ref pos="5">1.1.1.1.1</ref>
+    </map>
+    <map x="204" y="186" w="28" h="20" />
+  </stk>
+  <stk id="1_1_1_1_1" name="UNTERLAGSSCHEIBE DIN134, M16 ID=17, VERZ" materialnr="005000" pos="5" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_2" name="Gesamtliste Riemenfeld BTA-20/33 RL=4500" materialnr="351281" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="97" y="140" w="47" h="19">
+      <ref pos="1">1.1.2.1</ref>
+      <ref pos="100">1.1.2.13</ref>
+    </map>
+    <map x="77" y="241" w="28" h="20">
+      <ref pos="3">1.1.2.2</ref>
+    </map>
+    <map x="279" y="136" w="33" h="19">
+      <ref pos="6">1.1.2.3</ref>
+      <ref pos="17">1.1.2.12</ref>
+    </map>
+    <map x="264" y="272" w="28" h="20">
+      <ref pos="7">1.1.2.4</ref>
+    </map>
+    <map x="7" y="141" w="28" h="20">
+      <ref pos="8">1.1.2.5</ref>
+    </map>
+    <map x="421" y="241" w="28" h="20">
+      <ref pos="9">1.1.2.6</ref>
+    </map>
+    <map x="336" y="271" w="28" h="20">
+      <ref pos="10">1.1.2.7</ref>
+    </map>
+    <map x="297" y="272" w="28" h="20">
+      <ref pos="11">1.1.2.8</ref>
+    </map>
+    <map x="231" y="240" w="28" h="20">
+      <ref pos="12">1.1.2.9</ref>
+    </map>
+    <map x="143" y="241" w="28" h="20">
+      <ref pos="13">1.1.2.10</ref>
+    </map>
+    <map x="315" y="136" w="28" h="20">
+      <ref pos="14">1.1.2.11</ref>
+    </map>
+    <map x="14" y="190" w="61" h="37">
+      <ref pos="101">1.1.2.14</ref>
+    </map>
+    <map x="367" y="136" w="28" h="20">
+      <ref pos="102">1.1.2.15</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="SCHALENKUPPLUNG DM25" materialnr="025694" pos="1" description="&amp;nbsp;" ET="7" Quantity="5" Unit="" />
+  <stk id="1_1_2_2" name="Welle 3 Var.2" materialnr="437726" pos="3" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_3" name="HTD-ZR-Scheibe 40-8M-50 Null-L&amp;uuml;cke ID=50" materialnr="377062" pos="6" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_4" name="HTD-ZR-Scheibe 30-8M-50 Null-L&amp;uuml;cke ID=30" materialnr="377061" pos="7" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_5" name="Riemeneinheit RL=4500 RB=50 Var.1" materialnr="351279" pos="8" description="&amp;nbsp;" ET="9" Quantity="6" Unit="">
+    <map x="23" y="225" w="76" h="55">
+      <ref pos="2">1.1.2.5.1</ref>
+      <ref pos="10">1.1.2.5.6</ref>
+      <ref pos="100">1.1.2.5.7</ref>
+    </map>
+    <map x="529" y="123" w="29" h="20">
+      <ref pos="3">1.1.2.5.2</ref>
+    </map>
+    <map x="211" y="88" w="29" h="20">
+      <ref pos="9">1.1.2.5.5</ref>
+    </map>
+    <map x="509" y="38" w="68" h="43">
+      <ref pos="6">1.1.2.5.3</ref>
+      <ref pos="102">1.1.2.5.8</ref>
+    </map>
+    <map x="174" y="87" w="28" h="20">
+      <ref pos="8">1.1.2.5.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_5_1" name="Umlenkrolle gesamt RB=50mm AD=120mm" materialnr="468262" pos="2" description="&amp;nbsp;" ET="9" Quantity="6" Unit="">
+    <map x="247" y="11" w="28" h="20">
+      <ref pos="1">1.1.2.5.1.1</ref>
+    </map>
+    <map x="161" y="44" w="28" h="20">
+      <ref pos="2">1.1.2.5.1.2</ref>
+    </map>
+    <map x="203" y="24" w="28" h="20">
+      <ref pos="3">1.1.2.5.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_5_1_1" name="UMLENKROLLE F.ZAHNRIEMEN,D=120X55MM" materialnr="019621" pos="1" description="&amp;nbsp;" ET="8" Quantity="36" Unit="" />
+  <stk id="1_1_2_5_1_2" name="BOHRUNGSSICHERUNGSRING DIN 472-52X2" materialnr="005382" pos="2" description="&amp;nbsp;" ET="7" Quantity="72" Unit="" />
+  <stk id="1_1_2_5_1_3" name="RILLENKUGELL.ID25,AD52,BR15,2DICHTS." materialnr="005704" pos="3" description="&amp;nbsp;" ET="6" Quantity="72" Unit="" />
+  <stk id="1_1_2_5_2" name="FLANSCHLAGER,ID=25MM,OVALES GEH&amp;Auml;USE" materialnr="005780" pos="3" description="&amp;nbsp;" ET="6" Quantity="12" Unit="" />
+  <stk id="1_1_2_5_3" name="METR.ZAHNR.SCH;AT10,Z40,BR50,25H7,NU" materialnr="019763" pos="6" description="&amp;nbsp;" ET="8" Quantity="6" Unit="" />
+  <stk id="1_1_2_5_4" name="Riemenf&amp;uuml;hrung f&amp;uuml;r Riemeneinheit RL=4500" materialnr="351277" pos="8" description="&amp;nbsp;" ET="8" Quantity="6" Unit="" />
+  <stk id="1_1_2_5_5" name="Zahnriemen 50AT10/4500-V-PAZ-PVC MGDY" materialnr="420702" pos="9" description="&amp;nbsp;" ET="6" Quantity="6" Unit="" />
+  <stk id="1_1_2_5_6" name="UMLENKROLLENLAGERWELLE F.RIEMENEINH." materialnr="030298" pos="10" description="&amp;nbsp;" ET="8" Quantity="6" Unit="" />
+  <stk id="1_1_2_5_7" name="WELLENSICHERUNGSRING DIN 471-25X1.2" materialnr="005353" pos="100" description="&amp;nbsp;" ET="7" Quantity="12" Unit="" />
+  <stk id="1_1_2_5_8" name="PASSFEDER 8X7X45MM,DIN 6885,ST50-1K" materialnr="005323" pos="102" description="&amp;nbsp;" ET="7" Quantity="6" Unit="" />
+  <stk id="1_1_2_6" name="Welle 2 Var.2" materialnr="437733" pos="9" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_7" name="STG.Servom.LENZE 1.7kW+GST06 i=24.9 oB" materialnr="303698" pos="10" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_2_8" name="Zahnriemen  8MGT-800-50 Transmotion" materialnr="367844" pos="11" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_2_9" name="Antriebswelle Ø25 Glastr. -25 Va.2" materialnr="398220" pos="12" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_10" name="Antriebswelle Dm25 Var.2" materialnr="437730" pos="13" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_11" name="Abst&amp;uuml;tzteile f&amp;uuml;r Motorkonsole Var.2" materialnr="377586" pos="14" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="341" y="292" w="28" h="20">
+      <ref pos="1">1.1.2.11.1</ref>
+    </map>
+    <map x="308" y="291" w="28" h="20" />
+  </stk>
+  <stk id="1_1_2_11_1" name="Gelenkkopf IG M10, ND10, wartungsfrei" materialnr="354923" pos="1" description="&amp;nbsp;" ET="6" Quantity="4" Unit="" />
+  <stk id="1_1_2_12" name="Spannbuchse Dm25/50, TLK131, 420Nm" materialnr="378623" pos="17" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_13" name="PASSFEDER 8X7X32MM,DIN 6885,ST50-1K" materialnr="005322" pos="100" description="&amp;nbsp;" ET="7" Quantity="10" Unit="" />
+  <stk id="1_1_2_14" name="PASSFEDER 8X7X45MM,DIN 6885,ST50-1K" materialnr="005323" pos="101" description="&amp;nbsp;" ET="7" Quantity="1" Unit="" />
+  <stk id="1_1_2_15" name="Glasunterst&amp;uuml;tzung mit Exzenter Var.2" materialnr="351331" pos="102" description="&amp;nbsp;" ET="9" Quantity="6" Unit="">
+    <map x="192" y="248" w="28" h="20">
+      <ref pos="3">1.1.2.15.1</ref>
+    </map>
+    <map x="191" y="48" w="28" h="20" />
+  </stk>
+  <stk id="1_1_2_15_1" name="Vulkollan-Rolle m. Lager AD40, ID10, B15" materialnr="188734" pos="3" description="&amp;nbsp;" ET="6" Quantity="6" Unit="" />
+  <stk id="1_1_3" name="Abdeckplatten gesamt f&amp;uuml;r BTA-20/33" materialnr="365729" pos="4" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="63" y="14" w="471" h="291">
+      <ref pos="1">1.1.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1" name="Abdeckplatten f&amp;uuml;r BTA-20/33 wf" materialnr="365728" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="491" y="19" w="35" h="283">
+      <ref pos="4">1.1.3.1.4</ref>
+    </map>
+    <map x="127" y="18" w="127" h="286">
+      <ref pos="1">1.1.3.1.1</ref>
+    </map>
+    <map x="272" y="18" w="54" h="285">
+      <ref pos="2">1.1.3.1.2</ref>
+    </map>
+    <map x="72" y="18" w="36" h="284">
+      <ref pos="3">1.1.3.1.3</ref>
+    </map>
+    <map x="345" y="18" w="127" h="285">
+      <ref pos="1">1.1.3.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_3_1_1" name="Abdeckplatte eins f&amp;uuml;r BTA-20/33 wf" materialnr="365727" pos="1" description="&amp;nbsp;" ET="8" Quantity="4" Unit="" />
+  <stk id="1_1_3_1_2" name="Abdeckplatte drei f&amp;uuml;r BTA-20/33 wf" materialnr="365772" pos="2" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_3" name="Abdeckplatte 2 BTA-20/33 Var.2 wg wf" materialnr="421833" pos="3" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_3_1_4" name="Abdeckplatte zwei f&amp;uuml;r BTA-20/33 sp wf" materialnr="365768" pos="4" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+</catalog>

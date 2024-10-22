@@ -1,0 +1,2386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="DOS-1PSD+SID">
+  <stk id="1" name="DOS-1PSD+SID" materialnr="214216" pos="1" description="&amp;nbsp;">
+    <map x="406" y="106" w="26" h="33">
+      <ref>1.1</ref>
+    </map>
+    <map x="458" y="104" w="26" h="33">
+      <ref>1.2</ref>
+    </map>
+    <map x="365" y="166" w="26" h="33">
+      <ref>1.3</ref>
+    </map>
+    <map x="176" y="95" w="26" h="33">
+      <ref>1.4</ref>
+    </map>
+    <map x="521" y="367" w="33" h="32">
+      <ref>1.6</ref>
+    </map>
+    <map x="384" y="367" w="31" h="32">
+      <ref>1.7</ref>
+      <ref>1.8</ref>
+    </map>
+    <map x="209" y="296" w="44" h="33">
+      <ref>1.9</ref>
+      <ref>1.10</ref>
+    </map>
+    <map x="126" y="36" w="26" h="33">
+      <ref>1.11</ref>
+    </map>
+    <map x="150" y="314" w="26" h="33">
+      <ref>1.16</ref>
+    </map>
+    <map x="185" y="37" w="26" h="33">
+      <ref>1.17</ref>
+    </map>
+    <map x="308" y="352" w="26" h="33">
+      <ref>1.18</ref>
+    </map>
+    <map x="418" y="208" w="104" h="99">
+      <ref pos="12">1.12</ref>
+      <ref pos="13">1.13</ref>
+      <ref pos="14">1.14</ref>
+      <ref pos="15">1.15</ref>
+    </map>
+    <map x="528" y="177" w="26" h="25">
+      <ref pos="6">1.6</ref>
+    </map>
+    <map x="257" y="25" w="96" h="48">
+      <ref pos="21">1.19</ref>
+    </map>
+    <map x="24" y="171" w="105" h="69">
+      <ref pos="5">1.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="MIX.LINE PS/DOS-VFL-1D 100MM EPDM" materialnr="368081" pos="1" description="&amp;nbsp;">
+    <map x="203" y="74" w="26" h="25">
+      <ref pos="1">1.1.1</ref>
+    </map>
+    <map x="234" y="74" w="26" h="25">
+      <ref pos="2">1.1.2</ref>
+    </map>
+    <map x="511" y="26" w="26" h="25">
+      <ref pos="4">1.1.4</ref>
+    </map>
+    <map x="511" y="56" w="26" h="25">
+      <ref pos="5">1.1.5</ref>
+    </map>
+    <map x="519" y="288" w="26" h="25">
+      <ref pos="9">1.1.8</ref>
+    </map>
+    <map x="259" y="201" w="26" h="25">
+      <ref pos="12">1.1.9</ref>
+    </map>
+    <map x="259" y="231" w="26" h="25">
+      <ref pos="13">1.1.10</ref>
+    </map>
+    <map x="328" y="304" w="26" h="25">
+      <ref pos="14">1.1.11</ref>
+    </map>
+    <map x="298" y="304" w="26" h="25">
+      <ref pos="15">1.1.12</ref>
+    </map>
+    <map x="178" y="304" w="26" h="25">
+      <ref pos="16">1.1.13</ref>
+    </map>
+    <map x="147" y="304" w="26" h="25">
+      <ref pos="17">1.1.14</ref>
+    </map>
+    <map x="431" y="206" w="26" h="25">
+      <ref pos="18">1.1.15</ref>
+    </map>
+    <map x="340" y="77" w="26" h="25">
+      <ref pos="19">1.1.16</ref>
+    </map>
+    <map x="371" y="77" w="26" h="25">
+      <ref pos="20">1.1.17</ref>
+    </map>
+    <map x="513" y="144" w="26" h="25">
+      <ref pos="22">1.1.18</ref>
+    </map>
+    <map x="371" y="107" w="26" h="25">
+      <ref pos="23">1.1.19</ref>
+    </map>
+    <map x="513" y="115" w="26" h="25">
+      <ref pos="24">1.1.20</ref>
+    </map>
+    <map x="116" y="303" w="26" h="25">
+      <ref pos="27">1.1.21</ref>
+    </map>
+    <map x="264" y="73" w="26" h="25">
+      <ref pos="28">1.1.22</ref>
+    </map>
+    <map x="400" y="206" w="26" h="25">
+      <ref pos="30">1.1.24</ref>
+    </map>
+    <map x="400" y="176" w="26" h="25">
+      <ref pos="31">1.1.25</ref>
+    </map>
+    <map x="399" y="147" w="26" h="25">
+      <ref pos="33">1.1.26</ref>
+    </map>
+    <map x="211" y="113" w="76" h="56">
+      <ref pos="3">1.1.3</ref>
+      <ref pos="6">1.1.6</ref>
+      <ref pos="8">1.1.7</ref>
+      <ref pos="29">1.1.23</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="STRAIGHT MALE/FEMALE REDUCER R1&amp;quot;-O," materialnr="027948" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="STRAIGHT STUD FITTING/PIPE 20/THR 3/4&amp;quot;-C" materialnr="027873" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_3" name="BASE PIPE D=20/3MM" materialnr="218558" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_4" name="ANGULAR-ROTARY SCREW FITTING" materialnr="349780" pos="4" description="&amp;nbsp;">
+    <map x="105" y="74" w="24" h="22">
+      <ref pos="10">1.1.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352487" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_5" name="STRAIGHT STUD FITT.UNION F.PIPE 20MM;" materialnr="195661" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_6" name="CHECK VALVE,R3/4&amp;quot;,W/TAPERED NIPPLE" materialnr="242030" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_7" name="MIXING HEAD-SCREWED-PS" materialnr="341659" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_8" name="MIXER COMPLETE &amp;Ouml;12mm/COATED" materialnr="222408" pos="9" description="&amp;nbsp;">
+    <map x="320" y="166" w="27" h="25">
+      <ref pos="1">1.1.8.1</ref>
+    </map>
+    <map x="157" y="176" w="27" h="25">
+      <ref pos="2">1.1.8.2</ref>
+    </map>
+    <map x="433" y="324" w="27" h="25">
+      <ref pos="3">1.1.8.3</ref>
+    </map>
+    <map x="307" y="302" w="27" h="25">
+      <ref pos="4">1.1.8.4</ref>
+    </map>
+    <map x="342" y="96" w="27" h="25">
+      <ref pos="5">1.1.8.5</ref>
+    </map>
+    <map x="95" y="76" w="27" h="25">
+      <ref pos="6">1.1.8.6</ref>
+    </map>
+    <map x="463" y="238" w="27" h="25">
+      <ref pos="9">1.1.8.8</ref>
+    </map>
+    <map x="253" y="37" w="27" h="25">
+      <ref pos="8">1.1.8.7</ref>
+    </map>
+  </stk>
+  <stk id="1_1_8_1" name="MIXER TUBE ID=12 L=300 COAT/PREASSEMBLED" materialnr="332796" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_8_2" name="STRAIGHT FITTING/PIPE=16 400BAR" materialnr="027892" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_8_3" name="ADJUSTABLE ELBOW FITTING/16MM/400BAR" materialnr="027983" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_8_4" name="ELBOW FITTING/PIPE=16MM/400BAR" materialnr="027970" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_8_5" name="DBL-ELBOW-ROTARY SCREW FITTING M24X1,5" materialnr="349776" pos="5" description="&amp;nbsp;">
+    <map x="200" y="80" w="219" h="142">
+      <ref pos="10">1.1.8.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_8_5_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352050" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_8_6" name="SPACING AT MIXING LINE" materialnr="026464" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_8_7" name="MIXER SPIRAL D=12MM/ANTI-ADH.COATING" materialnr="307759" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_8_8" name="MIXER TUBE ID=12 L=335 COAT/PREASSEMBLED" materialnr="332797" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_9" name="NEEDLE VALVE/NOZZLE HEAD VFL-1D" materialnr="220528" pos="12" description="&amp;nbsp;">
+    <map x="90" y="65" w="26" h="25">
+      <ref pos="4">1.1.9.2</ref>
+    </map>
+    <map x="247" y="12" w="26" h="25">
+      <ref pos="6">1.1.9.3</ref>
+    </map>
+    <map x="216" y="14" w="26" h="25">
+      <ref pos="7">1.1.9.4</ref>
+    </map>
+    <map x="367" y="35" w="26" h="25">
+      <ref pos="8">1.1.9.5</ref>
+    </map>
+    <map x="431" y="34" w="26" h="25">
+      <ref pos="10">1.1.9.7</ref>
+    </map>
+    <map x="57" y="65" w="26" h="25">
+      <ref pos="1">1.1.9.1</ref>
+    </map>
+    <map x="400" y="34" w="26" h="25">
+      <ref pos="9">1.1.9.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_9_1" name="CONNECTING PIECE WITH CUTTING RING+NUT" materialnr="325949" pos="1" description="&amp;nbsp;">
+    <map x="152" y="107" w="214" h="131">
+      <ref pos="1">1.1.9.1.1</ref>
+      <ref pos="2">1.1.9.1.2</ref>
+      <ref pos="3">1.1.9.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_9_1_1" name="CONNECTING PIECE" materialnr="217556" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_9_1_2" name="CUTTING RING/PIPE=16MM 400BAR" materialnr="003983" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_9_1_3" name="LOCK CAP/PIPE 16MM THREAD 24X1,5 400BAR" materialnr="027852" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_9_2" name="NEEDLE SEAT/NOZZLE HEAF HARDENED" materialnr="026639" pos="4" description="&amp;nbsp;" />
+  <stk id="1_1_9_3" name="SEAL KIT FOR NOZZLE HEAD (NEEDLE VALVE)" materialnr="007523" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_9_4" name="VFL-NOZZLE NEEDLE W/BALL VALVE SEAT" materialnr="026640" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_9_5" name="FASTENING SCREW FOR SEAL RING" materialnr="019575" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_9_6" name="METRICAL HEX. NUT, M6, GALV" materialnr="004882" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_9_7" name="NOZZLE NEEDLE SEAT" materialnr="016319" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_10" name="STRAIGHT STUD FITT.UNION/PIPE 16/THR 1/2" materialnr="027906" pos="13" description="&amp;nbsp;" />
+  <stk id="1_1_11" name="ADJUSTABLE ELBOW FITTING/16MM/400BAR" materialnr="027983" pos="14" description="&amp;nbsp;" />
+  <stk id="1_1_12" name="STRAIGHT SWIVEL JOINT M24x1,5 (16S)" materialnr="341589" pos="15" description="&amp;nbsp;">
+    <map x="136" y="94" w="238" h="133">
+      <ref pos="10">1.1.12.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_12_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352050" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_13" name="HD-PTFE-HOSE 13 DKS/AGJ L=462MM" materialnr="366909" pos="16" description="&amp;nbsp;" />
+  <stk id="1_1_14" name="NOZZLE MOUNTING" materialnr="018868" pos="17" description="&amp;nbsp;" />
+  <stk id="1_1_15" name="ELBOW STUD FITTING/PIPE 12/THR 3/8&amp;quot;-TAP." materialnr="027957" pos="18" description="&amp;nbsp;" />
+  <stk id="1_1_16" name="HYD.HOSE/D=8/L=650/DKS/DKS/SPIRASTAR" materialnr="195725" pos="19" description="&amp;nbsp;" />
+  <stk id="1_1_17" name="STRAIGHT FITTING 2XM20x1,5 (12S)" materialnr="341588" pos="20" description="&amp;nbsp;">
+    <map x="132" y="121" w="200" h="109">
+      <ref pos="10">1.1.17.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_17_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352049" pos="10" description="&amp;nbsp;" />
+  <stk id="1_1_18" name="STRAIGHT CONNECTOR 3/8 MALE/MALE" materialnr="028015" pos="22" description="&amp;nbsp;" />
+  <stk id="1_1_19" name="ADJUSTABLE ELBOW FITTING12MM/630=BAR" materialnr="027982" pos="23" description="&amp;nbsp;" />
+  <stk id="1_1_20" name="CHECK  VALVE 3/8&amp;quot;" materialnr="237578" pos="24" description="&amp;nbsp;" />
+  <stk id="1_1_21" name="PTFE-SEAL KIT WITH EPDM O-RING" materialnr="023146" pos="27" description="&amp;nbsp;">
+    <map x="94" y="159" w="27" h="25">
+      <ref pos="2">1.1.21.1</ref>
+    </map>
+    <map x="157" y="36" w="27" h="25">
+      <ref pos="3">1.1.21.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_21_1" name="O-RING 8X2MM EPDM 70 SHORE" materialnr="022679" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_21_2" name="SEALING SAFEGUARD, SPRING D=1.2X45MM" materialnr="015336" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_22" name="STRAIGHT FITTING/PIPE=12MM/640BAR" materialnr="027891" pos="28" description="&amp;nbsp;" />
+  <stk id="1_1_23" name="PIPE BEND &amp;Ouml;12/1.5, 114x62,51&amp;deg;" materialnr="226571" pos="29" description="&amp;nbsp;" />
+  <stk id="1_1_24" name="HYDRAULIC PIPE 12X1,5; 42MM, ASSAMBLED" materialnr="332907" pos="30" description="&amp;nbsp;" />
+  <stk id="1_1_25" name="BLOCK-BALL VALVE M20X1,5-MALE THREAD 500" materialnr="371955" pos="31" description="&amp;nbsp;" />
+  <stk id="1_1_26" name="PIPE BEND 12X1,5 BLADE 2X75MM" materialnr="335231" pos="33" description="&amp;nbsp;" />
+  <stk id="1_2" name="MIX.LINE SI (DOS VFL-1D)100MM EPDM" materialnr="368078" pos="2" description="&amp;nbsp;">
+    <map x="175" y="93" w="26" h="25">
+      <ref>1.2.1</ref>
+    </map>
+    <map x="288" y="91" w="26" h="25">
+      <ref pos="3">1.2.2</ref>
+    </map>
+    <map x="449" y="51" w="26" h="25">
+      <ref>1.2.3</ref>
+    </map>
+    <map x="516" y="99" w="26" h="25">
+      <ref>1.2.4</ref>
+    </map>
+    <map x="512" y="137" w="26" h="25">
+      <ref>1.2.5</ref>
+    </map>
+    <map x="541" y="158" w="26" h="25">
+      <ref pos="7">1.2.6</ref>
+    </map>
+    <map x="503" y="214" w="26" h="25">
+      <ref>1.2.7</ref>
+    </map>
+    <map x="475" y="313" w="26" h="25">
+      <ref>1.2.8</ref>
+    </map>
+    <map x="222" y="247" w="26" h="25">
+      <ref>1.2.9</ref>
+    </map>
+    <map x="222" y="276" w="26" h="25">
+      <ref>1.2.10</ref>
+    </map>
+    <map x="312" y="354" w="26" h="25">
+      <ref>1.2.11</ref>
+    </map>
+    <map x="263" y="366" w="26" h="25">
+      <ref>1.2.12</ref>
+    </map>
+    <map x="181" y="361" w="26" h="25">
+      <ref>1.2.13</ref>
+    </map>
+    <map x="101" y="363" w="26" h="25">
+      <ref>1.2.14</ref>
+    </map>
+    <map x="362" y="210" w="26" h="25">
+      <ref>1.2.15</ref>
+    </map>
+    <map x="279" y="3" w="26" h="25">
+      <ref>1.2.16</ref>
+    </map>
+    <map x="355" y="118" w="26" h="25">
+      <ref>1.2.17</ref>
+    </map>
+    <map x="503" y="179" w="26" h="25">
+      <ref>1.2.18</ref>
+    </map>
+    <map x="110" y="99" w="26" h="25">
+      <ref>1.2.19</ref>
+    </map>
+    <map x="490" y="244" w="26" h="25">
+      <ref>1.2.20</ref>
+    </map>
+    <map x="66" y="266" w="88" h="60">
+      <ref pos="26">1.2.21</ref>
+    </map>
+    <map x="53" y="363" w="26" h="25">
+      <ref>1.2.22</ref>
+    </map>
+    <map x="177" y="48" w="26" h="25">
+      <ref>1.2.23</ref>
+    </map>
+    <map x="125" y="8" w="26" h="25">
+      <ref>1.2.24</ref>
+    </map>
+    <map x="388" y="185" w="26" h="25">
+      <ref>1.2.25</ref>
+    </map>
+    <map x="400" y="160" w="26" h="25">
+      <ref>1.2.26</ref>
+    </map>
+    <map x="369" y="147" w="26" h="25">
+      <ref>1.2.27</ref>
+    </map>
+    <map x="212" y="139" w="114" h="68">
+      <ref pos="34">1.2.28</ref>
+      <ref pos="35">1.2.29</ref>
+      <ref pos="36">1.2.30</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1" name="STRAIGHT STUD FITTING/PIPE 25/THR 1&amp;quot;-CYL" materialnr="027874" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_2" name="BASE PIPE D=25X3MM (PREASSEMBLED)" materialnr="341058" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_3" name="ELBOW-ROTARY SCREW FITTING M36X2" materialnr="349778" pos="4" description="&amp;nbsp;">
+    <map x="112" y="94" w="24" h="22">
+      <ref pos="10">1.2.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_3_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352487" pos="10" description="&amp;nbsp;" />
+  <stk id="1_2_4" name="STRAIGHT STUD FITT.UNION F.PIPE 20MM;" materialnr="195661" pos="5" description="&amp;nbsp;" />
+  <stk id="1_2_5" name="CHECK VALVE,R3/4&amp;quot;,W/TAPERED NIPPLE" materialnr="242030" pos="6" description="&amp;nbsp;" />
+  <stk id="1_2_6" name="STRAIGHT STUD FITTING/PIPE 20/THR 3/4&amp;quot;-C" materialnr="027873" pos="7" description="&amp;nbsp;" />
+  <stk id="1_2_7" name="MIXING HEAD-SCREWED-PU+SU" materialnr="347813" pos="8" description="&amp;nbsp;" />
+  <stk id="1_2_8" name="MIXER COMPLETE &amp;Ouml;12mm/COATED" materialnr="222408" pos="9" description="&amp;nbsp;">
+    <map x="320" y="166" w="27" h="25">
+      <ref pos="1">1.2.8.1</ref>
+    </map>
+    <map x="157" y="176" w="27" h="25">
+      <ref pos="2">1.2.8.2</ref>
+    </map>
+    <map x="433" y="324" w="27" h="25">
+      <ref pos="3">1.2.8.3</ref>
+    </map>
+    <map x="307" y="302" w="27" h="25">
+      <ref pos="4">1.2.8.4</ref>
+    </map>
+    <map x="342" y="96" w="27" h="25">
+      <ref pos="5">1.2.8.5</ref>
+    </map>
+    <map x="95" y="76" w="27" h="25">
+      <ref pos="6">1.2.8.6</ref>
+    </map>
+    <map x="463" y="238" w="27" h="25">
+      <ref pos="9">1.2.8.8</ref>
+    </map>
+    <map x="253" y="37" w="27" h="25">
+      <ref pos="8">1.2.8.7</ref>
+    </map>
+  </stk>
+  <stk id="1_2_8_1" name="MIXER TUBE ID=12 L=300 COAT/PREASSEMBLED" materialnr="332796" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_8_2" name="STRAIGHT FITTING/PIPE=16 400BAR" materialnr="027892" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_8_3" name="ADJUSTABLE ELBOW FITTING/16MM/400BAR" materialnr="027983" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_8_4" name="ELBOW FITTING/PIPE=16MM/400BAR" materialnr="027970" pos="4" description="&amp;nbsp;" />
+  <stk id="1_2_8_5" name="DBL-ELBOW-ROTARY SCREW FITTING M24X1,5" materialnr="349776" pos="5" description="&amp;nbsp;">
+    <map x="200" y="80" w="219" h="142">
+      <ref pos="10">1.2.8.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_8_5_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352050" pos="10" description="&amp;nbsp;" />
+  <stk id="1_2_8_6" name="SPACING AT MIXING LINE" materialnr="026464" pos="6" description="&amp;nbsp;" />
+  <stk id="1_2_8_7" name="MIXER SPIRAL D=12MM/ANTI-ADH.COATING" materialnr="307759" pos="8" description="&amp;nbsp;" />
+  <stk id="1_2_8_8" name="MIXER TUBE ID=12 L=335 COAT/PREASSEMBLED" materialnr="332797" pos="9" description="&amp;nbsp;" />
+  <stk id="1_2_9" name="NEEDLE VALVE/NOZZLE HEAD VFL-1D" materialnr="220528" pos="12" description="&amp;nbsp;">
+    <map x="90" y="65" w="26" h="25">
+      <ref pos="4">1.2.9.2</ref>
+    </map>
+    <map x="247" y="12" w="26" h="25">
+      <ref pos="6">1.2.9.3</ref>
+    </map>
+    <map x="216" y="14" w="26" h="25">
+      <ref pos="7">1.2.9.4</ref>
+    </map>
+    <map x="367" y="35" w="26" h="25">
+      <ref pos="8">1.2.9.5</ref>
+    </map>
+    <map x="431" y="34" w="26" h="25">
+      <ref pos="10">1.2.9.7</ref>
+    </map>
+    <map x="57" y="65" w="26" h="25">
+      <ref pos="1">1.2.9.1</ref>
+    </map>
+    <map x="400" y="34" w="26" h="25">
+      <ref pos="9">1.2.9.6</ref>
+    </map>
+  </stk>
+  <stk id="1_2_9_1" name="CONNECTING PIECE WITH CUTTING RING+NUT" materialnr="325949" pos="1" description="&amp;nbsp;">
+    <map x="152" y="107" w="214" h="131">
+      <ref pos="1">1.2.9.1.1</ref>
+      <ref pos="2">1.2.9.1.2</ref>
+      <ref pos="3">1.2.9.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_2_9_1_1" name="CONNECTING PIECE" materialnr="217556" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_9_1_2" name="CUTTING RING/PIPE=16MM 400BAR" materialnr="003983" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_9_1_3" name="LOCK CAP/PIPE 16MM THREAD 24X1,5 400BAR" materialnr="027852" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_9_2" name="NEEDLE SEAT/NOZZLE HEAF HARDENED" materialnr="026639" pos="4" description="&amp;nbsp;" />
+  <stk id="1_2_9_3" name="SEAL KIT FOR NOZZLE HEAD (NEEDLE VALVE)" materialnr="007523" pos="6" description="&amp;nbsp;" />
+  <stk id="1_2_9_4" name="VFL-NOZZLE NEEDLE W/BALL VALVE SEAT" materialnr="026640" pos="7" description="&amp;nbsp;" />
+  <stk id="1_2_9_5" name="FASTENING SCREW FOR SEAL RING" materialnr="019575" pos="8" description="&amp;nbsp;" />
+  <stk id="1_2_9_6" name="METRICAL HEX. NUT, M6, GALV" materialnr="004882" pos="9" description="&amp;nbsp;" />
+  <stk id="1_2_9_7" name="NOZZLE NEEDLE SEAT" materialnr="016319" pos="10" description="&amp;nbsp;" />
+  <stk id="1_2_10" name="STRAIGHT STUD FITT.UNION/PIPE 16/THR 1/2" materialnr="027906" pos="13" description="&amp;nbsp;" />
+  <stk id="1_2_11" name="ADJUSTABLE ELBOW FITTING/16MM/400BAR" materialnr="027983" pos="14" description="&amp;nbsp;" />
+  <stk id="1_2_12" name="STRAIGHT SWIVEL JOINT M24x1,5 (16S)" materialnr="341589" pos="15" description="&amp;nbsp;">
+    <map x="136" y="94" w="238" h="133">
+      <ref pos="10">1.2.12.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_12_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352050" pos="10" description="&amp;nbsp;" />
+  <stk id="1_2_13" name="HD-PTFE-HOSE 13 DKS/AGJ L=462MM" materialnr="366909" pos="16" description="&amp;nbsp;" />
+  <stk id="1_2_14" name="NOZZLE MOUNTING" materialnr="018868" pos="17" description="&amp;nbsp;" />
+  <stk id="1_2_15" name="ELBOW STUD FITTING/PIPE 12/THR 3/8&amp;quot;-TAP." materialnr="027957" pos="18" description="&amp;nbsp;" />
+  <stk id="1_2_16" name="HYD.HOSE/D=8/L=650/DKS/DKS/SPIRASTAR" materialnr="195725" pos="19" description="&amp;nbsp;" />
+  <stk id="1_2_17" name="STRAIGHT FITTING 2XM20x1,5 (12S)" materialnr="341588" pos="20" description="&amp;nbsp;">
+    <map x="132" y="121" w="200" h="109">
+      <ref pos="10">1.2.17.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_17_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352049" pos="10" description="&amp;nbsp;" />
+  <stk id="1_2_18" name="STRAIGHT CONNECTOR 3/8 MALE/MALE" materialnr="028015" pos="22" description="&amp;nbsp;" />
+  <stk id="1_2_19" name="ADJUSTABLE ELBOW FITTING12MM/630=BAR" materialnr="027982" pos="23" description="&amp;nbsp;" />
+  <stk id="1_2_20" name="CHECK  VALVE 3/8&amp;quot;" materialnr="237578" pos="24" description="&amp;nbsp;" />
+  <stk id="1_2_21" name="NOZZLE FASTENING" materialnr="020785" pos="26" description="&amp;nbsp;" />
+  <stk id="1_2_22" name="CONE REDUCTION FITTING/ PIPE 25/20mm" materialnr="027927" pos="27" description="&amp;nbsp;" />
+  <stk id="1_2_23" name="STRAIGHT FITTING/PIPE=12MM/640BAR" materialnr="027891" pos="28" description="&amp;nbsp;" />
+  <stk id="1_2_24" name="PIPE BEND &amp;Ouml;12/1.5, 114x62,51&amp;deg;" materialnr="226571" pos="29" description="&amp;nbsp;" />
+  <stk id="1_2_25" name="PTFE-SEAL KIT WITH EPDM O-RING" materialnr="023146" pos="30" description="&amp;nbsp;">
+    <map x="94" y="159" w="27" h="25">
+      <ref pos="2">1.2.25.1</ref>
+    </map>
+    <map x="157" y="36" w="27" h="25">
+      <ref pos="3">1.2.25.2</ref>
+    </map>
+  </stk>
+  <stk id="1_2_25_1" name="O-RING 8X2MM EPDM 70 SHORE" materialnr="022679" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_25_2" name="SEALING SAFEGUARD, SPRING D=1.2X45MM" materialnr="015336" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_26" name="BLOCK-BALL VALVE M20X1,5-MALE THREAD 500" materialnr="371955" pos="31" description="&amp;nbsp;" />
+  <stk id="1_2_27" name="PIPE BEND 12X1,5 75MM/115MM PREASSEMBLED" materialnr="335236" pos="33" description="&amp;nbsp;" />
+  <stk id="1_2_28" name="HYDRAULIC PIPE 12X1,5; 42MM, ASSAMBLED" materialnr="332907" pos="34" description="&amp;nbsp;" />
+  <stk id="1_2_29" name="COMPRESSION NUT FOR 12 MM HYDRAULIC" materialnr="027850" pos="35" description="&amp;nbsp;" />
+  <stk id="1_2_30" name="HYDRAULIC LOCKING PLUG/ TUBE=12" materialnr="027912" pos="36" description="&amp;nbsp;" />
+  <stk id="1_3" name="CHANGING METERING UNIT TOTAL/POLYSULP." materialnr="221450" pos="3" description="&amp;nbsp;">
+    <map x="394" y="202" w="28" h="20">
+      <ref pos="1">1.3.1</ref>
+    </map>
+    <map x="394" y="5" w="28" h="20">
+      <ref pos="5">1.3.2</ref>
+    </map>
+    <map x="392" y="49" w="28" h="20">
+      <ref pos="6">1.3.3</ref>
+    </map>
+    <map x="392" y="93" w="28" h="20">
+      <ref pos="7">1.3.4</ref>
+      <ref pos="59">1.3.28</ref>
+    </map>
+    <map x="145" y="168" w="28" h="20">
+      <ref pos="8">1.3.5</ref>
+    </map>
+    <map x="163" y="56" w="28" h="20">
+      <ref pos="19">1.3.12</ref>
+    </map>
+    <map x="287" y="268" w="28" h="20">
+      <ref pos="10">1.3.7</ref>
+    </map>
+    <map x="273" y="1" w="28" h="20">
+      <ref pos="9">1.3.6</ref>
+      <ref pos="11">1.3.8</ref>
+    </map>
+    <map x="392" y="27" w="28" h="20">
+      <ref pos="12">1.3.9</ref>
+    </map>
+    <map x="213" y="3" w="42" h="20">
+      <ref pos="14">1.3.10</ref>
+    </map>
+    <map x="163" y="35" w="28" h="20">
+      <ref pos="20">1.3.13</ref>
+    </map>
+    <map x="144" y="123" w="28" h="20">
+      <ref pos="22">1.3.15</ref>
+    </map>
+    <map x="161" y="79" w="28" h="20">
+      <ref pos="32">1.3.16</ref>
+    </map>
+    <map x="392" y="137" w="28" h="20">
+      <ref pos="40">1.3.19</ref>
+    </map>
+    <map x="394" y="180" w="28" h="20">
+      <ref pos="41">1.3.20</ref>
+    </map>
+    <map x="392" y="158" w="28" h="20">
+      <ref pos="42">1.3.21</ref>
+    </map>
+    <map x="392" y="115" w="28" h="20">
+      <ref pos="43">1.3.22</ref>
+    </map>
+    <map x="149" y="232" w="103" h="35">
+      <ref pos="48">1.3.23</ref>
+      <ref pos="50">1.3.24</ref>
+      <ref pos="51">1.3.25</ref>
+      <ref pos="56">1.3.27</ref>
+      <ref pos="61">1.3.29</ref>
+      <ref pos="62">1.3.30</ref>
+    </map>
+    <map x="280" y="296" w="28" h="20">
+      <ref pos="52">1.3.26</ref>
+    </map>
+    <map x="392" y="71" w="28" h="20">
+      <ref pos="21">1.3.14</ref>
+    </map>
+    <map x="164" y="13" w="28" h="20">
+      <ref pos="33">1.3.17</ref>
+    </map>
+    <map x="145" y="145" w="28" h="20">
+      <ref pos="34">1.3.18</ref>
+    </map>
+    <map x="145" y="100" w="28" h="20">
+      <ref pos="15">1.3.11</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1" name="CHANGING METERING UNIT/POLYSULPHIDE" materialnr="221435" pos="1" description="&amp;nbsp;">
+    <map x="254" y="119" w="143" h="182">
+      <ref pos="2">1.3.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1" name="METERING UNIT PSD+SID 7-12,5:1/M.INVERT." materialnr="311680" pos="2" description="&amp;nbsp;">
+    <map x="483" y="55" w="25" h="25">
+      <ref>1.3.1.1.1</ref>
+    </map>
+    <map x="183" y="363" w="25" h="25">
+      <ref>1.3.1.1.2</ref>
+    </map>
+    <map x="195" y="6" w="25" h="25">
+      <ref>1.3.1.1.3</ref>
+    </map>
+    <map x="85" y="63" w="25" h="25">
+      <ref>1.3.1.1.4</ref>
+    </map>
+    <map x="19" y="85" w="25" h="25">
+      <ref>1.3.1.1.5</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1_1" name="HD-CYLINDER D=160/50X100" materialnr="326594" pos="1" description="&amp;nbsp;">
+    <map x="90" y="173" w="231" h="129">
+      <ref pos="10">1.3.1.1.1.1</ref>
+      <ref pos="20">1.3.1.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1_1_1" name="SEAL KIT F.PISTON F.HD-04.001.063.010" materialnr="032550" pos="10" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_1_2" name="SEAL KIT FOR AROS HD-CYLINDER AT DOS" materialnr="327962" pos="20" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_2" name="CONNECTION METERING ( STROKE 100 )" materialnr="191936" pos="2" description="&amp;nbsp;">
+    <map x="248" y="129" w="115" h="71">
+      <ref pos="1">1.3.1.1.2.1</ref>
+      <ref pos="2">1.3.1.1.2.2</ref>
+    </map>
+    <map x="211" y="225" w="26" h="25">
+      <ref pos="3">1.3.1.1.2.3</ref>
+    </map>
+    <map x="203" y="68" w="26" h="25">
+      <ref pos="4">1.3.1.1.2.4</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1_2_1" name="PULL ROD ( STROKE 100 )" materialnr="174856" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_2_2" name="PULL ROD ( STROKE 100 )" materialnr="191932" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_2_3" name="COUPLING WITH  BOLT F. BASE METR.CYL." materialnr="021720" pos="3" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_2_4" name="HEXAGONAL NUT M32X2MM" materialnr="024193" pos="4" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_3" name="SCISSORS JOINT 7-12.5:1/MET" materialnr="304692" pos="3" description="&amp;nbsp;">
+    <map x="180" y="241" w="27" h="25">
+      <ref pos="3">1.3.1.1.3.1</ref>
+    </map>
+    <map x="138" y="141" w="27" h="25">
+      <ref pos="5">1.3.1.1.3.2</ref>
+    </map>
+    <map x="119" y="237" w="27" h="25">
+      <ref pos="6">1.3.1.1.3.3</ref>
+    </map>
+    <map x="224" y="228" w="27" h="25">
+      <ref pos="15">1.3.1.1.3.4</ref>
+    </map>
+    <map x="224" y="257" w="27" h="25">
+      <ref pos="25">1.3.1.1.3.5</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1_3_1" name="ADJUSTMENT FOR SCISSORS-JOINT L=278" materialnr="196657" pos="3" description="&amp;nbsp;">
+    <map x="94" y="80" w="59" h="46">
+      <ref pos="3">1.3.1.1.3.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1_3_1_1" name="SPROCKET W/OUT KEYWAY,3/8&amp;quot;,T15,17H7" materialnr="015700" pos="3" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_3_2" name="LEVER CONNECTION+ADJUSTING SCREW" materialnr="196680" pos="5" description="&amp;nbsp;">
+    <map x="149" y="67" w="24" h="22">
+      <ref pos="1">1.3.1.1.3.2.1</ref>
+    </map>
+    <map x="121" y="67" w="24" h="22">
+      <ref pos="2">1.3.1.1.3.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1_3_2_1" name="LEVER CONNECTION" materialnr="203765" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_3_2_2" name="ADJUSTING SCREW M16X1,5MM" materialnr="196679" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_3_3" name="CHAIN 3/8x7/32&amp;quot; 44 LINKS+MASTER LINK" materialnr="030820" pos="6" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_3_4" name="COUPLING COMPLETE FOR HDZ/DOS" materialnr="316272" pos="15" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_3_5" name="FLANGE BUSHING ID=25 OD=28MM  L=16,5MM" materialnr="005824" pos="25" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_4" name="CATALYST METERING CYL.W TEFLON-SEALS" materialnr="015482" pos="4" description="&amp;nbsp;">
+    <map x="303" y="288" w="27" h="33">
+      <ref pos="1">1.3.1.1.4.1</ref>
+    </map>
+    <map x="443" y="46" w="27" h="33">
+      <ref pos="2">1.3.1.1.4.2</ref>
+    </map>
+    <map x="393" y="161" w="27" h="33">
+      <ref pos="4">1.3.1.1.4.3</ref>
+    </map>
+    <map x="270" y="141" w="55" h="69">
+      <ref pos="6">1.3.1.1.4.4</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1_4_1" name="CYLINDER PIPE" materialnr="116303" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_4_2" name="PISTON ROD+THRUST PIECE+NUT" materialnr="019848" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_4_3" name="CYLINDER HEAD WITH BUSH" materialnr="244767" pos="4" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_4_4" name="SEAL KIT FOR CATALYST METERING CYLINDER" materialnr="014020" pos="6" description="&amp;nbsp;">
+    <map x="161" y="151" w="157" h="108">
+      <ref pos="1">1.3.1.1.4.4.1</ref>
+      <ref pos="2">1.3.1.1.4.4.2</ref>
+      <ref pos="3">1.3.1.1.4.4.3</ref>
+      <ref pos="4">1.3.1.1.4.4.4</ref>
+      <ref pos="5">1.3.1.1.4.4.5</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1_4_4_1" name="SEAL KIT 40/28, 4 PARTS TEFLON" materialnr="014021" pos="1" description="&amp;nbsp;">
+    <map x="50" y="12" w="497" h="379">
+      <ref pos="2">1.3.1.1.4.4.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1_4_4_1_1" name="SEAL RING 40,3/27,7X9MM TEFLON" materialnr="014023" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_4_4_2" name="O-RING 55X4MM VITON 75 SHORE" materialnr="013474" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_4_4_3" name="ROD SEAL S8-35" materialnr="003756" pos="3" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_4_4_4" name="SCRAPER P6-35, L 2511-004.008" materialnr="003757" pos="4" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_4_4_5" name="COPPER SEALING RING 5/9X1MM" materialnr="007974" pos="5" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_5" name="BASE METERING CYLINDER (STROKE 100)" materialnr="174826" pos="5" description="&amp;nbsp;">
+    <map x="237" y="91" w="109" h="177">
+      <ref pos="5">1.3.1.1.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1_5_1" name="SEAL KIT F BASE METERING CYLINDER" materialnr="023727" pos="5" description="&amp;nbsp;">
+    <map x="8" y="0" w="555" h="396">
+      <ref pos="1">1.3.1.1.5.1.1</ref>
+      <ref pos="2">1.3.1.1.5.1.2</ref>
+      <ref pos="3">1.3.1.1.5.1.3</ref>
+      <ref pos="4">1.3.1.1.5.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1_5_1_1" name="SEAL KIT 80/65, 6 PARTS" materialnr="007572" pos="1" description="&amp;nbsp;">
+    <map x="121" y="52" w="263" h="254">
+      <ref pos="1">1.3.1.1.5.1.1.1</ref>
+      <ref pos="3">1.3.1.1.5.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1_1_5_1_1_1" name="SUPPORT RING/SEAL KIT F.BASE MET.CYL." materialnr="341475" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_5_1_1_2" name="PRESSURE RING/SEAL KIT F/BASE METER.CYLI" materialnr="341473" pos="3" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_5_1_2" name="ROD SEALING S50" materialnr="016599" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_5_1_3" name="SCRAPER AS50" materialnr="016598" pos="3" description="&amp;nbsp;" />
+  <stk id="1_3_1_1_5_1_4" name="O-RING 46X2MM PERBUNAN" materialnr="007902" pos="4" description="&amp;nbsp;" />
+  <stk id="1_3_2" name="STRAIGHT ADJ/PRESS/GUAGE CONN. 12" materialnr="027922" pos="5" description="&amp;nbsp;" />
+  <stk id="1_3_3" name="STRAIGHT STUD FITT.UNION/PIPE 25/THR 1&amp;quot;" materialnr="027907" pos="6" description="&amp;nbsp;" />
+  <stk id="1_3_4" name="CHECK VALVE R1&amp;quot;-BOTH SIDED" materialnr="217535" pos="7" description="&amp;nbsp;" />
+  <stk id="1_3_5" name="ADJUSTABLE ELBOW FITTING 28MM/100BAR" materialnr="027979" pos="8" description="&amp;nbsp;" />
+  <stk id="1_3_6" name="STRAIGHT MALE/FEMALE REDUCER 1-3/8" materialnr="027937" pos="9" description="&amp;nbsp;" />
+  <stk id="1_3_7" name="STRAIGHT STUD FITT.UNION/PIPE 12/THR 3/8" materialnr="027905" pos="10" description="&amp;nbsp;" />
+  <stk id="1_3_8" name="TEE-EQUAL FIT/PIPE 12MM/640BAR" materialnr="028001" pos="11" description="&amp;nbsp;" />
+  <stk id="1_3_9" name="ADJUSTABLE ELBOW FITTING12MM/630=BAR" materialnr="027982" pos="12" description="&amp;nbsp;" />
+  <stk id="1_3_10" name="HYD.HOSE D=10MM/L=800MM/ DKS/DKS/ 2ST" materialnr="031623" pos="14" description="&amp;nbsp;" />
+  <stk id="1_3_11" name="DOUBLE-BALL COCK,12S, W. HANDLE (500BAR)" materialnr="346238" pos="15" description="&amp;nbsp;">
+    <map x="341" y="141" w="29" h="20">
+      <ref pos="10">1.3.11.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_11_1" name="HANDLE FOR 346238-DBL BALL VALVE 12S" materialnr="384355" pos="10" description="&amp;nbsp;" />
+  <stk id="1_3_12" name="STRAIGHT STUD FITTING/PIPE 12/THR 3/8&amp;quot;" materialnr="027870" pos="19" description="&amp;nbsp;" />
+  <stk id="1_3_13" name="2/2-PATH VALVE ASSEMBLY" materialnr="169710" pos="20" description="&amp;nbsp;">
+    <map x="50" y="97" w="25" h="25">
+      <ref pos="1">1.3.13.1</ref>
+    </map>
+    <map x="286" y="59" w="25" h="25">
+      <ref pos="9">1.3.13.5</ref>
+    </map>
+    <map x="131" y="97" w="25" h="25">
+      <ref pos="15">1.3.13.6</ref>
+    </map>
+    <map x="225" y="59" w="26" h="25">
+      <ref pos="8">1.3.13.4</ref>
+    </map>
+    <map x="89" y="97" w="26" h="25">
+      <ref pos="2">1.3.13.2</ref>
+    </map>
+    <map x="321" y="59" w="27" h="25">
+      <ref pos="7">1.3.13.3</ref>
+    </map>
+  </stk>
+  <stk id="1_3_13_1" name="CYLINDER DBL/ACT D=50 STROKE=10" materialnr="002863" pos="1" description="&amp;nbsp;">
+    <map x="141" y="48" w="196" h="221">
+      <ref pos="20">1.3.13.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_13_1_1" name="SEAL KIT F.PNEU-CYLINDER D50MM BOSCH" materialnr="375622" pos="20" description="&amp;nbsp;" />
+  <stk id="1_3_13_2" name="THREADED BOLT IN CYLINDER" materialnr="169660" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_13_3" name="REPAIR SET FOR  VALVE-NEEDLE" materialnr="359034" pos="7" description="&amp;nbsp;" />
+  <stk id="1_3_13_4" name="SEAL FASTENING SCREW" materialnr="110919" pos="8" description="&amp;nbsp;" />
+  <stk id="1_3_13_5" name="GREASING NIPPLE;ANGLED;M6X1-TAPERED" materialnr="005497" pos="9" description="&amp;nbsp;" />
+  <stk id="1_3_13_6" name="SLIDER FOR CLOSING NEEDLE" materialnr="169658" pos="15" description="&amp;nbsp;" />
+  <stk id="1_3_14" name="FASTENING PLATE OF COUPLING" materialnr="221257" pos="21" description="&amp;nbsp;" />
+  <stk id="1_3_15" name="ELBOW SCREW FITTING/PIPE 18MM 160BAR" materialnr="027964" pos="22" description="&amp;nbsp;" />
+  <stk id="1_3_16" name="ADJ.HYDR.L-TYPE PIPE SOCKET/12MM" materialnr="028008" pos="32" description="&amp;nbsp;" />
+  <stk id="1_3_17" name="STRAIGHT ADAPTOR R1/8&amp;quot; 90&amp;deg; D=6MM" materialnr="231973" pos="33" description="&amp;nbsp;" />
+  <stk id="1_3_18" name="PIPE BEND FOR CATALYST RAM PRESS" materialnr="114515" pos="34" description="&amp;nbsp;" />
+  <stk id="1_3_19" name="STRAIGHT STUD FITTING/PIPE 28/THR 1&amp;quot;-CYL" materialnr="027868" pos="40" description="&amp;nbsp;" />
+  <stk id="1_3_20" name="ADJ.HYDR.L-TYPE PIPE SOCKET/28MM" materialnr="028009" pos="41" description="&amp;nbsp;" />
+  <stk id="1_3_21" name="CONE-REDUCTION FITTING; 28/18;160BAR" materialnr="193562" pos="42" description="&amp;nbsp;" />
+  <stk id="1_3_22" name="REDUCING FITTING 18/12-S" materialnr="029562" pos="43" description="&amp;nbsp;" />
+  <stk id="1_3_23" name="HD-PIPE D18/1,5X80 PRE-ASSEMBLED" materialnr="358762" pos="48" description="&amp;nbsp;" />
+  <stk id="1_3_24" name="STRAIGHT FITTING 2XM20x1,5 (12S)" materialnr="341588" pos="50" description="&amp;nbsp;">
+    <map x="132" y="121" w="200" h="109">
+      <ref pos="10">1.3.24.1</ref>
+    </map>
+  </stk>
+  <stk id="1_3_24_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352049" pos="10" description="&amp;nbsp;" />
+  <stk id="1_3_25" name="HYDRAULIC PIPE 12X1,5; 42MM, ASSAMBLED" materialnr="332907" pos="51" description="&amp;nbsp;" />
+  <stk id="1_3_26" name="STRAIGHT REDUCING FITTING;PIPE14/12" materialnr="195831" pos="52" description="&amp;nbsp;" />
+  <stk id="1_3_27" name="PIPE WITH CUTTING WHEEL AND NUT 210MM/12" materialnr="325934" pos="56" description="&amp;nbsp;">
+    <map x="204" y="144" w="26" h="25">
+      <ref pos="1">1.3.27.1</ref>
+    </map>
+    <map x="51" y="225" w="26" h="25">
+      <ref pos="2">1.3.27.2</ref>
+    </map>
+    <map x="16" y="261" w="26" h="25">
+      <ref pos="3">1.3.27.3</ref>
+    </map>
+  </stk>
+  <stk id="1_3_27_1" name="HYDRAULIC PIPE D=12/1.5x210MM" materialnr="221405" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_27_2" name="CUTTING RING/PIPE=12MM 630BAR" materialnr="003981" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_27_3" name="COMPRESSION NUT FOR 12 MM HYDRAULIC" materialnr="027850" pos="3" description="&amp;nbsp;" />
+  <stk id="1_3_28" name="STRAIGHT STUD FITTING/PIPE 25/THR 1&amp;quot;-CYL" materialnr="027874" pos="59" description="&amp;nbsp;" />
+  <stk id="1_3_29" name="STRAIGHT FITTING/PIPE=28MM 100BAR" materialnr="027888" pos="61" description="&amp;nbsp;" />
+  <stk id="1_3_30" name="ELBOW STUD FITTING/PIPE 12/THR 3/8&amp;quot;-TAP." materialnr="027957" pos="62" description="&amp;nbsp;" />
+  <stk id="1_4" name="CHANGING METERING UNIT TOTAL/SILICONE" materialnr="221364" pos="4" description="&amp;nbsp;">
+    <map x="346" y="5" w="28" h="20">
+      <ref pos="5">1.4.2</ref>
+    </map>
+    <map x="383" y="3" w="28" h="20">
+      <ref pos="6">1.4.3</ref>
+    </map>
+    <map x="415" y="151" w="28" h="20">
+      <ref pos="8">1.4.5</ref>
+    </map>
+    <map x="313" y="5" w="28" h="20">
+      <ref pos="9">1.4.6</ref>
+      <ref pos="11">1.4.8</ref>
+    </map>
+    <map x="172" y="280" w="28" h="20">
+      <ref pos="12">1.4.9</ref>
+    </map>
+    <map x="245" y="5" w="42" h="18">
+      <ref pos="14">1.4.10</ref>
+    </map>
+    <map x="188" y="50" w="28" h="20">
+      <ref pos="19">1.4.12</ref>
+    </map>
+    <map x="187" y="5" w="28" h="20">
+      <ref pos="20">1.4.13</ref>
+    </map>
+    <map x="362" y="174" w="28" h="20">
+      <ref pos="21">1.4.14</ref>
+    </map>
+    <map x="188" y="94" w="28" h="20">
+      <ref pos="22">1.4.15</ref>
+    </map>
+    <map x="188" y="71" w="28" h="20">
+      <ref pos="32">1.4.16</ref>
+    </map>
+    <map x="413" y="68" w="28" h="20">
+      <ref pos="40">1.4.19</ref>
+    </map>
+    <map x="413" y="91" w="28" h="20">
+      <ref pos="41">1.4.20</ref>
+    </map>
+    <map x="413" y="47" w="28" h="20">
+      <ref pos="42">1.4.21</ref>
+    </map>
+    <map x="413" y="26" w="28" h="20">
+      <ref pos="43">1.4.22</ref>
+    </map>
+    <map x="362" y="151" w="28" h="20">
+      <ref pos="46">1.4.23</ref>
+      <ref pos="47">1.4.24</ref>
+    </map>
+    <map x="172" y="301" w="28" h="20">
+      <ref pos="52">1.4.27</ref>
+    </map>
+    <map x="383" y="26" w="28" h="20">
+      <ref pos="7">1.4.4</ref>
+      <ref pos="59">1.4.29</ref>
+    </map>
+    <map x="149" y="169" w="21" h="17">
+      <ref pos="10">1.4.7</ref>
+    </map>
+    <map x="188" y="27" w="28" h="20">
+      <ref pos="33">1.4.17</ref>
+    </map>
+    <map x="340" y="279" w="21" h="20">
+      <ref pos="62">1.4.30</ref>
+    </map>
+    <map x="151" y="111" w="24" h="17">
+      <ref pos="15">1.4.11</ref>
+    </map>
+    <map x="342" y="226" w="48" h="35">
+      <ref pos="50">1.4.25</ref>
+      <ref pos="51">1.4.26</ref>
+    </map>
+    <map x="148" y="135" w="21" h="18">
+      <ref pos="34">1.4.18</ref>
+    </map>
+    <map x="128" y="199" w="42" h="65">
+      <ref pos="53">1.4.28</ref>
+    </map>
+    <map x="260" y="160" w="57" h="111">
+      <ref pos="1">1.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1" name="METERING UNIT PSD+SID 7-12,5:1/M.INVERT." materialnr="311680" pos="1" description="&amp;nbsp;">
+    <map x="483" y="55" w="25" h="25">
+      <ref>1.4.1.1</ref>
+    </map>
+    <map x="183" y="363" w="25" h="25">
+      <ref>1.4.1.2</ref>
+    </map>
+    <map x="195" y="6" w="25" h="25">
+      <ref>1.4.1.3</ref>
+    </map>
+    <map x="85" y="63" w="25" h="25">
+      <ref>1.4.1.4</ref>
+    </map>
+    <map x="19" y="85" w="25" h="25">
+      <ref>1.4.1.5</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_1" name="HD-CYLINDER D=160/50X100" materialnr="326594" pos="1" description="&amp;nbsp;">
+    <map x="90" y="173" w="231" h="129">
+      <ref pos="10">1.4.1.1.1</ref>
+      <ref pos="20">1.4.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_1_1" name="SEAL KIT F.PISTON F.HD-04.001.063.010" materialnr="032550" pos="10" description="&amp;nbsp;" />
+  <stk id="1_4_1_1_2" name="SEAL KIT FOR AROS HD-CYLINDER AT DOS" materialnr="327962" pos="20" description="&amp;nbsp;" />
+  <stk id="1_4_1_2" name="CONNECTION METERING ( STROKE 100 )" materialnr="191936" pos="2" description="&amp;nbsp;">
+    <map x="248" y="129" w="115" h="71">
+      <ref pos="1">1.4.1.2.1</ref>
+      <ref pos="2">1.4.1.2.2</ref>
+    </map>
+    <map x="211" y="225" w="26" h="25">
+      <ref pos="3">1.4.1.2.3</ref>
+    </map>
+    <map x="203" y="68" w="26" h="25">
+      <ref pos="4">1.4.1.2.4</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_2_1" name="PULL ROD ( STROKE 100 )" materialnr="174856" pos="1" description="&amp;nbsp;" />
+  <stk id="1_4_1_2_2" name="PULL ROD ( STROKE 100 )" materialnr="191932" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_1_2_3" name="COUPLING WITH  BOLT F. BASE METR.CYL." materialnr="021720" pos="3" description="&amp;nbsp;" />
+  <stk id="1_4_1_2_4" name="HEXAGONAL NUT M32X2MM" materialnr="024193" pos="4" description="&amp;nbsp;" />
+  <stk id="1_4_1_3" name="SCISSORS JOINT 7-12.5:1/MET" materialnr="304692" pos="3" description="&amp;nbsp;">
+    <map x="180" y="241" w="27" h="25">
+      <ref pos="3">1.4.1.3.1</ref>
+    </map>
+    <map x="138" y="141" w="27" h="25">
+      <ref pos="5">1.4.1.3.2</ref>
+    </map>
+    <map x="119" y="237" w="27" h="25">
+      <ref pos="6">1.4.1.3.3</ref>
+    </map>
+    <map x="224" y="228" w="27" h="25">
+      <ref pos="15">1.4.1.3.4</ref>
+    </map>
+    <map x="224" y="257" w="27" h="25">
+      <ref pos="25">1.4.1.3.5</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_3_1" name="ADJUSTMENT FOR SCISSORS-JOINT L=278" materialnr="196657" pos="3" description="&amp;nbsp;">
+    <map x="94" y="80" w="59" h="46">
+      <ref pos="3">1.4.1.3.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_3_1_1" name="SPROCKET W/OUT KEYWAY,3/8&amp;quot;,T15,17H7" materialnr="015700" pos="3" description="&amp;nbsp;" />
+  <stk id="1_4_1_3_2" name="LEVER CONNECTION+ADJUSTING SCREW" materialnr="196680" pos="5" description="&amp;nbsp;">
+    <map x="149" y="67" w="24" h="22">
+      <ref pos="1">1.4.1.3.2.1</ref>
+    </map>
+    <map x="121" y="67" w="24" h="22">
+      <ref pos="2">1.4.1.3.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_3_2_1" name="LEVER CONNECTION" materialnr="203765" pos="1" description="&amp;nbsp;" />
+  <stk id="1_4_1_3_2_2" name="ADJUSTING SCREW M16X1,5MM" materialnr="196679" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_1_3_3" name="CHAIN 3/8x7/32&amp;quot; 44 LINKS+MASTER LINK" materialnr="030820" pos="6" description="&amp;nbsp;" />
+  <stk id="1_4_1_3_4" name="COUPLING COMPLETE FOR HDZ/DOS" materialnr="316272" pos="15" description="&amp;nbsp;" />
+  <stk id="1_4_1_3_5" name="FLANGE BUSHING ID=25 OD=28MM  L=16,5MM" materialnr="005824" pos="25" description="&amp;nbsp;" />
+  <stk id="1_4_1_4" name="CATALYST METERING CYL.W TEFLON-SEALS" materialnr="015482" pos="4" description="&amp;nbsp;">
+    <map x="303" y="288" w="27" h="33">
+      <ref pos="1">1.4.1.4.1</ref>
+    </map>
+    <map x="443" y="46" w="27" h="33">
+      <ref pos="2">1.4.1.4.2</ref>
+    </map>
+    <map x="393" y="161" w="27" h="33">
+      <ref pos="4">1.4.1.4.3</ref>
+    </map>
+    <map x="270" y="141" w="55" h="69">
+      <ref pos="6">1.4.1.4.4</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_4_1" name="CYLINDER PIPE" materialnr="116303" pos="1" description="&amp;nbsp;" />
+  <stk id="1_4_1_4_2" name="PISTON ROD+THRUST PIECE+NUT" materialnr="019848" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_1_4_3" name="CYLINDER HEAD WITH BUSH" materialnr="244767" pos="4" description="&amp;nbsp;" />
+  <stk id="1_4_1_4_4" name="SEAL KIT FOR CATALYST METERING CYLINDER" materialnr="014020" pos="6" description="&amp;nbsp;">
+    <map x="161" y="151" w="157" h="108">
+      <ref pos="1">1.4.1.4.4.1</ref>
+      <ref pos="2">1.4.1.4.4.2</ref>
+      <ref pos="3">1.4.1.4.4.3</ref>
+      <ref pos="4">1.4.1.4.4.4</ref>
+      <ref pos="5">1.4.1.4.4.5</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_4_4_1" name="SEAL KIT 40/28, 4 PARTS TEFLON" materialnr="014021" pos="1" description="&amp;nbsp;">
+    <map x="50" y="12" w="497" h="379">
+      <ref pos="2">1.4.1.4.4.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_4_4_1_1" name="SEAL RING 40,3/27,7X9MM TEFLON" materialnr="014023" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_1_4_4_2" name="O-RING 55X4MM VITON 75 SHORE" materialnr="013474" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_1_4_4_3" name="ROD SEAL S8-35" materialnr="003756" pos="3" description="&amp;nbsp;" />
+  <stk id="1_4_1_4_4_4" name="SCRAPER P6-35, L 2511-004.008" materialnr="003757" pos="4" description="&amp;nbsp;" />
+  <stk id="1_4_1_4_4_5" name="COPPER SEALING RING 5/9X1MM" materialnr="007974" pos="5" description="&amp;nbsp;" />
+  <stk id="1_4_1_5" name="BASE METERING CYLINDER (STROKE 100)" materialnr="174826" pos="5" description="&amp;nbsp;">
+    <map x="237" y="91" w="109" h="177">
+      <ref pos="5">1.4.1.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_5_1" name="SEAL KIT F BASE METERING CYLINDER" materialnr="023727" pos="5" description="&amp;nbsp;">
+    <map x="8" y="0" w="555" h="396">
+      <ref pos="1">1.4.1.5.1.1</ref>
+      <ref pos="2">1.4.1.5.1.2</ref>
+      <ref pos="3">1.4.1.5.1.3</ref>
+      <ref pos="4">1.4.1.5.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_5_1_1" name="SEAL KIT 80/65, 6 PARTS" materialnr="007572" pos="1" description="&amp;nbsp;">
+    <map x="121" y="52" w="263" h="254">
+      <ref pos="1">1.4.1.5.1.1.1</ref>
+      <ref pos="3">1.4.1.5.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_5_1_1_1" name="SUPPORT RING/SEAL KIT F.BASE MET.CYL." materialnr="341475" pos="1" description="&amp;nbsp;" />
+  <stk id="1_4_1_5_1_1_2" name="PRESSURE RING/SEAL KIT F/BASE METER.CYLI" materialnr="341473" pos="3" description="&amp;nbsp;" />
+  <stk id="1_4_1_5_1_2" name="ROD SEALING S50" materialnr="016599" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_1_5_1_3" name="SCRAPER AS50" materialnr="016598" pos="3" description="&amp;nbsp;" />
+  <stk id="1_4_1_5_1_4" name="O-RING 46X2MM PERBUNAN" materialnr="007902" pos="4" description="&amp;nbsp;" />
+  <stk id="1_4_2" name="STRAIGHT ADJ/PRESS/GUAGE CONN. 12" materialnr="027922" pos="5" description="&amp;nbsp;" />
+  <stk id="1_4_3" name="STRAIGHT STUD FITT.UNION/PIPE 25/THR 1&amp;quot;" materialnr="027907" pos="6" description="&amp;nbsp;" />
+  <stk id="1_4_4" name="CHECK VALVE R1&amp;quot;-BOTH SIDED" materialnr="217535" pos="7" description="&amp;nbsp;" />
+  <stk id="1_4_5" name="ADJUSTABLE ELBOW FITTING 28MM/100BAR" materialnr="027979" pos="8" description="&amp;nbsp;" />
+  <stk id="1_4_6" name="STRAIGHT MALE/FEMALE REDUCER 1-3/8" materialnr="027937" pos="9" description="&amp;nbsp;" />
+  <stk id="1_4_7" name="STRAIGHT STUD FITT.UNION/PIPE 12/THR 3/8" materialnr="027905" pos="10" description="&amp;nbsp;" />
+  <stk id="1_4_8" name="TEE-EQUAL FIT/PIPE 12MM/640BAR" materialnr="028001" pos="11" description="&amp;nbsp;" />
+  <stk id="1_4_9" name="ADJUSTABLE ELBOW FITTING12MM/630=BAR" materialnr="027982" pos="12" description="&amp;nbsp;" />
+  <stk id="1_4_10" name="HYD.HOSE D=10MM/L=800MM/ DKS/DKS/ 2ST" materialnr="031623" pos="14" description="&amp;nbsp;" />
+  <stk id="1_4_11" name="DOUBLE-BALL COCK,12S, W. HANDLE (500BAR)" materialnr="346238" pos="15" description="&amp;nbsp;">
+    <map x="341" y="141" w="29" h="20">
+      <ref pos="10">1.4.11.1</ref>
+    </map>
+  </stk>
+  <stk id="1_4_11_1" name="HANDLE FOR 346238-DBL BALL VALVE 12S" materialnr="384355" pos="10" description="&amp;nbsp;" />
+  <stk id="1_4_12" name="STRAIGHT STUD FITTING/PIPE 12/THR 3/8&amp;quot;" materialnr="027870" pos="19" description="&amp;nbsp;" />
+  <stk id="1_4_13" name="2/2-PATH VALVE ASSEMBLY" materialnr="169710" pos="20" description="&amp;nbsp;">
+    <map x="50" y="97" w="25" h="25">
+      <ref pos="1">1.4.13.1</ref>
+    </map>
+    <map x="286" y="59" w="25" h="25">
+      <ref pos="9">1.4.13.5</ref>
+    </map>
+    <map x="131" y="97" w="25" h="25">
+      <ref pos="15">1.4.13.6</ref>
+    </map>
+    <map x="225" y="59" w="26" h="25">
+      <ref pos="8">1.4.13.4</ref>
+    </map>
+    <map x="89" y="97" w="26" h="25">
+      <ref pos="2">1.4.13.2</ref>
+    </map>
+    <map x="326" y="32" w="27" h="25">
+      <ref pos="7">1.4.13.3</ref>
+    </map>
+  </stk>
+  <stk id="1_4_13_1" name="CYLINDER DBL/ACT D=50 STROKE=10" materialnr="002863" pos="1" description="&amp;nbsp;">
+    <map x="141" y="48" w="196" h="221">
+      <ref pos="20">1.4.13.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_4_13_1_1" name="SEAL KIT F.PNEU-CYLINDER D50MM BOSCH" materialnr="375622" pos="20" description="&amp;nbsp;" />
+  <stk id="1_4_13_2" name="THREADED BOLT IN CYLINDER" materialnr="169660" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_13_3" name="REPAIR SET FOR  VALVE-NEEDLE" materialnr="359034" pos="7" description="&amp;nbsp;" />
+  <stk id="1_4_13_4" name="SEAL FASTENING SCREW" materialnr="110919" pos="8" description="&amp;nbsp;" />
+  <stk id="1_4_13_5" name="GREASING NIPPLE;ANGLED;M6X1-TAPERED" materialnr="005497" pos="9" description="&amp;nbsp;" />
+  <stk id="1_4_13_6" name="SLIDER FOR CLOSING NEEDLE" materialnr="169658" pos="15" description="&amp;nbsp;" />
+  <stk id="1_4_14" name="FASTENING PLATE OF COUPLING" materialnr="221257" pos="21" description="&amp;nbsp;" />
+  <stk id="1_4_15" name="ELBOW STUD FITTING/PIPE 18/THR 1/2&amp;quot;-T" materialnr="027954" pos="22" description="&amp;nbsp;" />
+  <stk id="1_4_16" name="ADJ.HYDR.L-TYPE PIPE SOCKET/12MM" materialnr="028008" pos="32" description="&amp;nbsp;" />
+  <stk id="1_4_17" name="STRAIGHT ADAPTOR R1/8&amp;quot; 90&amp;deg; D=6MM" materialnr="231973" pos="33" description="&amp;nbsp;" />
+  <stk id="1_4_18" name="PIPE BEND FOR CATALYST RAM PRESS" materialnr="114515" pos="34" description="&amp;nbsp;" />
+  <stk id="1_4_19" name="STRAIGHT STUD FITTING/PIPE 28/THR 1&amp;quot;-CYL" materialnr="027868" pos="40" description="&amp;nbsp;" />
+  <stk id="1_4_20" name="ADJ.HYDR.L-TYPE PIPE SOCKET/28MM" materialnr="028009" pos="41" description="&amp;nbsp;" />
+  <stk id="1_4_21" name="CONE-REDUCTION FITTING; 28/18;160BAR" materialnr="193562" pos="42" description="&amp;nbsp;" />
+  <stk id="1_4_22" name="REDUCING FITTING 18/12-S" materialnr="029562" pos="43" description="&amp;nbsp;" />
+  <stk id="1_4_23" name="MULTI-COUPLING, D=6/4, FOR 6 HOSE,  &amp;quot;B&amp;quot;" materialnr="220440" pos="46" description="&amp;nbsp;" />
+  <stk id="1_4_24" name="MULTI-COUPLING,D=6/4, FOR 6 HOSE  &amp;quot;A&amp;quot;" materialnr="220436" pos="47" description="&amp;nbsp;" />
+  <stk id="1_4_25" name="STRAIGHT FITTING 2XM20x1,5 (12S)" materialnr="341588" pos="50" description="&amp;nbsp;">
+    <map x="132" y="121" w="200" h="109">
+      <ref pos="10">1.4.25.1</ref>
+    </map>
+  </stk>
+  <stk id="1_4_25_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352049" pos="10" description="&amp;nbsp;" />
+  <stk id="1_4_26" name="HYDRAULIC PIPE 12X1,5; 42MM, ASSAMBLED" materialnr="332907" pos="51" description="&amp;nbsp;" />
+  <stk id="1_4_27" name="STRAIGHT REDUCING FITTING;PIPE14/12" materialnr="195831" pos="52" description="&amp;nbsp;" />
+  <stk id="1_4_28" name="BALL VALVE WITH OUTFLOW BORE HOLE 1/4&amp;quot;" materialnr="221911" pos="53" description="&amp;nbsp;" />
+  <stk id="1_4_29" name="STRAIGHT STUD FITTING/PIPE 25/THR 1&amp;quot;-CYL" materialnr="027874" pos="59" description="&amp;nbsp;" />
+  <stk id="1_4_30" name="ELBOW STUD FITTING/PIPE 12/THR 3/8&amp;quot;-TAP." materialnr="027957" pos="62" description="&amp;nbsp;" />
+  <stk id="1_5" name="RAM PRESS-CATALYST 20L W/NIRO-FILTER" materialnr="301946" pos="5" description="&amp;nbsp;">
+    <map x="463" y="20" w="37" h="34">
+      <ref pos="1">1.5.1</ref>
+    </map>
+    <map x="223" y="340" w="25" h="25">
+      <ref pos="2">1.5.2</ref>
+    </map>
+    <map x="106" y="346" w="25" h="25">
+      <ref pos="3">1.5.3</ref>
+    </map>
+    <map x="223" y="307" w="25" h="25">
+      <ref pos="8">1.5.4</ref>
+    </map>
+    <map x="62" y="346" w="25" h="25">
+      <ref pos="9">1.5.5</ref>
+    </map>
+    <map x="531" y="129" w="25" h="25">
+      <ref pos="17">1.5.7</ref>
+    </map>
+    <map x="40" y="139" w="25" h="25">
+      <ref pos="22">1.5.9</ref>
+    </map>
+    <map x="40" y="76" w="25" h="25">
+      <ref pos="24">1.5.11</ref>
+    </map>
+    <map x="233" y="81" w="30" h="25">
+      <ref pos="26">1.5.12</ref>
+    </map>
+    <map x="291" y="287" w="25" h="20">
+      <ref pos="41">1.5.15</ref>
+    </map>
+    <map x="231" y="162" w="25" h="25">
+      <ref pos="49">1.5.18</ref>
+    </map>
+    <map x="503" y="129" w="25" h="25">
+      <ref pos="18">1.5.8</ref>
+    </map>
+    <map x="277" y="50" w="106" h="85">
+      <ref pos="23">1.5.10</ref>
+      <ref pos="44">1.5.16</ref>
+      <ref pos="46">1.5.17</ref>
+      <ref pos="75">1.5.22</ref>
+    </map>
+    <map x="292" y="250" w="25" h="25">
+      <ref pos="40">1.5.14</ref>
+    </map>
+    <map x="39" y="291" w="26" h="25">
+      <ref pos="14">1.5.6</ref>
+    </map>
+    <map x="38" y="213" w="26" h="25">
+      <ref pos="38">1.5.13</ref>
+    </map>
+    <map x="330" y="173" w="26" h="25">
+      <ref pos="51">1.5.19</ref>
+    </map>
+    <map x="531" y="239" w="26" h="25">
+      <ref pos="52">1.5.20</ref>
+    </map>
+    <map x="38" y="252" w="26" h="25">
+      <ref pos="70">1.5.21</ref>
+    </map>
+  </stk>
+  <stk id="1_5_1" name="CATALYST-+FLUSHING AGENT PUMP" materialnr="321957" pos="1" description="&amp;nbsp;">
+    <map x="207" y="259" w="27" h="25">
+      <ref pos="1">1.5.1.1</ref>
+    </map>
+    <map x="219" y="55" w="27" h="25">
+      <ref pos="3">1.5.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_5_1_1" name="PUMPBODY OF CATALYST/PURGE PUMP ASS." materialnr="007488" pos="1" description="&amp;nbsp;">
+    <map x="210" y="310" w="24" h="26">
+      <ref pos="1">1.5.1.1.1</ref>
+    </map>
+    <map x="207" y="166" w="26" h="28">
+      <ref pos="2">1.5.1.1.2</ref>
+    </map>
+    <map x="332" y="261" w="26" h="28">
+      <ref pos="3">1.5.1.1.3</ref>
+    </map>
+    <map x="332" y="211" w="26" h="28">
+      <ref pos="4">1.5.1.1.4</ref>
+    </map>
+    <map x="205" y="205" w="29" h="28">
+      <ref pos="5">1.5.1.1.5</ref>
+    </map>
+    <map x="325" y="53" w="26" h="26">
+      <ref pos="9">1.5.1.1.6</ref>
+    </map>
+  </stk>
+  <stk id="1_5_1_1_1" name="BOTT.PART F.CATALYST-+DISHLIQUID PUMP" materialnr="007502" pos="1" description="&amp;nbsp;">
+    <map x="461" y="268" w="25" h="25">
+      <ref pos="3">1.5.1.1.1.2</ref>
+    </map>
+    <map x="458" y="180" w="25" h="25">
+      <ref pos="4">1.5.1.1.1.3</ref>
+    </map>
+    <map x="458" y="94" w="26" h="25">
+      <ref pos="6">1.5.1.1.1.4</ref>
+    </map>
+    <map x="140" y="18" w="26" h="25">
+      <ref pos="2">1.5.1.1.1.1</ref>
+    </map>
+    <map x="115" y="50" w="26" h="25">
+      <ref pos="50">1.5.1.1.1.5</ref>
+    </map>
+  </stk>
+  <stk id="1_5_1_1_1_1" name="SEALING RING 10X16X1,5MM COPPER" materialnr="007977" pos="2" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_1_2" name="FASTENING SCREW" materialnr="119151" pos="3" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_1_3" name="STEEL BALL DIA=28MM; NIRO-1.4034; HARD." materialnr="005971" pos="4" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_1_4" name="BASE OF PUMP WITH BALL-SEAT" materialnr="357535" pos="6" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_1_5" name="O-RING VITON 60X3MM VITON" materialnr="007912" pos="50" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_2" name="SEAL KIT F CATALYST+FLUSHING AGENT PUMP" materialnr="007477" pos="2" description="&amp;nbsp;">
+    <map x="352" y="37" w="25" h="25">
+      <ref pos="2">1.5.1.1.2.2</ref>
+    </map>
+    <map x="352" y="93" w="25" h="25">
+      <ref pos="4">1.5.1.1.2.4</ref>
+    </map>
+    <map x="345" y="309" w="25" h="25">
+      <ref pos="5">1.5.1.1.2.5</ref>
+    </map>
+    <map x="343" y="346" w="25" h="25">
+      <ref pos="6">1.5.1.1.2.6</ref>
+    </map>
+    <map x="352" y="8" w="26" h="25">
+      <ref pos="1">1.5.1.1.2.1</ref>
+    </map>
+    <map x="352" y="65" w="26" h="25">
+      <ref pos="3">1.5.1.1.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_5_1_1_2_1" name="SUPPORT RING F.CATALYST-+FLUSH.AGEND PUM" materialnr="342231" pos="1" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_2_2" name="SEAL RING 55,3/39,7MM H=9MM TEFLON" materialnr="007560" pos="2" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_2_3" name="PRESSURE RING F.CATALYST-+FLUSH.AGENT PU" materialnr="342230" pos="3" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_2_4" name="O-RING 64X3MM VITON" materialnr="007914" pos="4" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_2_5" name="O-RING VITON 60X3MM VITON" materialnr="007912" pos="5" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_2_6" name="SEALING RING 10X16X1,5MM COPPER" materialnr="007977" pos="6" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_3" name="CYLINDER PIPE" materialnr="007503" pos="3" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_4" name="PISTON WITH BALL VALVE SEAT/FORCED F HSP" materialnr="316069" pos="4" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_5" name="STEEL BALL DI=22 FOR CATA/PURGE/PUMP" materialnr="005970" pos="5" description="&amp;nbsp;" />
+  <stk id="1_5_1_1_6" name="PISTON ROD+SEAL BUSH" materialnr="007504" pos="9" description="&amp;nbsp;" />
+  <stk id="1_5_1_2" name="HYDRAULIC CYLINDER" materialnr="014202" pos="3" description="&amp;nbsp;">
+    <map x="455" y="267" w="28" h="20">
+      <ref pos="2">1.5.1.2.1</ref>
+    </map>
+    <map x="129" y="76" w="257" h="149">
+      <ref pos="4">1.5.1.2.2</ref>
+      <ref pos="6">1.5.1.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_5_1_2_1" name="PISTON ROD COMPLETE F HYDRAULIC CYLINDER" materialnr="213986" pos="2" description="&amp;nbsp;" />
+  <stk id="1_5_1_2_2" name="SEAL KIT FOR HD-CYLINDER/CATALYST PUMP" materialnr="007481" pos="4" description="&amp;nbsp;" />
+  <stk id="1_5_1_2_3" name="COPPER SEALING RING  6/10X1,5MM" materialnr="007976" pos="6" description="&amp;nbsp;" />
+  <stk id="1_5_2" name="PUMP EXTENSION" materialnr="022717" pos="2" description="&amp;nbsp;" />
+  <stk id="1_5_3" name="CATALYST PUMP FOLLOWER PLATE" materialnr="113461" pos="3" description="&amp;nbsp;">
+    <map x="189" y="8" w="25" h="25">
+      <ref pos="2">1.5.3.1</ref>
+    </map>
+    <map x="57" y="257" w="25" h="25">
+      <ref pos="5">1.5.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_5_3_1" name="PISTON PACKING 290/120X6MM EPDM" materialnr="028794" pos="2" description="&amp;nbsp;" />
+  <stk id="1_5_3_2" name="SUCTION FILTER FOR CATALYST-RAM PRESS" materialnr="348794" pos="5" description="&amp;nbsp;" />
+  <stk id="1_5_4" name="DBL/ACT PNEUM.CYL/D=50,STROKE=450MM" materialnr="189799" pos="8" description="&amp;nbsp;">
+    <map x="149" y="120" w="251" h="90">
+      <ref pos="10">1.5.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_5_4_1" name="SEAL KIT FOR REXROTH CYLINDER D=50MM" materialnr="315971" pos="10" description="&amp;nbsp;" />
+  <stk id="1_5_5" name="FLANGE REAR FOR CYLINDER C10-50 TY:50/11" materialnr="003048" pos="9" description="&amp;nbsp;" />
+  <stk id="1_5_6" name="CHECK VALVE PLUG-IN 1/4A-D=8MM" materialnr="334183" pos="14" description="&amp;nbsp;" />
+  <stk id="1_5_7" name="HAND BALL VALVE W/HANDLE,1/4,ID=10MM" materialnr="007311" pos="17" description="&amp;nbsp;" />
+  <stk id="1_5_8" name="SUPPLY-AIR CHOKE 1/8&amp;quot; D=8MM" materialnr="317393" pos="18" description="&amp;nbsp;" />
+  <stk id="1_5_9" name="5/3 WAY HAND LEVER VALVE R1/4&amp;quot;LOCKING" materialnr="003148" pos="22" description="&amp;nbsp;" />
+  <stk id="1_5_10" name="EXHAUST  SILENCER 1/4 &amp;quot; SINTERED METAL" materialnr="003351" pos="23" description="&amp;nbsp;" />
+  <stk id="1_5_11" name="PRESSURE CONTROLLER 0.2-3.5BAR R1/4&amp;quot;" materialnr="003368" pos="24" description="&amp;nbsp;" />
+  <stk id="1_5_12" name="PRESSURE GAUGE (GTi)1-10 BAR REAR" materialnr="003355" pos="26" description="&amp;nbsp;" />
+  <stk id="1_5_13" name="CATALYST FILTER/STAINLESS 30 MESH" materialnr="351427" pos="38" description="&amp;nbsp;">
+    <map x="133" y="129" w="26" h="25">
+      <ref pos="3">1.5.13.1</ref>
+    </map>
+    <map x="172" y="128" w="26" h="25">
+      <ref pos="4">1.5.13.2</ref>
+    </map>
+    <map x="485" y="23" w="26" h="25">
+      <ref pos="5">1.5.13.3</ref>
+    </map>
+    <map x="90" y="129" w="26" h="25">
+      <ref pos="6">1.5.13.4</ref>
+    </map>
+  </stk>
+  <stk id="1_5_13_1" name="SHAPED PIECE FOR GRACO-FILTER #171-939" materialnr="316499" pos="3" description="&amp;nbsp;" />
+  <stk id="1_5_13_2" name="FILTER UNIT FOR GRACO-FILTER" materialnr="013369" pos="4" description="&amp;nbsp;" />
+  <stk id="1_5_13_3" name="PRESSURE SPRING 171-941 F/GRACO-FILTER" materialnr="316500" pos="5" description="&amp;nbsp;" />
+  <stk id="1_5_13_4" name="O-RING, 37x2,5 mm FOR CATALYST FILTER" materialnr="356247" pos="6" description="&amp;nbsp;" />
+  <stk id="1_5_14" name="SCREW FITTING OF CATALYST FILTER 3/8" materialnr="325962" pos="40" description="&amp;nbsp;" />
+  <stk id="1_5_15" name="SCREW FITTING FOR CATALYST FILTER OUTLET" materialnr="022812" pos="41" description="&amp;nbsp;" />
+  <stk id="1_5_16" name="HD-PIPE D18/1,5X80 PRE-ASSEMBLED" materialnr="358762" pos="44" description="&amp;nbsp;" />
+  <stk id="1_5_17" name="HYDRAULIC PIPE 12X1,5; 42MM, ASSAMBLED" materialnr="332907" pos="46" description="&amp;nbsp;" />
+  <stk id="1_5_18" name="PIPE BEND FOR CATALYST RAM PRESS" materialnr="114515" pos="49" description="&amp;nbsp;" />
+  <stk id="1_5_19" name="BLOCK-BALL VALVE M20X1,5-MALE THREAD 500" materialnr="371955" pos="51" description="&amp;nbsp;" />
+  <stk id="1_5_20" name="3/2-PUSH BUTTON VALVE R1/8&amp;quot;" materialnr="335172" pos="52" description="&amp;nbsp;" />
+  <stk id="1_5_21" name="CATALYST DRUM BLEEDER ROD" materialnr="022816" pos="70" description="&amp;nbsp;" />
+  <stk id="1_5_22" name="SUPPLY-AIR CHOKE 1/4&amp;quot; D=8MM" materialnr="317961" pos="75" description="&amp;nbsp;" />
+  <stk id="1_6" name="RAM PRESS-CATALYST 20L W/NIRO-FILTER" materialnr="301946" pos="6" description="&amp;nbsp;">
+    <map x="463" y="20" w="37" h="34">
+      <ref pos="1">1.6.1</ref>
+    </map>
+    <map x="223" y="340" w="25" h="25">
+      <ref pos="2">1.6.2</ref>
+    </map>
+    <map x="106" y="346" w="25" h="25">
+      <ref pos="3">1.6.3</ref>
+    </map>
+    <map x="223" y="307" w="25" h="25">
+      <ref pos="8">1.6.4</ref>
+    </map>
+    <map x="62" y="346" w="25" h="25">
+      <ref pos="9">1.6.5</ref>
+    </map>
+    <map x="531" y="129" w="25" h="25">
+      <ref pos="17">1.6.7</ref>
+    </map>
+    <map x="40" y="139" w="25" h="25">
+      <ref pos="22">1.6.9</ref>
+    </map>
+    <map x="40" y="76" w="25" h="25">
+      <ref pos="24">1.6.11</ref>
+    </map>
+    <map x="233" y="81" w="30" h="25">
+      <ref pos="26">1.6.12</ref>
+    </map>
+    <map x="291" y="287" w="25" h="20">
+      <ref pos="41">1.6.15</ref>
+    </map>
+    <map x="231" y="162" w="25" h="25">
+      <ref pos="49">1.6.18</ref>
+    </map>
+    <map x="503" y="129" w="25" h="25">
+      <ref pos="18">1.6.8</ref>
+    </map>
+    <map x="277" y="50" w="106" h="85">
+      <ref pos="23">1.6.10</ref>
+      <ref pos="44">1.6.16</ref>
+      <ref pos="46">1.6.17</ref>
+      <ref pos="75">1.6.22</ref>
+    </map>
+    <map x="292" y="250" w="25" h="25">
+      <ref pos="40">1.6.14</ref>
+    </map>
+    <map x="39" y="291" w="26" h="25">
+      <ref pos="14">1.6.6</ref>
+    </map>
+    <map x="38" y="213" w="26" h="25">
+      <ref pos="38">1.6.13</ref>
+    </map>
+    <map x="330" y="173" w="26" h="25">
+      <ref pos="51">1.6.19</ref>
+    </map>
+    <map x="531" y="239" w="26" h="25">
+      <ref pos="52">1.6.20</ref>
+    </map>
+    <map x="38" y="252" w="26" h="25">
+      <ref pos="70">1.6.21</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1" name="CATALYST-+FLUSHING AGENT PUMP" materialnr="321957" pos="1" description="&amp;nbsp;">
+    <map x="207" y="259" w="27" h="25">
+      <ref pos="1">1.6.1.1</ref>
+    </map>
+    <map x="219" y="55" w="27" h="25">
+      <ref pos="3">1.6.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1_1" name="PUMPBODY OF CATALYST/PURGE PUMP ASS." materialnr="007488" pos="1" description="&amp;nbsp;">
+    <map x="210" y="310" w="24" h="26">
+      <ref pos="1">1.6.1.1.1</ref>
+    </map>
+    <map x="207" y="166" w="26" h="28">
+      <ref pos="2">1.6.1.1.2</ref>
+    </map>
+    <map x="332" y="261" w="26" h="28">
+      <ref pos="3">1.6.1.1.3</ref>
+    </map>
+    <map x="332" y="211" w="26" h="28">
+      <ref pos="4">1.6.1.1.4</ref>
+    </map>
+    <map x="205" y="205" w="29" h="28">
+      <ref pos="5">1.6.1.1.5</ref>
+    </map>
+    <map x="325" y="53" w="26" h="26">
+      <ref pos="9">1.6.1.1.6</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1_1_1" name="BOTT.PART F.CATALYST-+DISHLIQUID PUMP" materialnr="007502" pos="1" description="&amp;nbsp;">
+    <map x="461" y="268" w="25" h="25">
+      <ref pos="3">1.6.1.1.1.2</ref>
+    </map>
+    <map x="458" y="180" w="25" h="25">
+      <ref pos="4">1.6.1.1.1.3</ref>
+    </map>
+    <map x="458" y="94" w="26" h="25">
+      <ref pos="6">1.6.1.1.1.4</ref>
+    </map>
+    <map x="127" y="33" w="26" h="25">
+      <ref pos="2">1.6.1.1.1.1</ref>
+    </map>
+    <map x="111" y="69" w="26" h="25">
+      <ref pos="50">1.6.1.1.1.5</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1_1_1_1" name="SEALING RING 10X16X1,5MM COPPER" materialnr="007977" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_1_2" name="FASTENING SCREW" materialnr="119151" pos="3" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_1_3" name="STEEL BALL DIA=28MM; NIRO-1.4034; HARD." materialnr="005971" pos="4" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_1_4" name="BASE OF PUMP WITH BALL-SEAT" materialnr="357535" pos="6" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_1_5" name="O-RING VITON 60X3MM VITON" materialnr="007912" pos="50" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_2" name="SEAL KIT F CATALYST+FLUSHING AGENT PUMP" materialnr="007477" pos="2" description="&amp;nbsp;">
+    <map x="352" y="37" w="25" h="25">
+      <ref pos="2">1.6.1.1.2.2</ref>
+    </map>
+    <map x="352" y="93" w="25" h="25">
+      <ref pos="4">1.6.1.1.2.4</ref>
+    </map>
+    <map x="345" y="309" w="25" h="25">
+      <ref pos="5">1.6.1.1.2.5</ref>
+    </map>
+    <map x="343" y="346" w="25" h="25">
+      <ref pos="6">1.6.1.1.2.6</ref>
+    </map>
+    <map x="352" y="8" w="26" h="25">
+      <ref pos="1">1.6.1.1.2.1</ref>
+    </map>
+    <map x="352" y="65" w="26" h="25">
+      <ref pos="3">1.6.1.1.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1_1_2_1" name="SUPPORT RING F.CATALYST-+FLUSH.AGEND PUM" materialnr="342231" pos="1" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_2_2" name="SEAL RING 55,3/39,7MM H=9MM TEFLON" materialnr="007560" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_2_3" name="PRESSURE RING F.CATALYST-+FLUSH.AGENT PU" materialnr="342230" pos="3" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_2_4" name="O-RING 64X3MM VITON" materialnr="007914" pos="4" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_2_5" name="O-RING VITON 60X3MM VITON" materialnr="007912" pos="5" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_2_6" name="SEALING RING 10X16X1,5MM COPPER" materialnr="007977" pos="6" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_3" name="CYLINDER PIPE" materialnr="007503" pos="3" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_4" name="PISTON WITH BALL VALVE SEAT/FORCED F HSP" materialnr="316069" pos="4" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_5" name="STEEL BALL DI=22 FOR CATA/PURGE/PUMP" materialnr="005970" pos="5" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_6" name="PISTON ROD+SEAL BUSH" materialnr="007504" pos="9" description="&amp;nbsp;" />
+  <stk id="1_6_1_2" name="HYDRAULIC CYLINDER" materialnr="014202" pos="3" description="&amp;nbsp;">
+    <map x="455" y="267" w="28" h="20">
+      <ref pos="2">1.6.1.2.1</ref>
+    </map>
+    <map x="129" y="76" w="257" h="149">
+      <ref pos="4">1.6.1.2.2</ref>
+      <ref pos="6">1.6.1.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1_2_1" name="PISTON ROD COMPLETE F HYDRAULIC CYLINDER" materialnr="213986" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_1_2_2" name="SEAL KIT FOR HD-CYLINDER/CATALYST PUMP" materialnr="007481" pos="4" description="&amp;nbsp;" />
+  <stk id="1_6_1_2_3" name="COPPER SEALING RING  6/10X1,5MM" materialnr="007976" pos="6" description="&amp;nbsp;" />
+  <stk id="1_6_2" name="PUMP EXTENSION" materialnr="022717" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_3" name="CATALYST PUMP FOLLOWER PLATE" materialnr="113461" pos="3" description="&amp;nbsp;">
+    <map x="189" y="8" w="25" h="25">
+      <ref pos="2">1.6.3.1</ref>
+    </map>
+    <map x="57" y="257" w="25" h="25">
+      <ref pos="5">1.6.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_6_3_1" name="PISTON PACKING 290/120X6MM EPDM" materialnr="028794" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_3_2" name="SUCTION FILTER FOR CATALYST-RAM PRESS" materialnr="348794" pos="5" description="&amp;nbsp;" />
+  <stk id="1_6_4" name="DBL/ACT PNEUM.CYL/D=50,STROKE=450MM" materialnr="189799" pos="8" description="&amp;nbsp;">
+    <map x="149" y="120" w="251" h="90">
+      <ref pos="10">1.6.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_6_4_1" name="SEAL KIT FOR REXROTH CYLINDER D=50MM" materialnr="315971" pos="10" description="&amp;nbsp;" />
+  <stk id="1_6_5" name="FLANGE REAR FOR CYLINDER C10-50 TY:50/11" materialnr="003048" pos="9" description="&amp;nbsp;" />
+  <stk id="1_6_6" name="CHECK VALVE PLUG-IN 1/4A-D=8MM" materialnr="334183" pos="14" description="&amp;nbsp;" />
+  <stk id="1_6_7" name="HAND BALL VALVE W/HANDLE,1/4,ID=10MM" materialnr="007311" pos="17" description="&amp;nbsp;" />
+  <stk id="1_6_8" name="SUPPLY-AIR CHOKE 1/8&amp;quot; D=8MM" materialnr="317393" pos="18" description="&amp;nbsp;" />
+  <stk id="1_6_9" name="5/3 WAY HAND LEVER VALVE R1/4&amp;quot;LOCKING" materialnr="003148" pos="22" description="&amp;nbsp;" />
+  <stk id="1_6_10" name="EXHAUST  SILENCER 1/4 &amp;quot; SINTERED METAL" materialnr="003351" pos="23" description="&amp;nbsp;" />
+  <stk id="1_6_11" name="PRESSURE CONTROLLER 0.2-3.5BAR R1/4&amp;quot;" materialnr="003368" pos="24" description="&amp;nbsp;" />
+  <stk id="1_6_12" name="PRESSURE GAUGE (GTi)1-10 BAR REAR" materialnr="003355" pos="26" description="&amp;nbsp;" />
+  <stk id="1_6_13" name="CATALYST FILTER/STAINLESS 30 MESH" materialnr="351427" pos="38" description="&amp;nbsp;">
+    <map x="133" y="129" w="26" h="25">
+      <ref pos="3">1.6.13.1</ref>
+    </map>
+    <map x="172" y="128" w="26" h="25">
+      <ref pos="4">1.6.13.2</ref>
+    </map>
+    <map x="485" y="23" w="26" h="25">
+      <ref pos="5">1.6.13.3</ref>
+    </map>
+    <map x="90" y="129" w="26" h="25">
+      <ref pos="6">1.6.13.4</ref>
+    </map>
+  </stk>
+  <stk id="1_6_13_1" name="SHAPED PIECE FOR GRACO-FILTER #171-939" materialnr="316499" pos="3" description="&amp;nbsp;" />
+  <stk id="1_6_13_2" name="FILTER UNIT FOR GRACO-FILTER" materialnr="013369" pos="4" description="&amp;nbsp;" />
+  <stk id="1_6_13_3" name="PRESSURE SPRING 171-941 F/GRACO-FILTER" materialnr="316500" pos="5" description="&amp;nbsp;" />
+  <stk id="1_6_13_4" name="O-RING, 37x2,5 mm FOR CATALYST FILTER" materialnr="356247" pos="6" description="&amp;nbsp;" />
+  <stk id="1_6_14" name="SCREW FITTING OF CATALYST FILTER 3/8" materialnr="325962" pos="40" description="&amp;nbsp;" />
+  <stk id="1_6_15" name="SCREW FITTING FOR CATALYST FILTER OUTLET" materialnr="022812" pos="41" description="&amp;nbsp;" />
+  <stk id="1_6_16" name="HD-PIPE D18/1,5X80 PRE-ASSEMBLED" materialnr="358762" pos="44" description="&amp;nbsp;" />
+  <stk id="1_6_17" name="HYDRAULIC PIPE 12X1,5; 42MM, ASSAMBLED" materialnr="332907" pos="46" description="&amp;nbsp;" />
+  <stk id="1_6_18" name="PIPE BEND FOR CATALYST RAM PRESS" materialnr="114515" pos="49" description="&amp;nbsp;" />
+  <stk id="1_6_19" name="BLOCK-BALL VALVE M20X1,5-MALE THREAD 500" materialnr="371955" pos="51" description="&amp;nbsp;" />
+  <stk id="1_6_20" name="3/2-PUSH BUTTON VALVE R1/8&amp;quot;" materialnr="335172" pos="52" description="&amp;nbsp;" />
+  <stk id="1_6_21" name="CATALYST DRUM BLEEDER ROD" materialnr="022816" pos="70" description="&amp;nbsp;" />
+  <stk id="1_6_22" name="SUPPLY-AIR CHOKE 1/4&amp;quot; D=8MM" materialnr="317961" pos="75" description="&amp;nbsp;" />
+  <stk id="1_7" name="BASE SUPPLY" materialnr="168322" pos="7" description="&amp;nbsp;">
+    <map x="384" y="301" w="26" h="25">
+      <ref pos="3">1.7.1</ref>
+      <ref pos="8">1.7.2</ref>
+    </map>
+    <map x="165" y="299" w="26" h="25">
+      <ref pos="22">1.7.5</ref>
+    </map>
+    <map x="167" y="184" w="26" h="25">
+      <ref pos="10">1.7.3</ref>
+    </map>
+    <map x="172" y="120" w="27" h="25">
+      <ref pos="19">1.7.4</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1" name="HOSE CLIP 515-555MM; ZINC COATED" materialnr="003674" pos="3" description="&amp;nbsp;" />
+  <stk id="1_7_2" name="SCRAPER FOR BASIC FOLLOW-UP PLATE" materialnr="025087" pos="8" description="&amp;nbsp;" />
+  <stk id="1_7_3" name="BASE PUMP OF METERIN/BASE PLATE" materialnr="324111" pos="10" description="&amp;nbsp;">
+    <map x="388" y="168" w="27" h="25">
+      <ref pos="1">1.7.3.1</ref>
+    </map>
+    <map x="388" y="62" w="27" h="25">
+      <ref pos="2">1.7.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_7_3_1" name="BASE PUMP METERING; WITHOUT RAM PRES" materialnr="026471" pos="1" description="&amp;nbsp;">
+    <map x="342" y="158" w="26" h="25">
+      <ref pos="1">1.7.3.1.1</ref>
+    </map>
+    <map x="340" y="28" w="26" h="25">
+      <ref pos="2">1.7.3.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_7_3_1_1" name="BASIC UNIT/DRUM-PUMP TAL/DOS" materialnr="013993" pos="1" description="&amp;nbsp;">
+    <map x="330" y="206" w="27" h="27">
+      <ref pos="3">1.7.3.1.1.2</ref>
+    </map>
+    <map x="330" y="237" w="27" h="27">
+      <ref pos="4">1.7.3.1.1.3</ref>
+    </map>
+    <map x="193" y="256" w="27" h="27">
+      <ref pos="7">1.7.3.1.1.4</ref>
+    </map>
+    <map x="193" y="289" w="27" h="27">
+      <ref pos="8">1.7.3.1.1.5</ref>
+    </map>
+    <map x="330" y="175" w="27" h="27">
+      <ref pos="13">1.7.3.1.1.6</ref>
+    </map>
+    <map x="331" y="143" w="27" h="27">
+      <ref pos="14">1.7.3.1.1.7</ref>
+    </map>
+    <map x="178" y="96" w="27" h="27">
+      <ref pos="18">1.7.3.1.1.8</ref>
+    </map>
+    <map x="176" y="157" w="27" h="27">
+      <ref pos="19">1.7.3.1.1.9</ref>
+    </map>
+    <map x="177" y="127" w="27" h="27">
+      <ref pos="20">1.7.3.1.1.10</ref>
+    </map>
+    <map x="177" y="188" w="27" h="27">
+      <ref pos="21">1.7.3.1.1.11</ref>
+    </map>
+    <map x="193" y="319" w="27" h="27">
+      <ref pos="27">1.7.3.1.1.12</ref>
+    </map>
+    <map x="267" y="53" w="52" h="101">
+      <ref pos="2">1.7.3.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_7_3_1_1_1" name="SEAL KIT FOR PUMP" materialnr="007474" pos="2" description="&amp;nbsp;">
+    <map x="359" y="22" w="26" h="25">
+      <ref pos="1">1.7.3.1.1.1.1</ref>
+    </map>
+    <map x="178" y="102" w="26" h="25">
+      <ref pos="2">1.7.3.1.1.1.2</ref>
+    </map>
+    <map x="172" y="326" w="26" h="25">
+      <ref pos="3">1.7.3.1.1.1.3</ref>
+    </map>
+    <map x="354" y="72" w="26" h="25">
+      <ref pos="4">1.7.3.1.1.1.4</ref>
+    </map>
+    <map x="182" y="248" w="26" h="25">
+      <ref pos="5">1.7.3.1.1.1.5</ref>
+    </map>
+    <map x="325" y="214" w="26" h="25">
+      <ref pos="6">1.7.3.1.1.1.6</ref>
+    </map>
+    <map x="308" y="325" w="26" h="25">
+      <ref pos="7">1.7.3.1.1.1.7</ref>
+    </map>
+  </stk>
+  <stk id="1_7_3_1_1_1_1" name="SEAL KIT D=80/60 (6 PARTS)" materialnr="007580" pos="1" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_1_2" name="SEAL KIT D=80/60 (5 PARTS)" materialnr="007576" pos="2" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_1_3" name="SEAL KIT D=32/22 (4 PARTS)" materialnr="007581" pos="3" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_1_4" name="FLAT SEAL RING" materialnr="007469" pos="4" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_1_5" name="O-RING 100X4MM  VITON" materialnr="007926" pos="5" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_1_6" name="O-RING 77X2MM  VITON" materialnr="007918" pos="6" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_1_7" name="O-RING 47X3.5MM  VITON (TAL-60)" materialnr="007904" pos="7" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_2" name="GUIDE STAR" materialnr="013998" pos="3" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_3" name="CHECK VALVE COMPLETE" materialnr="013997" pos="4" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_4" name="SUCTION VALVE PLATE" materialnr="013995" pos="7" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_5" name="SUCTION PLATE" materialnr="013994" pos="8" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_6" name="PRESSURE PIPE" materialnr="013999" pos="13" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_7" name="PISTON ROD COMPLETE WITHOUT SEAL KIT" materialnr="014001" pos="14" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_8" name="BOLT GUIDE" materialnr="014004" pos="18" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_9" name="PRESSURE VALVE ROD+PLATE" materialnr="014003" pos="19" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_10" name="CHECK VALVE  LIMITER" materialnr="014005" pos="20" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_11" name="PRESSURE VALVE COVER" materialnr="014002" pos="21" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_1_12" name="SYNTHETIC SCREEN FOR BASE PUMP" materialnr="340577" pos="27" description="&amp;nbsp;" />
+  <stk id="1_7_3_1_2" name="HD-CYLINDER D110 STR150 F.BASIS PUMP DOS" materialnr="216305" pos="2" description="&amp;nbsp;">
+    <map x="168" y="96" w="137" h="137">
+      <ref pos="10">1.7.3.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_7_3_1_2_1" name="SEAL KIT HYD.CYL.D 100/45 F BAS.PUMP VL" materialnr="216307" pos="10" description="&amp;nbsp;" />
+  <stk id="1_7_3_2" name="BASE RAM PRESS With FOLLOWING PLATE" materialnr="345038" pos="2" description="&amp;nbsp;">
+    <map x="286" y="89" w="169" h="83">
+      <ref pos="18">1.7.3.2.1</ref>
+      <ref pos="19">1.7.3.2.2</ref>
+      <ref pos="20">1.7.3.2.3</ref>
+      <ref pos="21">1.7.3.2.4</ref>
+      <ref pos="22">1.7.3.2.5</ref>
+      <ref pos="23">1.7.3.2.6</ref>
+      <ref pos="25">1.7.3.2.7</ref>
+      <ref pos="26">1.7.3.2.8</ref>
+      <ref pos="27">1.7.3.2.9</ref>
+      <ref pos="30">1.7.3.2.10</ref>
+      <ref pos="501">1.7.3.2.11</ref>
+    </map>
+  </stk>
+  <stk id="1_7_3_2_1" name="PNEU- SEAL KIT FOR 200L-RAM-PRESS" materialnr="007520" pos="18" description="&amp;nbsp;" />
+  <stk id="1_7_3_2_2" name="SAFETY VALVE,1-4 BAR,R1/4&amp;quot;" materialnr="003278" pos="19" description="&amp;nbsp;" />
+  <stk id="1_7_3_2_3" name="5/3 WAY HAND LEVER VALVE R1/4&amp;quot;LOCKING" materialnr="003148" pos="20" description="&amp;nbsp;" />
+  <stk id="1_7_3_2_4" name="SUPPLY-AIR CHOKE 1/4&amp;quot; D=8MM" materialnr="317961" pos="21" description="&amp;nbsp;" />
+  <stk id="1_7_3_2_5" name="EXHAUST THROTTLE THR.1/4&amp;quot; D8 W PLUG CON." materialnr="316703" pos="22" description="&amp;nbsp;" />
+  <stk id="1_7_3_2_6" name="CHECK VALVE PLUG-IN 1/4A-D=8MM" materialnr="334183" pos="23" description="&amp;nbsp;" />
+  <stk id="1_7_3_2_7" name="PRESSURE CONTROLLER 0.3 - 7BAR" materialnr="027522" pos="25" description="&amp;nbsp;" />
+  <stk id="1_7_3_2_8" name="HAND BALL VALVE W/HANDLE,1/4,ID=10MM" materialnr="007311" pos="26" description="&amp;nbsp;" />
+  <stk id="1_7_3_2_9" name="PRESSURE GAUGE (GTi)1-10 BAR REAR" materialnr="003355" pos="27" description="&amp;nbsp;" />
+  <stk id="1_7_3_2_10" name="EXHAUST  SILENCER 1/4 &amp;quot; SINTERED METAL" materialnr="003351" pos="30" description="&amp;nbsp;" />
+  <stk id="1_7_3_2_11" name="HOSE ID=5.7MM; OD=8MM; TENSILE" materialnr="230211" pos="501" description="&amp;nbsp;" />
+  <stk id="1_7_4" name="THERMOSTAT HOUSING" materialnr="023445" pos="19" description="&amp;nbsp;">
+    <map x="113" y="110" w="212" h="246">
+      <ref pos="2">1.7.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_7_4_1" name="THERMOSTAT W.REMOTE INDICATOR 0...+200&amp;deg;C" materialnr="341097" pos="2" description="&amp;nbsp;" />
+  <stk id="1_7_5" name="CENTERING BOLT/BASE RAM PRESS SYNTHETIC" materialnr="321518" pos="22" description="&amp;nbsp;" />
+  <stk id="1_8" name="BASE SUPPLY" materialnr="168322" pos="8" description="&amp;nbsp;">
+    <map x="384" y="301" w="26" h="25">
+      <ref pos="3">1.8.1</ref>
+      <ref pos="8">1.8.2</ref>
+    </map>
+    <map x="165" y="299" w="26" h="25">
+      <ref pos="22">1.8.5</ref>
+    </map>
+    <map x="167" y="184" w="26" h="25">
+      <ref pos="10">1.8.3</ref>
+    </map>
+    <map x="172" y="120" w="27" h="25">
+      <ref pos="19">1.8.4</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1" name="HOSE CLIP 515-555MM; ZINC COATED" materialnr="003674" pos="3" description="&amp;nbsp;" />
+  <stk id="1_8_2" name="SCRAPER FOR BASIC FOLLOW-UP PLATE" materialnr="025087" pos="8" description="&amp;nbsp;" />
+  <stk id="1_8_3" name="BASE PUMP OF METERIN/BASE PLATE" materialnr="324111" pos="10" description="&amp;nbsp;">
+    <map x="388" y="168" w="27" h="25">
+      <ref pos="1">1.8.3.1</ref>
+    </map>
+    <map x="388" y="62" w="27" h="25">
+      <ref pos="2">1.8.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_8_3_1" name="BASE PUMP METERING; WITHOUT RAM PRES" materialnr="026471" pos="1" description="&amp;nbsp;">
+    <map x="342" y="158" w="26" h="25">
+      <ref pos="1">1.8.3.1.1</ref>
+    </map>
+    <map x="340" y="28" w="26" h="25">
+      <ref pos="2">1.8.3.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_8_3_1_1" name="BASIC UNIT/DRUM-PUMP TAL/DOS" materialnr="013993" pos="1" description="&amp;nbsp;">
+    <map x="330" y="206" w="27" h="27">
+      <ref pos="3">1.8.3.1.1.2</ref>
+    </map>
+    <map x="330" y="237" w="27" h="27">
+      <ref pos="4">1.8.3.1.1.3</ref>
+    </map>
+    <map x="193" y="256" w="27" h="27">
+      <ref pos="7">1.8.3.1.1.4</ref>
+    </map>
+    <map x="193" y="289" w="27" h="27">
+      <ref pos="8">1.8.3.1.1.5</ref>
+    </map>
+    <map x="330" y="175" w="27" h="27">
+      <ref pos="13">1.8.3.1.1.6</ref>
+    </map>
+    <map x="331" y="143" w="27" h="27">
+      <ref pos="14">1.8.3.1.1.7</ref>
+    </map>
+    <map x="178" y="96" w="27" h="27">
+      <ref pos="18">1.8.3.1.1.8</ref>
+    </map>
+    <map x="176" y="157" w="27" h="27">
+      <ref pos="19">1.8.3.1.1.9</ref>
+    </map>
+    <map x="177" y="127" w="27" h="27">
+      <ref pos="20">1.8.3.1.1.10</ref>
+    </map>
+    <map x="177" y="188" w="27" h="27">
+      <ref pos="21">1.8.3.1.1.11</ref>
+    </map>
+    <map x="193" y="319" w="27" h="27">
+      <ref pos="27">1.8.3.1.1.12</ref>
+    </map>
+    <map x="264" y="61" w="54" h="96">
+      <ref pos="2">1.8.3.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_8_3_1_1_1" name="SEAL KIT FOR PUMP" materialnr="007474" pos="2" description="&amp;nbsp;">
+    <map x="359" y="22" w="26" h="25">
+      <ref pos="1">1.8.3.1.1.1.1</ref>
+    </map>
+    <map x="178" y="102" w="26" h="25">
+      <ref pos="2">1.8.3.1.1.1.2</ref>
+    </map>
+    <map x="172" y="326" w="26" h="25">
+      <ref pos="3">1.8.3.1.1.1.3</ref>
+    </map>
+    <map x="354" y="72" w="26" h="25">
+      <ref pos="4">1.8.3.1.1.1.4</ref>
+    </map>
+    <map x="182" y="248" w="26" h="25">
+      <ref pos="5">1.8.3.1.1.1.5</ref>
+    </map>
+    <map x="325" y="214" w="26" h="25">
+      <ref pos="6">1.8.3.1.1.1.6</ref>
+    </map>
+    <map x="308" y="325" w="26" h="25">
+      <ref pos="7">1.8.3.1.1.1.7</ref>
+    </map>
+  </stk>
+  <stk id="1_8_3_1_1_1_1" name="SEAL KIT D=80/60 (6 PARTS)" materialnr="007580" pos="1" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_1_2" name="SEAL KIT D=80/60 (5 PARTS)" materialnr="007576" pos="2" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_1_3" name="SEAL KIT D=32/22 (4 PARTS)" materialnr="007581" pos="3" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_1_4" name="FLAT SEAL RING" materialnr="007469" pos="4" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_1_5" name="O-RING 100X4MM  VITON" materialnr="007926" pos="5" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_1_6" name="O-RING 77X2MM  VITON" materialnr="007918" pos="6" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_1_7" name="O-RING 47X3.5MM  VITON (TAL-60)" materialnr="007904" pos="7" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_2" name="GUIDE STAR" materialnr="013998" pos="3" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_3" name="CHECK VALVE COMPLETE" materialnr="013997" pos="4" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_4" name="SUCTION VALVE PLATE" materialnr="013995" pos="7" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_5" name="SUCTION PLATE" materialnr="013994" pos="8" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_6" name="PRESSURE PIPE" materialnr="013999" pos="13" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_7" name="PISTON ROD COMPLETE WITHOUT SEAL KIT" materialnr="014001" pos="14" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_8" name="BOLT GUIDE" materialnr="014004" pos="18" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_9" name="PRESSURE VALVE ROD+PLATE" materialnr="014003" pos="19" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_10" name="CHECK VALVE  LIMITER" materialnr="014005" pos="20" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_11" name="PRESSURE VALVE COVER" materialnr="014002" pos="21" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_1_12" name="SYNTHETIC SCREEN FOR BASE PUMP" materialnr="340577" pos="27" description="&amp;nbsp;" />
+  <stk id="1_8_3_1_2" name="HD-CYLINDER D110 STR150 F.BASIS PUMP DOS" materialnr="216305" pos="2" description="&amp;nbsp;">
+    <map x="168" y="96" w="137" h="137">
+      <ref pos="10">1.8.3.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_8_3_1_2_1" name="SEAL KIT HYD.CYL.D 100/45 F BAS.PUMP VL" materialnr="216307" pos="10" description="&amp;nbsp;" />
+  <stk id="1_8_3_2" name="BASE RAM PRESS With FOLLOWING PLATE" materialnr="345038" pos="2" description="&amp;nbsp;">
+    <map x="286" y="89" w="169" h="83">
+      <ref pos="18">1.8.3.2.1</ref>
+      <ref pos="19">1.8.3.2.2</ref>
+      <ref pos="20">1.8.3.2.3</ref>
+      <ref pos="21">1.8.3.2.4</ref>
+      <ref pos="22">1.8.3.2.5</ref>
+      <ref pos="23">1.8.3.2.6</ref>
+      <ref pos="25">1.8.3.2.7</ref>
+      <ref pos="26">1.8.3.2.8</ref>
+      <ref pos="27">1.8.3.2.9</ref>
+      <ref pos="30">1.8.3.2.10</ref>
+      <ref pos="501">1.8.3.2.11</ref>
+    </map>
+  </stk>
+  <stk id="1_8_3_2_1" name="PNEU- SEAL KIT FOR 200L-RAM-PRESS" materialnr="007520" pos="18" description="&amp;nbsp;" />
+  <stk id="1_8_3_2_2" name="SAFETY VALVE,1-4 BAR,R1/4&amp;quot;" materialnr="003278" pos="19" description="&amp;nbsp;" />
+  <stk id="1_8_3_2_3" name="5/3 WAY HAND LEVER VALVE R1/4&amp;quot;LOCKING" materialnr="003148" pos="20" description="&amp;nbsp;" />
+  <stk id="1_8_3_2_4" name="SUPPLY-AIR CHOKE 1/4&amp;quot; D=8MM" materialnr="317961" pos="21" description="&amp;nbsp;" />
+  <stk id="1_8_3_2_5" name="EXHAUST THROTTLE THR.1/4&amp;quot; D8 W PLUG CON." materialnr="316703" pos="22" description="&amp;nbsp;" />
+  <stk id="1_8_3_2_6" name="CHECK VALVE PLUG-IN 1/4A-D=8MM" materialnr="334183" pos="23" description="&amp;nbsp;" />
+  <stk id="1_8_3_2_7" name="PRESSURE CONTROLLER 0.3 - 7BAR" materialnr="027522" pos="25" description="&amp;nbsp;" />
+  <stk id="1_8_3_2_8" name="HAND BALL VALVE W/HANDLE,1/4,ID=10MM" materialnr="007311" pos="26" description="&amp;nbsp;" />
+  <stk id="1_8_3_2_9" name="PRESSURE GAUGE (GTi)1-10 BAR REAR" materialnr="003355" pos="27" description="&amp;nbsp;" />
+  <stk id="1_8_3_2_10" name="EXHAUST  SILENCER 1/4 &amp;quot; SINTERED METAL" materialnr="003351" pos="30" description="&amp;nbsp;" />
+  <stk id="1_8_3_2_11" name="HOSE ID=5.7MM; OD=8MM; TENSILE" materialnr="230211" pos="501" description="&amp;nbsp;" />
+  <stk id="1_8_4" name="THERMOSTAT HOUSING" materialnr="023445" pos="19" description="&amp;nbsp;">
+    <map x="113" y="110" w="212" h="246">
+      <ref pos="2">1.8.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_8_4_1" name="THERMOSTAT W.REMOTE INDICATOR 0...+200&amp;deg;C" materialnr="341097" pos="2" description="&amp;nbsp;" />
+  <stk id="1_8_5" name="CENTERING BOLT/BASE RAM PRESS SYNTHETIC" materialnr="321518" pos="22" description="&amp;nbsp;" />
+  <stk id="1_9" name="NOZZLE PURGING UNIT DOS-1TH" materialnr="150074" pos="9" description="&amp;nbsp;">
+    <map x="215" y="91" w="140" h="225">
+      <ref pos="1">1.9.1</ref>
+    </map>
+  </stk>
+  <stk id="1_9_1" name="NOZZLE PURGING UNIT/BASIC VERSION" materialnr="358321" pos="1" description="&amp;nbsp;">
+    <map x="168" y="124" w="27" h="25">
+      <ref pos="7">1.9.1.1</ref>
+    </map>
+    <map x="168" y="91" w="27" h="25">
+      <ref pos="13">1.9.1.2</ref>
+    </map>
+    <map x="379" y="243" w="27" h="25">
+      <ref pos="14">1.9.1.3</ref>
+    </map>
+    <map x="379" y="210" w="27" h="25">
+      <ref pos="18">1.9.1.4</ref>
+    </map>
+    <map x="318" y="292" w="27" h="25">
+      <ref pos="19">1.9.1.5</ref>
+    </map>
+    <map x="169" y="155" w="27" h="25">
+      <ref pos="26">1.9.1.6</ref>
+    </map>
+    <map x="358" y="104" w="27" h="25">
+      <ref pos="28">1.9.1.7</ref>
+    </map>
+    <map x="358" y="144" w="27" h="25">
+      <ref pos="40">1.9.1.9</ref>
+    </map>
+    <map x="151" y="58" w="44" h="25">
+      <ref pos="29">1.9.1.8</ref>
+      <ref pos="46">1.9.1.10</ref>
+    </map>
+    <map x="357" y="10" w="27" h="25">
+      <ref pos="49">1.9.1.11</ref>
+    </map>
+    <map x="357" y="45" w="27" h="25">
+      <ref pos="51">1.9.1.12</ref>
+    </map>
+  </stk>
+  <stk id="1_9_1_1" name="PRESSURE CONTROLLER 0.2-3.5BAR R1/4&amp;quot;" materialnr="003368" pos="7" description="&amp;nbsp;" />
+  <stk id="1_9_1_2" name="MANOMETER 0-4 BAR" materialnr="003356" pos="13" description="&amp;nbsp;" />
+  <stk id="1_9_1_3" name="CROSS HANDLE;THREAD M8;GRIP D40;PLASTIC" materialnr="005429" pos="14" description="&amp;nbsp;" />
+  <stk id="1_9_1_4" name="BALL VALVE 3/4&amp;quot; 40B 20MM BRASS" materialnr="007315" pos="18" description="&amp;nbsp;" />
+  <stk id="1_9_1_5" name="HAND PUMP GL25T -PTFE SEALS" materialnr="021682" pos="19" description="&amp;nbsp;">
+    <map x="108" y="117" w="235" h="93">
+      <ref pos="10">1.9.1.5.1</ref>
+      <ref pos="30">1.9.1.5.2</ref>
+    </map>
+  </stk>
+  <stk id="1_9_1_5_1" name="SEAL KIT (EPDM)  FOR HAND PUMP 021682" materialnr="333356" pos="10" description="&amp;nbsp;" />
+  <stk id="1_9_1_5_2" name="SEAL KIT/ROD-SIDED" materialnr="358776" pos="30" description="&amp;nbsp;" />
+  <stk id="1_9_1_6" name="DBL/ACT PNEUM.CYL.,D=80,STROKE=50MM;" materialnr="189812" pos="26" description="&amp;nbsp;" />
+  <stk id="1_9_1_7" name="3-WAY MANUAL BALL VALVE,D=10,500BAR," materialnr="003840" pos="28" description="&amp;nbsp;" />
+  <stk id="1_9_1_8" name="EXHAUST  SILENCER 1/4 &amp;quot; SINTERED METAL" materialnr="003351" pos="29" description="&amp;nbsp;" />
+  <stk id="1_9_1_9" name="HYD.HOSE PTFE/L=2000MM,D=8MM,DKS/DKS" materialnr="029241" pos="40" description="&amp;nbsp;" />
+  <stk id="1_9_1_10" name="5/2 WAY DBL SOLENOID VALVE, 24VDC," materialnr="003230" pos="46" description="&amp;nbsp;" />
+  <stk id="1_9_1_11" name="RUBBER SEALING F.PURGING UNIT EPDM" materialnr="359149" pos="49" description="&amp;nbsp;" />
+  <stk id="1_9_1_12" name="NOZZLE HOLDER DOS-1(PS;PU;SI);PTFE;E" materialnr="026858" pos="51" description="&amp;nbsp;">
+    <map x="113" y="70" w="26" h="25">
+      <ref pos="4">1.9.1.12.1</ref>
+    </map>
+  </stk>
+  <stk id="1_9_1_12_1" name="PTFE-SEAL KIT WITH EPDM O-RING" materialnr="023146" pos="4" description="&amp;nbsp;">
+    <map x="94" y="159" w="27" h="25">
+      <ref pos="2">1.9.1.12.1.1</ref>
+    </map>
+    <map x="157" y="36" w="27" h="25">
+      <ref pos="3">1.9.1.12.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_9_1_12_1_1" name="O-RING 8X2MM EPDM 70 SHORE" materialnr="022679" pos="2" description="&amp;nbsp;" />
+  <stk id="1_9_1_12_1_2" name="SEALING SAFEGUARD, SPRING D=1.2X45MM" materialnr="015336" pos="3" description="&amp;nbsp;" />
+  <stk id="1_10" name="NOZZLE PURGING UNIT DOS-1TH" materialnr="150074" pos="10" description="&amp;nbsp;">
+    <map x="215" y="91" w="140" h="225">
+      <ref pos="1">1.10.1</ref>
+    </map>
+  </stk>
+  <stk id="1_10_1" name="NOZZLE PURGING UNIT/BASIC VERSION" materialnr="358321" pos="1" description="&amp;nbsp;">
+    <map x="168" y="124" w="27" h="25">
+      <ref pos="7">1.10.1.1</ref>
+    </map>
+    <map x="168" y="91" w="27" h="25">
+      <ref pos="13">1.10.1.2</ref>
+    </map>
+    <map x="379" y="243" w="27" h="25">
+      <ref pos="14">1.10.1.3</ref>
+    </map>
+    <map x="379" y="210" w="27" h="25">
+      <ref pos="18">1.10.1.4</ref>
+    </map>
+    <map x="318" y="292" w="27" h="25">
+      <ref pos="19">1.10.1.5</ref>
+    </map>
+    <map x="169" y="155" w="27" h="25">
+      <ref pos="26">1.10.1.6</ref>
+    </map>
+    <map x="358" y="104" w="27" h="25">
+      <ref pos="28">1.10.1.7</ref>
+    </map>
+    <map x="358" y="144" w="27" h="25">
+      <ref pos="40">1.10.1.9</ref>
+    </map>
+    <map x="151" y="58" w="44" h="25">
+      <ref pos="29">1.10.1.8</ref>
+      <ref pos="46">1.10.1.10</ref>
+    </map>
+    <map x="357" y="10" w="27" h="25">
+      <ref pos="49">1.10.1.11</ref>
+    </map>
+    <map x="357" y="45" w="27" h="25">
+      <ref pos="51">1.10.1.12</ref>
+    </map>
+  </stk>
+  <stk id="1_10_1_1" name="PRESSURE CONTROLLER 0.2-3.5BAR R1/4&amp;quot;" materialnr="003368" pos="7" description="&amp;nbsp;" />
+  <stk id="1_10_1_2" name="MANOMETER 0-4 BAR" materialnr="003356" pos="13" description="&amp;nbsp;" />
+  <stk id="1_10_1_3" name="CROSS HANDLE;THREAD M8;GRIP D40;PLASTIC" materialnr="005429" pos="14" description="&amp;nbsp;" />
+  <stk id="1_10_1_4" name="BALL VALVE 3/4&amp;quot; 40B 20MM BRASS" materialnr="007315" pos="18" description="&amp;nbsp;" />
+  <stk id="1_10_1_5" name="HAND PUMP GL25T -PTFE SEALS" materialnr="021682" pos="19" description="&amp;nbsp;">
+    <map x="108" y="117" w="235" h="93">
+      <ref pos="10">1.10.1.5.1</ref>
+      <ref pos="30">1.10.1.5.2</ref>
+    </map>
+  </stk>
+  <stk id="1_10_1_5_1" name="SEAL KIT (EPDM)  FOR HAND PUMP 021682" materialnr="333356" pos="10" description="&amp;nbsp;" />
+  <stk id="1_10_1_5_2" name="SEAL KIT/ROD-SIDED" materialnr="358776" pos="30" description="&amp;nbsp;" />
+  <stk id="1_10_1_6" name="DBL/ACT PNEUM.CYL.,D=80,STROKE=50MM;" materialnr="189812" pos="26" description="&amp;nbsp;" />
+  <stk id="1_10_1_7" name="3-WAY MANUAL BALL VALVE,D=10,500BAR," materialnr="003840" pos="28" description="&amp;nbsp;" />
+  <stk id="1_10_1_8" name="EXHAUST  SILENCER 1/4 &amp;quot; SINTERED METAL" materialnr="003351" pos="29" description="&amp;nbsp;" />
+  <stk id="1_10_1_9" name="HYD.HOSE PTFE/L=2000MM,D=8MM,DKS/DKS" materialnr="029241" pos="40" description="&amp;nbsp;" />
+  <stk id="1_10_1_10" name="5/2 WAY DBL SOLENOID VALVE, 24VDC," materialnr="003230" pos="46" description="&amp;nbsp;" />
+  <stk id="1_10_1_11" name="RUBBER SEALING F.PURGING UNIT EPDM" materialnr="359149" pos="49" description="&amp;nbsp;" />
+  <stk id="1_10_1_12" name="NOZZLE HOLDER DOS-1(PS;PU;SI);PTFE;E" materialnr="026858" pos="51" description="&amp;nbsp;">
+    <map x="113" y="70" w="26" h="25">
+      <ref pos="4">1.10.1.12.1</ref>
+    </map>
+  </stk>
+  <stk id="1_10_1_12_1" name="PTFE-SEAL KIT WITH EPDM O-RING" materialnr="023146" pos="4" description="&amp;nbsp;">
+    <map x="94" y="159" w="27" h="25">
+      <ref pos="2">1.10.1.12.1.1</ref>
+    </map>
+    <map x="157" y="36" w="27" h="25">
+      <ref pos="3">1.10.1.12.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_10_1_12_1_1" name="O-RING 8X2MM EPDM 70 SHORE" materialnr="022679" pos="2" description="&amp;nbsp;" />
+  <stk id="1_10_1_12_1_2" name="SEALING SAFEGUARD, SPRING D=1.2X45MM" materialnr="015336" pos="3" description="&amp;nbsp;" />
+  <stk id="1_11" name="HYDRAULIC SYSTEM DOS-1PSD+SID; 1PSD+PUD" materialnr="215893" pos="11" description="&amp;nbsp;">
+    <map x="160" y="81" w="266" h="219">
+      <ref pos="1">1.11.1</ref>
+      <ref pos="2">1.11.2</ref>
+      <ref pos="6">1.11.3</ref>
+      <ref pos="7">1.11.4</ref>
+      <ref pos="15">1.11.5</ref>
+    </map>
+  </stk>
+  <stk id="1_11_1" name="HD-POWER UNIT VL,VFL COMPLETE+S.MOTOR" materialnr="345305" pos="1" description="&amp;nbsp;">
+    <map x="12" y="50" w="412" h="278">
+      <ref pos="1">1.11.1.14</ref>
+      <ref pos="2">1.11.1.15</ref>
+      <ref pos="3">1.11.1.16</ref>
+      <ref pos="10">1.11.1.1</ref>
+      <ref pos="20">1.11.1.2</ref>
+      <ref pos="21">1.11.1.3</ref>
+      <ref pos="30">1.11.1.4</ref>
+      <ref pos="40">1.11.1.5</ref>
+      <ref pos="50">1.11.1.6</ref>
+      <ref pos="60">1.11.1.7</ref>
+      <ref pos="70">1.11.1.8</ref>
+      <ref pos="90">1.11.1.9</ref>
+      <ref pos="100">1.11.1.10</ref>
+      <ref pos="110">1.11.1.11</ref>
+      <ref pos="120">1.11.1.12</ref>
+      <ref pos="130">1.11.1.13</ref>
+    </map>
+  </stk>
+  <stk id="1_11_1_1" name="CORK SEALING FOR AGGREGATE" materialnr="364200" pos="10" description="&amp;nbsp;" />
+  <stk id="1_11_1_2" name="RETURN FILTER FOR AGGREGATE" materialnr="368492" pos="20" description="&amp;nbsp;" />
+  <stk id="1_11_1_3" name="FILTER INSERT FOR RETURN FILTER" materialnr="386421" pos="21" description="&amp;nbsp;" />
+  <stk id="1_11_1_4" name="3/2-WAY HYDR. VALVE NG6/24 VDC" materialnr="027413" pos="30" description="&amp;nbsp;" />
+  <stk id="1_11_1_5" name="PRESSURE REDUCING VALVE REXROTH" materialnr="027412" pos="40" description="&amp;nbsp;" />
+  <stk id="1_11_1_6" name="HYDR. SOLENOID VALVE NG6/24  VDC" materialnr="027416" pos="50" description="&amp;nbsp;" />
+  <stk id="1_11_1_7" name=" CHECK VALVE  NG6, REXROTH" materialnr="027414" pos="60" description="&amp;nbsp;" />
+  <stk id="1_11_1_8" name="RADIAL-PISTON PUMP FOR VFL-POWER UNIT" materialnr="022179" pos="70" description="&amp;nbsp;" />
+  <stk id="1_11_1_9" name="VALVE COMBI &amp;quot;BASE PUMP&amp;quot;TO HYDR.UNIT" materialnr="027551" pos="90" description="&amp;nbsp;" />
+  <stk id="1_11_1_10" name="HYDR. VALVE ASSEY F. CATALYST PUMP" materialnr="027552" pos="100" description="&amp;nbsp;" />
+  <stk id="1_11_1_11" name="THERMO REGULATOR 0-100&amp;deg;C" materialnr="330399" pos="110" description="&amp;nbsp;" />
+  <stk id="1_11_1_12" name="OIL-GAUGE" materialnr="320046" pos="120" description="&amp;nbsp;" />
+  <stk id="1_11_1_13" name="MANOMETER D=63 0-250B 1/4&amp;quot;" materialnr="373717" pos="130" description="&amp;nbsp;" />
+  <stk id="1_11_1_14" name="HD-POWER UNIT V60-RKP 9,5-SERVOMOTOR" materialnr="345306" pos="1" description="&amp;nbsp;">
+    <map x="105" y="74" w="236" h="240">
+      <ref pos="10">1.11.1.14.1</ref>
+      <ref pos="20">1.11.1.14.2</ref>
+      <ref pos="30">1.11.1.14.3</ref>
+      <ref pos="40">1.11.1.14.4</ref>
+      <ref pos="50">1.11.1.14.5</ref>
+      <ref pos="60">1.11.1.14.6</ref>
+      <ref pos="70">1.11.1.14.7</ref>
+    </map>
+  </stk>
+  <stk id="1_11_1_14_1" name="RADIAL-PISTON PUMP FOR VFL-POWER UNIT" materialnr="022179" pos="10" description="&amp;nbsp;" />
+  <stk id="1_11_1_14_2" name="3/2-WAY HYDR. VALVE NG6/24 VDC" materialnr="027413" pos="20" description="&amp;nbsp;" />
+  <stk id="1_11_1_14_3" name="PRESSURE REDUCING VALVE REXROTH" materialnr="027412" pos="30" description="&amp;nbsp;" />
+  <stk id="1_11_1_14_4" name="HYDR. SOLENOID VALVE NG6/24  VDC" materialnr="027416" pos="40" description="&amp;nbsp;" />
+  <stk id="1_11_1_14_5" name=" CHECK VALVE  NG6, REXROTH" materialnr="027414" pos="50" description="&amp;nbsp;" />
+  <stk id="1_11_1_14_6" name="4/3 WAY HYD SOLENOID VALVE 24VDC" materialnr="003762" pos="60" description="&amp;nbsp;" />
+  <stk id="1_11_1_14_7" name="OIL-GAUGE" materialnr="320046" pos="70" description="&amp;nbsp;" />
+  <stk id="1_11_1_15" name="AS-Servomotor LENZE 2.6kW 10.8Nm NO BR." materialnr="304843" pos="2" description="&amp;nbsp;" />
+  <stk id="1_11_1_16" name="ROTEX COUPLING D=20H7/D24H7 WITH KEYWAY" materialnr="303484" pos="3" description="&amp;nbsp;" />
+  <stk id="1_11_2" name="HYRAULIC FLUID/HLP-HM32 TANK FILLING" materialnr="008127" pos="2" description="&amp;nbsp;" />
+  <stk id="1_11_3" name="HYDRAULIC LINES FOR METERING I (PS)" materialnr="218648" pos="6" description="&amp;nbsp;">
+    <map x="33" y="32" w="508" h="343">
+      <ref pos="1">1.11.3.1</ref>
+      <ref pos="2">1.11.3.2</ref>
+      <ref pos="3">1.11.3.3</ref>
+      <ref pos="4">1.11.3.4</ref>
+      <ref pos="5">1.11.3.5</ref>
+      <ref pos="11">1.11.3.6</ref>
+      <ref pos="17">1.11.3.7</ref>
+    </map>
+  </stk>
+  <stk id="1_11_3_1" name="ADJUSTABLE ELBOW FITTING12MM/630=BAR" materialnr="027982" pos="1" description="&amp;nbsp;" />
+  <stk id="1_11_3_2" name="ELBOW STUD FITTING/PIPE 12/THR 3/8&amp;quot;-TAP." materialnr="027957" pos="2" description="&amp;nbsp;" />
+  <stk id="1_11_3_3" name="STRAIGHT STUD FITTING/PIPE 12/THR 3/8&amp;quot;" materialnr="027870" pos="3" description="&amp;nbsp;" />
+  <stk id="1_11_3_4" name="CONE REDUCTION FITTING/PIPE12/8mm" materialnr="027928" pos="4" description="&amp;nbsp;" />
+  <stk id="1_11_3_5" name="HYDR.HOSE/D=6MM/L=2000,DKS/DKS 2ST" materialnr="029220" pos="5" description="&amp;nbsp;" />
+  <stk id="1_11_3_6" name="PLUG CONNECTION STRAIGHT D=12MM" materialnr="333979" pos="11" description="&amp;nbsp;" />
+  <stk id="1_11_3_7" name="HYDRAULIC HOSE L=1400MM,D=6MM,DKS/DKS" materialnr="029221" pos="17" description="&amp;nbsp;" />
+  <stk id="1_11_4" name="HYDRAULIC LINES/METERING II (SI)" materialnr="218649" pos="7" description="&amp;nbsp;">
+    <map x="12" y="30" w="484" h="307">
+      <ref pos="8">1.11.4.1</ref>
+      <ref pos="9">1.11.4.2</ref>
+    </map>
+  </stk>
+  <stk id="1_11_4_1" name="HYDRAULIC HOSE L=2500MM,D=6MM,DKS/DKS" materialnr="029222" pos="8" description="&amp;nbsp;" />
+  <stk id="1_11_4_2" name="HYDRAULIC HOSE L=2500MM,D=6MM,DKS/DKS" materialnr="029222" pos="9" description="&amp;nbsp;" />
+  <stk id="1_11_5" name="HYDRAULIC PIPE 12X1,5X100MM PREASSEMBLED" materialnr="336171" pos="15" description="&amp;nbsp;" />
+  <stk id="1_12" name="SUPPLY LINE DOS-I (POLYSULPHIDE)" materialnr="218818" pos="12" description="&amp;nbsp;">
+    <map x="46" y="7" w="483" h="311">
+      <ref pos="1">1.12.1</ref>
+      <ref pos="2">1.12.2</ref>
+      <ref pos="3">1.12.3</ref>
+      <ref pos="4">1.12.4</ref>
+      <ref pos="5">1.12.5</ref>
+      <ref pos="6">1.12.6</ref>
+      <ref pos="7">1.12.7</ref>
+      <ref pos="9">1.12.8</ref>
+      <ref pos="11">1.12.9</ref>
+      <ref pos="13">1.12.10</ref>
+      <ref pos="14">1.12.11</ref>
+      <ref pos="15">1.12.12</ref>
+      <ref pos="21">1.12.13</ref>
+      <ref pos="22">1.12.14</ref>
+      <ref pos="29">1.12.15</ref>
+      <ref pos="30">1.12.16</ref>
+      <ref pos="34">1.12.17</ref>
+    </map>
+  </stk>
+  <stk id="1_12_1" name="STRAIGHT SCREW FITTING/MACHINED" materialnr="183589" pos="1" description="&amp;nbsp;" />
+  <stk id="1_12_2" name="PIPE BEND/D=25/F.BASE METERING LINE" materialnr="029594" pos="2" description="&amp;nbsp;" />
+  <stk id="1_12_3" name="STRAIGHT SWIVEL JOINT (25S)" materialnr="341587" pos="3" description="&amp;nbsp;">
+    <map x="152" y="99" w="289" h="98">
+      <ref pos="10">1.12.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_12_3_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352487" pos="10" description="&amp;nbsp;" />
+  <stk id="1_12_4" name="HD-HOSE L=3200MM/2 PCS" materialnr="368069" pos="4" description="&amp;nbsp;" />
+  <stk id="1_12_5" name="HD-HOSE L=3200MM 250BAR" materialnr="368086" pos="5" description="&amp;nbsp;" />
+  <stk id="1_12_6" name="STRAIGHT FITTING/PIPE=18MM/160BAR" materialnr="027887" pos="6" description="&amp;nbsp;" />
+  <stk id="1_12_7" name="ELBOW CONNECTING SOCKET/PIPE 18(315BAR)" materialnr="027977" pos="7" description="&amp;nbsp;" />
+  <stk id="1_12_8" name="STRAIGHT STUD FITTING/PIPE 18/THR 1/2&amp;quot;-C" materialnr="027865" pos="9" description="&amp;nbsp;" />
+  <stk id="1_12_9" name="STRAIGHT FITTING 2XM20x1,5 (12S)" materialnr="341588" pos="11" description="&amp;nbsp;">
+    <map x="132" y="121" w="200" h="109">
+      <ref pos="10">1.12.9.1</ref>
+    </map>
+  </stk>
+  <stk id="1_12_9_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352049" pos="10" description="&amp;nbsp;" />
+  <stk id="1_12_10" name="STRAIGHT REDUCING FITTING;PIPE14/12" materialnr="195831" pos="13" description="&amp;nbsp;" />
+  <stk id="1_12_11" name="ADJUSTABLE ELBOW FITTING12MM/630=BAR" materialnr="027982" pos="14" description="&amp;nbsp;" />
+  <stk id="1_12_12" name="PIPE D=12/1.5x180MM" materialnr="195878" pos="15" description="&amp;nbsp;" />
+  <stk id="1_12_13" name="HYD. HOSE,L=1100MM,ID=16MM, DKL/DKL 2ST" materialnr="029239" pos="21" description="&amp;nbsp;" />
+  <stk id="1_12_14" name="PIPE DIA25/3x60mm w/CUTTING WHEEL+NUT" materialnr="229283" pos="22" description="&amp;nbsp;" />
+  <stk id="1_12_15" name="STRAIGHT STUD FITTING/PIPE 28/THR 1&amp;quot;-CYL" materialnr="027868" pos="29" description="&amp;nbsp;" />
+  <stk id="1_12_16" name="PIPE BEND AT CATALYST LINE/PREASSEMBLED" materialnr="356792" pos="30" description="&amp;nbsp;" />
+  <stk id="1_12_17" name="HD-HOSE L=3200MM/2 PCS" materialnr="368069" pos="34" description="&amp;nbsp;" />
+  <stk id="1_13" name="SUPPLY LINE DOS-II OR PU" materialnr="218817" pos="13" description="&amp;nbsp;">
+    <map x="41" y="6" w="449" h="297">
+      <ref pos="3">1.13.1</ref>
+      <ref pos="4">1.13.2</ref>
+      <ref pos="5">1.13.3</ref>
+      <ref pos="11">1.13.4</ref>
+      <ref pos="16">1.13.5</ref>
+      <ref pos="42">1.13.6</ref>
+    </map>
+  </stk>
+  <stk id="1_13_1" name="STRAIGHT SWIVEL JOINT (25S)" materialnr="341587" pos="3" description="&amp;nbsp;">
+    <map x="152" y="99" w="289" h="98">
+      <ref pos="10">1.13.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_13_1_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352487" pos="10" description="&amp;nbsp;" />
+  <stk id="1_13_2" name="HD-HOSE L=3200MM/2 PCS" materialnr="368069" pos="4" description="&amp;nbsp;" />
+  <stk id="1_13_3" name="HD-PTFE-HOSE NW16 NL3200MM DKL/DKL" materialnr="368070" pos="5" description="&amp;nbsp;" />
+  <stk id="1_13_4" name="STRAIGHT FITTING 2XM20x1,5 (12S)" materialnr="341588" pos="11" description="&amp;nbsp;">
+    <map x="132" y="121" w="200" h="109">
+      <ref pos="10">1.13.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_13_4_1" name="SEAL KIT FOR ROTARY SCREW FITTING" materialnr="352049" pos="10" description="&amp;nbsp;" />
+  <stk id="1_13_5" name="HYDR.HOSE PTFE/L=2200MM/D16MM DKL/DKL" materialnr="030025" pos="16" description="&amp;nbsp;" />
+  <stk id="1_13_6" name="HD-HOSE L=3200MM/2 PCS" materialnr="368069" pos="42" description="&amp;nbsp;" />
+  <stk id="1_14" name="CATALYST LINE+BACK-FLOW MET-I(PS)" materialnr="221591" pos="14" description="&amp;nbsp;">
+    <map x="78" y="66" w="27" h="25">
+      <ref>1.14.1</ref>
+    </map>
+    <map x="59" y="140" w="27" h="25">
+      <ref>1.14.3</ref>
+    </map>
+    <map x="224" y="52" w="27" h="25">
+      <ref pos="10">1.14.4</ref>
+    </map>
+    <map x="127" y="238" w="27" h="25">
+      <ref pos="11">1.14.5</ref>
+    </map>
+    <map x="84" y="112" w="27" h="25">
+      <ref>1.14.6</ref>
+    </map>
+    <map x="257" y="48" w="167" h="183">
+      <ref pos="21">1.14.7</ref>
+    </map>
+    <map x="224" y="142" w="28" h="28">
+      <ref pos="7">1.14.2</ref>
+    </map>
+    <map x="292" y="269" w="103" h="83">
+      <ref pos="26">1.14.8</ref>
+    </map>
+  </stk>
+  <stk id="1_14_1" name="2/2-PATH VALVE ASSEMBLY" materialnr="169710" pos="1" description="&amp;nbsp;">
+    <map x="50" y="97" w="25" h="25">
+      <ref pos="1">1.14.1.1</ref>
+    </map>
+    <map x="286" y="59" w="25" h="25">
+      <ref pos="9">1.14.1.5</ref>
+    </map>
+    <map x="131" y="97" w="25" h="25">
+      <ref pos="15">1.14.1.6</ref>
+    </map>
+    <map x="225" y="59" w="26" h="25">
+      <ref pos="8">1.14.1.4</ref>
+    </map>
+    <map x="89" y="97" w="26" h="25">
+      <ref pos="2">1.14.1.2</ref>
+    </map>
+    <map x="327" y="41" w="27" h="25">
+      <ref pos="7">1.14.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_14_1_1" name="CYLINDER DBL/ACT D=50 STROKE=10" materialnr="002863" pos="1" description="&amp;nbsp;">
+    <map x="141" y="48" w="196" h="221">
+      <ref pos="20">1.14.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_14_1_1_1" name="SEAL KIT F.PNEU-CYLINDER D50MM BOSCH" materialnr="375622" pos="20" description="&amp;nbsp;" />
+  <stk id="1_14_1_2" name="THREADED BOLT IN CYLINDER" materialnr="169660" pos="2" description="&amp;nbsp;" />
+  <stk id="1_14_1_3" name="REPAIR SET FOR  VALVE-NEEDLE" materialnr="359034" pos="7" description="&amp;nbsp;" />
+  <stk id="1_14_1_4" name="SEAL FASTENING SCREW" materialnr="110919" pos="8" description="&amp;nbsp;" />
+  <stk id="1_14_1_5" name="GREASING NIPPLE;ANGLED;M6X1-TAPERED" materialnr="005497" pos="9" description="&amp;nbsp;" />
+  <stk id="1_14_1_6" name="SLIDER FOR CLOSING NEEDLE" materialnr="169658" pos="15" description="&amp;nbsp;" />
+  <stk id="1_14_2" name="STRAIGHT FITTING/PIPE=18MM/160BAR" materialnr="027887" pos="7" description="&amp;nbsp;" />
+  <stk id="1_14_3" name="ELBOW CONNECTING SOCKET/PIPE 18(315BAR)" materialnr="027977" pos="8" description="&amp;nbsp;" />
+  <stk id="1_14_4" name="STRAIGHT STUD FITTING/PIPE 12/THR 3/8&amp;quot;" materialnr="027870" pos="10" description="&amp;nbsp;" />
+  <stk id="1_14_5" name="HYD-HOSE D=10MM/L=1000MM;DKS/DKS;" materialnr="029114" pos="11" description="&amp;nbsp;" />
+  <stk id="1_14_6" name="REDUCING FITTING 18/12-S" materialnr="029562" pos="15" description="&amp;nbsp;" />
+  <stk id="1_14_7" name="PNEUMATICS - CATALYST REFEED" materialnr="377321" pos="21" description="&amp;nbsp;">
+    <map x="403" y="239" w="27" h="25">
+      <ref pos="8">1.14.7.2</ref>
+    </map>
+    <map x="405" y="68" w="27" h="25">
+      <ref pos="11">1.14.7.3</ref>
+    </map>
+    <map x="406" y="130" w="27" h="25">
+      <ref pos="7">1.14.7.1</ref>
+    </map>
+  </stk>
+  <stk id="1_14_7_1" name="PRESSURE GAUGE (GTi)1-10 BAR REAR" materialnr="003355" pos="7" description="&amp;nbsp;" />
+  <stk id="1_14_7_2" name="EXHAUST  SILENCER 1/4 &amp;quot; SINTERED METAL" materialnr="003351" pos="8" description="&amp;nbsp;" />
+  <stk id="1_14_7_3" name="5/2 WAY SOLENOID VALVE, 24VDC," materialnr="003229" pos="11" description="&amp;nbsp;" />
+  <stk id="1_14_8" name="INSTALLATION KIT FOR SAFETY VALVE 650BAR" materialnr="382102" pos="26" description="&amp;nbsp;">
+    <map x="100" y="130" w="26" h="25">
+      <ref pos="1">1.14.8.1</ref>
+    </map>
+    <map x="159" y="49" w="26" h="25">
+      <ref pos="2">1.14.8.2</ref>
+    </map>
+  </stk>
+  <stk id="1_14_8_1" name="PRESSURE CONTROL VALVE VMP 1.4 1/4&amp;quot; 700B" materialnr="382098" pos="1" description="&amp;nbsp;" />
+  <stk id="1_14_8_2" name="Sata-Can PVC 0.075L (machined)" materialnr="387382" pos="2" description="&amp;nbsp;">
+    <map x="171" y="113" w="26" h="25">
+      <ref pos="1">1.14.8.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_14_8_2_1" name="PVC-WATER RESERVOIR  (SATA) 0,075L" materialnr="007529" pos="1" description="&amp;nbsp;" />
+  <stk id="1_15" name="CATALYST LINE + BACKFLOW SILICONE" materialnr="218824" pos="15" description="&amp;nbsp;">
+    <map x="134" y="16" w="90" h="90">
+      <ref pos="1">1.15.1</ref>
+    </map>
+    <map x="111" y="151" w="27" h="25">
+      <ref pos="8">1.15.2</ref>
+    </map>
+    <map x="193" y="226" w="27" h="25">
+      <ref pos="11">1.15.4</ref>
+    </map>
+    <map x="112" y="116" w="27" h="25">
+      <ref pos="10">1.15.3</ref>
+    </map>
+    <map x="113" y="190" w="27" h="25">
+      <ref pos="15">1.15.5</ref>
+    </map>
+    <map x="294" y="64" w="127" h="195">
+      <ref pos="16">1.15.6</ref>
+    </map>
+    <map x="123" y="265" w="112" h="94">
+      <ref pos="21">1.15.7</ref>
+    </map>
+  </stk>
+  <stk id="1_15_1" name="2/2-PATH VALVE ASSEMBLY" materialnr="169710" pos="1" description="&amp;nbsp;">
+    <map x="50" y="97" w="25" h="25">
+      <ref pos="1">1.15.1.1</ref>
+    </map>
+    <map x="286" y="59" w="25" h="25">
+      <ref pos="9">1.15.1.5</ref>
+    </map>
+    <map x="131" y="97" w="25" h="25">
+      <ref pos="15">1.15.1.6</ref>
+    </map>
+    <map x="225" y="59" w="26" h="25">
+      <ref pos="8">1.15.1.4</ref>
+    </map>
+    <map x="89" y="97" w="26" h="25">
+      <ref pos="2">1.15.1.2</ref>
+    </map>
+    <map x="330" y="47" w="27" h="25">
+      <ref pos="7">1.15.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_15_1_1" name="CYLINDER DBL/ACT D=50 STROKE=10" materialnr="002863" pos="1" description="&amp;nbsp;">
+    <map x="141" y="48" w="196" h="221">
+      <ref pos="20">1.15.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_15_1_1_1" name="SEAL KIT F.PNEU-CYLINDER D50MM BOSCH" materialnr="375622" pos="20" description="&amp;nbsp;" />
+  <stk id="1_15_1_2" name="THREADED BOLT IN CYLINDER" materialnr="169660" pos="2" description="&amp;nbsp;" />
+  <stk id="1_15_1_3" name="REPAIR SET FOR  VALVE-NEEDLE" materialnr="359034" pos="7" description="&amp;nbsp;" />
+  <stk id="1_15_1_4" name="SEAL FASTENING SCREW" materialnr="110919" pos="8" description="&amp;nbsp;" />
+  <stk id="1_15_1_5" name="GREASING NIPPLE;ANGLED;M6X1-TAPERED" materialnr="005497" pos="9" description="&amp;nbsp;" />
+  <stk id="1_15_1_6" name="SLIDER FOR CLOSING NEEDLE" materialnr="169658" pos="15" description="&amp;nbsp;" />
+  <stk id="1_15_2" name="ELBOW CONNECTING SOCKET/PIPE 18(315BAR)" materialnr="027977" pos="8" description="&amp;nbsp;" />
+  <stk id="1_15_3" name="STRAIGHT STUD FITTING/PIPE 12/THR 3/8&amp;quot;" materialnr="027870" pos="10" description="&amp;nbsp;" />
+  <stk id="1_15_4" name="HD-HOSE PTFE/L=1100MM,D=8MM,DKS/DKS" materialnr="029234" pos="11" description="&amp;nbsp;" />
+  <stk id="1_15_5" name="REDUCING FITTING 18/12-S" materialnr="029562" pos="15" description="&amp;nbsp;" />
+  <stk id="1_15_6" name="PNEUMATICS - CATALYST REFEED" materialnr="377321" pos="16" description="&amp;nbsp;">
+    <map x="403" y="239" w="27" h="25">
+      <ref pos="8">1.15.6.2</ref>
+    </map>
+    <map x="405" y="68" w="27" h="25">
+      <ref pos="11">1.15.6.3</ref>
+    </map>
+    <map x="409" y="117" w="27" h="25">
+      <ref pos="7">1.15.6.1</ref>
+    </map>
+  </stk>
+  <stk id="1_15_6_1" name="PRESSURE GAUGE (GTi)1-10 BAR REAR" materialnr="003355" pos="7" description="&amp;nbsp;" />
+  <stk id="1_15_6_2" name="EXHAUST  SILENCER 1/4 &amp;quot; SINTERED METAL" materialnr="003351" pos="8" description="&amp;nbsp;" />
+  <stk id="1_15_6_3" name="5/2 WAY SOLENOID VALVE, 24VDC," materialnr="003229" pos="11" description="&amp;nbsp;" />
+  <stk id="1_15_7" name="INSTALLATION KIT FOR SAFETY VALVE 650BAR" materialnr="382102" pos="21" description="&amp;nbsp;">
+    <map x="100" y="130" w="26" h="25">
+      <ref pos="1">1.15.7.1</ref>
+    </map>
+    <map x="159" y="49" w="26" h="25">
+      <ref pos="2">1.15.7.2</ref>
+    </map>
+  </stk>
+  <stk id="1_15_7_1" name="PRESSURE CONTROL VALVE VMP 1.4 1/4&amp;quot; 700B" materialnr="382098" pos="1" description="&amp;nbsp;" />
+  <stk id="1_15_7_2" name="Sata-Can PVC 0.075L (machined)" materialnr="387382" pos="2" description="&amp;nbsp;">
+    <map x="171" y="113" w="26" h="25">
+      <ref pos="1">1.15.7.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_15_7_2_1" name="PVC-WATER RESERVOIR  (SATA) 0,075L" materialnr="007529" pos="1" description="&amp;nbsp;" />
+  <stk id="1_16" name="CHANGING UNIT IN FRONT/MIR.INVERTED" materialnr="353571" pos="16" description="&amp;nbsp;">
+    <map x="483" y="297" w="27" h="25">
+      <ref>1.16.1</ref>
+    </map>
+    <map x="224" y="200" w="27" h="25">
+      <ref>1.16.2</ref>
+    </map>
+    <map x="106" y="137" w="27" h="25">
+      <ref>1.16.3</ref>
+    </map>
+  </stk>
+  <stk id="1_16_1" name="FRAME TOTAL/MIRROR INVERTED" materialnr="307074" pos="1" description="&amp;nbsp;">
+    <map x="265" y="35" w="27" h="34">
+      <ref>1.16.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_16_1_1" name="DOOR LATCH;LOCKED W RIGHT-ROTATION D35MM" materialnr="005455" pos="5" description="&amp;nbsp;" />
+  <stk id="1_16_2" name="TELESCOPE 1/MIRROR INVERTED" materialnr="307059" pos="2" description="&amp;nbsp;">
+    <map x="512" y="60" w="27" h="34">
+      <ref>1.16.2.1</ref>
+    </map>
+    <map x="425" y="53" w="27" h="34">
+      <ref>1.16.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_16_2_1" name="SUPPORT ROLLER ID=17MM OD=40MM W=21MM" materialnr="218407" pos="5" description="&amp;nbsp;" />
+  <stk id="1_16_2_2" name="TRANSPORT ROLLER ID30MM; OD=72MM; W=16MM" materialnr="005741" pos="6" description="&amp;nbsp;" />
+  <stk id="1_16_3" name="TELESCOPE 2/MIRROR INVERTED" materialnr="307061" pos="3" description="&amp;nbsp;">
+    <map x="519" y="115" w="27" h="34">
+      <ref>1.16.3.1</ref>
+    </map>
+    <map x="437" y="117" w="27" h="34">
+      <ref>1.16.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_16_3_1" name="SUPPORT ROLLER ID=17MM OD=40MM W=21MM" materialnr="218407" pos="5" description="&amp;nbsp;" />
+  <stk id="1_16_3_2" name="TRANSPORT ROLLER ID30MM; OD=72MM; W=16MM" materialnr="005741" pos="6" description="&amp;nbsp;" />
+  <stk id="1_17" name="CHANGING UNIT LATERAL/MIRROR INVERTED" materialnr="353568" pos="17" description="&amp;nbsp;">
+    <map x="299" y="65" w="27" h="25">
+      <ref>1.17.1</ref>
+    </map>
+    <map x="465" y="108" w="27" h="25">
+      <ref>1.17.2</ref>
+    </map>
+  </stk>
+  <stk id="1_17_1" name="TELESCOPE LATERAL 1/MIRROR INVERTED" materialnr="307086" pos="2" description="&amp;nbsp;">
+    <map x="32" y="84" w="27" h="34">
+      <ref>1.17.1.1</ref>
+    </map>
+    <map x="117" y="84" w="27" h="34">
+      <ref>1.17.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_17_1_1" name="SUPPORT ROLLER ID=17MM OD=40MM W=21MM" materialnr="218407" pos="5" description="&amp;nbsp;" />
+  <stk id="1_17_1_2" name="TRANSPORT ROLLER ID30MM; OD=72MM; W=16MM" materialnr="005741" pos="6" description="&amp;nbsp;" />
+  <stk id="1_17_2" name="TELESCOPE/REPLACEMENT UNIT LATERAL/M.IN." materialnr="307089" pos="3" description="&amp;nbsp;">
+    <map x="57" y="129" w="27" h="34">
+      <ref>1.17.2.1</ref>
+    </map>
+    <map x="119" y="147" w="27" h="34">
+      <ref>1.17.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_17_2_1" name="SUPPORT ROLLER ID=17MM OD=40MM W=21MM" materialnr="218407" pos="5" description="&amp;nbsp;" />
+  <stk id="1_17_2_2" name="TRANSPORT ROLLER ID30MM; OD=72MM; W=16MM" materialnr="005741" pos="6" description="&amp;nbsp;" />
+  <stk id="1_18" name="BASIC MATERIAL MET-1PSD+SID" materialnr="218980" pos="19" description="&amp;nbsp;">
+    <map x="192" y="83" w="228" h="183">
+      <ref pos="1">1.18.1</ref>
+      <ref pos="4">1.18.2</ref>
+      <ref pos="16">1.18.3</ref>
+      <ref pos="41">1.18.4</ref>
+      <ref pos="44">1.18.5</ref>
+    </map>
+  </stk>
+  <stk id="1_18_1" name="CONNECTION DISTRIBUTOR/MAINTENANCE UNIT" materialnr="196056" pos="1" description="&amp;nbsp;">
+    <map x="219" y="25" w="26" h="25">
+      <ref pos="1">1.18.1.1</ref>
+    </map>
+    <map x="448" y="143" w="26" h="25">
+      <ref pos="4">1.18.1.2</ref>
+    </map>
+    <map x="440" y="275" w="26" h="25">
+      <ref pos="14">1.18.1.4</ref>
+    </map>
+    <map x="184" y="220" w="26" h="25">
+      <ref pos="12">1.18.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_18_1_1" name="MAINTENANCE UNIT 3/8&amp;quot; 0,5-8,5BAR SMC" materialnr="372235" pos="1" description="&amp;nbsp;">
+    <map x="389" y="240" w="28" h="25">
+      <ref pos="1">1.18.1.1.1</ref>
+      <ref pos="2">1.18.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_18_1_1_1" name="FILTER UNIT FOR MAINTENANCE UNIT 372235" materialnr="377104" pos="1" description="&amp;nbsp;" />
+  <stk id="1_18_1_1_2" name="FILTER CONTROLLER BOX C3SF FOR 372235" materialnr="414305" pos="2" description="&amp;nbsp;" />
+  <stk id="1_18_1_2" name="QUICK DISCONNECT 1/4&amp;quot;-EXTERIOR D=7,2MM" materialnr="003492" pos="4" description="&amp;nbsp;" />
+  <stk id="1_18_1_3" name="MALE HOSE QUICK DISCONNECT W/MALE" materialnr="003506" pos="12" description="&amp;nbsp;" />
+  <stk id="1_18_1_4" name="STRAIGHT ADAPTOR R1/4&amp;quot; 90&amp;deg; D=8MM" materialnr="223937" pos="14" description="&amp;nbsp;" />
+  <stk id="1_18_2" name="COLLECTING TANK" materialnr="199979" pos="4" description="&amp;nbsp;" />
+  <stk id="1_18_3" name="QUICK DISCONNECT" materialnr="003498" pos="16" description="&amp;nbsp;" />
+  <stk id="1_18_4" name="PVC-WATER CONTAINER 0,6L (SATA)" materialnr="007536" pos="41" description="&amp;nbsp;" />
+  <stk id="1_18_5" name="ADD.VALVE FOR KSE ON SEALING" materialnr="348486" pos="44" description="&amp;nbsp;">
+    <map x="318" y="52" w="26" h="25">
+      <ref pos="1">1.18.5.1</ref>
+    </map>
+    <map x="370" y="51" w="26" h="25">
+      <ref pos="3">1.18.5.2</ref>
+    </map>
+    <map x="113" y="140" w="26" h="25">
+      <ref pos="5">1.18.5.3</ref>
+    </map>
+  </stk>
+  <stk id="1_18_5_1" name="2/2-SOLENOID VALVE R3/4&amp;quot;" materialnr="339794" pos="1" description="&amp;nbsp;" />
+  <stk id="1_18_5_2" name="QUICK DISCONNECT 3/8&amp;quot;-EXTER. D=7,2MM" materialnr="003493" pos="3" description="&amp;nbsp;" />
+  <stk id="1_18_5_3" name="QUICK DISCONNECT" materialnr="003498" pos="5" description="&amp;nbsp;" />
+  <stk id="1_19" name="START-UP PACKAGE DOS" materialnr="323888" pos="21" description="&amp;nbsp;" />
+</catalog>

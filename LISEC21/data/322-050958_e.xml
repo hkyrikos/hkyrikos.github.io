@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="RSVN-50/27U">
+  <stk id="1" name="RSVN-50/27U" materialnr="361006" pos="1" description="&amp;nbsp;">
+    <map x="39" y="255" w="28" h="20">
+      <ref pos="3">1.1</ref>
+    </map>
+    <map x="512" y="40" w="28" h="20">
+      <ref pos="4">1.2</ref>
+    </map>
+    <map x="517" y="184" w="28" h="20">
+      <ref pos="5">1.3</ref>
+    </map>
+    <map x="436" y="299" w="28" h="20">
+      <ref pos="6">1.4</ref>
+    </map>
+    <map x="399" y="299" w="28" h="20">
+      <ref pos="7">1.5</ref>
+    </map>
+    <map x="364" y="298" w="28" h="20">
+      <ref pos="8">1.6</ref>
+    </map>
+    <map x="82" y="9" w="70" h="38">
+      <ref pos="10">1.7</ref>
+    </map>
+    <map x="40" y="225" w="28" h="20">
+      <ref pos="22">1.8</ref>
+    </map>
+    <map x="40" y="191" w="28" h="20">
+      <ref pos="26">1.9</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="ROLLER CARRIER COMPLETE RSVN-50" materialnr="209192" pos="3" description="&amp;nbsp;">
+    <map x="369" y="276" w="26" h="33">
+      <ref>1.1.1</ref>
+    </map>
+    <map x="144" y="52" w="26" h="33">
+      <ref>1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="ROLLER CARRIER RSVN50A/MIRROR INVERTED" materialnr="209183" pos="1" description="&amp;nbsp;">
+    <map x="70" y="145" w="26" h="25">
+      <ref>1.1.1.1</ref>
+    </map>
+    <map x="225" y="104" w="26" h="25">
+      <ref>1.1.1.2</ref>
+    </map>
+    <map x="103" y="127" w="26" h="25">
+      <ref>1.1.1.3</ref>
+    </map>
+    <map x="163" y="145" w="26" h="25">
+      <ref>1.1.1.4</ref>
+    </map>
+    <map x="260" y="95" w="26" h="25">
+      <ref pos="9">1.1.1.5</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="DRIVE UNIT WITH DBL SPROCKET WHEEL/NEW" materialnr="024299" pos="2" description="&amp;nbsp;">
+    <map x="343" y="47" w="27" h="25">
+      <ref pos="1">1.1.1.1.1</ref>
+    </map>
+    <map x="432" y="47" w="27" h="25">
+      <ref pos="2">1.1.1.1.2</ref>
+    </map>
+    <map x="33" y="52" w="27" h="25">
+      <ref pos="8">1.1.1.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1_1" name="PLUMMER BLOCK BEAR:CAST HOUS.ID 20MM" materialnr="005759" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_2" name="TRANS.ROLLER W.VULCOLLAN D=58X69MM" materialnr="356535" pos="2" description="&amp;nbsp;">
+    <map x="348" y="30" w="26" h="34">
+      <ref pos="1">1.1.1.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1_2_1" name="TRANSPORT ROLLER COATING 57/47x65MM" materialnr="230340" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_1_1_3" name="DBL SPROCKET 3/8X7/32 T=14 B=20K7" materialnr="024301" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_1_2" name="DRIVE UNIT WITH SPROCKET WHEEL/FIXED" materialnr="016416" pos="5" description="&amp;nbsp;">
+    <map x="0" y="23" w="27" h="25">
+      <ref pos="1">1.1.1.2.1</ref>
+    </map>
+    <map x="260" y="104" w="27" h="25">
+      <ref pos="9">1.1.1.2.4</ref>
+    </map>
+    <map x="356" y="125" w="27" h="25">
+      <ref pos="7">1.1.1.2.3</ref>
+    </map>
+    <map x="511" y="172" w="26" h="25">
+      <ref pos="2">1.1.1.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_2_1" name="PLUMMER BLOCK BEAR:CAST HOUS.ID 20MM" materialnr="005759" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_1_2_2" name="TRANS.ROLLER W.VULCOLLAN D=58X69MM" materialnr="356535" pos="2" description="&amp;nbsp;">
+    <map x="348" y="30" w="26" h="34">
+      <ref pos="1">1.1.1.2.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_2_2_1" name="TRANSPORT ROLLER COATING 57/47x65MM" materialnr="230340" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_1_2_3" name="TRIPLE SPROCKET W.3/8&amp;quot; TEETH=14 20H7" materialnr="014754" pos="7" description="&amp;nbsp;" />
+  <stk id="1_1_1_2_4" name="SPROCKET 3/8X7/32 T=24 B=20" materialnr="014341" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_1_3" name="ROLLER CHAIN 3/8X7/32&amp;quot;,47LINKS+COUPL" materialnr="006533" pos="6" description="&amp;nbsp;" />
+  <stk id="1_1_1_4" name="CHAIN TENSIONER D=50MM W=35MM" materialnr="013587" pos="8" description="&amp;nbsp;" />
+  <stk id="1_1_1_5" name="ROLLER CHAIN,3/8X7/32&amp;quot;,73 LINKS+COUP" materialnr="016408" pos="9" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="DRIVING MOTOR/NO BRAKE FOR RTVN 1.SECT." materialnr="241250" pos="2" description="&amp;nbsp;">
+    <map x="224" y="29" w="40" h="38">
+      <ref pos="1">1.1.2.1</ref>
+    </map>
+    <map x="22" y="90" w="44" h="32">
+      <ref pos="2">1.1.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="TH.PH-SPUR GE.M;550W;219R/M;220-415;50HZ" materialnr="231836" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_2_2" name="SPROCKET 3/8X7/32 T=20 BOR=20" materialnr="014328" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2" name="VERTICAL STOP RSVN-U/RSVN-A" materialnr="139926" pos="4" description="&amp;nbsp;">
+    <map x="323" y="211" w="32" h="27">
+      <ref pos="6">1.2.1</ref>
+    </map>
+    <map x="345" y="13" w="32" h="27">
+      <ref pos="7">1.2.2</ref>
+    </map>
+    <map x="322" y="288" w="32" h="27">
+      <ref pos="8">1.2.3</ref>
+    </map>
+    <map x="345" y="46" w="32" h="27">
+      <ref pos="11">1.2.4</ref>
+    </map>
+    <map x="224" y="287" w="32" h="27">
+      <ref pos="12">1.2.5</ref>
+    </map>
+    <map x="192" y="345" w="32" h="27">
+      <ref pos="16">1.2.8</ref>
+    </map>
+    <map x="323" y="322" w="32" h="27">
+      <ref pos="21">1.2.9</ref>
+    </map>
+    <map x="307" y="365" w="29" h="28">
+      <ref pos="13">1.2.6</ref>
+      <ref pos="14">1.2.7</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1" name="PLACEMENT BRACKET (INJECTION MOULDIN" materialnr="231372" pos="6" description="&amp;nbsp;" />
+  <stk id="1_2_2" name="PEDESTAL; CAST FRAME; ID=20MM; PSHE" materialnr="019602" pos="7" description="&amp;nbsp;" />
+  <stk id="1_2_3" name="PLUMMER BLOCK BEAR:CAST HOUS.ID 20MM" materialnr="005759" pos="8" description="&amp;nbsp;" />
+  <stk id="1_2_4" name="BUMPER D=50 H=61MM  M8" materialnr="007794" pos="11" description="&amp;nbsp;" />
+  <stk id="1_2_5" name="DA-PNEU CYL/D=32 STROKE=25 W SIGNAL" materialnr="189717" pos="12" description="&amp;nbsp;" />
+  <stk id="1_2_6" name="SWIVEL MOUNT FORK CYL. D=32MM" materialnr="003034" pos="13" description="&amp;nbsp;" />
+  <stk id="1_2_7" name="CYLINDER COUNTER SUPPORT (LUG/TYPE)" materialnr="003084" pos="14" description="&amp;nbsp;" />
+  <stk id="1_2_8" name="ARTICULATED HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="16" description="&amp;nbsp;" />
+  <stk id="1_2_9" name="EXHAUST THROTTLE THREAD1/8&amp;quot; D6/PLUG-CON." materialnr="315403" pos="21" description="&amp;nbsp;" />
+  <stk id="1_3" name="GLASS LIMIT STOP RSV-U,A" materialnr="029395" pos="5" description="&amp;nbsp;">
+    <map x="466" y="206" w="27" h="25">
+      <ref pos="2">1.3.1</ref>
+    </map>
+    <map x="119" y="54" w="27" h="25">
+      <ref pos="4">1.3.2</ref>
+    </map>
+    <map x="186" y="365" w="27" h="25">
+      <ref pos="8">1.3.3</ref>
+    </map>
+    <map x="166" y="25" w="27" h="25">
+      <ref pos="9">1.3.4</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1" name="BUSHING ID=30 OD=34 L=40MM" materialnr="005817" pos="2" description="&amp;nbsp;" />
+  <stk id="1_3_2" name="DOUBLE ACTING SHORT-STROKE CYLINDER" materialnr="002816" pos="4" description="&amp;nbsp;" />
+  <stk id="1_3_3" name="STOP LAMINA F/GLASS STOP RSV" materialnr="032432" pos="8" description="&amp;nbsp;" />
+  <stk id="1_3_4" name="EXHAUST THROTTLE THREAD1/8&amp;quot; D6/PLUG-CON." materialnr="315403" pos="9" description="&amp;nbsp;" />
+  <stk id="1_4" name="HORIZONTAL STOP RSVN-50" materialnr="209915" pos="6" description="&amp;nbsp;">
+    <map x="64" y="186" w="27" h="33">
+      <ref>1.4.1</ref>
+    </map>
+    <map x="120" y="52" w="27" h="33">
+      <ref>1.4.2</ref>
+    </map>
+    <map x="283" y="204" w="27" h="33">
+      <ref>1.4.3</ref>
+    </map>
+    <map x="275" y="34" w="27" h="33">
+      <ref>1.4.4</ref>
+    </map>
+    <map x="99" y="228" w="27" h="33">
+      <ref>1.4.5</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1" name="DA-PNEU CYLINDER D25 STR25 ISO/W SIGNAL" materialnr="344435" pos="7" description="&amp;nbsp;" />
+  <stk id="1_4_2" name="ARTICULATED HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="8" description="&amp;nbsp;" />
+  <stk id="1_4_3" name="ARTIC.HEAD;MALE THREAD M10-RIGHT,D=10MM" materialnr="005850" pos="9" description="&amp;nbsp;" />
+  <stk id="1_4_4" name="PLACEMENT BRACKET (INJECTION MOULDIN" materialnr="231372" pos="11" description="&amp;nbsp;" />
+  <stk id="1_4_5" name="EXHAUST THROTTLE THREAD1/8&amp;quot; D6/PLUG-CON." materialnr="315403" pos="16" description="&amp;nbsp;" />
+  <stk id="1_5" name="ADJUSTMENT UNIT RSVN-50U 0-30MM" materialnr="363310" pos="7" description="&amp;nbsp;">
+    <map x="434" y="283" w="28" h="20">
+      <ref pos="7">1.5.1</ref>
+    </map>
+    <map x="526" y="178" w="28" h="20">
+      <ref pos="15">1.5.2</ref>
+    </map>
+    <map x="495" y="179" w="28" h="20">
+      <ref pos="40">1.5.3</ref>
+    </map>
+    <map x="558" y="178" w="28" h="20">
+      <ref pos="41">1.5.4</ref>
+    </map>
+  </stk>
+  <stk id="1_5_1" name="SIKO-DIGITAL POSITION INDICATOR" materialnr="022448" pos="7" description="&amp;nbsp;" />
+  <stk id="1_5_2" name="EXHAUST THROTTLE T1/4&amp;quot; D=6MM/PLUG-CONN." materialnr="316705" pos="15" description="&amp;nbsp;" />
+  <stk id="1_5_3" name="DBL/ACT PNEUM.CYL.D=50/STROKE=50MM" materialnr="189789" pos="40" description="&amp;nbsp;" />
+  <stk id="1_5_4" name="SUPPORT ROLLER D=50MM WITH THREAD M6X15" materialnr="306434" pos="41" description="&amp;nbsp;">
+    <map x="218" y="44" w="245" h="310">
+      <ref pos="3">1.5.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_5_4_1" name="ROLLER WITH TRANSPORT ROLLER FACING" materialnr="306456" pos="3" description="&amp;nbsp;">
+    <map x="49" y="137" w="27" h="24">
+      <ref pos="2">1.5.4.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_5_4_1_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6" name="ROCKER FOR RSVN-50 AS DRAWN" materialnr="210245" pos="8" description="&amp;nbsp;">
+    <map x="199" y="229" w="19" h="21">
+      <ref>1.6.1</ref>
+    </map>
+    <map x="70" y="102" w="18" h="21">
+      <ref>1.6.2</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1" name="PLUMMER BLOCK BEAR.ALU-CAST HOUS.ID20MM" materialnr="005758" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_2" name="PRESSURE SPRING OD=29MM WIRE=4MM L=50MM" materialnr="005536" pos="4" description="&amp;nbsp;" />
+  <stk id="1_7" name="PNEUMATIC PARTS RSVN-50U" materialnr="363359" pos="10" description="&amp;nbsp;">
+    <map x="115" y="106" w="271" h="185">
+      <ref pos="1">1.7.1</ref>
+      <ref pos="2">1.7.2</ref>
+      <ref pos="4">1.7.3</ref>
+      <ref pos="6">1.7.4</ref>
+      <ref pos="11">1.7.5</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1" name="VALVE PLATE RSNV-50A INLET" materialnr="211201" pos="1" description="&amp;nbsp;">
+    <map x="210" y="18" w="28" h="17">
+      <ref>1.7.1.1</ref>
+    </map>
+    <map x="162" y="19" w="28" h="17">
+      <ref>1.7.1.2</ref>
+    </map>
+    <map x="526" y="240" w="28" h="17">
+      <ref>1.7.1.3</ref>
+    </map>
+    <map x="552" y="155" w="28" h="17">
+      <ref>1.7.1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1_1" name="5/2 WAY SOLENOID VALVE, 24VDC," materialnr="003229" pos="4" description="&amp;nbsp;" />
+  <stk id="1_7_1_2" name="STRAIGHT ADAPTOR 1/4&amp;quot; 90&amp;deg; D=6MM" materialnr="223934" pos="5" description="&amp;nbsp;" />
+  <stk id="1_7_1_3" name="PRESSURE CONTROLLER 0.3 - 7BAR" materialnr="027522" pos="10" description="&amp;nbsp;" />
+  <stk id="1_7_1_4" name="PRESSURE GAUGE (GTi)1-10 BAR REAR" materialnr="003355" pos="11" description="&amp;nbsp;" />
+  <stk id="1_7_2" name="5/2-ROCKING VALVE R1/8&amp;quot; LOCKING" materialnr="335432" pos="2" description="&amp;nbsp;" />
+  <stk id="1_7_3" name="STRAIGHT ADAPTOR R1/8&amp;quot; 90&amp;deg; D=6MM" materialnr="231973" pos="4" description="&amp;nbsp;" />
+  <stk id="1_7_4" name="MAINTENANCE UNIT G3/8&amp;quot; 0,5-10BAR" materialnr="354844" pos="6" description="&amp;nbsp;">
+    <map x="308" y="52" w="23" h="18">
+      <ref pos="1">1.7.4.1</ref>
+    </map>
+    <map x="135" y="26" w="27" h="29">
+      <ref pos="10">1.7.4.2</ref>
+    </map>
+    <map x="291" y="156" w="27" h="29">
+      <ref pos="11">1.7.4.3</ref>
+    </map>
+  </stk>
+  <stk id="1_7_4_1" name="PRESSURE GAUGE (GTi)1-10 BAR REAR" materialnr="003355" pos="1" description="&amp;nbsp;" />
+  <stk id="1_7_4_2" name="ANGLE BRACKET FOR MAINTENANCE UNIT" materialnr="358270" pos="10" description="&amp;nbsp;" />
+  <stk id="1_7_4_3" name="CONTAINER FOR FILTER-CONTROLLER SK3/8" materialnr="360173" pos="11" description="&amp;nbsp;" />
+  <stk id="1_7_5" name="PLUG CONNECTION T-SHAPE D=6MM" materialnr="028817" pos="11" description="&amp;nbsp;" />
+  <stk id="1_8" name="SUPPORT ROLLER D=50MM F WOOD PANEL 19MM" materialnr="306458" pos="22" description="&amp;nbsp;">
+    <map x="137" y="22" w="40" h="27">
+      <ref pos="3">1.8.2</ref>
+      <ref pos="10">1.8.1</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="10" description="&amp;nbsp;" />
+  <stk id="1_8_2" name="ROLLER WITH TRANSPORT ROLLER FACING" materialnr="306456" pos="3" description="&amp;nbsp;">
+    <map x="49" y="137" w="27" h="24">
+      <ref pos="2">1.8.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_8_2_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+  <stk id="1_9" name="ROLLER BAR RSVN-50 COMPLETE 16-33 2X" materialnr="340141" pos="26" description="&amp;nbsp;">
+    <map x="267" y="234" w="27" h="33">
+      <ref>1.9.2</ref>
+    </map>
+    <map x="209" y="246" w="27" h="25">
+      <ref pos="4">1.9.1</ref>
+    </map>
+  </stk>
+  <stk id="1_9_1" name="BEARING BOLT FOR TRANSPORT ROLLER" materialnr="333773" pos="4" description="&amp;nbsp;" />
+  <stk id="1_9_2" name="ROLLER W/COATING/BORE-HOLE 6,2MM" materialnr="354045" pos="6" description="&amp;nbsp;">
+    <map x="415" y="40" w="26" h="25">
+      <ref pos="2">1.9.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_9_2_1" name="TRANSPORT ROLLER FACING F SUPP. ROLLER" materialnr="247583" pos="2" description="&amp;nbsp;" />
+</catalog>

@@ -1,0 +1,984 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="ESL-60/30RS">
+  <stk id="1" name="ESL-60/30RS" materialnr="141518" pos="1" description="&amp;nbsp;">
+    <map x="236" y="345" w="27" h="26">
+      <ref pos="1">1.1</ref>
+    </map>
+    <map x="286" y="8" w="27" h="26">
+      <ref pos="2">1.2</ref>
+    </map>
+    <map x="402" y="239" w="27" h="26">
+      <ref pos="3">1.3</ref>
+    </map>
+    <map x="84" y="142" w="27" h="26">
+      <ref pos="5">1.5</ref>
+    </map>
+    <map x="439" y="239" w="27" h="26">
+      <ref pos="6">1.6</ref>
+    </map>
+    <map x="472" y="238" w="27" h="26">
+      <ref pos="8">1.7</ref>
+    </map>
+    <map x="36" y="62" w="139" h="66">
+      <ref pos="11">1.8</ref>
+      <ref pos="14">1.9</ref>
+      <ref pos="15">1.10</ref>
+      <ref pos="16">1.11</ref>
+      <ref pos="17">1.12</ref>
+      <ref pos="25">1.14</ref>
+    </map>
+    <map x="26" y="151" w="27" h="26">
+      <ref pos="21">1.13</ref>
+    </map>
+    <map x="196" y="146" w="130" h="57">
+      <ref pos="4">1.4</ref>
+    </map>
+  </stk>
+  <stk id="1_1" name="FRAME WITH ASSEMBLING PARTS ESL-60/30RS" materialnr="136229" pos="1" description="&amp;nbsp;">
+    <map x="375" y="250" w="28" h="25">
+      <ref>1.1.1</ref>
+    </map>
+    <map x="199" y="290" w="28" h="25">
+      <ref>1.1.2</ref>
+    </map>
+    <map x="135" y="124" w="28" h="25">
+      <ref pos="37">1.1.4</ref>
+    </map>
+    <map x="54" y="276" w="28" h="25">
+      <ref>1.1.5</ref>
+    </map>
+    <map x="251" y="86" w="27" h="25">
+      <ref pos="31">1.1.3</ref>
+    </map>
+    <map x="1" y="178" w="89" h="55">
+      <ref pos="271">1.1.6</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="BALL-BEARING SHAFT D=40H6 L=8000MM" materialnr="024661" pos="25" description="&amp;nbsp;" />
+  <stk id="1_1_2" name="BUMPER D=50 H=61MM  M8" materialnr="007794" pos="27" description="&amp;nbsp;" />
+  <stk id="1_1_3" name="TOOTHED ROD 30X30MM L=2300MM" materialnr="343184" pos="31" description="&amp;nbsp;" />
+  <stk id="1_1_4" name="TENSIONING PARTS ESL-RS" materialnr="205672" pos="37" description="&amp;nbsp;">
+    <map x="469" y="260" w="27" h="25">
+      <ref>1.1.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_4_1" name="TREAD BAS" materialnr="199664" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_5" name="TRANSPOTR SHAFT/INLET FRAME" materialnr="321464" pos="57" description="&amp;nbsp;">
+    <map x="280" y="116" w="27" h="25">
+      <ref>1.1.5.1</ref>
+    </map>
+    <map x="81" y="69" w="27" h="25">
+      <ref>1.1.5.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_5_1" name="IDLE PULLEY;EPDM;D80;W18;BORE HOLE 18" materialnr="005623" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_5_2" name="PLUMMER BLOCK BEARING;SH.MET.HOUS ID20" materialnr="005757" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_6" name="MODIF.ESL-RS ON POWERED FEEDER BELT" materialnr="361660" pos="271" description="&amp;nbsp;">
+    <map x="334" y="198" w="28" h="21">
+      <ref pos="2">1.1.6.1</ref>
+    </map>
+    <map x="43" y="136" w="28" h="21">
+      <ref pos="8">1.1.6.2</ref>
+    </map>
+    <map x="193" y="58" w="28" h="21">
+      <ref pos="12">1.1.6.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_6_1" name="TRANSPORT DRIVE SHAFT 2/INLET FRAME" materialnr="321466" pos="2" description="&amp;nbsp;">
+    <map x="58" y="88" w="27" h="25">
+      <ref>1.1.6.1.1</ref>
+    </map>
+    <map x="170" y="108" w="27" h="25">
+      <ref>1.1.6.1.2</ref>
+    </map>
+    <map x="497" y="197" w="27" h="25">
+      <ref>1.1.6.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_6_1_1" name="PLUMMER BLOCK BEARING;SH.MET.HOUS ID20" materialnr="005757" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_6_1_2" name="IDLE PULLEY;EPDM;D80;W18;BORE HOLE 18" materialnr="005623" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_6_1_3" name="SPROCKET 3/8X7/32 T=14 W=16/25 B=20" materialnr="014303" pos="5" description="&amp;nbsp;" />
+  <stk id="1_1_6_2" name="TRANSPORT DRIVE SHAFT 1/INLET FRAME" materialnr="321465" pos="8" description="&amp;nbsp;">
+    <map x="280" y="129" w="27" h="25">
+      <ref>1.1.6.2.1</ref>
+    </map>
+    <map x="321" y="140" w="27" h="25">
+      <ref>1.1.6.2.2</ref>
+    </map>
+    <map x="113" y="89" w="27" h="25">
+      <ref>1.1.6.2.3</ref>
+    </map>
+  </stk>
+  <stk id="1_1_6_2_1" name="IDLE PULLEY;EPDM;D80;W18;BORE HOLE 18" materialnr="005623" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_6_2_2" name="PLUMMER BLOCK BEARING;SH.MET.HOUS ID20" materialnr="005757" pos="2" description="&amp;nbsp;" />
+  <stk id="1_1_6_2_3" name="DBL.SPROCKET W/KWY,1/2&amp;quot;,T=14,20H7,2X" materialnr="014375" pos="3" description="&amp;nbsp;" />
+  <stk id="1_1_6_3" name="TRANSPORT CONNECTING SHAFT/INLET FRAME" materialnr="321467" pos="12" description="&amp;nbsp;">
+    <map x="80" y="69" w="27" h="25">
+      <ref>1.1.6.3.1</ref>
+    </map>
+    <map x="284" y="114" w="27" h="25">
+      <ref>1.1.6.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_6_3_1" name="PLUMMER BLOCK BEARING;SH.MET.HOUS ID20" materialnr="005757" pos="1" description="&amp;nbsp;" />
+  <stk id="1_1_6_3_2" name="IDLE PULLEY;EPDM;D80;W18;BORE HOLE 18" materialnr="005623" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2" name="CUTTING BRIDGE W HEAD(LENZE)ESL-60/30RS" materialnr="303639" pos="2" description="&amp;nbsp;">
+    <map x="157" y="242" w="27" h="40">
+      <ref>1.2.1</ref>
+    </map>
+    <map x="150" y="24" w="21" h="32">
+      <ref>1.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1" name="CUTTING BRIDGE/WITHOUT HEAD LENZE DRIVE" materialnr="303640" pos="1" description="&amp;nbsp;">
+    <map x="157" y="123" w="25" h="32">
+      <ref>1.2.1.1</ref>
+    </map>
+    <map x="529" y="217" w="22" h="34">
+      <ref>1.2.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1_1" name="BASE BODY OF BRIDGE ESL-60/30RS" materialnr="177093" pos="1" description="&amp;nbsp;">
+    <map x="508" y="183" w="26" h="34">
+      <ref>1.2.1.1.3</ref>
+    </map>
+    <map x="135" y="312" w="26" h="34">
+      <ref>1.2.1.1.4</ref>
+    </map>
+    <map x="340" y="79" w="26" h="34">
+      <ref>1.2.1.1.5</ref>
+    </map>
+    <map x="332" y="230" w="26" h="34">
+      <ref>1.2.1.1.6</ref>
+    </map>
+    <map x="191" y="132" w="26" h="34">
+      <ref>1.2.1.1.7</ref>
+    </map>
+    <map x="513" y="49" w="26" h="34">
+      <ref>1.2.1.1.8</ref>
+    </map>
+    <map x="189" y="303" w="26" h="25">
+      <ref pos="3">1.2.1.1.2</ref>
+    </map>
+    <map x="440" y="215" w="26" h="25">
+      <ref pos="2">1.2.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1_1_1" name="PRESSURE SPRING OD=8MM;WIRE=1MM L=18MM" materialnr="005514" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_1_1_2" name="DISK SPRING OD28/ID14.2/TH1.5MM" materialnr="005570" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_1_1_3" name="SUPPORT ROLLER ID=30MM;OD=72MM W=29MM" materialnr="005745" pos="4" description="&amp;nbsp;" />
+  <stk id="1_2_1_1_4" name="LINEAR BALL BEARING D40 W.FIX.PLATE" materialnr="379715" pos="5" description="&amp;nbsp;" />
+  <stk id="1_2_1_1_5" name="FELT WIPER-LATERAL GUIDE CLEANING" materialnr="015706" pos="7" description="&amp;nbsp;" />
+  <stk id="1_2_1_1_6" name="&amp;quot;STAR&amp;quot; GUIDE RAIL S: 30 L=4000MM" materialnr="025500" pos="8" description="&amp;nbsp;" />
+  <stk id="1_2_1_1_7" name="STAR GUIDE RAIL S.30  L=4500MM" materialnr="025501" pos="9" description="&amp;nbsp;" />
+  <stk id="1_2_1_1_8" name="BUMPER D=25X17MM AGM 6X16MM" materialnr="020899" pos="10" description="&amp;nbsp;" />
+  <stk id="1_2_1_2" name="BRIDGE DRIVE (LENZE DRIVE MECHANISM)" materialnr="303647" pos="4" description="&amp;nbsp;">
+    <map x="458" y="44" w="26" h="24">
+      <ref>1.2.1.2.2</ref>
+    </map>
+    <map x="32" y="216" w="26" h="24">
+      <ref>1.2.1.2.3</ref>
+    </map>
+    <map x="36" y="324" w="26" h="24">
+      <ref>1.2.1.2.5</ref>
+    </map>
+    <map x="518" y="44" w="26" h="24">
+      <ref pos="7">1.2.1.2.4</ref>
+    </map>
+    <map x="447" y="202" w="27" h="25">
+      <ref pos="1">1.2.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1_2_1" name="AS-SERVOMOTOR MDFKARS100-22/NO BRAKE" materialnr="303645" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_1_2_2" name="GEAR BOX, I=10:1,ES-1069, V2" materialnr="353080" pos="2" description="&amp;nbsp;">
+    <map x="189" y="68" w="199" h="220">
+      <ref pos="10">1.2.1.2.2.1</ref>
+      <ref pos="20">1.2.1.2.2.2</ref>
+      <ref pos="30">1.2.1.2.2.3</ref>
+      <ref pos="40">1.2.1.2.2.4</ref>
+    </map>
+  </stk>
+  <stk id="1_2_1_2_2_1" name="REPAIR SET FOR ES-1068/ES-1069" materialnr="355212" pos="10" description="&amp;nbsp;" />
+  <stk id="1_2_1_2_2_2" name="INSPECTION GLASS F.ES-1068, ES-1069" materialnr="361695" pos="20" description="&amp;nbsp;" />
+  <stk id="1_2_1_2_2_3" name="ROUGHING DISC HSD 36-22X36" materialnr="024519" pos="30" description="&amp;nbsp;" />
+  <stk id="1_2_1_2_2_4" name="SHRINK DISK PSV 5001-62" materialnr="338859" pos="40" description="&amp;nbsp;" />
+  <stk id="1_2_1_2_3" name="SPUR GEAR TEETH=90  D=50H7  STEEL" materialnr="340470" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_1_2_4" name="SAFETY VALVE R1/4&amp;quot;, 5.2 BAR LEADED" materialnr="026070" pos="7" description="&amp;nbsp;" />
+  <stk id="1_2_1_2_5" name="FLANGE BEARING ID30;OVAL CAST HOUSING" materialnr="005787" pos="8" description="&amp;nbsp;" />
+  <stk id="1_2_2" name="CUTTING-AND GRINDING HEAD/LENZE DRIVE" materialnr="303648" pos="2" description="&amp;nbsp;">
+    <map x="487" y="46" w="27" h="25">
+      <ref>1.2.2.1</ref>
+    </map>
+    <map x="399" y="350" w="27" h="25">
+      <ref>1.2.2.2</ref>
+    </map>
+    <map x="354" y="11" w="27" h="25">
+      <ref>1.2.2.3</ref>
+    </map>
+    <map x="121" y="9" w="27" h="25">
+      <ref>1.2.2.4</ref>
+    </map>
+    <map x="412" y="24" w="27" h="25">
+      <ref>1.2.2.5</ref>
+    </map>
+    <map x="151" y="288" w="27" h="25">
+      <ref>1.2.2.6</ref>
+    </map>
+    <map x="19" y="36" w="27" h="25">
+      <ref>1.2.2.7</ref>
+    </map>
+    <map x="490" y="305" w="27" h="25">
+      <ref>1.2.2.8</ref>
+    </map>
+    <map x="65" y="256" w="27" h="25">
+      <ref>1.2.2.9</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_1" name="HEADER BASE BODY" materialnr="177238" pos="1" description="&amp;nbsp;">
+    <map x="418" y="34" w="21" h="35">
+      <ref>1.2.2.1.1</ref>
+    </map>
+    <map x="340" y="18" w="25" h="35">
+      <ref>1.2.2.1.4</ref>
+    </map>
+    <map x="293" y="7" w="26" h="39">
+      <ref>1.2.2.1.6</ref>
+    </map>
+    <map x="213" y="328" w="28" h="43">
+      <ref>1.2.2.1.5</ref>
+    </map>
+    <map x="174" y="309" w="30" h="46">
+      <ref>1.2.2.1.7</ref>
+    </map>
+    <map x="88" y="286" w="30" h="38">
+      <ref>1.2.2.1.3</ref>
+    </map>
+    <map x="49" y="297" w="28" h="34">
+      <ref>1.2.2.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_1_1" name="FOUR-POINT SUPPORT FITTING UNIT" materialnr="321291" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_2_1_2" name="LINEAR GUIDING CAR STAR SIZE 30" materialnr="025785" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_2_1_3" name="GREASING NIPPLE STRAIGHT M6X1MMTAPERED" materialnr="005494" pos="20" description="&amp;nbsp;" />
+  <stk id="1_2_2_1_4" name="COUNTER RUNNING SURFACE FOR V-RING D=275" materialnr="029003" pos="22" description="&amp;nbsp;" />
+  <stk id="1_2_2_1_5" name="COUNTER RUNNING SURFACE F V-RING D=225MM" materialnr="029004" pos="23" description="&amp;nbsp;" />
+  <stk id="1_2_2_1_6" name="V-RING 275/291X8MM H-ECOPUR VAR.2" materialnr="360229" pos="24" description="&amp;nbsp;" />
+  <stk id="1_2_2_1_7" name="V-RING 225/241X8MM H-ECOPUR VAR. 2" materialnr="360231" pos="25" description="&amp;nbsp;" />
+  <stk id="1_2_2_2" name="GRINDING DEVICE WITH LENZE-DRIVE" materialnr="305200" pos="2" description="&amp;nbsp;">
+    <map x="524" y="249" w="25" h="22">
+      <ref pos="43">1.2.2.2.8</ref>
+    </map>
+    <map x="487" y="249" w="25" h="22">
+      <ref pos="1">1.2.2.2.1</ref>
+    </map>
+    <map x="433" y="26" w="28" h="26">
+      <ref pos="2">1.2.2.2.2</ref>
+    </map>
+    <map x="374" y="27" w="26" h="24">
+      <ref pos="45">1.2.2.2.10</ref>
+    </map>
+    <map x="300" y="29" w="28" h="25">
+      <ref pos="63">1.2.2.2.12</ref>
+    </map>
+    <map x="450" y="249" w="23" h="22">
+      <ref pos="5">1.2.2.2.4</ref>
+    </map>
+    <map x="295" y="312" w="26" h="25">
+      <ref pos="23">1.2.2.2.7</ref>
+    </map>
+    <map x="267" y="312" w="25" h="25">
+      <ref pos="19">1.2.2.2.6</ref>
+    </map>
+    <map x="229" y="362" w="23" h="23">
+      <ref pos="6">1.2.2.2.5</ref>
+    </map>
+    <map x="198" y="362" w="25" h="23">
+      <ref pos="54">1.2.2.2.11</ref>
+    </map>
+    <map x="169" y="362" w="25" h="23">
+      <ref pos="3">1.2.2.2.3</ref>
+    </map>
+    <map x="323" y="313" w="27" h="25">
+      <ref pos="44">1.2.2.2.9</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_2_1" name="DA-PNEU CYLINDER D25 STR25 ISO+SIGNAL" materialnr="025238" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_2_2_2" name="ARTICULATED HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_2_2_3" name="GROOVED BALL BEARING ID20 0D42 W12;2SEAL" materialnr="005697" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_2_2_4" name="CROSS-ROLLER BEARING DI90;DA106;B8;THK" materialnr="025156" pos="5" description="&amp;nbsp;" />
+  <stk id="1_2_2_2_5" name="ETP-TAPERLOCK BUSHING ID=14 OD=22MM L=15" materialnr="025128" pos="6" description="&amp;nbsp;" />
+  <stk id="1_2_2_2_6" name="GRINDING SPINDLE FOR SOFT sheets" materialnr="206334" pos="19" description="&amp;nbsp;" />
+  <stk id="1_2_2_2_7" name="BEARING SLEEVE FOR CARTRIDGE" materialnr="029023" pos="23" description="&amp;nbsp;" />
+  <stk id="1_2_2_2_8" name="PARTS OF GRINDING WHEEL/BRAKE/MEASURING" materialnr="205643" pos="43" description="&amp;nbsp;">
+    <map x="468" y="227" w="27" h="25">
+      <ref>1.2.2.2.8.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_2_8_1" name="SPRING PLATE FOR BRAKE ROD" materialnr="191800" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_2_2_9" name="CARTRIDGE FOR SHAFT D=16MM" materialnr="344981" pos="44" description="&amp;nbsp;" />
+  <stk id="1_2_2_2_10" name="BELLOW ID=22 L=56 4 BELLOWS" materialnr="026393" pos="45" description="&amp;nbsp;" />
+  <stk id="1_2_2_2_11" name="GRINDING WHEEL D=200X20X76,2MM" materialnr="014584" pos="54" description="&amp;nbsp;" />
+  <stk id="1_2_2_2_12" name="GRINDING WHEEL DRIVE(SERVO LENZE)" materialnr="303722" pos="63" description="&amp;nbsp;">
+    <map x="147" y="97" w="28" h="20">
+      <ref pos="1">1.2.2.2.12.1</ref>
+    </map>
+    <map x="401" y="243" w="28" h="20">
+      <ref pos="2">1.2.2.2.12.2</ref>
+    </map>
+    <map x="266" y="229" w="116" h="65">
+      <ref pos="9">1.2.2.2.12.3</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_2_12_1" name="AS-Servomotor LENZE 1.7kW 4.0Nm NO BRAKE" materialnr="323113" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_2_2_12_2" name="SYN.TOOTH.BELT PULLEY LS28AT5/32-2 19H7" materialnr="304796" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_2_2_12_3" name="SYNCHROFLEX-TOOTHED BELT W16 PIT5 L780" materialnr="304643" pos="9" description="&amp;nbsp;" />
+  <stk id="1_2_2_3" name="CUTTING DEVICE" materialnr="177240" pos="3" description="&amp;nbsp;">
+    <map x="319" y="68" w="25" h="38">
+      <ref>1.2.2.3.1</ref>
+    </map>
+    <map x="307" y="207" w="30" h="36">
+      <ref>1.2.2.3.5</ref>
+    </map>
+    <map x="312" y="261" w="29" h="40">
+      <ref>1.2.2.3.6</ref>
+    </map>
+    <map x="321" y="349" w="31" h="42">
+      <ref>1.2.2.3.9</ref>
+    </map>
+    <map x="198" y="349" w="28" h="29">
+      <ref>1.2.2.3.8</ref>
+    </map>
+    <map x="219" y="261" w="28" h="29">
+      <ref>1.2.2.3.10</ref>
+    </map>
+    <map x="227" y="223" w="25" h="29">
+      <ref>1.2.2.3.7</ref>
+    </map>
+    <map x="202" y="163" w="26" h="35">
+      <ref>1.2.2.3.3</ref>
+    </map>
+    <map x="192" y="97" w="26" h="35">
+      <ref>1.2.2.3.4</ref>
+    </map>
+    <map x="205" y="13" w="24" h="38">
+      <ref>1.2.2.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_3_1" name="DA-PNEU CYLINDER D20 STR25 W/SIGNAL" materialnr="013332" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_2_3_2" name="DA-PNEU CYLINDER D25 STR30 SMC+SIGNAL" materialnr="013333" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_2_3_3" name="COMPENSATING COUPLING FOR CYLINDER" materialnr="013342" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_2_3_4" name="EXHAUST THROTTLE THREAD5;D6;PLUG-CONNECT" materialnr="013350" pos="4" description="&amp;nbsp;" />
+  <stk id="1_2_2_3_5" name="GROOVED BALL BEARING ID8;OD22;W7;2 S.DIC" materialnr="005659" pos="10" description="&amp;nbsp;" />
+  <stk id="1_2_2_3_6" name="TORQUE-BALL BEARING BUSHING/ SD=20MM" materialnr="005900" pos="11" description="&amp;nbsp;" />
+  <stk id="1_2_2_3_7" name="O-RING 8X2MM VITON" materialnr="007856" pos="12" description="&amp;nbsp;" />
+  <stk id="1_2_2_3_8" name="CUTTING WHEEL GUIDE ROLLER OD17/ID7/W4,5" materialnr="011968" pos="13" description="&amp;nbsp;" />
+  <stk id="1_2_2_3_9" name="BELLOW FOR UNIVERSAL SHAFT ID19 L=70" materialnr="026394" pos="21" description="&amp;nbsp;" />
+  <stk id="1_2_2_3_10" name="CUTTER HOLDING SHAFT/STANDARD" materialnr="232589" pos="26" description="&amp;nbsp;" />
+  <stk id="1_2_2_4" name="HEAD DRIVE/LENZE- DRIVING MECHANISM" materialnr="303649" pos="4" description="&amp;nbsp;">
+    <map x="387" y="167" w="26" h="40">
+      <ref>1.2.2.4.2</ref>
+    </map>
+    <map x="238" y="352" w="23" h="38">
+      <ref>1.2.2.4.5</ref>
+    </map>
+    <map x="203" y="328" w="23" h="36">
+      <ref>1.2.2.4.3</ref>
+    </map>
+    <map x="89" y="144" w="26" h="37">
+      <ref>1.2.2.4.1</ref>
+    </map>
+    <map x="429" y="352" w="27" h="33">
+      <ref>1.2.2.4.4</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_4_1" name="PARTS FOR DRIVE/Y-AXLE (LENZE)" materialnr="303652" pos="1" description="&amp;nbsp;">
+    <map x="133" y="148" w="28" h="20">
+      <ref pos="1">1.2.2.4.1.1</ref>
+    </map>
+    <map x="135" y="236" w="28" h="20">
+      <ref pos="3">1.2.2.4.1.2</ref>
+    </map>
+    <map x="135" y="260" w="28" h="20">
+      <ref pos="4">1.2.2.4.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_4_1_1" name="AS-Servomotor LENZE 2.3kW 5.4Nm NO BRAKE" materialnr="303650" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_2_4_1_2" name="HTD-TOOTHED BELT PULLEY 5M T32 D34H7" materialnr="306052" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_2_4_1_3" name="TAPERLOCK BUSHING ID=24MM OD=34MM L=43MM" materialnr="026042" pos="4" description="&amp;nbsp;" />
+  <stk id="1_2_2_4_2" name="GROOVED BALL BEARING ID20 0D42 W12;2SEAL" materialnr="005697" pos="4" description="&amp;nbsp;" />
+  <stk id="1_2_2_4_3" name="HTD-TOOTHED BELT,W=20 L=500 PIT=5MM" materialnr="006863" pos="5" description="&amp;nbsp;" />
+  <stk id="1_2_2_4_4" name="SPUR GEAR TEETH=20 PITCH=5 ID=15MM" materialnr="363661" pos="6" description="&amp;nbsp;" />
+  <stk id="1_2_2_4_5" name="HTD-TOOTHED BELT PULLEY/5M/T75/W20" materialnr="032559" pos="7" description="&amp;nbsp;" />
+  <stk id="1_2_2_5" name="LIFT DRIVE UNIT/LENZE- DRIVING MECHANISM" materialnr="303668" pos="5" description="&amp;nbsp;">
+    <map x="207" y="114" w="28" h="20">
+      <ref pos="1">1.2.2.5.1</ref>
+    </map>
+    <map x="239" y="113" w="28" h="20">
+      <ref pos="5">1.2.2.5.2</ref>
+    </map>
+    <map x="354" y="18" w="109" h="182">
+      <ref pos="7">1.2.2.5.3</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_5_1" name="SPUR GEAR FOR SWIVEL DRIVE" materialnr="026525" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_2_5_2" name="O-RING 7X1.5MM PERBUNAN" materialnr="007853" pos="5" description="&amp;nbsp;" />
+  <stk id="1_2_2_5_3" name="PARTS FOR DRIVE Z-AXLE (LENZE)" materialnr="303667" pos="7" description="&amp;nbsp;">
+    <map x="167" y="173" w="28" h="20">
+      <ref pos="1">1.2.2.5.3.1</ref>
+    </map>
+    <map x="169" y="276" w="28" h="20">
+      <ref pos="2">1.2.2.5.3.2</ref>
+    </map>
+    <map x="169" y="252" w="28" h="20">
+      <ref pos="4">1.2.2.5.3.3</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_5_3_1" name="PLAN.GEAR SERVOMOTOR FPW8-MDSKSR040" materialnr="325397" pos="1" description="&amp;nbsp;">
+    <map x="237" y="63" w="26" h="34">
+      <ref>1.2.2.5.3.1.1</ref>
+    </map>
+    <map x="99" y="172" w="26" h="34">
+      <ref>1.2.2.5.3.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_5_3_1_1" name="SYNCHRONIZED SERVOMOTOR WITHOUT BRAKE" materialnr="303662" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_2_5_3_1_2" name="PLANETARY GEAR RATIO=7 70NM" materialnr="325352" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_2_5_3_2" name="SPUR GEAR FOR ZF-GEARING" materialnr="251956" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_2_5_3_3" name="CLAMPING ELEMENT/ANNULAR SPRING 22X26MM" materialnr="223032" pos="4" description="&amp;nbsp;" />
+  <stk id="1_2_2_6" name="ROTARY IMPLEMENTATION" materialnr="177243" pos="6" description="&amp;nbsp;">
+    <map x="94" y="28" w="32" h="39">
+      <ref>1.2.2.6.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_6_1" name="SLIP RING-TRANSMITTER 12-PATH D=120/100" materialnr="318906" pos="1" description="&amp;nbsp;">
+    <map x="416" y="21" w="27" h="25">
+      <ref pos="10">1.2.2.6.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_6_1_1" name="BRUSH-BLOCK 12-PATH FOR 318906" materialnr="396535" pos="10" description="&amp;nbsp;" />
+  <stk id="1_2_2_7" name="SUCTION INSTALLATION" materialnr="177244" pos="7" description="&amp;nbsp;">
+    <map x="160" y="86" w="27" h="34">
+      <ref>1.2.2.7.3</ref>
+    </map>
+    <map x="432" y="270" w="27" h="34">
+      <ref>1.2.2.7.4</ref>
+    </map>
+    <map x="354" y="66" w="27" h="34">
+      <ref>1.2.2.7.5</ref>
+    </map>
+    <map x="280" y="118" w="27" h="25">
+      <ref pos="3">1.2.2.7.1</ref>
+    </map>
+    <map x="116" y="326" w="27" h="25">
+      <ref pos="4">1.2.2.7.2</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_7_1" name="BLAST HOSE D=50MM," materialnr="007798" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_2_7_2" name="BLAST HOSE D=60MM  L=450MM" materialnr="025497" pos="4" description="&amp;nbsp;" />
+  <stk id="1_2_2_7_3" name="DRY-AIR FILTER; MANN NOMINAL THROUGH" materialnr="025186" pos="6" description="&amp;nbsp;">
+    <map x="113" y="87" w="296" h="129">
+      <ref pos="1">1.2.2.7.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_7_3_1" name="AIR FILTER C13114/4" materialnr="031783" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_2_7_4" name="VACUUM SUCTION NOZZLE 300/200 6BAR 22%VA" materialnr="025158" pos="7" description="&amp;nbsp;" />
+  <stk id="1_2_2_7_5" name="SILENCER R&amp;quot;1&amp;quot;  STEEL HOUSING" materialnr="025529" pos="8" description="&amp;nbsp;">
+    <map x="123" y="10" w="251" h="239">
+      <ref pos="10">1.2.2.7.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_7_5_1" name="SPARE FILTER F.EXHAUST AIR SILENCER" materialnr="354296" pos="10" description="&amp;nbsp;" />
+  <stk id="1_2_2_8" name="PNEUMATIC PARTS" materialnr="177245" pos="8" description="&amp;nbsp;">
+    <map x="55" y="215" w="17" h="24">
+      <ref>1.2.2.8.1</ref>
+    </map>
+    <map x="97" y="243" w="22" h="25">
+      <ref>1.2.2.8.3</ref>
+    </map>
+    <map x="6" y="228" w="22" h="30">
+      <ref>1.2.2.8.9</ref>
+    </map>
+    <map x="32" y="234" w="22" h="21">
+      <ref>1.2.2.8.2</ref>
+    </map>
+    <map x="103" y="336" w="22" h="19">
+      <ref>1.2.2.8.7</ref>
+    </map>
+    <map x="89" y="310" w="19" h="26">
+      <ref>1.2.2.8.10</ref>
+    </map>
+    <map x="60" y="347" w="28" h="19">
+      <ref>1.2.2.8.8</ref>
+    </map>
+    <map x="57" y="366" w="20" h="17">
+      <ref>1.2.2.8.5</ref>
+    </map>
+    <map x="198" y="215" w="132" h="164">
+      <ref pos="4">1.2.2.8.4</ref>
+      <ref pos="9">1.2.2.8.6</ref>
+      <ref pos="14">1.2.2.8.10</ref>
+      <ref pos="15">1.2.2.8.11</ref>
+      <ref pos="16">1.2.2.8.12</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_8_1" name="5/2 WAY SOLENOID VALVE 24VDC" materialnr="013349" pos="1" description="&amp;nbsp;" />
+  <stk id="1_2_2_8_2" name="3/2 WAY SOLENOID VALVE 24VDC" materialnr="003200" pos="2" description="&amp;nbsp;" />
+  <stk id="1_2_2_8_3" name="3/2-SOLENOID VALVE SPRING RETURN 4000L/M" materialnr="221879" pos="3" description="&amp;nbsp;" />
+  <stk id="1_2_2_8_4" name="5/2-M-VALVE R1/8Ì 24V 800L/M 10 BAR" materialnr="354474" pos="4" description="&amp;nbsp;" />
+  <stk id="1_2_2_8_5" name="EXHAUST SILENCER 1/8 &amp;quot; SINTERED METAL" materialnr="003350" pos="6" description="&amp;nbsp;" />
+  <stk id="1_2_2_8_6" name="EXHAUST THROTTLE THREAD1/8&amp;quot; D6/PLUG-CON." materialnr="315403" pos="9" description="&amp;nbsp;" />
+  <stk id="1_2_2_8_7" name="3/2 WAY SOLENOID VALVE, 24VDC," materialnr="003202" pos="10" description="&amp;nbsp;" />
+  <stk id="1_2_2_8_8" name="MANOMETER 0-4 BAR" materialnr="003356" pos="11" description="&amp;nbsp;" />
+  <stk id="1_2_2_8_9" name="PREC. PRESSURE REGULATOR, 0.1-8BAR" materialnr="033246" pos="13" description="&amp;nbsp;" />
+  <stk id="1_2_2_8_10" name="CHECK VALVE" materialnr="003271" pos="14" description="&amp;nbsp;" />
+  <stk id="1_2_2_8_11" name="3/2-WAY ROCKING VALVE R1/8&amp;quot;;LOCKING" materialnr="003135" pos="15" description="&amp;nbsp;" />
+  <stk id="1_2_2_8_12" name="FLOW CONTROL (ONE WAY SWIVEL) VALVE" materialnr="003257" pos="16" description="&amp;nbsp;" />
+  <stk id="1_2_2_9" name="COMPRESSED AIR IMPLEMENTATION" materialnr="177246" pos="9" description="&amp;nbsp;">
+    <map x="401" y="146" w="30" h="34">
+      <ref>1.2.2.9.4</ref>
+    </map>
+    <map x="116" y="96" w="30" h="33">
+      <ref>1.2.2.9.1</ref>
+    </map>
+    <map x="221" y="330" w="27" h="34">
+      <ref>1.2.2.9.3</ref>
+    </map>
+    <map x="95" y="252" w="95" h="114">
+      <ref pos="53">1.2.2.9.2</ref>
+    </map>
+    <map x="441" y="276" w="26" h="25">
+      <ref pos="100">1.2.2.9.5</ref>
+    </map>
+  </stk>
+  <stk id="1_2_2_9_1" name="GUIDE PLATE FOR TORSION LOCK VAR.2" materialnr="347169" pos="20" description="&amp;nbsp;" />
+  <stk id="1_2_2_9_2" name="OIL FOR MAINTEN.NIT,AWS22,50L/DRUM" materialnr="008129" pos="53" description="&amp;nbsp;" />
+  <stk id="1_2_2_9_3" name="PRESSURE CONTROLLER 0.3 - 7BAR" materialnr="027522" pos="59" description="&amp;nbsp;" />
+  <stk id="1_2_2_9_4" name="MANOMETER 0-10BAR REAR" materialnr="003357" pos="60" description="&amp;nbsp;" />
+  <stk id="1_2_2_9_5" name="COMPRESSED AIR FILTER; HIGH-EFFICIEN" materialnr="029362" pos="100" description="&amp;nbsp;" />
+  <stk id="1_3" name="POWER TRACK ESL-60/30RS" materialnr="324499" pos="3" description="&amp;nbsp;">
+    <map x="224" y="140" w="257" h="85">
+      <ref pos="1">1.3.1</ref>
+      <ref pos="2">1.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_3_1" name="CAT TRACK CABLE" materialnr="323327" pos="1" description="&amp;nbsp;" />
+  <stk id="1_3_2" name="CONNECTION ELEMENT IGUS 4000" materialnr="324469" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4" name="AIR CUSHION ESL-60/30RS" materialnr="135944" pos="4" description="&amp;nbsp;">
+    <map x="207" y="206" w="90" h="58">
+      <ref pos="7">1.4.1</ref>
+      <ref pos="8">1.4.2</ref>
+      <ref pos="10">1.4.3</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1" name="RADIAL FAN MPB-300T, 50HZ" materialnr="338102" pos="7" description="&amp;nbsp;">
+    <map x="168" y="131" w="75" h="90">
+      <ref pos="10">1.4.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_4_1_1" name="THREEPHASE MOTOR 1,1KW 2760RPM 50HZ" materialnr="353181" pos="10" description="&amp;nbsp;" />
+  <stk id="1_4_2" name="BLOWER HOSE D=125MM" materialnr="007799" pos="8" description="&amp;nbsp;" />
+  <stk id="1_4_3" name="PARTS FOR BLOWER CONNECTIONS" materialnr="182164" pos="10" description="&amp;nbsp;">
+    <map x="305" y="282" w="27" h="25">
+      <ref pos="10">1.4.3.2</ref>
+    </map>
+    <map x="250" y="125" w="27" h="25">
+      <ref pos="12">1.4.3.4</ref>
+    </map>
+    <map x="389" y="282" w="27" h="25">
+      <ref pos="13">1.4.3.5</ref>
+    </map>
+    <map x="501" y="256" w="27" h="25">
+      <ref pos="8">1.4.3.1</ref>
+    </map>
+    <map x="283" y="126" w="27" h="25">
+      <ref pos="11">1.4.3.3</ref>
+    </map>
+  </stk>
+  <stk id="1_4_3_1" name="DA-PNEU CYLINDER D25 STR80 ISO/SIGNAL" materialnr="016424" pos="8" description="&amp;nbsp;" />
+  <stk id="1_4_3_2" name="DA-PNEU CYLINDER D25 STR50 ISO+SIGNAL" materialnr="025239" pos="10" description="&amp;nbsp;" />
+  <stk id="1_4_3_3" name="THROTTLE FLAP FOR RD-62/TOTAL" materialnr="321722" pos="11" description="&amp;nbsp;">
+    <map x="459" y="39" w="27" h="25">
+      <ref pos="2">1.4.3.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_4_3_3_1" name="SYNTHETIC FLANGE FOR BLOWER RD62" materialnr="320266" pos="2" description="&amp;nbsp;" />
+  <stk id="1_4_3_4" name="ARTICULATED HEAD M10X1,25-FEM.RIGHT D10" materialnr="003029" pos="12" description="&amp;nbsp;" />
+  <stk id="1_4_3_5" name="COUNTER BEARING-FORK CYLINDER D=20/25" materialnr="003127" pos="13" description="&amp;nbsp;" />
+  <stk id="1_5" name="GLASS TRANSPORT GFB-/ESL-/ESL-60/30RS" materialnr="125267" pos="5" description="&amp;nbsp;">
+    <map x="65" y="166" w="26" h="25">
+      <ref>1.5.1</ref>
+    </map>
+    <map x="42" y="104" w="26" h="25">
+      <ref>1.5.2</ref>
+    </map>
+    <map x="135" y="358" w="26" h="25">
+      <ref>1.5.3</ref>
+    </map>
+    <map x="96" y="176" w="26" h="25">
+      <ref>1.5.4</ref>
+    </map>
+    <map x="30" y="136" w="26" h="25">
+      <ref>1.5.5</ref>
+    </map>
+    <map x="146" y="150" w="26" h="25">
+      <ref>1.5.6</ref>
+    </map>
+    <map x="8" y="103" w="26" h="25">
+      <ref>1.5.7</ref>
+    </map>
+    <map x="523" y="314" w="26" h="25">
+      <ref>1.5.8</ref>
+    </map>
+    <map x="361" y="373" w="26" h="25">
+      <ref>1.5.9</ref>
+    </map>
+    <map x="482" y="328" w="26" h="25">
+      <ref>1.5.10</ref>
+    </map>
+    <map x="216" y="86" w="26" h="25">
+      <ref>1.5.11</ref>
+    </map>
+    <map x="96" y="344" w="26" h="25">
+      <ref>1.5.12</ref>
+    </map>
+    <map x="196" y="123" w="26" h="25">
+      <ref>1.5.13</ref>
+    </map>
+    <map x="394" y="118" w="26" h="25">
+      <ref>1.5.13</ref>
+    </map>
+    <map x="169" y="358" w="26" h="25">
+      <ref>1.5.2</ref>
+    </map>
+  </stk>
+  <stk id="1_5_1" name="DBL/ACT PNEUM.CYL.,D=80,STROKE=50MM;" materialnr="189812" pos="1" description="&amp;nbsp;" />
+  <stk id="1_5_2" name="ARTICULATED HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="4" description="&amp;nbsp;" />
+  <stk id="1_5_3" name="ARTICULATED HEAD M16X1.5-FEM-LEFT D=16MM" materialnr="003052" pos="5" description="&amp;nbsp;" />
+  <stk id="1_5_4" name="SWIVEL MOUNT FORK CYL.D=80MM" materialnr="003069" pos="6" description="&amp;nbsp;" />
+  <stk id="1_5_5" name="ARTICULATED HEAD M20X1.5-FEMALE-R D20" materialnr="003073" pos="8" description="&amp;nbsp;" />
+  <stk id="1_5_6" name="COUNTER BEARING BRACKET D=80" materialnr="003087" pos="9" description="&amp;nbsp;" />
+  <stk id="1_5_7" name="FLANGE BEARING ID=20:OVAL HOUSING" materialnr="005773" pos="26" description="&amp;nbsp;" />
+  <stk id="1_5_8" name="DISC COUPLING D=25MM" materialnr="025694" pos="31" description="&amp;nbsp;" />
+  <stk id="1_5_9" name="DRIVE SHAFT EXTERIOR/GLASS TRANSPORT" materialnr="026432" pos="54" description="&amp;nbsp;" />
+  <stk id="1_5_10" name="DRIVE SHAFT(FEMALE)/ GLASS TRANSPORT" materialnr="026434" pos="56" description="&amp;nbsp;" />
+  <stk id="1_5_11" name="DISC COUPLING D=20MM" materialnr="026516" pos="60" description="&amp;nbsp;" />
+  <stk id="1_5_12" name="TRANS.ROLLER WITH BALL BEARING OD38 W38" materialnr="033307" pos="69" description="&amp;nbsp;" />
+  <stk id="1_5_13" name="BELT TRANSPORT UNIT ESL/GFB-60/30" materialnr="309133" pos="70" description="&amp;nbsp;">
+    <map x="538" y="93" w="29" h="20">
+      <ref pos="1">1.5.13.1</ref>
+    </map>
+    <map x="495" y="5" w="28" h="20">
+      <ref pos="2">1.5.13.2</ref>
+    </map>
+    <map x="348" y="117" w="73" h="41">
+      <ref pos="5">1.5.13.4</ref>
+      <ref pos="6">1.5.13.5</ref>
+    </map>
+    <map x="24" y="237" w="53" h="44">
+      <ref pos="10">1.5.13.6</ref>
+      <ref pos="11">1.5.13.7</ref>
+    </map>
+    <map x="216" y="97" w="28" h="20">
+      <ref pos="3">1.5.13.3</ref>
+    </map>
+  </stk>
+  <stk id="1_5_13_1" name="PLUMMER BLOCK BEARING;CAST HOUS.ID25" materialnr="005762" pos="1" description="&amp;nbsp;" />
+  <stk id="1_5_13_2" name="TOOTHED BELT PULLEY T=40 W=50 PIT=10" materialnr="019763" pos="2" description="&amp;nbsp;" />
+  <stk id="1_5_13_3" name="TOOTHED BELT W50 PIT10 L14800-V-PAZ-PVC" materialnr="033292" pos="3" description="&amp;nbsp;" />
+  <stk id="1_5_13_4" name="GLASS TRANSPORT FASTENING/PRE ASSEMBLED" materialnr="302771" pos="5" description="&amp;nbsp;">
+    <map x="466" y="206" w="27" h="25">
+      <ref pos="4">1.5.13.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_5_13_4_1" name="FORK HEAD 12X24 DIN71751/B M12 ZINC-COAT" materialnr="003096" pos="4" description="&amp;nbsp;" />
+  <stk id="1_5_13_5" name="GLASS TRANSPORT FASTENING;PREASSEMBLED" materialnr="302772" pos="6" description="&amp;nbsp;">
+    <map x="418" y="244" w="27" h="25">
+      <ref pos="4">1.5.13.5.1</ref>
+    </map>
+  </stk>
+  <stk id="1_5_13_5_1" name="FORK HEAD 12X24 DIN71751/B M12 ZINC-COAT" materialnr="003096" pos="4" description="&amp;nbsp;" />
+  <stk id="1_5_13_6" name="GROOVED BALL BEARING ID25;OD52;W15;2 SEA" materialnr="005704" pos="10" description="&amp;nbsp;" />
+  <stk id="1_5_13_7" name="DEFLECTION ROLLER F TOOTHED BELT D120/55" materialnr="019621" pos="11" description="&amp;nbsp;" />
+  <stk id="1_6" name="BEARINGS ESL-60/30RS" materialnr="135941" pos="6" description="&amp;nbsp;">
+    <map x="231" y="85" w="27" h="25">
+      <ref pos="2">1.6.2</ref>
+    </map>
+    <map x="419" y="76" w="27" h="25">
+      <ref pos="5">1.6.3</ref>
+    </map>
+    <map x="118" y="21" w="27" h="25">
+      <ref pos="1">1.6.1</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1" name="FRONT STOP ESLD-60/30" materialnr="123975" pos="1" description="&amp;nbsp;">
+    <map x="474" y="182" w="27" h="20">
+      <ref pos="4">1.6.1.2</ref>
+    </map>
+    <map x="151" y="95" w="29" h="20">
+      <ref pos="1">1.6.1.1</ref>
+    </map>
+    <map x="218" y="51" w="29" h="20">
+      <ref pos="6">1.6.1.3</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1_1" name="FRONT-LATERAL LIMIT STOP" materialnr="197082" pos="1" description="&amp;nbsp;">
+    <map x="284" y="40" w="26" h="25">
+      <ref pos="2">1.6.1.1.1</ref>
+    </map>
+    <map x="347" y="308" w="26" h="25">
+      <ref pos="5">1.6.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1_1_1" name="FRONT LIMIT STOP ROLLER D=60X22MM/POLY." materialnr="011984" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_1_1_2" name="BUSHING ID=20MM OD=22MM L=20MM" materialnr="005811" pos="5" description="&amp;nbsp;" />
+  <stk id="1_6_1_2" name="CYLINDER UNIT FOR FRONT LIMIT STOP" materialnr="025207" pos="4" description="&amp;nbsp;">
+    <map x="407" y="125" w="26" h="25">
+      <ref pos="1">1.6.1.2.1</ref>
+    </map>
+    <map x="233" y="10" w="26" h="25">
+      <ref pos="2">1.6.1.2.2</ref>
+    </map>
+    <map x="408" y="187" w="26" h="25">
+      <ref pos="3">1.6.1.2.3</ref>
+    </map>
+    <map x="408" y="251" w="26" h="25">
+      <ref pos="5">1.6.1.2.4</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1_2_1" name="DA-PNEU CYLINDER D=50 STROKE=25 W SIGNAL" materialnr="189786" pos="1" description="&amp;nbsp;" />
+  <stk id="1_6_1_2_2" name="FORK HEAD M16X1.5MM ISO-CYL.D=50/63MM" materialnr="003045" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_1_2_3" name="SWIVEL MOUNT FORK CYL. D=50MM" materialnr="003054" pos="3" description="&amp;nbsp;" />
+  <stk id="1_6_1_2_4" name="COUNTER BEAR, ZYL.D=50" materialnr="003085" pos="5" description="&amp;nbsp;" />
+  <stk id="1_6_1_3" name="FRONT-CENTER LIMIT STOP ESL" materialnr="196472" pos="6" description="&amp;nbsp;">
+    <map x="282" y="106" w="28" h="20">
+      <ref pos="2">1.6.1.3.1</ref>
+    </map>
+    <map x="278" y="283" w="28" h="20">
+      <ref pos="5">1.6.1.3.2</ref>
+    </map>
+  </stk>
+  <stk id="1_6_1_3_1" name="FRONT LIMIT STOP ROLLER D=60X22MM/POLY." materialnr="011984" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_1_3_2" name="BUSHING ID=20MM OD=22MM L=20MM" materialnr="005811" pos="5" description="&amp;nbsp;" />
+  <stk id="1_6_2" name="LATERAL BEARINGS-EXTENDABLE FOR ESL" materialnr="124217" pos="2" description="&amp;nbsp;">
+    <map x="369" y="290" w="26" h="25">
+      <ref>1.6.2.1</ref>
+    </map>
+    <map x="368" y="264" w="26" h="25">
+      <ref>1.6.2.2</ref>
+    </map>
+    <map x="361" y="233" w="26" h="25">
+      <ref>1.6.2.3</ref>
+    </map>
+    <map x="79" y="266" w="26" h="25">
+      <ref>1.6.2.4</ref>
+    </map>
+    <map x="17" y="97" w="26" h="25">
+      <ref>1.6.2.5</ref>
+    </map>
+    <map x="71" y="98" w="26" h="25">
+      <ref>1.6.2.6</ref>
+    </map>
+  </stk>
+  <stk id="1_6_2_1" name="ARTICULATED HEAD M16X1.5-FEM-RIGHT D=16" materialnr="003047" pos="10" description="&amp;nbsp;" />
+  <stk id="1_6_2_2" name="ARTICULATED HEAD M16X1.5-FEM-LEFT D=16MM" materialnr="003052" pos="11" description="&amp;nbsp;" />
+  <stk id="1_6_2_3" name="LIMIT STOP-EXTENDABLE WITH LEVER/ 70MM" materialnr="319337" pos="15" description="&amp;nbsp;">
+    <map x="313" y="162" w="27" h="25">
+      <ref pos="2">1.6.2.3.1</ref>
+    </map>
+    <map x="313" y="270" w="27" h="25">
+      <ref pos="4">1.6.2.3.2</ref>
+    </map>
+    <map x="313" y="81" w="27" h="25">
+      <ref pos="5">1.6.2.3.3</ref>
+    </map>
+    <map x="311" y="345" w="27" h="25">
+      <ref pos="7">1.6.2.3.4</ref>
+    </map>
+    <map x="196" y="315" w="27" h="25">
+      <ref pos="8">1.6.2.3.5</ref>
+    </map>
+  </stk>
+  <stk id="1_6_2_3_1" name="FLANGE BUSHING ID=20MM OD=23MM L=21MM" materialnr="327751" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_2_3_2" name="COMPENSATING COUPLING FOR CYLINDER D=20" materialnr="025748" pos="4" description="&amp;nbsp;" />
+  <stk id="1_6_2_3_3" name="LATERAL POSTIONING ROLLER D=60X10MM/POLY" materialnr="011985" pos="5" description="&amp;nbsp;" />
+  <stk id="1_6_2_3_4" name="DA-PNEU CYLINDER D20 STR25 W/SIGNAL" materialnr="013332" pos="7" description="&amp;nbsp;" />
+  <stk id="1_6_2_3_5" name="EXHAUST THROTTLE THREAD5;D6;PLUG-CONNECT" materialnr="013350" pos="8" description="&amp;nbsp;" />
+  <stk id="1_6_2_4" name="DA-PNEU CYLINDER D=50 STROKE160 W SIGNAL" materialnr="188953" pos="33" description="&amp;nbsp;">
+    <map x="42" y="26" w="443" h="235">
+      <ref pos="10">1.6.2.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_6_2_4_1" name="SEAL KIT FOR REXROTH CYLINDER D=50MM" materialnr="315971" pos="10" description="&amp;nbsp;" />
+  <stk id="1_6_2_5" name="SWIVEL FASTENING FORK CYL D=50" materialnr="025747" pos="34" description="&amp;nbsp;" />
+  <stk id="1_6_2_6" name="COUNTER BEARING MOINTING LINK STRAIGHT" materialnr="025746" pos="35" description="&amp;nbsp;" />
+  <stk id="1_6_3" name="GLASS POSITIONING FINGER ESLD" materialnr="025665" pos="5" description="&amp;nbsp;">
+    <map x="46" y="140" w="26" h="25">
+      <ref pos="2">1.6.3.1</ref>
+    </map>
+    <map x="446" y="131" w="26" h="25">
+      <ref pos="3">1.6.3.2</ref>
+    </map>
+    <map x="47" y="61" w="26" h="25">
+      <ref pos="6">1.6.3.3</ref>
+    </map>
+  </stk>
+  <stk id="1_6_3_1" name="SA-SHORT STROKE CYLINDER D63 STR10/NO SI" materialnr="002899" pos="2" description="&amp;nbsp;" />
+  <stk id="1_6_3_2" name="GLASS UNIT SUPPORT L=101MM" materialnr="026488" pos="3" description="&amp;nbsp;" />
+  <stk id="1_6_3_3" name="SUPPLY-AIR CHOKE 1/8&amp;quot; D6 PLUG C." materialnr="315402" pos="6" description="&amp;nbsp;" />
+  <stk id="1_7" name="GRIND.WHEEL MEASURING-AND DRESSING DEV." materialnr="151027" pos="8" description="&amp;nbsp;">
+    <map x="182" y="10" w="57" h="101">
+      <ref pos="1">1.7.1</ref>
+    </map>
+    <map x="0" y="140" w="205" h="137">
+      <ref pos="3">1.7.2</ref>
+    </map>
+    <map x="277" y="65" w="194" h="212">
+      <ref pos="5">1.7.3</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1" name="WET/DRY-SUCTION DEVICE; THOMAS 1530" materialnr="300724" pos="1" description="&amp;nbsp;">
+    <map x="220" y="28" w="200" h="325">
+      <ref pos="10">1.7.1.1</ref>
+      <ref pos="20">1.7.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_7_1_1" name="DUSTBAG-FILTER F.WET+DRY-EXHAUSTER" materialnr="321938" pos="10" description="&amp;nbsp;" />
+  <stk id="1_7_1_2" name="Air filter Type 787421 (for Sa. 300724)" materialnr="369366" pos="20" description="&amp;nbsp;" />
+  <stk id="1_7_2" name="BLAST HOSE D=50MM," materialnr="007798" pos="3" description="&amp;nbsp;" />
+  <stk id="1_7_3" name="SUCTION FUNNEL COMPLETE" materialnr="206975" pos="5" description="&amp;nbsp;">
+    <map x="124" y="26" w="27" h="25">
+      <ref pos="3">1.7.3.1</ref>
+    </map>
+  </stk>
+  <stk id="1_7_3_1" name="AKL SINGLE WHEEL DIAMOND DRESSER" materialnr="008845" pos="3" description="&amp;nbsp;" />
+  <stk id="1_8" name="PNEUMATIC MATERIAL ESL-60/30RS" materialnr="136039" pos="11" description="&amp;nbsp;">
+    <map x="3" y="12" w="562" h="376">
+      <ref pos="1">1.8.1</ref>
+      <ref pos="5">1.8.2</ref>
+      <ref pos="6">1.8.3</ref>
+      <ref pos="12">1.8.4</ref>
+      <ref pos="14">1.8.5</ref>
+      <ref pos="15">1.8.6</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1" name="MAINTENANCE UNIT 3/8&amp;quot; 0,5-8,5BAR SMC" materialnr="372235" pos="1" description="&amp;nbsp;">
+    <map x="389" y="240" w="28" h="25">
+      <ref pos="1">1.8.1.1</ref>
+      <ref pos="2">1.8.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_8_1_1" name="FILTER UNIT FOR MAINTENANCE UNIT 372235" materialnr="377104" pos="1" description="&amp;nbsp;" />
+  <stk id="1_8_1_2" name="FILTER CONTROLLER BOX C3SF FOR 372235" materialnr="414305" pos="2" description="&amp;nbsp;" />
+  <stk id="1_8_2" name="QUICK DISCONNECT 1/4&amp;quot;-EXTERIOR D=7,2MM" materialnr="003492" pos="5" description="&amp;nbsp;" />
+  <stk id="1_8_3" name="QUICK DISCONNECT" materialnr="003498" pos="6" description="&amp;nbsp;" />
+  <stk id="1_8_4" name="PREC. PRESSURE REGULATOR, 0.1-8BAR" materialnr="033246" pos="12" description="&amp;nbsp;" />
+  <stk id="1_8_5" name="MANOMETER F. CONTROL PANEL;0-6BAR;R1" materialnr="218962" pos="14" description="&amp;nbsp;" />
+  <stk id="1_8_6" name="VALVE BLOCK GFB/ESL/ESL-RS CD01" materialnr="327814" pos="15" description="&amp;nbsp;">
+    <map x="58" y="342" w="83" h="39">
+      <ref pos="15">1.8.6.1</ref>
+      <ref pos="16">1.8.6.2</ref>
+      <ref pos="17">1.8.6.3</ref>
+    </map>
+    <map x="335" y="340" w="52" h="26">
+      <ref pos="22">1.8.6.4</ref>
+    </map>
+    <map x="429" y="282" w="84" h="89">
+      <ref pos="27">1.8.6.5</ref>
+      <ref pos="28">1.8.6.6</ref>
+    </map>
+  </stk>
+  <stk id="1_8_6_1" name="5/2 SOLENOID VALVE;TYPE CD01 D4; BIS" materialnr="191568" pos="15" description="&amp;nbsp;" />
+  <stk id="1_8_6_2" name="5/2 SOLENOID VALVE;TYPE CD01 D4; BIS" materialnr="191568" pos="16" description="&amp;nbsp;" />
+  <stk id="1_8_6_3" name="5/2 SOLENOID VALVE;TYPE CD01 D4; BIS" materialnr="191568" pos="17" description="&amp;nbsp;" />
+  <stk id="1_8_6_4" name="5/2 SOLENOID VALVE;TYPE CD01 D4;MONO" materialnr="191548" pos="22" description="&amp;nbsp;" />
+  <stk id="1_8_6_5" name="VALVE CONNECTOR FOR CD01-VALVE" materialnr="237484" pos="27" description="&amp;nbsp;" />
+  <stk id="1_8_6_6" name="VALVE PLUG FOR CD01-VALVES 10MM" materialnr="327967" pos="28" description="&amp;nbsp;" />
+  <stk id="1_9" name="ELECTRONIC CUTTING PRESSURE CONTROL" materialnr="114880" pos="14" description="&amp;nbsp;">
+    <map x="0" y="7" w="558" h="373">
+      <ref pos="1">1.9.1</ref>
+      <ref pos="5">1.9.2</ref>
+      <ref pos="6">1.9.3</ref>
+    </map>
+  </stk>
+  <stk id="1_9_1" name="5/2-WAY SOLENOID VALVE, 24 VDC" materialnr="019739" pos="1" description="&amp;nbsp;" />
+  <stk id="1_9_2" name="EL-PNEU PRESSURE CON.VALVE 0-8BAR 1/8" materialnr="322730" pos="5" description="&amp;nbsp;" />
+  <stk id="1_9_3" name="PRESSURE SWITCH ISE 40-01-62L" materialnr="342642" pos="6" description="&amp;nbsp;" />
+  <stk id="1_10" name="LUBRICATING VALVE SET GFB/ESL-EF/ESL-RS" materialnr="330077" pos="15" description="&amp;nbsp;">
+    <map x="206" y="140" w="141" h="44">
+      <ref pos="1">1.10.1</ref>
+      <ref pos="8">1.10.3</ref>
+      <ref pos="10">1.10.4</ref>
+    </map>
+    <map x="426" y="91" w="25" h="25">
+      <ref pos="18">1.10.5</ref>
+    </map>
+    <map x="427" y="48" w="25" h="25">
+      <ref pos="20">1.10.6</ref>
+    </map>
+    <map x="208" y="212" w="139" h="140">
+      <ref pos="4">1.10.2</ref>
+    </map>
+    <map x="426" y="135" w="25" h="25">
+      <ref pos="23">1.10.7</ref>
+    </map>
+  </stk>
+  <stk id="1_10_1" name="2/2-PATH VALVE M5 24V= NC STAINLES" materialnr="370347" pos="1" description="&amp;nbsp;" />
+  <stk id="1_10_2" name="CUTTING LUB CONTAINER ALU 4,4L VAR.3" materialnr="359194" pos="4" description="&amp;nbsp;" />
+  <stk id="1_10_3" name="FILTER WK 31/2" materialnr="003862" pos="8" description="&amp;nbsp;" />
+  <stk id="1_10_4" name="FILTER WK 31/2" materialnr="003862" pos="10" description="&amp;nbsp;" />
+  <stk id="1_10_5" name="PRESSURE CONTROLLER 1/4&amp;quot; 0,0-1,3BAR" materialnr="325537" pos="18" description="&amp;nbsp;" />
+  <stk id="1_10_6" name="MANOMETER 0-1,6 R1/4&amp;quot;-RESET" materialnr="330026" pos="20" description="&amp;nbsp;" />
+  <stk id="1_10_7" name="3-PATH BALL VALVE R1/8&amp;quot; 20BAR SEAL-NBR" materialnr="354475" pos="23" description="&amp;nbsp;" />
+  <stk id="1_11" name="COVER PLATE AND CASE GUIDE" materialnr="330366" pos="16" description="&amp;nbsp;">
+    <map x="0" y="55" w="556" h="301">
+      <ref pos="6">1.11.1</ref>
+      <ref pos="10">1.11.2</ref>
+      <ref pos="13">1.11.3</ref>
+    </map>
+  </stk>
+  <stk id="1_11_1" name="FIXED CASTOR D=100;W=43;300KG; H=125MM" materialnr="005614" pos="6" description="&amp;nbsp;" />
+  <stk id="1_11_2" name="IMPACT STRIP FOR SPLINTER GUARD" materialnr="032312" pos="10" description="&amp;nbsp;" />
+  <stk id="1_11_3" name="VULCOLLAN-ROLLER W.BEARING OD40 ID10 W15" materialnr="188734" pos="13" description="&amp;nbsp;" />
+  <stk id="1_12" name="STANDARD EQUIPMENT GFB/ESL/BSK" materialnr="346051" pos="17" description="&amp;nbsp;">
+    <map x="21" y="27" w="163" h="217">
+      <ref pos="3">1.12.1</ref>
+    </map>
+    <map x="203" y="289" w="271" h="42">
+      <ref pos="4">1.12.2</ref>
+    </map>
+    <map x="406" y="39" w="107" h="86">
+      <ref pos="5">1.12.3</ref>
+    </map>
+  </stk>
+  <stk id="1_12_1" name="CUTTING WHEEL RETAINER/STANDARD" materialnr="232586" pos="3" description="&amp;nbsp;" />
+  <stk id="1_12_2" name="AXLE FOR STEEL CUTTING WHEEL HOLDER" materialnr="009990" pos="4" description="&amp;nbsp;" />
+  <stk id="1_12_3" name="HM-CUTTINGWHEEL 4.7x1.0x1.3 145 Degree" materialnr="339148" pos="5" description="&amp;nbsp;" />
+  <stk id="1_13" name="COVER BELT ASSEMBLY; GR. AXLE ESL-RSVB" materialnr="225961" pos="21" description="&amp;nbsp;">
+    <map x="145" y="171" w="27" h="25">
+      <ref>1.13.1</ref>
+    </map>
+    <map x="165" y="64" w="27" h="25">
+      <ref>1.13.2</ref>
+    </map>
+    <map x="204" y="145" w="27" h="25">
+      <ref>1.13.3</ref>
+    </map>
+  </stk>
+  <stk id="1_13_1" name="GROOVED BALL BEARING ID15 OD32 W9;SEAL" materialnr="005682" pos="3" description="&amp;nbsp;" />
+  <stk id="1_13_2" name="DEFLECTION ROLLER FOR COVER BELT" materialnr="187150" pos="5" description="&amp;nbsp;" />
+  <stk id="1_13_3" name="BELT CONVEYOR W50 D2,15 BLACK L=9500MM" materialnr="345078" pos="13" description="&amp;nbsp;" />
+  <stk id="1_14" name="START-UP PACKAGE GFB/ESL/-RS/PTV/BSK" materialnr="323810" pos="25" description="&amp;nbsp;">
+    <map x="4" y="4" w="495" h="345">
+      <ref pos="1">1.14.1</ref>
+      <ref pos="2">1.14.2</ref>
+      <ref pos="3">1.14.3</ref>
+      <ref pos="4">1.14.4</ref>
+      <ref pos="5">1.14.5</ref>
+    </map>
+  </stk>
+  <stk id="1_14_1" name="CUTTING WHEEL/TUN.CARB.4,7X1,0X1.3; 118&amp;deg;" materialnr="339145" pos="1" description="&amp;nbsp;" />
+  <stk id="1_14_2" name="CUTTING WHEEL / CARB. 4.7x1.0X1.3 135&amp;deg;" materialnr="339147" pos="2" description="&amp;nbsp;" />
+  <stk id="1_14_3" name="HM-CUTTINGWHEEL 4.7x1.0x1.3 145 Degree" materialnr="339148" pos="3" description="&amp;nbsp;" />
+  <stk id="1_14_4" name="HM-CUTTINGWHEEL 4.7x1.0x1.3 155degree" materialnr="339149" pos="4" description="&amp;nbsp;" />
+  <stk id="1_14_5" name="HM-CUTTINGWHEEL 4.7x1.0x1.3, 165 Degree" materialnr="339151" pos="5" description="&amp;nbsp;" />
+</catalog>

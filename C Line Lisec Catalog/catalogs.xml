@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <catalog id="000-084169">PKL-60/30P_000-084169</catalog>
+  <catalog id="002-084170">SBL-60/30KRD_002-084170</catalog>
+  <catalog id="004-084060">ATL-60/30BF_004-084060</catalog>
+  <catalog id="035-084061">RPS-60/33_035-084061</catalog>
+  <catalog id="349-084062">TFR-60/30_349-084062</catalog>
+  <catalog id="031-084063">ESL-60/30RS_031-084063</catalog>
+  <catalog id="020-084065">LKT-10/33_020-084065</catalog>
+  <catalog id="351-084171">BHK-60/33_351-084171</catalog>
+  <catalog id="031-084067">ESL-60/30RS_031-084067</catalog>
+  <catalog id="050-084068">RP-33I_050-084068</catalog>
+  <catalog id="052-084172">ARS-33_052-084172</catalog>
+  <catalog id="060-084173">BTA-50/33_060-084173</catalog>
+  <catalog id="050-084174">TBX-33/12_050-084174</catalog>
+  <catalog id="060-084175">BTA-20/33_060-084175</catalog>
+  <catalog id="054-084176">BTS-60/33C_054-084176</catalog>
+  <catalog id="060-084177">BTA-20/33_060-084177</catalog>
+  <catalog id="354-084179">RKT-45/27KLA_354-084179</catalog>
+  <catalog id="380-084180">RTVB-11/27ST_380-084180</catalog>
+  <catalog id="383-084181">RTVB-15/27MZKW_383-084181</catalog>
+  <catalog id="382-084193">RTVN-15/27WEK_382-084193</catalog>
+  <catalog id="390-084070">KSR-27_390-084070</catalog>
+  <catalog id="318-084071">WRA-1000_318-084071</catalog>
+  <catalog id="382-084072">RTVN-15/27WEK_382-084072</catalog>
+  <catalog id="380-084073">RTVB-15/27WEK_380-084073</catalog>
+  <catalog id="391-084074">KSV-27_391-084074</catalog>
+  <catalog id="380-084075">RTVB-06/27WEK_380-084075</catalog>
+  <catalog id="313-084076">VHW-D27/V6_313-084076</catalog>
+  <catalog id="317-084077">OSM-130_317-084077</catalog>
+  <catalog id="380-084194">RTVB-27/27ST_380-084194</catalog>
+  <catalog id="380-084197">RTVB-27/27ST_380-084197</catalog>
+</NewDataSet>

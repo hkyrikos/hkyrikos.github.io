@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="RTVN-15MZK">
+  <stk id="1" name="RTVN-15MZK" materialnr="323424" pos="1" description="&amp;nbsp;" ET="0" Quantity="1" Unit="">
+    <map x="263" y="21" w="119" h="260">
+      <ref pos="1">1.1</ref>
+    </map>
+    <map x="227" y="20" w="31" h="268" />
+    <map x="391" y="13" w="53" h="49" />
+  </stk>
+  <stk id="1_1" name="RTVB-15MZKW 16-33" materialnr="360963" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="278" y="12" w="93" h="287">
+      <ref pos="1">1.1.1</ref>
+    </map>
+    <map x="231" y="12" w="44" h="285">
+      <ref pos="2">1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1" name="Zusammenstellung RTVB-15WEK, Alu 27-33" materialnr="361691" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="194" y="135" w="27" h="26">
+      <ref pos="4">1.1.1.2</ref>
+    </map>
+    <map x="196" y="293" w="27" h="26">
+      <ref pos="5">1.1.1.3</ref>
+    </map>
+    <map x="195" y="324" w="26" h="26">
+      <ref pos="1">1.1.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1" name="Antriebsmotor ohne Bremse f. RTVN 1.Zone" materialnr="241250" pos="1" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="165" y="52" w="30" h="21">
+      <ref pos="1">1.1.1.1.1</ref>
+    </map>
+    <map x="120" y="52" w="28" h="20">
+      <ref pos="2">1.1.1.1.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_1_1" name="DS.STG.M;550W;219U/MIN;220-415;50HZ" materialnr="231836" pos="1" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_1_1_2" name="KETTENRAD T=3/8&amp;quot;,Z=20, ID=20 M.N;2XM6" materialnr="014328" pos="2" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_1_2" name="Grundeinheit RTVN-15WEK/WEKR 27-33" materialnr="351562" pos="4" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="160" y="257" w="28" h="26">
+      <ref pos="1">1.1.1.2.1</ref>
+    </map>
+    <map x="159" y="286" w="28" h="26">
+      <ref pos="3">1.1.1.2.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_2_1" name="St&amp;uuml;tzrolle Dm.50 f&amp;uuml;r Holzpl.19mm" materialnr="306458" pos="1" description="&amp;nbsp;" ET="6" Quantity="74" Unit="">
+    <map x="123" y="24" w="340" h="265">
+      <ref pos="3">1.1.1.2.1.2</ref>
+      <ref pos="10">1.1.1.2.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_2_1_1" name="Laufrollenbelag f. ST&amp;Uuml;TZROLLE. TPU natur" materialnr="247583" pos="10" description="&amp;nbsp;" ET="0" Quantity="74" Unit="" />
+  <stk id="1_1_1_2_1_2" name="Rolle mit Laufrollenbelag" materialnr="306456" pos="3" description="&amp;nbsp;" ET="9" Quantity="74" Unit="">
+    <map x="205" y="69" w="25" h="19">
+      <ref pos="2">1.1.1.2.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_2_1_2_1" name="Laufrollenbelag f. ST&amp;Uuml;TZROLLE. TPU natur" materialnr="247583" pos="2" description="&amp;nbsp;" ET="6" Quantity="5476" Unit="" />
+  <stk id="1_1_1_2_2" name="Rollenleiste montiert RTVN-15WEK" materialnr="348266" pos="3" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="191" y="244" w="29" h="20">
+      <ref pos="3">1.1.1.2.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_2_2_1" name="St&amp;uuml;tzrolle Dm.50 m Gewinde M6x13 o.O-R." materialnr="015343" pos="3" description="&amp;nbsp;" ET="6" Quantity="20" Unit="" />
+  <stk id="1_1_1_3" name="Antriebstr&amp;auml;ger RTVN-15WEK wie gez." materialnr="348268" pos="5" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="216" y="86" w="29" h="20">
+      <ref pos="2">1.1.1.3.1</ref>
+    </map>
+    <map x="117" y="284" w="29" h="20">
+      <ref pos="5">1.1.1.3.2</ref>
+    </map>
+    <map x="66" y="84" w="29" h="20">
+      <ref pos="6">1.1.1.3.3</ref>
+    </map>
+    <map x="286" y="231" w="29" h="20">
+      <ref pos="7">1.1.1.3.4</ref>
+    </map>
+    <map x="30" y="85" w="29" h="20">
+      <ref pos="11">1.1.1.3.5</ref>
+    </map>
+    <map x="103" y="85" w="29" h="20">
+      <ref pos="12">1.1.1.3.6</ref>
+    </map>
+    <map x="181" y="86" w="29" h="20">
+      <ref pos="13">1.1.1.3.7</ref>
+    </map>
+    <map x="361" y="234" w="110" h="45" />
+  </stk>
+  <stk id="1_1_1_3_1" name="ANTRIEBSEINHEIT ROSTFREI" materialnr="236450" pos="2" description="&amp;nbsp;" ET="8" Quantity="8" Unit="">
+    <map x="337" y="51" w="28" h="20">
+      <ref pos="1">1.1.1.3.1.1</ref>
+    </map>
+    <map x="433" y="101" w="28" h="20">
+      <ref pos="2">1.1.1.3.1.2</ref>
+    </map>
+    <map x="96" y="46" w="38" h="21">
+      <ref pos="7">1.1.1.3.1.3</ref>
+      <ref pos="8">1.1.1.3.1.4</ref>
+    </map>
+    <map x="465" y="101" w="35" h="20" />
+  </stk>
+  <stk id="1_1_1_3_1_1" name="STEHLAGER,VERBUNDGEH.,ID=20,SYK20TR" materialnr="225138" pos="1" description="&amp;nbsp;" ET="8" Quantity="16" Unit="" />
+  <stk id="1_1_1_3_1_2" name="Laufrolle m. Vulkollan,D=58X69mm" materialnr="356535" pos="2" description="&amp;nbsp;" ET="6" Quantity="8" Unit="">
+    <map x="416" y="85" w="29" h="20">
+      <ref pos="1">1.1.1.3.1.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_3_1_2_1" name="LAUFROLLENBELAG 57/47X65" materialnr="230340" pos="1" description="&amp;nbsp;" ET="6" Quantity="64" Unit="">
+    <map x="92" y="106" w="28" h="20">
+      <ref pos="1">1.1.1.3.1.2.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_3_1_2_1_1" name="LAUFROLLENBELAG 57/47X55" materialnr="230339" pos="1" description="&amp;nbsp;" ET="6" Quantity="4096" Unit="" />
+  <stk id="1_1_1_3_1_3" name="DOPPELKR. T=3/8&amp;quot;,Z14,20K7,M.NUT,GEH." materialnr="024301" pos="7" description="&amp;nbsp;" ET="6" Quantity="8" Unit="" />
+  <stk id="1_1_1_3_1_4" name="PASSFEDER 6X6X18MM,DIN 6885,ST50-1K" materialnr="024115" pos="8" description="&amp;nbsp;" ET="8" Quantity="8" Unit="" />
+  <stk id="1_1_1_3_2" name="ANTRIEBSEINHEIT 3-FACH KETTENRAD" materialnr="236449" pos="5" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="355" y="66" w="28" h="20">
+      <ref pos="1">1.1.1.3.2.1</ref>
+    </map>
+    <map x="479" y="95" w="28" h="20">
+      <ref pos="2">1.1.1.3.2.2</ref>
+    </map>
+    <map x="110" y="184" w="28" h="20">
+      <ref pos="7">1.1.1.3.2.3</ref>
+    </map>
+    <map x="511" y="95" w="36" h="20" />
+  </stk>
+  <stk id="1_1_1_3_2_1" name="STEHLAGER,VERBUNDGEH.,ID=20,SYK20TR" materialnr="225138" pos="1" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_1_3_2_2" name="Laufrolle m. Vulkollan,D=58X69mm" materialnr="356535" pos="2" description="&amp;nbsp;" ET="6" Quantity="1" Unit="">
+    <map x="416" y="85" w="29" h="20">
+      <ref pos="1">1.1.1.3.2.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_3_2_2_1" name="LAUFROLLENBELAG 57/47X65" materialnr="230340" pos="1" description="&amp;nbsp;" ET="6" Quantity="1" Unit="">
+    <map x="92" y="106" w="28" h="20">
+      <ref pos="1">1.1.1.3.2.2.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_3_2_2_1_1" name="LAUFROLLENBELAG 57/47X55" materialnr="230339" pos="1" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_1_3_2_3" name="DREIFACHKR.T=3/8&amp;quot;,Z=14,20H7 M.N;2XM6" materialnr="014754" pos="7" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_1_3_3" name="KETTENSPANNER, D=50MM, B=35MM" materialnr="013587" pos="6" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_1_3_4" name="Glasauflager gesamt" materialnr="312214" pos="7" description="&amp;nbsp;" ET="9" Quantity="4" Unit="">
+    <map x="77" y="56" w="46" h="31">
+      <ref pos="2">1.1.1.3.4.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_3_4_1" name="Vulkollanauflage 100x60 s=10,Befø=10" materialnr="311740" pos="2" description="&amp;nbsp;" ET="7" Quantity="4" Unit="" />
+  <stk id="1_1_1_3_5" name="ANTRIEBSEINHEIT M. KETTENRAD FIX" materialnr="236551" pos="11" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="436" y="140" w="28" h="20">
+      <ref pos="1">1.1.1.3.5.1</ref>
+    </map>
+    <map x="524" y="139" w="28" h="20">
+      <ref pos="2">1.1.1.3.5.2</ref>
+    </map>
+    <map x="362" y="88" w="28" h="20">
+      <ref pos="7">1.1.1.3.5.3</ref>
+    </map>
+    <map x="279" y="87" w="28" h="20">
+      <ref pos="9">1.1.1.3.5.4</ref>
+    </map>
+    <map x="556" y="140" w="44" h="19" />
+  </stk>
+  <stk id="1_1_1_3_5_1" name="STEHLAGER,VERBUNDGEH.,ID=20,SYK20TR" materialnr="225138" pos="1" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_1_3_5_2" name="Laufrolle m. Vulkollan,D=58X69mm" materialnr="356535" pos="2" description="&amp;nbsp;" ET="6" Quantity="1" Unit="">
+    <map x="416" y="85" w="29" h="20">
+      <ref pos="1">1.1.1.3.5.2.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_3_5_2_1" name="LAUFROLLENBELAG 57/47X65" materialnr="230340" pos="1" description="&amp;nbsp;" ET="6" Quantity="1" Unit="">
+    <map x="92" y="106" w="28" h="20">
+      <ref pos="1">1.1.1.3.5.2.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_1_3_5_2_1_1" name="LAUFROLLENBELAG 57/47X55" materialnr="230339" pos="1" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_1_3_5_3" name="DREIFACHKR.T=3/8&amp;quot;,Z=14,20H7 M.N;2XM6" materialnr="014754" pos="7" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_1_3_5_4" name="KETTENRAD T=3/8&amp;quot;,Z=24,20H7 M.N;2XM6" materialnr="014341" pos="9" description="&amp;nbsp;" ET="6" Quantity="1" Unit="" />
+  <stk id="1_1_1_3_6" name="KETTE,3/8X7/32&amp;quot;,73 GLIEDER+VERSCHLGL" materialnr="016408" pos="12" description="&amp;nbsp;" ET="6" Quantity="1" Unit="">
+    <map x="47" y="180" w="98" h="83" />
+    <map x="168" y="48" w="251" h="255" />
+  </stk>
+  <stk id="1_1_1_3_7" name="KETTE,3/8X7/32&amp;quot;,47 GLIEDER+VERSCHLGL" materialnr="006533" pos="13" description="&amp;nbsp;" ET="6" Quantity="9" Unit="">
+    <map x="99" y="60" w="289" h="247" />
+  </stk>
+  <stk id="1_1_2" name="H&amp;ouml;henmessachse auf RTVN sp." materialnr="318086" pos="2" description="&amp;nbsp;" ET="9" Quantity="1" Unit="">
+    <map x="233" y="241" w="28" h="20">
+      <ref pos="3">1.1.2.1</ref>
+    </map>
+    <map x="233" y="214" w="28" h="20">
+      <ref pos="5">1.1.2.2</ref>
+    </map>
+    <map x="370" y="283" w="28" h="20">
+      <ref pos="6">1.1.2.3</ref>
+    </map>
+    <map x="252" y="83" w="28" h="20">
+      <ref pos="7">1.1.2.4</ref>
+    </map>
+    <map x="242" y="59" w="38" h="20">
+      <ref pos="14">1.1.2.5</ref>
+      <ref pos="15">1.1.2.6</ref>
+    </map>
+    <map x="369" y="258" w="28" h="20">
+      <ref pos="22">1.1.2.7</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1" name="STG.M;250W;111U/MIN;50/60HZ;BREM;GEBE" materialnr="302669" pos="3" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="89" y="26" w="68" h="46">
+      <ref pos="10">1.1.2.1.1</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_1_1" name="IMPULSGEBER ITD 21-A4-Y2" materialnr="246200" pos="10" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_2_2" name="BALLIGZAHNKUPPLUNG M-38,Dm42H7 o. Nut" materialnr="170785" pos="5" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_3" name="Konus-Spannelement 20X42" materialnr="013940" pos="6" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+  <stk id="1_1_2_4" name="LINEARMODUL 40/80-3-150-2RS-2700H" materialnr="209195" pos="7" description="&amp;nbsp;" ET="8" Quantity="1" Unit="">
+    <map x="479" y="100" w="27" h="25">
+      <ref pos="10">1.1.2.4.1</ref>
+    </map>
+    <map x="131" y="357" w="27" h="25">
+      <ref pos="20">1.1.2.4.2</ref>
+    </map>
+  </stk>
+  <stk id="1_1_2_4_1" name="UMLENKSET F ECO-ACHSE HIAS 40/80" materialnr="248984" pos="10" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_2_4_2" name="ANTR.SET F ECO-ACHSE HIAS 40/80-2xS" materialnr="248985" pos="20" description="&amp;nbsp;" ET="0" Quantity="1" Unit="" />
+  <stk id="1_1_2_5" name="ENERGIEKETTE,T=32,H=25,KR=37,B=24" materialnr="006572" pos="14" description="&amp;nbsp;" ET="8" Quantity="60" Unit="" />
+  <stk id="1_1_2_6" name="ANSCHLUSSWINKEL F.KETTE 0320,M.BOHR." materialnr="006573" pos="15" description="&amp;nbsp;" ET="8" Quantity="1" Unit="" />
+  <stk id="1_1_2_7" name="GUMMIPUFFER,AD20,ID4.5,H10,SCHWARZ" materialnr="007624" pos="22" description="&amp;nbsp;" ET="8" Quantity="2" Unit="" />
+</catalog>
